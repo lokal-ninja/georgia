@@ -1,0 +1,4 @@
+---
+title: "Adel Outfitters"
+url: /adel/adel-outfitters/
+---
