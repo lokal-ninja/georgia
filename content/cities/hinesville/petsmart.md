@@ -1,4 +1,4 @@
 ---
-title: "PETSMART"
+title: "PetSmart"
 url: /hinesville/petsmart/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eastanollee
 url: /eastanollee/
-latitude: 34.520378
-longitude: -83.2554372
+latitude: 34.520267700000005
+longitude: -83.25549360000001
 ---

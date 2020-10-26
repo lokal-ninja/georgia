@@ -1,12 +1,12 @@
-id: 330986440
-type: way
-shop: department store
-latitude: 30.880861900000003
-longitude: -83.28846460000001
-postcode: "31602"
+id: 7821500503
+type: node
+shop: supermarket
+latitude: 30.8260894
+longitude: -83.319641
+postcode: "31601"
 city: Valdosta
-street: "Inner Perimeter Road"
-housenumber: 3275
-phone: "+1-229-253-0312"
+street: "Norman Drive"
+housenumber: 340
+phone: "+1-229-249-8400"
 opening_hours: "24/7"
-website: "https://www.walmart.com/store/2615/valdosta-ga/whats-new"
+website: "https://www.walmart.com/store/899/valdosta-ga/whats-new"

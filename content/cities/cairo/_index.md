@@ -1,6 +1,6 @@
 ---
 title: Cairo
 url: /cairo/
-latitude: 30.877413200000003
-longitude: -84.2012897
+latitude: 30.8774063
+longitude: -84.2013936
 ---
