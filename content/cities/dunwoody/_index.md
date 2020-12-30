@@ -1,6 +1,6 @@
 ---
 title: Dunwoody
 url: /dunwoody/
-latitude: 33.9483649
-longitude: -84.334963
+latitude: 33.9463786
+longitude: -84.3342686
 ---
