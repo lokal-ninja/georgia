@@ -1,6 +1,6 @@
 ---
-title: kathleen
+title: Kathleen
 url: /kathleen/
-latitude: 
-longitude: 
+latitude: 32.495294
+longitude: -83.6099696
 ---

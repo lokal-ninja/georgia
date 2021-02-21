@@ -1,6 +1,5 @@
 id: 7581004333
 type: node
-shop: supermarket
 latitude: 34.350155
 longitude: -84.05341390000001
 postcode: "30534"
@@ -8,5 +7,5 @@ city: Dawsonville
 street: "Marketplace Parkway"
 housenumber: 378
 phone: ""
-opening_hours: "Mo-Su 5:00am - 12:00am"
+opening_hours: "Mo-Su 05:00-24:00"
 website: ""

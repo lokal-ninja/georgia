@@ -1,6 +1,5 @@
 id: 5605218821
 type: node
-shop: office supplies
 latitude: 34.236878000000004
 longitude: -84.4590481
 postcode: "30115"
@@ -9,4 +8,4 @@ street: "Cumming Highway"
 housenumber: 1810
 phone: "+1-770-720-0786"
 opening_hours: "Mo-Fr 8:00-21:00, Sa 10:00-20:00, Su 12:00-17:00"
-website: "https://www.officedepot.com/storelocator/ga/canton/officemax-6769/?cm_mmc=GMB-_-6769-_-Website-_-NS"
+website: "https://www.officedepot.com/storelocator/ga/canton/officemax-6769/"
