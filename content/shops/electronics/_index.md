@@ -1,5 +1,5 @@
 ---
 title: electronics
 url: /electronics/
-icon: other
+icon: electronics
 ---
