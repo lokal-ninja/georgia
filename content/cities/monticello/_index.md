@@ -1,6 +1,6 @@
 ---
 title: Monticello
 url: /monticello/
-latitude: 32.6299032
-longitude: -83.71486420000001
+latitude: 33.304465400000005
+longitude: -83.68409600000001
 ---
