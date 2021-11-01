@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /smyrna/target/
-shop: general
+shop: department store
 ---

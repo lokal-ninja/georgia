@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /smyrna/bealls-outlet/
-shop: clothes
+shop: department store
 ---
