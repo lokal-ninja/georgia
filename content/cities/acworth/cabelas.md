@@ -1,0 +1,5 @@
+---
+title: "Cabela's"
+url: /acworth/cabelas/
+shop: Outdoor
+---
