@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dacula/autozone/
-shop: Autoteile
+shop: car parts
 ---

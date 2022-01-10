@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /monroe/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

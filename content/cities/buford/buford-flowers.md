@@ -1,5 +1,5 @@
 ---
 title: "Buford Flowers"
 url: /buford/buford-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "James Gunn"
 url: /savannah/james-gunn/
-shop: Kleidung
+shop: clothes
 ---

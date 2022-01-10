@@ -1,5 +1,5 @@
 ---
 title: "Chlores Auto Repair"
 url: /woodstock/chlores-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

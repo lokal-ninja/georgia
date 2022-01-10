@@ -1,5 +1,5 @@
 ---
 title: "Sunsations"
 url: /jasper/sunsations/
-shop: Kosmetik
+shop: beauty
 ---

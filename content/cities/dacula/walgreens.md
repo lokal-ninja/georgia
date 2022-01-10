@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dacula/walgreens/
-shop: Drogerie
+shop: chemist
 ---

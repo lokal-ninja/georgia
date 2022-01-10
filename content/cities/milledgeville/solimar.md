@@ -1,5 +1,5 @@
 ---
 title: "Solimar"
 url: /milledgeville/solimar/
-shop: Massage
+shop: massage
 ---

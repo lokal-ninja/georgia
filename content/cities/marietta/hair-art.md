@@ -1,5 +1,5 @@
 ---
 title: "Hair Art"
 url: /marietta/hair-art/
-shop: Friseur
+shop: hairdresser
 ---

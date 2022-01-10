@@ -1,5 +1,5 @@
 ---
 title: "Winsel's Boats"
 url: /valdosta/winsels-boats/
-shop: Boot
+shop: boat
 ---

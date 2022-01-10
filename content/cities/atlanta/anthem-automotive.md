@@ -1,5 +1,5 @@
 ---
 title: "Anthem Automotive"
 url: /atlanta/anthem-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

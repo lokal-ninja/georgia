@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /marietta/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

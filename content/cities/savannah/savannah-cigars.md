@@ -1,5 +1,5 @@
 ---
 title: "Savannah Cigars"
 url: /savannah/savannah-cigars/
-shop: Tabak
+shop: tobacco
 ---

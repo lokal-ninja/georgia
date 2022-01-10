@@ -1,5 +1,5 @@
 ---
 title: "Aquisittions"
 url: /atlanta/aquisittions/
-shop: Möbel
+shop: furniture
 ---

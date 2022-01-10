@@ -1,5 +1,5 @@
 ---
 title: "Unique Ink"
 url: /marietta/unique-ink/
-shop: Tattoo
+shop: tattoo
 ---

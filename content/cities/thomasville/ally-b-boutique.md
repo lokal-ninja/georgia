@@ -1,5 +1,5 @@
 ---
 title: "Ally B Boutique"
 url: /thomasville/ally-b-boutique/
-shop: Kleidung
+shop: clothes
 ---

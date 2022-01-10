@@ -1,5 +1,5 @@
 ---
 title: "Mall of Georgia Ford"
 url: /buford/mall-of-georgia-ford/
-shop: Autohaus
+shop: car
 ---

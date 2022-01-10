@@ -1,5 +1,5 @@
 ---
 title: "Hightower's Memorial Chapel"
 url: /douglasville/hightowers-memorial-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

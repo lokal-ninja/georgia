@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /warner-robins/walgreens/
-shop: Drogerie
+shop: chemist
 ---

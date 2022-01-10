@@ -1,5 +1,5 @@
 ---
 title: "Going Gear"
 url: /smyrna/going-gear/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buc-ee's"
 url: /calhoun/buc-ees/
-shop: Lebensmittel
+shop: convenience
 ---

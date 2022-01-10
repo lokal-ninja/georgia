@@ -1,5 +1,5 @@
 ---
 title: "Kid to Kid"
 url: /buford/kid-to-kid/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ray's Liquor Store"
 url: /smyrna/rays-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

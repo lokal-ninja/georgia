@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /valdosta/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

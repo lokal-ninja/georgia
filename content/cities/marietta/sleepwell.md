@@ -1,5 +1,5 @@
 ---
 title: "SleepWell"
 url: /marietta/sleepwell/
-shop: Sanitätshaus
+shop: medical supply
 ---

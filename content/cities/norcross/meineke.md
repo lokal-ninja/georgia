@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /norcross/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

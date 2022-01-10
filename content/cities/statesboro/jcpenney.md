@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /statesboro/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

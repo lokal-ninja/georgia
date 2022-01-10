@@ -1,5 +1,5 @@
 ---
 title: "VanMichael's"
 url: /atlanta/vanmichaels/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep USA Mattress"
 url: /jasper/sleep-usa-mattress/
-shop: Betten
+shop: bed
 ---

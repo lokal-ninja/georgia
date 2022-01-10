@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /acworth/autozone/
-shop: Autoteile
+shop: car parts
 ---

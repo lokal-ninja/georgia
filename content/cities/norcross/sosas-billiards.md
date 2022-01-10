@@ -1,5 +1,5 @@
 ---
 title: "Sosa's Billiards"
 url: /norcross/sosas-billiards/
-shop: Sport
+shop: sports
 ---

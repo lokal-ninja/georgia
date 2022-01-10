@@ -1,5 +1,5 @@
 ---
 title: "Taxi Doggy"
 url: /marietta/taxi-doggy/
-shop: Tiersalon
+shop: pet grooming
 ---

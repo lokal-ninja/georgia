@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /jefferson/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

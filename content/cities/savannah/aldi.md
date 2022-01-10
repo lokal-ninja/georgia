@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /savannah/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

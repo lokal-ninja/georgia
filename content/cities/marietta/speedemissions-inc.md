@@ -1,5 +1,5 @@
 ---
 title: "Speedemissions, Inc."
 url: /marietta/speedemissions-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

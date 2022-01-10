@@ -1,5 +1,5 @@
 ---
 title: "Kevin's"
 url: /thomasville/kevins/
-shop: Andenken
+shop: gift
 ---

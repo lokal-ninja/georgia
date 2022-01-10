@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /evans/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

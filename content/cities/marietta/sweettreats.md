@@ -1,5 +1,5 @@
 ---
 title: "SweetTreats"
 url: /marietta/sweettreats/
-shop: Eisprodukte
+shop: ice cream
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabela's"
 url: /augusta/cabelas/
-shop: Outdoor
+shop: outdoor
 ---

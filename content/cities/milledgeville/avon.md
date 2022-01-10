@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /milledgeville/avon/
-shop: Kosmetik
+shop: beauty
 ---

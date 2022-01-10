@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /cumming/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

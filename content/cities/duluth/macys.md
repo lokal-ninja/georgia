@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /duluth/macys/
-shop: Warenhaus
+shop: department store
 ---

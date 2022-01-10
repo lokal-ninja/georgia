@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /buford/costco/
-shop: Großhandel
+shop: wholesale
 ---

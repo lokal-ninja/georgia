@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /roswell/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

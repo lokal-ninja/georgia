@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /sugar-hill/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

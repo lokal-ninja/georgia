@@ -1,5 +1,5 @@
 ---
 title: "Savannah tire"
 url: /savannah/savannah-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

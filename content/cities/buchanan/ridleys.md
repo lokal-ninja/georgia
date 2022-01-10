@@ -1,5 +1,5 @@
 ---
 title: "Ridley's"
 url: /buchanan/ridleys/
-shop: Mieten
+shop: storage rental
 ---

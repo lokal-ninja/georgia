@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /brunswick/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

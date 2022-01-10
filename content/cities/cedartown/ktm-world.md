@@ -1,5 +1,5 @@
 ---
 title: "KTM World"
 url: /cedartown/ktm-world/
-shop: Motorrad
+shop: motorcycle
 ---

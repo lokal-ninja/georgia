@@ -1,5 +1,5 @@
 ---
 title: "Fireworks Supermarket"
 url: /lawrenceville/fireworks-supermarket/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

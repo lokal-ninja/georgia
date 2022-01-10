@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /peachtree-corners/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

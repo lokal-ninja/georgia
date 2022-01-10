@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /alpharetta/xfinity/
-shop: Handy
+shop: mobile phone
 ---

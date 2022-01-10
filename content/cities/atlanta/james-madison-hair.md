@@ -1,5 +1,5 @@
 ---
 title: "James Madison Hair"
 url: /atlanta/james-madison-hair/
-shop: Kosmetik
+shop: beauty
 ---

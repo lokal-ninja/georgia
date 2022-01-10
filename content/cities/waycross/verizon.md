@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /waycross/verizon/
-shop: Handy
+shop: mobile phone
 ---

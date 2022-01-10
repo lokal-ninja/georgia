@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /dahlonega/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

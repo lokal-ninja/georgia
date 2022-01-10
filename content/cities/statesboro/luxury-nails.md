@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nails"
 url: /statesboro/luxury-nails/
-shop: Kosmetik
+shop: beauty
 ---

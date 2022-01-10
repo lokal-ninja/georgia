@@ -1,5 +1,5 @@
 ---
 title: "Park Plaza Food Mart"
 url: /ellijay/park-plaza-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

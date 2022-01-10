@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /austell/metropcs/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunhams's Sports"
 url: /statesboro/dunhamss-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suska"
 url: /athens/suska/
-shop: Kleidung
+shop: clothes
 ---

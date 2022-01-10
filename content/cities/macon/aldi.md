@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /macon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

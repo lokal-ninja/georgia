@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /donalsonville/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

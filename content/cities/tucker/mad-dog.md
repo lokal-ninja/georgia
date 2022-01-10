@@ -1,5 +1,5 @@
 ---
 title: "mad dog"
 url: /tucker/mad-dog/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nick's Barber Studio"
 url: /atlanta/nicks-barber-studio/
-shop: Friseur
+shop: hairdresser
 ---

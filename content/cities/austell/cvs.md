@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /austell/cvs/
-shop: Lebensmittel
+shop: convenience
 ---

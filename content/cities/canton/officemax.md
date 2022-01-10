@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /canton/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

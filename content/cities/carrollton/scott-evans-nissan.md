@@ -1,5 +1,5 @@
 ---
 title: "Scott Evans Nissan"
 url: /carrollton/scott-evans-nissan/
-shop: Autohaus
+shop: car
 ---

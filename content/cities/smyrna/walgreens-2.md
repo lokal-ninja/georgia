@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /smyrna/walgreens-2/
-shop: Lebensmittel
+shop: convenience
 ---

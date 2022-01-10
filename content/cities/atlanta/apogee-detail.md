@@ -1,5 +1,5 @@
 ---
 title: "Apogee Detail"
 url: /atlanta/apogee-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

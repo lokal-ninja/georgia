@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ringgold/autozone/
-shop: Autoteile
+shop: car parts
 ---

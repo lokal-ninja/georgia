@@ -1,5 +1,5 @@
 ---
 title: "GA Firing Line"
 url: /marietta/ga-firing-line/
-shop: Waffen
+shop: weapons
 ---

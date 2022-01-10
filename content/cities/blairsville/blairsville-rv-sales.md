@@ -1,5 +1,5 @@
 ---
 title: "Blairsville RV Sales"
 url: /blairsville/blairsville-rv-sales/
-shop: Wohnwagen
+shop: caravan
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dahlonega/walgreens/
-shop: Drogerie
+shop: chemist
 ---

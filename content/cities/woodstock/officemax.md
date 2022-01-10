@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /woodstock/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Love Nails"
 url: /marietta/love-nails/
-shop: Kosmetik
+shop: beauty
 ---

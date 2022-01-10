@@ -1,5 +1,5 @@
 ---
 title: "SunStop"
 url: /cairo/sunstop/
-shop: Supermarkt
+shop: supermarket
 ---

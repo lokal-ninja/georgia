@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /alpharetta/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

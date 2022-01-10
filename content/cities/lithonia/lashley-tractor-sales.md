@@ -1,5 +1,5 @@
 ---
 title: "Lashley Tractor Sales"
 url: /lithonia/lashley-tractor-sales/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

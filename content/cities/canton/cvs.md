@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /canton/cvs/
-shop: Lebensmittel
+shop: convenience
 ---

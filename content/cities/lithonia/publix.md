@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lithonia/publix/
-shop: Supermarkt
+shop: supermarket
 ---

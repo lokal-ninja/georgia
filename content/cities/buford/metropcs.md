@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /buford/metropcs/
-shop: Handy
+shop: mobile phone
 ---

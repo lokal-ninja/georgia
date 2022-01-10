@@ -1,5 +1,5 @@
 ---
 title: "LollyGaggers"
 url: /chula/lollygaggers/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Vision Center"
 url: /macon/walmart-vision-center/
-shop: Optiker
+shop: optician
 ---

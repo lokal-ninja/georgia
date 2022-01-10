@@ -1,5 +1,5 @@
 ---
 title: "Havoline xpress lube"
 url: /marietta/havoline-xpress-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

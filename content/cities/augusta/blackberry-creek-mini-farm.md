@@ -1,5 +1,5 @@
 ---
 title: "Blackberry Creek Mini Farm"
 url: /augusta/blackberry-creek-mini-farm/
-shop: Hofladen
+shop: farm
 ---

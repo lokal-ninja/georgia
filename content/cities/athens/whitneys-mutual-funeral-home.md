@@ -1,5 +1,5 @@
 ---
 title: "Whitney's Mutual Funeral Home"
 url: /athens/whitneys-mutual-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---
