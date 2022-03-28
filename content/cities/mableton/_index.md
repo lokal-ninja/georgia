@@ -1,6 +1,6 @@
 ---
 title: Mableton
 url: /mableton/
-latitude: 33.806
-longitude: -84.528
+latitude: 33.847
+longitude: -84.586
 ---
