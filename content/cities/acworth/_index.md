@@ -1,6 +1,6 @@
 ---
 title: Acworth
 url: /acworth/
-latitude: 34.064
-longitude: -84.726
+latitude: 33.997
+longitude: -84.708
 ---
