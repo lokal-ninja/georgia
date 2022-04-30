@@ -1,6 +1,6 @@
 ---
 title: Cumming
 url: /cumming/
-latitude: 34.151
-longitude: -84.172
+latitude: 34.157
+longitude: -84.109
 ---
