@@ -1,6 +1,6 @@
 ---
 title: Fitzgerald
 url: /fitzgerald/
-latitude: 31.69
-longitude: -83.249
+latitude: 31.71
+longitude: -83.253
 ---
