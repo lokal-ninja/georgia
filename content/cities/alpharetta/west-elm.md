@@ -1,5 +1,5 @@
 ---
-title: "West Elm"
+title: "west elm"
 url: /alpharetta/west-elm/
-shop: houseware
+shop: furniture
 ---
