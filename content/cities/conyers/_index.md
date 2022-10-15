@@ -1,6 +1,6 @@
 ---
 title: Conyers
 url: /conyers/
-latitude: 33.64
-longitude: -84.019
+latitude: 33.714
+longitude: -83.929
 ---

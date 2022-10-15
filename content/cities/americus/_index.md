@@ -1,6 +1,6 @@
 ---
 title: Americus
 url: /americus/
-latitude: 32.061
-longitude: -84.202
+latitude: 31.983
+longitude: -84.298
 ---
