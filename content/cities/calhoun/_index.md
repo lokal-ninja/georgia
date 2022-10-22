@@ -1,6 +1,6 @@
 ---
 title: Calhoun
 url: /calhoun/
-latitude: 34.479
-longitude: -84.946
+latitude: 34.516
+longitude: -84.947
 ---
