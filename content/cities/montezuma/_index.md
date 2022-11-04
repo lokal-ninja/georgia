@@ -1,6 +1,6 @@
 ---
 title: Montezuma
 url: /montezuma/
-latitude: 32.295
-longitude: -84.018
+latitude: 32.294
+longitude: -84.02
 ---
