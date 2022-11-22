@@ -1,6 +1,6 @@
 ---
 title: Folkston
 url: /folkston/
-latitude: 30.83
-longitude: -82.007
+latitude: 30.825
+longitude: -82.003
 ---

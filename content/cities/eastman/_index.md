@@ -1,6 +1,6 @@
 ---
 title: Eastman
 url: /eastman/
-latitude: 32.179
-longitude: -83.178
+latitude: 32.195
+longitude: -83.176
 ---

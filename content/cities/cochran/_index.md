@@ -1,6 +1,6 @@
 ---
 title: Cochran
 url: /cochran/
-latitude: 32.4
-longitude: -83.337
+latitude: 32.391
+longitude: -83.35
 ---

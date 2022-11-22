@@ -1,6 +1,6 @@
 ---
 title: Chamblee
 url: /chamblee/
-latitude: 33.897
-longitude: -84.304
+latitude: 33.884
+longitude: -84.246
 ---

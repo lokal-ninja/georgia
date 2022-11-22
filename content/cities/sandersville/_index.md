@@ -1,6 +1,6 @@
 ---
 title: Sandersville
 url: /sandersville/
-latitude: 32.952
-longitude: -82.813
+latitude: 32.967
+longitude: -82.809
 ---
