@@ -1,6 +1,6 @@
 ---
 title: Gordon
 url: /gordon/
-latitude: 32.883
-longitude: -83.333
+latitude: 32.861
+longitude: -83.347
 ---

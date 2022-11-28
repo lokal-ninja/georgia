@@ -1,6 +1,6 @@
 ---
 title: Warner Robins
 url: /warner-robins/
-latitude: 32.59
-longitude: -83.612
+latitude: 32.66
+longitude: -83.618
 ---
