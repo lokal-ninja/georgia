@@ -1,6 +1,6 @@
 ---
 title: St. Simons
 url: /st-simons/
-latitude: 31.155
-longitude: -81.385
+latitude: 31.153
+longitude: -81.384
 ---
