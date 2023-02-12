@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /hinesville/advance-auto-parts-2/
+url: /hinesville/advance-auto-parts/
 shop: car parts
 ---

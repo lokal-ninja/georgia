@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /columbus/advance-auto-parts-5/
+url: /columbus/advance-auto-parts/
 shop: car parts
 ---

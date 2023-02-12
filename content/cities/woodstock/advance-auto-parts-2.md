@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /woodstock/advance-auto-parts-2/
+url: /woodstock/advance-auto-parts/
 shop: car parts
 ---

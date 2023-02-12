@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /warner-robins/advance-auto-parts-3/
+url: /warner-robins/advance-auto-parts/
 shop: car parts
 ---

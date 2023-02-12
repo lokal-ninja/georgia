@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /lagrange/advance-auto-parts-2/
+url: /lagrange/advance-auto-parts/
 shop: car parts
 ---
