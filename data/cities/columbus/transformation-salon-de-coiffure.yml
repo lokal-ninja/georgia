@@ -7,5 +7,5 @@ city: columbus
 street: "Macon Road"
 housenumber: 3604
 phone: "1-706-992-5051"
-opening_hours: "Tuesday and Wednesday 9am - 5pm"
+opening_hours: "Tu,We 09:00-17:00"
 website: ""

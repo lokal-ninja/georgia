@@ -1,6 +1,6 @@
 ---
 title: Athens
 url: /athens/
-latitude: 33.938
-longitude: -83.387
+latitude: 33.959
+longitude: -83.374
 ---
