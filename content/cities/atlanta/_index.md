@@ -1,6 +1,6 @@
 ---
 title: Atlanta
 url: /atlanta/
-latitude: 33.765
-longitude: -84.334
+latitude: 33.78
+longitude: -84.368
 ---
