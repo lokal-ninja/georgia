@@ -1,6 +1,6 @@
 ---
 title: Fairmount
 url: /fairmount/
-latitude: 34.447
-longitude: -84.703
+latitude: 34.434
+longitude: -84.7
 ---
