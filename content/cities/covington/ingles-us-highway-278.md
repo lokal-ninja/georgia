@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
-url: /covington/ingles/
+url: /covington/ingles-us-highway-278/
 shop: supermarket
 ---

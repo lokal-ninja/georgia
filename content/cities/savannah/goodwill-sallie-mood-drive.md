@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /savannah/goodwill/
+url: /savannah/goodwill-sallie-mood-drive/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
-url: /atlanta/titlemax/
+url: /atlanta/titlemax-metropolitan-parkway-southwest/
 shop: pawnbroker
 ---

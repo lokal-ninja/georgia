@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /acworth/publix/
+url: /acworth/publix-cedarcrest-road-northwest/
 shop: supermarket
 ---

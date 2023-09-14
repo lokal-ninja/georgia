@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /atlanta/quiktrip/
+url: /atlanta/quiktrip-dunwoody-place/
 shop: convenience
 ---

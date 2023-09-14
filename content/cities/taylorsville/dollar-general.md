@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /appling/dollar-general/
+url: /taylorsville/dollar-general/
 shop: variety store
 ---

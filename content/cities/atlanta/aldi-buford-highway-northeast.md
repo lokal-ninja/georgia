@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /atlanta/aldi/
+url: /atlanta/aldi-buford-highway-northeast/
 shop: supermarket
 ---

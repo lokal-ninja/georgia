@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /buford/shell/
+url: /buford/shell-buford-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /athens/chevron/
+url: /athens/chevron-atlanta-highway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /buford/walmart-supercenter/
+url: /buford/walmart-supercenter-buford-mill-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /atlanta/quiktrip/
+url: /atlanta/quiktrip-fulton-industrial-boulevard-southwest/
 shop: convenience
 ---

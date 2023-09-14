@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /marietta/publix/
+url: /marietta/publix-delk-road-southeast/
 shop: supermarket
 ---

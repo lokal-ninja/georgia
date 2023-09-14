@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /atlanta/racetrac/
+url: /atlanta/racetrac-virginia-avenue/
 shop: convenience
 ---

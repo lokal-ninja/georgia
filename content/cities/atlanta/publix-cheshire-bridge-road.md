@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /atlanta/publix/
+url: /atlanta/publix-cheshire-bridge-road/
 shop: supermarket
 ---

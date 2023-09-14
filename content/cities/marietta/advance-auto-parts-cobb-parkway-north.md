@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /marietta/advance-auto-parts/
+url: /marietta/advance-auto-parts-cobb-parkway-north/
 shop: car parts
 ---

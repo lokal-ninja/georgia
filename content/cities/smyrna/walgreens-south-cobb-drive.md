@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /smyrna/walgreens/
+url: /smyrna/walgreens-south-cobb-drive/
 shop: convenience
 ---

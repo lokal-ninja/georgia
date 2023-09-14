@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /buford/kroger/
+url: /buford/kroger-hamilton-mill-road/
 shop: supermarket
 ---

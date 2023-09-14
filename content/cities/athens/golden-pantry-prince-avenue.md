@@ -1,5 +1,5 @@
 ---
 title: "Golden Pantry"
-url: /athens/golden-pantry/
+url: /athens/golden-pantry-prince-avenue/
 shop: convenience
 ---

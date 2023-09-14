@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /cumming/publix/
+url: /cumming/publix-keith-bridge-road/
 shop: supermarket
 ---

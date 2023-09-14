@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /decatur/aldi/
+url: /decatur/aldi-decatur-village-way/
 shop: supermarket
 ---

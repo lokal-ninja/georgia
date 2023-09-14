@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /alpharetta/verizon/
+url: /alpharetta/verizon-north-point-parkway/
 shop: mobile phone
 ---

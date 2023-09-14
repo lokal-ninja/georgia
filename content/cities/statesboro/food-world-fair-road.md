@@ -1,5 +1,5 @@
 ---
 title: "Food World"
-url: /statesboro/food-world/
+url: /statesboro/food-world-fair-road/
 shop: supermarket
 ---

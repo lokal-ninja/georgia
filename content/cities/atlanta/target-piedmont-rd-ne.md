@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /atlanta/target/
+url: /atlanta/target-piedmont-rd-ne/
 shop: department store
 ---

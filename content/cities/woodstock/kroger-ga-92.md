@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /woodstock/kroger/
+url: /woodstock/kroger-ga-92/
 shop: supermarket
 ---

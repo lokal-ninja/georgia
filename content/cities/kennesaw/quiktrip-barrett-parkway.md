@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /kennesaw/quiktrip/
+url: /kennesaw/quiktrip-barrett-parkway/
 shop: convenience
 ---

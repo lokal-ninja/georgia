@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /roswell/shell/
+url: /roswell/shell-alpharetta-highway/
 shop: convenience
 ---

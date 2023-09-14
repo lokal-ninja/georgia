@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /smyrna/racetrac/
+url: /smyrna/racetrac-east-west-connector/
 shop: convenience
 ---

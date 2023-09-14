@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /snellville/walmart-supercenter/
+url: /snellville/walmart-supercenter-scenic-highway-north/
 shop: supermarket
 ---

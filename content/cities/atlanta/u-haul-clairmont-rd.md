@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /atlanta/u-haul/
+url: /atlanta/u-haul-clairmont-rd/
 shop: storage rental
 ---

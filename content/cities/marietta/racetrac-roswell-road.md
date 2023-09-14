@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /marietta/racetrac/
+url: /marietta/racetrac-roswell-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /savannah/kroger/
+url: /savannah/kroger-east-gwinnett-street/
 shop: supermarket
 ---

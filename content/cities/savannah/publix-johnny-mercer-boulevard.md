@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /savannah/publix/
+url: /savannah/publix-johnny-mercer-boulevard/
 shop: supermarket
 ---

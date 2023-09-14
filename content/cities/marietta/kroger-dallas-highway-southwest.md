@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /marietta/kroger/
+url: /marietta/kroger-dallas-highway-southwest/
 shop: supermarket
 ---

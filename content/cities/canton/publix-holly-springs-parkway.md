@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /canton/publix/
+url: /canton/publix-holly-springs-parkway/
 shop: supermarket
 ---

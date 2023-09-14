@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /marietta/target/
+url: /marietta/target-johnson-ferry-road-northeast/
 shop: department store
 ---

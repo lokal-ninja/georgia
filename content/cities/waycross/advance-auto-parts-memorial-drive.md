@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /waycross/advance-auto-parts/
+url: /waycross/advance-auto-parts-memorial-drive/
 shop: car parts
 ---

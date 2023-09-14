@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /marietta/chevron/
+url: /marietta/chevron-franklin-gateway-southeast/
 shop: convenience
 ---

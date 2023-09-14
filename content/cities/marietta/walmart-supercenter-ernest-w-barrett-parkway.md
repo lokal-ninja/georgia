@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /marietta/walmart-supercenter/
+url: /marietta/walmart-supercenter-ernest-w-barrett-parkway/
 shop: supermarket
 ---

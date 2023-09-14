@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /marietta/firestone/
+url: /marietta/firestone-roswell-road/
 shop: car repair
 ---
