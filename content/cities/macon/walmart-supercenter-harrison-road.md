@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /macon/walmart-supercenter-gray-highway/
+url: /macon/walmart-supercenter-harrison-road/
 shop: supermarket
 ---
