@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /appling/dollar-general-washington-road/
+url: /cobbtown/dollar-general/
 shop: variety store
 ---
