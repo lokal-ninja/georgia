@@ -1,6 +1,6 @@
 ---
 title: Ellenton
 url: /ellenton/
-latitude: 31.174
-longitude: -83.584
+latitude: 31.18
+longitude: -83.595
 ---

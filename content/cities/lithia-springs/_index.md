@@ -1,6 +1,6 @@
 ---
 title: Lithia Springs
 url: /lithia-springs/
-latitude: 33.793
-longitude: -84.673
+latitude: 33.796
+longitude: -84.646
 ---
