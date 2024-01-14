@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /marietta/autozone-roswell-road/
+url: /marietta/autozone-canton-road/
 shop: car parts
 ---

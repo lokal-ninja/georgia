@@ -1,6 +1,6 @@
 ---
 title: Rockmart
 url: /rockmart/
-latitude: 33.997
-longitude: -85.044
+latitude: 34.003
+longitude: -85.042
 ---
