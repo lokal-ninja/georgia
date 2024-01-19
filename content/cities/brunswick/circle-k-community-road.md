@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /ringgold/circle-k-alabama-highway/
+url: /brunswick/circle-k-community-road/
 shop: convenience
 ---
