@@ -1,6 +1,6 @@
 ---
 title: Riverdale
 url: /riverdale/
-latitude: 33.562
-longitude: -84.41
+latitude: 33.557
+longitude: -84.414
 ---
