@@ -1,6 +1,6 @@
 ---
 title: Kennesaw
 url: /kennesaw/
-latitude: 34.023
-longitude: -84.624
+latitude: 34.055
+longitude: -84.554
 ---

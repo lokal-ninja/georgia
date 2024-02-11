@@ -1,6 +1,6 @@
 ---
 title: Thomaston
 url: /thomaston/
-latitude: 32.913
-longitude: -84.335
+latitude: 32.891
+longitude: -84.327
 ---

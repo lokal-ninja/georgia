@@ -1,6 +1,6 @@
 ---
 title: Perry
 url: /perry/
-latitude: 32.471
-longitude: -83.742
+latitude: 32.467
+longitude: -83.741
 ---

@@ -1,6 +1,6 @@
 ---
 title: McDonough
 url: /mcdonough/
-latitude: 33.402
-longitude: -84.174
+latitude: 33.437
+longitude: -84.121
 ---

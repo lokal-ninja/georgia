@@ -1,6 +1,6 @@
 ---
 title: Douglasville
 url: /douglasville/
-latitude: 33.728
-longitude: -84.735
+latitude: 33.819
+longitude: -84.812
 ---

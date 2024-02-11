@@ -2,5 +2,5 @@
 title: Duluth
 url: /duluth/
 latitude: 34.013
-longitude: -84.188
+longitude: -84.183
 ---

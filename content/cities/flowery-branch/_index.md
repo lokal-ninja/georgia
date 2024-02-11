@@ -1,6 +1,6 @@
 ---
 title: Flowery Branch
 url: /flowery-branch/
-latitude: 34.196
-longitude: -83.86
+latitude: 34.176
+longitude: -83.912
 ---

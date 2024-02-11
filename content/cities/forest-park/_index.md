@@ -1,6 +1,6 @@
 ---
 title: Forest Park
 url: /forest-park/
-latitude: 33.63
-longitude: -84.385
+latitude: 33.624
+longitude: -84.355
 ---
