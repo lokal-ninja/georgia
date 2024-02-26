@@ -1,5 +1,5 @@
 ---
-title: "Fin Alley"
+title: "Fin-Alley"
 url: /athens/fin-alley/
 shop: pet
 ---
