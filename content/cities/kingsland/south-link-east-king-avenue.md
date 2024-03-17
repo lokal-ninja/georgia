@@ -1,5 +1,5 @@
 ---
 title: "South Link"
-url: /kingsland/south-link-haddock-road/
+url: /kingsland/south-link-east-king-avenue/
 shop: convenience
 ---
