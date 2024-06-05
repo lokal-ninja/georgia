@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /brunswick/dollar-general-norwich-street/
+url: /woodbine/dollar-general-georgia-avenue/
 shop: variety store
 ---
