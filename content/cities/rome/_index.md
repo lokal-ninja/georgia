@@ -1,6 +1,6 @@
 ---
 title: Rome
 url: /rome/
-latitude: 34.223
-longitude: -85.152
+latitude: 34.255
+longitude: -85.172
 ---
