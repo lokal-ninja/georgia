@@ -1,6 +1,6 @@
 ---
 title: Snellville
 url: /snellville/
-latitude: 33.858
-longitude: -84.017
+latitude: 33.875
+longitude: -84.016
 ---
