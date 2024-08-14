@@ -1,6 +1,6 @@
 ---
 title: Lilburn
 url: /lilburn/
-latitude: 33.828
-longitude: -84.099
+latitude: 33.84
+longitude: -84.131
 ---

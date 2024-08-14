@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
-url: /brunswick/winn-dixie-venture-drive/
+url: /brunswick/winn-dixie-glynn-avenue/
 shop: supermarket
 ---

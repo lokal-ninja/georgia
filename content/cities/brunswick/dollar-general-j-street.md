@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /brunswick/dollar-general-perry-lane-road/
+url: /brunswick/dollar-general-j-street/
 shop: variety store
 ---
