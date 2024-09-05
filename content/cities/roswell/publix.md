@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /roswell/publix/
-shop: supermarket
+shop: Supermarkt
 ---

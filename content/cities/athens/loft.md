@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /athens/loft/
-shop: clothes
+shop: Kleidung
 ---

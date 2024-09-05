@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /jackson/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kennesaw Pawn"
 url: /kennesaw/kennesaw-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

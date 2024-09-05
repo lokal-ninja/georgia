@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /snellville/best-buy/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /athens/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

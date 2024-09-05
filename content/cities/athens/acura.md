@@ -1,5 +1,5 @@
 ---
 title: "Acura"
 url: /athens/acura/
-shop: car
+shop: Autohaus
 ---

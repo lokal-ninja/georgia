@@ -1,5 +1,5 @@
 ---
 title: "Hello Mart"
 url: /rossville/hello-mart/
-shop: convenience
+shop: Lebensmittel
 ---

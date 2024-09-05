@@ -1,5 +1,5 @@
 ---
 title: "Doughnut Dollies"
 url: /marietta/doughnut-dollies/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doma"
 url: /athens/doma/
-shop: antiques
+shop: Antiquitäten
 ---

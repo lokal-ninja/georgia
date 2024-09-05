@@ -1,5 +1,5 @@
 ---
 title: "Deer Creek Gun Shop"
 url: /kennesaw/deer-creek-gun-shop/
-shop: shop
+shop: Allgemein
 ---

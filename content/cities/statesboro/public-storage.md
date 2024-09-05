@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /statesboro/public-storage/
-shop: storage rental
+shop: Mieten
 ---

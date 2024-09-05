@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /atlanta/publix-peachtree-road-northeast/
-shop: supermarket
+shop: Supermarkt
 ---

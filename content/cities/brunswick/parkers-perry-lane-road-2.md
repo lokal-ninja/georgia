@@ -1,5 +1,5 @@
 ---
 title: "Parker's"
 url: /brunswick/parkers-perry-lane-road-2/
-shop: convenience
+shop: Lebensmittel
 ---

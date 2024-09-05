@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /rome/michaels/
-shop: craft
+shop: Basteln
 ---

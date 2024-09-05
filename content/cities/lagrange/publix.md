@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lagrange/publix/
-shop: supermarket
+shop: Supermarkt
 ---

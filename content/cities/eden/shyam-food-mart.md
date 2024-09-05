@@ -1,5 +1,5 @@
 ---
 title: "Shyam Food Mart"
 url: /eden/shyam-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

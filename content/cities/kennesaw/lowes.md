@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /kennesaw/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

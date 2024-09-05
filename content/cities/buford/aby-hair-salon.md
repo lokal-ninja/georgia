@@ -1,5 +1,5 @@
 ---
 title: "ABY Hair Salon"
 url: /buford/aby-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

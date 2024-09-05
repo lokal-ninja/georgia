@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /dublin/harbor-freight-tools/
-shop: hardware
+shop: Eisenwaren
 ---

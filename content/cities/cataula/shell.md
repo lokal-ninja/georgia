@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cataula/shell/
-shop: convenience
+shop: Lebensmittel
 ---

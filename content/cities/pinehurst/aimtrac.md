@@ -1,5 +1,5 @@
 ---
 title: "Aimtrac"
 url: /pinehurst/aimtrac/
-shop: shop
+shop: Allgemein
 ---

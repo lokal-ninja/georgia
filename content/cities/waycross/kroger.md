@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /waycross/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

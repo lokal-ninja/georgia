@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /alpharetta/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

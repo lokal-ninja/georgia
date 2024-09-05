@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /alpharetta/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /brunswick/diamond-nails/
-shop: beauty
+shop: Kosmetik
 ---

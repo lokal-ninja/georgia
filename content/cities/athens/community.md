@@ -1,5 +1,5 @@
 ---
 title: "Community"
 url: /athens/community/
-shop: clothes
+shop: Kleidung
 ---

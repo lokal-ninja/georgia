@@ -1,5 +1,5 @@
 ---
 title: "Shabazz Seafood Restaurant"
 url: /savannah/shabazz-seafood-restaurant/
-shop: seafood
+shop: Fisch
 ---

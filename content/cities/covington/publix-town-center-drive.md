@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /covington/publix-town-center-drive/
-shop: supermarket
+shop: Supermarkt
 ---

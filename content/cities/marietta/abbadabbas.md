@@ -1,5 +1,5 @@
 ---
 title: "abbadabba's"
 url: /marietta/abbadabbas/
-shop: shoes
+shop: Schuhe
 ---

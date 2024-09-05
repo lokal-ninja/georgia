@@ -1,5 +1,5 @@
 ---
 title: "Planters Exchange"
 url: /saint-simons-island/planters-exchange/
-shop: clothes
+shop: Kleidung
 ---

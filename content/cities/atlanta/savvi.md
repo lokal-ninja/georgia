@@ -1,5 +1,5 @@
 ---
 title: "savvi"
 url: /atlanta/savvi/
-shop: clothes
+shop: Kleidung
 ---

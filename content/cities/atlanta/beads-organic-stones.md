@@ -1,5 +1,5 @@
 ---
 title: "BEADS Organic Stones"
 url: /atlanta/beads-organic-stones/
-shop: shop
+shop: Allgemein
 ---

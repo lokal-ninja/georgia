@@ -1,5 +1,5 @@
 ---
 title: "Linda's Seafood"
 url: /savannah/lindas-seafood/
-shop: seafood
+shop: Fisch
 ---

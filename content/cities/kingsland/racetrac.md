@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /kingsland/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

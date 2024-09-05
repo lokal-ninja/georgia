@@ -1,5 +1,5 @@
 ---
 title: "Majik Market"
 url: /kennesaw/majik-market/
-shop: convenience
+shop: Lebensmittel
 ---

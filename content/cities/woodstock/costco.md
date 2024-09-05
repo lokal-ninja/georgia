@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /woodstock/costco/
-shop: wholesale
+shop: Großhandel
 ---

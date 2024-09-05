@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /winder/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /conyers/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

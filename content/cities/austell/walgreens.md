@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /austell/walgreens/
-shop: chemist
+shop: Drogerie
 ---

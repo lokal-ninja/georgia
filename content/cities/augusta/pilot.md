@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /augusta/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

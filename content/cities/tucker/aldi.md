@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /tucker/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

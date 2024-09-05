@@ -1,5 +1,5 @@
 ---
 title: "Northern Tool+Equipment"
 url: /savannah/northern-tool-equipment/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

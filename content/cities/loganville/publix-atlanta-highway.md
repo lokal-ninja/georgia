@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /loganville/publix-atlanta-highway/
-shop: supermarket
+shop: Supermarkt
 ---

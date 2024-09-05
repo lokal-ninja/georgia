@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /marietta/rainbow/
-shop: clothes
+shop: Kleidung
 ---

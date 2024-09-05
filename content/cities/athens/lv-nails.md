@@ -1,5 +1,5 @@
 ---
 title: "LV Nails"
 url: /athens/lv-nails/
-shop: beauty
+shop: Kosmetik
 ---

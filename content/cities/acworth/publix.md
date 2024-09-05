@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /acworth/publix/
-shop: supermarket
+shop: Supermarkt
 ---

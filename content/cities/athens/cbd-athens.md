@@ -1,5 +1,5 @@
 ---
 title: "CBD+ Athens"
 url: /athens/cbd-athens/
-shop: cannabis
+shop: Hanf
 ---

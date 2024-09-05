@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /valdosta/michaels/
-shop: craft
+shop: Basteln
 ---

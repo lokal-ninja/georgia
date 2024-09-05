@@ -1,5 +1,5 @@
 ---
 title: "Parkway RV Center"
 url: /ringgold/parkway-rv-center/
-shop: caravan
+shop: Wohnwagen
 ---

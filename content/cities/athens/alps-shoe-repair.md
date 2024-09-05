@@ -1,5 +1,5 @@
 ---
 title: "Alps Shoe Repair"
 url: /athens/alps-shoe-repair/
-shop: shoes
+shop: Schuhe
 ---

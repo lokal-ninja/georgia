@@ -1,5 +1,5 @@
 ---
 title: "fab'rik"
 url: /athens/fabrik/
-shop: clothes
+shop: Kleidung
 ---

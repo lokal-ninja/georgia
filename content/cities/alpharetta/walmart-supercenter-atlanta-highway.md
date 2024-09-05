@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /alpharetta/walmart-supercenter-atlanta-highway/
-shop: supermarket
+shop: Supermarkt
 ---

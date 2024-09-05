@@ -1,5 +1,5 @@
 ---
 title: "Shannon Food Mart"
 url: /union-city/shannon-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

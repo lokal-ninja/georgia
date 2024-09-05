@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /midland/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

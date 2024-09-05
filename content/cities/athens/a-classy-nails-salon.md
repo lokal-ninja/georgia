@@ -1,5 +1,5 @@
 ---
 title: "A Classy Nails Salon"
 url: /athens/a-classy-nails-salon/
-shop: beauty
+shop: Kosmetik
 ---

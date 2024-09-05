@@ -1,5 +1,5 @@
 ---
 title: "JWR Jewelers"
 url: /athens/jwr-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

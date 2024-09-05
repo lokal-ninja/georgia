@@ -1,5 +1,5 @@
 ---
 title: "dekalash"
 url: /atlanta/dekalash/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nail Art"
 url: /fort-oglethorpe/nail-art/
-shop: beauty
+shop: Kosmetik
 ---

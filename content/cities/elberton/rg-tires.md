@@ -1,5 +1,5 @@
 ---
 title: "RG Tires"
 url: /elberton/rg-tires/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleet"
 url: /buchanan/fleet/
-shop: convenience
+shop: Lebensmittel
 ---

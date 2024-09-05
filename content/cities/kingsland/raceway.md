@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /kingsland/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

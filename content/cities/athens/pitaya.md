@@ -1,5 +1,5 @@
 ---
 title: "Pitaya"
 url: /athens/pitaya/
-shop: clothes
+shop: Kleidung
 ---

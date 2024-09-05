@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tyrone/publix/
-shop: supermarket
+shop: Supermarkt
 ---

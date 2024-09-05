@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /pooler/columbia/
-shop: clothes
+shop: Kleidung
 ---

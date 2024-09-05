@@ -1,5 +1,5 @@
 ---
 title: "SParker"
 url: /statesboro/sparker/
-shop: convenience
+shop: Lebensmittel
 ---

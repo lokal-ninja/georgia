@@ -1,5 +1,5 @@
 ---
 title: "Nagel's Bagels"
 url: /cartersville/nagels-bagels/
-shop: bakery
+shop: Bäckerei
 ---

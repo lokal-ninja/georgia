@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /albany/publix/
-shop: supermarket
+shop: Supermarkt
 ---

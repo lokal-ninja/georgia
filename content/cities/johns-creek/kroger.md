@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /johns-creek/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

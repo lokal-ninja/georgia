@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /byron/publix/
-shop: supermarket
+shop: Supermarkt
 ---

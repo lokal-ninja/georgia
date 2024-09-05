@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /athens/chicos/
-shop: clothes
+shop: Kleidung
 ---

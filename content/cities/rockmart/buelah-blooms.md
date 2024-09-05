@@ -1,5 +1,5 @@
 ---
 title: "Buelah Blooms"
 url: /rockmart/buelah-blooms/
-shop: garden centre
+shop: Garten-Center
 ---

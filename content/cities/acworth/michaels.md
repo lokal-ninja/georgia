@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /acworth/michaels/
-shop: craft
+shop: Basteln
 ---

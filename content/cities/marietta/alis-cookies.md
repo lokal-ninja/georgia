@@ -1,5 +1,5 @@
 ---
 title: "Ali's Cookies"
 url: /marietta/alis-cookies/
-shop: bakery
+shop: Bäckerei
 ---

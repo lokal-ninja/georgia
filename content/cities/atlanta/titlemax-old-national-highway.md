@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /atlanta/titlemax-old-national-highway/
-shop: pawnbroker
+shop: Leiher
 ---

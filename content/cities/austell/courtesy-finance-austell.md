@@ -1,5 +1,5 @@
 ---
 title: "Courtesy Finance Austell"
 url: /austell/courtesy-finance-austell/
-shop: pawnbroker
+shop: Leiher
 ---

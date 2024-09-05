@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /austell/petsmart/
-shop: pet
+shop: Tiere
 ---

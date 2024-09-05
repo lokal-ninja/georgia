@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /roswell/valero/
-shop: convenience
+shop: Lebensmittel
 ---

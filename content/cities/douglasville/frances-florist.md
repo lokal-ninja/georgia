@@ -1,5 +1,5 @@
 ---
 title: "Frances Florist"
 url: /douglasville/frances-florist/
-shop: florist
+shop: Blumen
 ---

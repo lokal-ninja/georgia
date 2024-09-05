@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cairo/walgreens/
-shop: chemist
+shop: Drogerie
 ---

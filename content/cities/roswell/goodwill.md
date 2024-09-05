@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /roswell/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

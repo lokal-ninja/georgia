@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /norcross/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

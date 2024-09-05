@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /kingsland/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

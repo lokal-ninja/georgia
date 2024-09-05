@@ -1,5 +1,5 @@
 ---
 title: "Bookmiser"
 url: /marietta/bookmiser/
-shop: books
+shop: Bücher
 ---

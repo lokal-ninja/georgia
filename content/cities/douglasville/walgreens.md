@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /douglasville/walgreens/
-shop: convenience
+shop: Lebensmittel
 ---

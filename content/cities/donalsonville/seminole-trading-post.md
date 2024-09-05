@@ -1,5 +1,5 @@
 ---
 title: "Seminole Trading Post"
 url: /donalsonville/seminole-trading-post/
-shop: pawnbroker
+shop: Leiher
 ---

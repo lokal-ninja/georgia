@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /tifton/cvs-pharmacy-east-8th-street/
-shop: chemist
+shop: Drogerie
 ---

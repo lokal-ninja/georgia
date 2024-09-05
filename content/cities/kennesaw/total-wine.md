@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /kennesaw/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

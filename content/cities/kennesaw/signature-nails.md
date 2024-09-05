@@ -1,5 +1,5 @@
 ---
 title: "Signature Nails"
 url: /kennesaw/signature-nails/
-shop: beauty
+shop: Kosmetik
 ---

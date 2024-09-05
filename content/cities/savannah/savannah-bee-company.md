@@ -1,5 +1,5 @@
 ---
 title: "Savannah Bee Company"
 url: /savannah/savannah-bee-company/
-shop: deli
+shop: Feinkost
 ---

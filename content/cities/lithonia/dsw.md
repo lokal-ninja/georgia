@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /lithonia/dsw/
-shop: shoes
+shop: Schuhe
 ---

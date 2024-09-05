@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /athens/publix/
-shop: supermarket
+shop: Supermarkt
 ---

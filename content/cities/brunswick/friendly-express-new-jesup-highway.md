@@ -1,5 +1,5 @@
 ---
 title: "Friendly Express"
 url: /brunswick/friendly-express-new-jesup-highway/
-shop: convenience
+shop: Lebensmittel
 ---

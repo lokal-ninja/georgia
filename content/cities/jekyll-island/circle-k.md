@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /jekyll-island/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /alpharetta/rei/
-shop: outdoor
+shop: Outdoor
 ---

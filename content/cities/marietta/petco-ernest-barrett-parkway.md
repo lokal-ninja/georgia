@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /marietta/petco-ernest-barrett-parkway/
-shop: pet
+shop: Tiere
 ---

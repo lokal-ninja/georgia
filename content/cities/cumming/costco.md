@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /cumming/costco/
-shop: wholesale
+shop: Großhandel
 ---

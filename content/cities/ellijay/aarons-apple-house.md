@@ -1,5 +1,5 @@
 ---
 title: "Aaron's Apple House"
 url: /ellijay/aarons-apple-house/
-shop: farm
+shop: Hofladen
 ---

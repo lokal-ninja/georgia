@@ -1,5 +1,5 @@
 ---
 title: "Patrick's"
 url: /covington/patricks/
-shop: garden centre
+shop: Garten-Center
 ---

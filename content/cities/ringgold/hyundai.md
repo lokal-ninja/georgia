@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /ringgold/hyundai/
-shop: car
+shop: Autohaus
 ---

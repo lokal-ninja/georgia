@@ -1,5 +1,5 @@
 ---
 title: "The Green Hen"
 url: /ball-ground/the-green-hen/
-shop: antiques
+shop: Antiquitäten
 ---

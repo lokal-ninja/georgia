@@ -1,5 +1,5 @@
 ---
 title: "Vapped"
 url: /athens/vapped/
-shop: tobacco
+shop: Tabak
 ---

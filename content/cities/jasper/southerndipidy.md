@@ -1,5 +1,5 @@
 ---
 title: "Southerndipidy"
 url: /jasper/southerndipidy/
-shop: antiques
+shop: Antiquitäten
 ---

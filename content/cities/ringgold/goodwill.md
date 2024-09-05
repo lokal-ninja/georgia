@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /ringgold/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

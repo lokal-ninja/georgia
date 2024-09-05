@@ -1,5 +1,5 @@
 ---
 title: "Sensational Baskets"
 url: /alpharetta/sensational-baskets/
-shop: gift
+shop: Andenken
 ---

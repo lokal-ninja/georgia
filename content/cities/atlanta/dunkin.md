@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /atlanta/dunkin/
-shop: bakery
+shop: Bäckerei
 ---

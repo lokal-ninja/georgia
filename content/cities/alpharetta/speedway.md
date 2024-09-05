@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /alpharetta/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /decatur/publix/
-shop: supermarket
+shop: Supermarkt
 ---

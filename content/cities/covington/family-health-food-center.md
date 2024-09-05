@@ -1,5 +1,5 @@
 ---
 title: "Family Health Food Center"
 url: /covington/family-health-food-center/
-shop: health food
+shop: Bioladen
 ---

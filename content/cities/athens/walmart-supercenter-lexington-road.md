@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /athens/walmart-supercenter-lexington-road/
-shop: supermarket
+shop: Supermarkt
 ---

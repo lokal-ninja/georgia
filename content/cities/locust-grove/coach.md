@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /locust-grove/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

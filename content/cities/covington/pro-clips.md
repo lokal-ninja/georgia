@@ -1,5 +1,5 @@
 ---
 title: "Pro-Clips"
 url: /covington/pro-clips/
-shop: hairdresser
+shop: Friseur
 ---

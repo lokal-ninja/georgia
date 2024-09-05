@@ -1,5 +1,5 @@
 ---
 title: "JP"
 url: /forsyth/jp/
-shop: convenience
+shop: Lebensmittel
 ---

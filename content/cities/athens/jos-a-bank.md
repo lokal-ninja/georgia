@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /athens/jos-a-bank/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tucker/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

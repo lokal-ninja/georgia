@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /port-wentworth/publix/
-shop: supermarket
+shop: Supermarkt
 ---

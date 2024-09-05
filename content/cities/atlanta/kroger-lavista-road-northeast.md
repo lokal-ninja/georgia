@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /atlanta/kroger-lavista-road-northeast/
-shop: supermarket
+shop: Supermarkt
 ---

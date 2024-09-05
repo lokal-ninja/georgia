@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /acworth/ross/
-shop: department store
+shop: Warenhaus
 ---

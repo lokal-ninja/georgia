@@ -1,5 +1,5 @@
 ---
 title: "Margo"
 url: /athens/margo/
-shop: jewelry
+shop: Schmuck
 ---

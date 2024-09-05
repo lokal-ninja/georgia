@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brunswick/target/
-shop: department store
+shop: Warenhaus
 ---

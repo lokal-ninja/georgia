@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /saint-marys/dollar-general-sand-bar-drive/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dacula/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

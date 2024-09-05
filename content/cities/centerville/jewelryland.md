@@ -1,5 +1,5 @@
 ---
 title: "JewelryLand"
 url: /centerville/jewelryland/
-shop: jewelry
+shop: Schmuck
 ---

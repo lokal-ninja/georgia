@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /tucker/dsw/
-shop: shoes
+shop: Schuhe
 ---

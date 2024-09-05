@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /griffin/petsmart/
-shop: pet
+shop: Tiere
 ---

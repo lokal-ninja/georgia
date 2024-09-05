@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /savannah/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

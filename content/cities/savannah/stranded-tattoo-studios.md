@@ -1,5 +1,5 @@
 ---
 title: "Stranded Tattoo Studios"
 url: /savannah/stranded-tattoo-studios/
-shop: tattoo
+shop: Tattoo
 ---

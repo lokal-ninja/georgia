@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /statesboro/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

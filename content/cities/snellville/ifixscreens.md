@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /snellville/ifixscreens/
-shop: mobile phone
+shop: Handy
 ---

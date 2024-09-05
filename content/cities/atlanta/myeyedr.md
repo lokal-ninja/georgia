@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /atlanta/myeyedr/
-shop: optician
+shop: Optiker
 ---

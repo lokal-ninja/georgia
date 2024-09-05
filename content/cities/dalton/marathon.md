@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /dalton/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

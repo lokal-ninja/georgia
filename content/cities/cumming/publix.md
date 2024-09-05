@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /cumming/publix/
-shop: supermarket
+shop: Supermarkt
 ---

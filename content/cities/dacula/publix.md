@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /dacula/publix/
-shop: supermarket
+shop: Supermarkt
 ---

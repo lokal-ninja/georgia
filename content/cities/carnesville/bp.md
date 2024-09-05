@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /carnesville/bp/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Classic Shoes + Repair"
 url: /smyrna/classic-shoes-repair/
-shop: shoes
+shop: Schuhe
 ---

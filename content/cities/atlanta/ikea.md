@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /atlanta/ikea/
-shop: furniture
+shop: Möbel
 ---

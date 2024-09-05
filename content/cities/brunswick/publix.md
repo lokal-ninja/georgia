@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /brunswick/publix/
-shop: supermarket
+shop: Supermarkt
 ---

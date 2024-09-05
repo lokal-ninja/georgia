@@ -1,5 +1,5 @@
 ---
 title: "Sarah Liz Boutique"
 url: /marietta/sarah-liz-boutique/
-shop: clothes
+shop: Kleidung
 ---

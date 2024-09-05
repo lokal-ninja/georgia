@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /marietta/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

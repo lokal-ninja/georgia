@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /statesboro/cato/
-shop: clothes
+shop: Kleidung
 ---

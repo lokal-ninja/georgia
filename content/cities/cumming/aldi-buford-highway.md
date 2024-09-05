@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cumming/aldi-buford-highway/
-shop: supermarket
+shop: Supermarkt
 ---

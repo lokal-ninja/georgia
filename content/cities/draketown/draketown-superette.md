@@ -1,5 +1,5 @@
 ---
 title: "Draketown Superette"
 url: /draketown/draketown-superette/
-shop: convenience
+shop: Lebensmittel
 ---

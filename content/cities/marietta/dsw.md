@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /marietta/dsw/
-shop: shoes
+shop: Schuhe
 ---

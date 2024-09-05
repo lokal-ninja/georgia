@@ -1,5 +1,5 @@
 ---
 title: "Tweeds"
 url: /atlanta/tweeds/
-shop: clothes
+shop: Kleidung
 ---

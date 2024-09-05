@@ -1,5 +1,5 @@
 ---
 title: "Squares Food Mart"
 url: /kennesaw/squares-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

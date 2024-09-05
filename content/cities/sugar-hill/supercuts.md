@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /sugar-hill/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

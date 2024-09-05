@@ -1,5 +1,5 @@
 ---
 title: "AmeriPRESS"
 url: /marietta/ameripress/
-shop: copyshop
+shop: Kopieren
 ---

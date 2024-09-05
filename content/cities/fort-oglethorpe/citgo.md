@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /fort-oglethorpe/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

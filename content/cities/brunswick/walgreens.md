@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /brunswick/walgreens/
-shop: chemist
+shop: Drogerie
 ---

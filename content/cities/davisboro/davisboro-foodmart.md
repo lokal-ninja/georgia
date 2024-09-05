@@ -1,5 +1,5 @@
 ---
 title: "Davisboro Foodmart"
 url: /davisboro/davisboro-foodmart/
-shop: convenience
+shop: Lebensmittel
 ---

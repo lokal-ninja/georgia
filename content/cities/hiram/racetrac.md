@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /hiram/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /cumming/lendmark/
-shop: pawnbroker
+shop: Leiher
 ---

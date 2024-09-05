@@ -1,5 +1,5 @@
 ---
 title: "Yizclusive"
 url: /atlanta/yizclusive/
-shop: hairdresser
+shop: Friseur
 ---

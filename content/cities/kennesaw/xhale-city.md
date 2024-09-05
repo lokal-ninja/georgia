@@ -1,5 +1,5 @@
 ---
 title: "Xhale City"
 url: /kennesaw/xhale-city/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

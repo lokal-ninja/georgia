@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails"
 url: /athens/pro-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /brunswick/old-navy/
-shop: clothes
+shop: Kleidung
 ---

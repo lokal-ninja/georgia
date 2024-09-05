@@ -1,5 +1,5 @@
 ---
 title: "Paper Princess"
 url: /dalton/paper-princess/
-shop: gift
+shop: Andenken
 ---

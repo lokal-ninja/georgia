@@ -1,5 +1,5 @@
 ---
 title: "Kroger Marketplace"
 url: /rincon/kroger-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

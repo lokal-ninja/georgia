@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cumming/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

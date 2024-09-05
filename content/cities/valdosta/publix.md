@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /valdosta/publix/
-shop: supermarket
+shop: Supermarkt
 ---

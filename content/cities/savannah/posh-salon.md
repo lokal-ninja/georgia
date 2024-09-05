@@ -1,5 +1,5 @@
 ---
 title: "Posh Salon"
 url: /savannah/posh-salon/
-shop: beauty
+shop: Kosmetik
 ---

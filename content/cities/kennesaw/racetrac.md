@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /kennesaw/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

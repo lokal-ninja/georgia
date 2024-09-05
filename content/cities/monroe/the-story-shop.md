@@ -1,5 +1,5 @@
 ---
 title: "The Story Shop"
 url: /monroe/the-story-shop/
-shop: books
+shop: Bücher
 ---

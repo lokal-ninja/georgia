@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /lawrenceville/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

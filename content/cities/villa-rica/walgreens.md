@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /villa-rica/walgreens/
-shop: convenience
+shop: Lebensmittel
 ---

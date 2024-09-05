@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /sylvester/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

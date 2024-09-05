@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /locust-grove/zales/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amerimart"
 url: /brunswick/amerimart/
-shop: convenience
+shop: Lebensmittel
 ---

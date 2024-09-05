@@ -1,5 +1,5 @@
 ---
 title: "Car Doctors"
 url: /athens/car-doctors/
-shop: car repair
+shop: Autowerkstatt
 ---

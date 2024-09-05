@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /locust-grove/zumiez/
-shop: clothes
+shop: Kleidung
 ---

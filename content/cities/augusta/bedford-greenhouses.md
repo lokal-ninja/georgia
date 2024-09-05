@@ -1,5 +1,5 @@
 ---
 title: "Bedford Greenhouses"
 url: /augusta/bedford-greenhouses/
-shop: garden centre
+shop: Garten-Center
 ---

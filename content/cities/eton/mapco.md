@@ -1,5 +1,5 @@
 ---
 title: "Mapco"
 url: /eton/mapco/
-shop: convenience
+shop: Lebensmittel
 ---

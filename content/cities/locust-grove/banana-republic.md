@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /locust-grove/banana-republic/
-shop: clothes
+shop: Kleidung
 ---

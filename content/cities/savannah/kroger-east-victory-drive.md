@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /savannah/kroger-east-victory-drive/
-shop: supermarket
+shop: Supermarkt
 ---

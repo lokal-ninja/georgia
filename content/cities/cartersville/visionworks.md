@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /cartersville/visionworks/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leigh Ann Barnes"
 url: /athens/leigh-ann-barnes/
-shop: clothes
+shop: Kleidung
 ---

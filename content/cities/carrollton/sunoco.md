@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /carrollton/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

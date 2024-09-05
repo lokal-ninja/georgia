@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /milledgeville/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /brunswick/racetrac-canal-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodstock"
 url: /kennesaw/woodstock/
-shop: bed
+shop: Betten
 ---

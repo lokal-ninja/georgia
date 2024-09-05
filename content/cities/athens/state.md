@@ -1,5 +1,5 @@
 ---
 title: "State"
 url: /athens/state/
-shop: clothes
+shop: Kleidung
 ---

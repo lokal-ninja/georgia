@@ -1,5 +1,5 @@
 ---
 title: "Bottle Time Liquor"
 url: /brunswick/bottle-time-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

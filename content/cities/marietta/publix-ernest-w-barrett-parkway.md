@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /marietta/publix-ernest-w-barrett-parkway/
-shop: supermarket
+shop: Supermarkt
 ---

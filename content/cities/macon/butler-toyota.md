@@ -1,5 +1,5 @@
 ---
 title: "Butler Toyota"
 url: /macon/butler-toyota/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fort-oglethorpe/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /locust-grove/express/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palmer's Welding Supply"
 url: /loganville/palmers-welding-supply/
-shop: trade
+shop: Baustoffe
 ---

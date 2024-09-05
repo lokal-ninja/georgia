@@ -1,5 +1,5 @@
 ---
 title: "Health and Nutrition Center"
 url: /lavonia/health-and-nutrition-center/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

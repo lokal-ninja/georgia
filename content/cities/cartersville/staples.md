@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cartersville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

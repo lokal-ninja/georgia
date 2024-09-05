@@ -1,5 +1,5 @@
 ---
 title: "Horns Speed and Paint"
 url: /macon/horns-speed-and-paint/
-shop: car parts
+shop: Autoteile
 ---

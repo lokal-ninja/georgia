@@ -1,5 +1,5 @@
 ---
 title: "Kempt"
 url: /athens/kempt/
-shop: clothes
+shop: Kleidung
 ---

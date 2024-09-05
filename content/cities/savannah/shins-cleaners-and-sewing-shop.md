@@ -1,5 +1,5 @@
 ---
 title: "Shins Cleaners and Sewing Shop"
 url: /savannah/shins-cleaners-and-sewing-shop/
-shop: laundry
+shop: Wäscherei
 ---

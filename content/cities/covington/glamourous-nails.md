@@ -1,5 +1,5 @@
 ---
 title: "Glamourous Nails"
 url: /covington/glamourous-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /cumming/lenscrafters/
-shop: optician
+shop: Optiker
 ---

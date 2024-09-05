@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /bonaire/publix/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /marietta/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

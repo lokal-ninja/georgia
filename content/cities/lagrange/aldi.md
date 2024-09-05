@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lagrange/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

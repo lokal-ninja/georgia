@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /athens/hyundai/
-shop: car
+shop: Autohaus
 ---

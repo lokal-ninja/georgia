@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pooler/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

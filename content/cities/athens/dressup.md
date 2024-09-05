@@ -1,5 +1,5 @@
 ---
 title: "DressUp"
 url: /athens/dressup/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PMJ Food Mart"
 url: /thomasville/pmj-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

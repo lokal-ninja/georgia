@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /marietta/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

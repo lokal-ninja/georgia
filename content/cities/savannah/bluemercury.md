@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /savannah/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

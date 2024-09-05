@@ -1,5 +1,5 @@
 ---
 title: "Relish"
 url: /thomasville/relish/
-shop: gift
+shop: Andenken
 ---

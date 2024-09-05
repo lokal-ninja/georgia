@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /cartersville/loves/
-shop: convenience
+shop: Lebensmittel
 ---

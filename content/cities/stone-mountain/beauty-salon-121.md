@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon 121"
 url: /stone-mountain/beauty-salon-121/
-shop: beauty
+shop: Kosmetik
 ---

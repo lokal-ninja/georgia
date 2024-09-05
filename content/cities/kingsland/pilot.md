@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /kingsland/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

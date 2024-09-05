@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /milton/shell/
-shop: convenience
+shop: Lebensmittel
 ---

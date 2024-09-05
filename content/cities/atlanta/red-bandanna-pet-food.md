@@ -1,5 +1,5 @@
 ---
 title: "Red Bandanna Pet Food"
 url: /atlanta/red-bandanna-pet-food/
-shop: pet
+shop: Tiere
 ---

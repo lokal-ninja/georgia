@@ -1,5 +1,5 @@
 ---
 title: "Vining's Nails"
 url: /atlanta/vinings-nails/
-shop: beauty
+shop: Kosmetik
 ---

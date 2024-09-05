@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /hiram/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

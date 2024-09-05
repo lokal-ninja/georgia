@@ -1,5 +1,5 @@
 ---
 title: "Gregg Irby Gallery"
 url: /atlanta/gregg-irby-gallery/
-shop: art
+shop: Kunst
 ---

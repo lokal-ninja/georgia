@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /warner-robins/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

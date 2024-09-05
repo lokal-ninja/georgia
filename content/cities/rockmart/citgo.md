@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /rockmart/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

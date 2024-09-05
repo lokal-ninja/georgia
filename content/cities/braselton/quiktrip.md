@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /braselton/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

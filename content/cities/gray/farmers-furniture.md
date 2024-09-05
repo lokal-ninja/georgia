@@ -1,5 +1,5 @@
 ---
 title: "Farmers Furniture"
 url: /gray/farmers-furniture/
-shop: furniture
+shop: Möbel
 ---

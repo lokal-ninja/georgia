@@ -1,5 +1,5 @@
 ---
 title: "Dillon Supply"
 url: /augusta/dillon-supply/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jeff Smith Ford"
 url: /byron/jeff-smith-ford/
-shop: car
+shop: Autohaus
 ---

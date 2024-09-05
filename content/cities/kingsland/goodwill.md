@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /kingsland/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /macon/kroger-forsyth-road/
-shop: supermarket
+shop: Supermarkt
 ---

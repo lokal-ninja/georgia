@@ -1,5 +1,5 @@
 ---
 title: "Turnip Greens"
 url: /darien/turnip-greens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

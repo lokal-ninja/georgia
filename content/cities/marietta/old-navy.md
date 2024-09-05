@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /marietta/old-navy/
-shop: clothes
+shop: Kleidung
 ---

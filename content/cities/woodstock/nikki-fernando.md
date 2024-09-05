@@ -1,5 +1,5 @@
 ---
 title: "Nikki Fernando"
 url: /woodstock/nikki-fernando/
-shop: hairdresser
+shop: Friseur
 ---

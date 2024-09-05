@@ -1,5 +1,5 @@
 ---
 title: "Nalley Ford"
 url: /atlanta/nalley-ford/
-shop: car
+shop: Autohaus
 ---

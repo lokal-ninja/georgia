@@ -1,5 +1,5 @@
 ---
 title: "Peachtree Food Mart"
 url: /atlanta/peachtree-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---
