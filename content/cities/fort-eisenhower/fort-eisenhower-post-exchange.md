@@ -1,5 +1,5 @@
 ---
 title: "Fort Eisenhower Post Exchange"
 url: /fort-eisenhower/fort-eisenhower-post-exchange/
-shop: Warenhaus
+shop: department store
 ---

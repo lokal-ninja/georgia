@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /augusta/peterbilt/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dent Scene"
 url: /covington/dent-scene/
-shop: Autowerkstatt
+shop: car repair
 ---

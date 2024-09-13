@@ -1,5 +1,5 @@
 ---
 title: "Enmarket"
 url: /cobbtown/enmarket/
-shop: Lebensmittel
+shop: convenience
 ---

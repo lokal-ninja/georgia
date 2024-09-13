@@ -1,5 +1,5 @@
 ---
 title: "Spend Thrift"
 url: /covington/spend-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

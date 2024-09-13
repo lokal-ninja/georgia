@@ -1,5 +1,5 @@
 ---
 title: "Metro Self Storage"
 url: /austell/metro-self-storage/
-shop: Mieten
+shop: storage rental
 ---

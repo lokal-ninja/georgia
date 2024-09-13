@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /forest-park/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

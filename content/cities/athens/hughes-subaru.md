@@ -1,5 +1,5 @@
 ---
 title: "Hughes Subaru"
 url: /athens/hughes-subaru/
-shop: Autohaus
+shop: car
 ---

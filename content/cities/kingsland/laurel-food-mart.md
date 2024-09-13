@@ -1,5 +1,5 @@
 ---
 title: "Laurel Food Mart"
 url: /kingsland/laurel-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

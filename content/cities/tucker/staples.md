@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tucker/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

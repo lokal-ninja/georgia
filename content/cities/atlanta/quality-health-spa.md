@@ -1,5 +1,5 @@
 ---
 title: "Quality Health Spa"
 url: /atlanta/quality-health-spa/
-shop: Massage
+shop: massage
 ---

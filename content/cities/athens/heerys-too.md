@@ -1,5 +1,5 @@
 ---
 title: "Heery's Too!"
 url: /athens/heerys-too/
-shop: Allgemein
+shop: shop
 ---

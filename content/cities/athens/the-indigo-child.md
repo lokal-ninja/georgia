@@ -1,5 +1,5 @@
 ---
 title: "The Indigo Child"
 url: /athens/the-indigo-child/
-shop: Raumausstattung
+shop: interior decoration
 ---

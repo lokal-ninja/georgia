@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lilburn/publix/
-shop: Supermarkt
+shop: supermarket
 ---

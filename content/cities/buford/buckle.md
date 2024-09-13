@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /buford/buckle/
-shop: Kleidung
+shop: clothes
 ---

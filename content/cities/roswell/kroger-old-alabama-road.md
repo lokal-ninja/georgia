@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /roswell/kroger-old-alabama-road/
-shop: Supermarkt
+shop: supermarket
 ---

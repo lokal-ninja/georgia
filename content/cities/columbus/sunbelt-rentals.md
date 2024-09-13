@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /columbus/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

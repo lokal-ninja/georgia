@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /roswell/shell-holcomb-bridge-road/
-shop: Lebensmittel
+shop: convenience
 ---

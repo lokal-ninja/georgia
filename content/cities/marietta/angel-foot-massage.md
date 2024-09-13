@@ -1,5 +1,5 @@
 ---
 title: "Angel Foot Massage"
 url: /marietta/angel-foot-massage/
-shop: Massage
+shop: massage
 ---

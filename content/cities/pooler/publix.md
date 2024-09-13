@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /pooler/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tucker/publix/
-shop: Supermarkt
+shop: supermarket
 ---

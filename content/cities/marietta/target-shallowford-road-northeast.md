@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /marietta/target-shallowford-road-northeast/
-shop: Warenhaus
+shop: department store
 ---

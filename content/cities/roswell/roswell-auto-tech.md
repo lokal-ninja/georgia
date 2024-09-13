@@ -1,5 +1,5 @@
 ---
 title: "Roswell Auto Tech"
 url: /roswell/roswell-auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

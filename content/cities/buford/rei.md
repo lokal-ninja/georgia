@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /buford/rei/
-shop: Outdoor
+shop: outdoor
 ---

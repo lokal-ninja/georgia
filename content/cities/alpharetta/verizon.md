@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /alpharetta/verizon/
-shop: Handy
+shop: mobile phone
 ---

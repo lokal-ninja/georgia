@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /flowery-branch/kroger-spout-springs-road/
-shop: Supermarkt
+shop: supermarket
 ---

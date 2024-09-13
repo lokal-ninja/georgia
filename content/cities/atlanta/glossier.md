@@ -1,5 +1,5 @@
 ---
 title: "Glossier"
 url: /atlanta/glossier/
-shop: Kosmetik
+shop: beauty
 ---

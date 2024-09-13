@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /stone-mountain/ross/
-shop: Warenhaus
+shop: department store
 ---

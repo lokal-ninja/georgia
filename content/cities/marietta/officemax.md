@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /marietta/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

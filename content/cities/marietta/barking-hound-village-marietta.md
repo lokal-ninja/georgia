@@ -1,5 +1,5 @@
 ---
 title: "Barking Hound Village Marietta"
 url: /marietta/barking-hound-village-marietta/
-shop: Tiersalon
+shop: pet grooming
 ---

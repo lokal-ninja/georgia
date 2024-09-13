@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cordele/verizon/
-shop: Handy
+shop: mobile phone
 ---

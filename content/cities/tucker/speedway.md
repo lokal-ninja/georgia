@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tucker/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

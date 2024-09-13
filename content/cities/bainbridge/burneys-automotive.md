@@ -1,5 +1,5 @@
 ---
 title: "Burneys Automotive"
 url: /bainbridge/burneys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

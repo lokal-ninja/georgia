@@ -1,5 +1,5 @@
 ---
 title: "Stor-All"
 url: /acworth/stor-all/
-shop: Mieten
+shop: storage rental
 ---

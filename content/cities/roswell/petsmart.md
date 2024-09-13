@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /roswell/petsmart/
-shop: Tiere
+shop: pet
 ---

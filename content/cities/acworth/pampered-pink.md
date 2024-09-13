@@ -1,5 +1,5 @@
 ---
 title: "Pampered Pink"
 url: /acworth/pampered-pink/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Giant Farmers Market"
 url: /newnan/little-giant-farmers-market/
-shop: Supermarkt
+shop: supermarket
 ---

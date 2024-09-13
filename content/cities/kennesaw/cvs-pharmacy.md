@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /kennesaw/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

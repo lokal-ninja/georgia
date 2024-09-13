@@ -1,5 +1,5 @@
 ---
 title: "Sopo Bike Co-op"
 url: /atlanta/sopo-bike-co-op/
-shop: Fahrrad
+shop: bicycle
 ---

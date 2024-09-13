@@ -1,5 +1,5 @@
 ---
 title: "Ricky Mart"
 url: /tallapoosa/ricky-mart/
-shop: Lebensmittel
+shop: convenience
 ---

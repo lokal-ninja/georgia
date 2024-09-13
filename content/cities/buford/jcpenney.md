@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /buford/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

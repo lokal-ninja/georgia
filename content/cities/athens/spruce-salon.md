@@ -1,5 +1,5 @@
 ---
 title: "Spruce Salon"
 url: /athens/spruce-salon/
-shop: Friseur
+shop: hairdresser
 ---

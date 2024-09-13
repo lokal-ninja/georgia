@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /fayetteville/publix-pavilion-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

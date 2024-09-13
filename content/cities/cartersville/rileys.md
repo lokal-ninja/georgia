@@ -1,5 +1,5 @@
 ---
 title: "Riley's"
 url: /cartersville/rileys/
-shop: Kleidung
+shop: clothes
 ---

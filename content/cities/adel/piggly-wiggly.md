@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /adel/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

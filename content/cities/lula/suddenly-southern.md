@@ -1,5 +1,5 @@
 ---
 title: "Suddenly Southern"
 url: /lula/suddenly-southern/
-shop: Kleidung
+shop: clothes
 ---

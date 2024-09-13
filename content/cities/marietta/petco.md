@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /marietta/petco/
-shop: Tiere
+shop: pet
 ---

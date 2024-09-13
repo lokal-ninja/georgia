@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /suwanee/petsmart/
-shop: Tiere
+shop: pet
 ---

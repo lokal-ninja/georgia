@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /valdosta/target/
-shop: Warenhaus
+shop: department store
 ---

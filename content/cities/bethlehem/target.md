@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bethlehem/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /norcross/dsw/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tifton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

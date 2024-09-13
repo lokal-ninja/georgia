@@ -1,5 +1,5 @@
 ---
 title: "Quik Mart"
 url: /cartersville/quik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

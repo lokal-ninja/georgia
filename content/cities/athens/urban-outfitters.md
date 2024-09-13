@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /athens/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

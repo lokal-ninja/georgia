@@ -1,5 +1,5 @@
 ---
 title: "Highway Express"
 url: /resaca/highway-express/
-shop: Lebensmittel
+shop: convenience
 ---

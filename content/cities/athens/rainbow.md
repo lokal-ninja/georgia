@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /athens/rainbow/
-shop: Kleidung
+shop: clothes
 ---

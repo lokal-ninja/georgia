@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /austell/target/
-shop: Supermarkt
+shop: supermarket
 ---

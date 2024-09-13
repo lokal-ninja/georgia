@@ -1,5 +1,5 @@
 ---
 title: "Tony's Package Store"
 url: /atlanta/tonys-package-store/
-shop: Spirituosen
+shop: alcohol
 ---

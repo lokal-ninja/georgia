@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /alpharetta/costco/
-shop: Großhandel
+shop: wholesale
 ---

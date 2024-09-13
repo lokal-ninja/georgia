@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /atlanta/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

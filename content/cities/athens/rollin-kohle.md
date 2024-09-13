@@ -1,5 +1,5 @@
 ---
 title: "Rollin' Kohle"
 url: /athens/rollin-kohle/
-shop: Autohaus
+shop: car
 ---

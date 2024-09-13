@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /ellijay/dollar-general-maddox-drive/
-shop: Kramladen
+shop: variety store
 ---

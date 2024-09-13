@@ -1,5 +1,5 @@
 ---
 title: "Bei Capelli"
 url: /covington/bei-capelli/
-shop: Friseur
+shop: hairdresser
 ---

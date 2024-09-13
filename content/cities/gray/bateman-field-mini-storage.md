@@ -1,5 +1,5 @@
 ---
 title: "Bateman FIeld Mini Storage"
 url: /gray/bateman-field-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

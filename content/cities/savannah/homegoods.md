@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /savannah/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

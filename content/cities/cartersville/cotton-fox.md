@@ -1,5 +1,5 @@
 ---
 title: "Cotton + Fox"
 url: /cartersville/cotton-fox/
-shop: Kleidung
+shop: clothes
 ---

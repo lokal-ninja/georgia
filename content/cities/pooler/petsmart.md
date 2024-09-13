@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /pooler/petsmart/
-shop: Tiere
+shop: pet
 ---

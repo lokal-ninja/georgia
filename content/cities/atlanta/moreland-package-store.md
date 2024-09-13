@@ -1,5 +1,5 @@
 ---
 title: "Moreland Package Store"
 url: /atlanta/moreland-package-store/
-shop: Spirituosen
+shop: alcohol
 ---

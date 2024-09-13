@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /athens/costco/
-shop: Großhandel
+shop: wholesale
 ---

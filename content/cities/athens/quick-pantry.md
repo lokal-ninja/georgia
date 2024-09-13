@@ -1,5 +1,5 @@
 ---
 title: "Quick Pantry"
 url: /athens/quick-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

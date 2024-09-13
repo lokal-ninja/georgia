@@ -1,5 +1,5 @@
 ---
 title: "The Stone Center"
 url: /roswell/the-stone-center/
-shop: Allgemein
+shop: shop
 ---

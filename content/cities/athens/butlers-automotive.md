@@ -1,5 +1,5 @@
 ---
 title: "Butler's Automotive"
 url: /athens/butlers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

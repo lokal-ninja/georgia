@@ -1,5 +1,5 @@
 ---
 title: "Jade Spa"
 url: /unadilla/jade-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /atlanta/advance-auto-parts-7/
-shop: Autoteile
+shop: car parts
 ---

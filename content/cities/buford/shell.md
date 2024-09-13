@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /buford/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /roswell/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

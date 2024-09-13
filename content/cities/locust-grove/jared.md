@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /locust-grove/jared/
-shop: Schmuck
+shop: jewelry
 ---

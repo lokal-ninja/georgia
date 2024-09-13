@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /marietta/lenscrafters/
-shop: Optiker
+shop: optician
 ---

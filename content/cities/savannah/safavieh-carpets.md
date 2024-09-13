@@ -1,5 +1,5 @@
 ---
 title: "Safavieh Carpets"
 url: /savannah/safavieh-carpets/
-shop: Teppiche
+shop: carpet
 ---

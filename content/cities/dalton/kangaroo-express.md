@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /dalton/kangaroo-express/
-shop: Lebensmittel
+shop: convenience
 ---

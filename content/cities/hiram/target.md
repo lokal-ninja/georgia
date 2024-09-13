@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hiram/target/
-shop: Supermarkt
+shop: supermarket
 ---

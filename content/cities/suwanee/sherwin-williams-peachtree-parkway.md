@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /suwanee/sherwin-williams-peachtree-parkway/
-shop: Farben
+shop: paint
 ---

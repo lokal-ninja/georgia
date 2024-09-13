@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /athens/shell/
-shop: Lebensmittel
+shop: convenience
 ---

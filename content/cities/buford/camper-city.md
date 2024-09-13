@@ -1,5 +1,5 @@
 ---
 title: "Camper City"
 url: /buford/camper-city/
-shop: Wohnwagen
+shop: caravan
 ---

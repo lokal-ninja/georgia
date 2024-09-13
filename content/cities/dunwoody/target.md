@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dunwoody/target/
-shop: Warenhaus
+shop: department store
 ---

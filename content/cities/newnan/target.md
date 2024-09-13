@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /newnan/target/
-shop: Warenhaus
+shop: department store
 ---

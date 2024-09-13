@@ -1,5 +1,5 @@
 ---
 title: "Raisin Textiles"
 url: /dalton/raisin-textiles/
-shop: Basteln
+shop: craft
 ---

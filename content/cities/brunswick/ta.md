@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /brunswick/ta/
-shop: Lebensmittel
+shop: convenience
 ---

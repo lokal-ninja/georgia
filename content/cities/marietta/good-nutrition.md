@@ -1,5 +1,5 @@
 ---
 title: "Good Nutrition"
 url: /marietta/good-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /duluth/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

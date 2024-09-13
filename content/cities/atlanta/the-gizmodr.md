@@ -1,5 +1,5 @@
 ---
 title: "The GizmoDr"
 url: /atlanta/the-gizmodr/
-shop: Handy
+shop: mobile phone
 ---

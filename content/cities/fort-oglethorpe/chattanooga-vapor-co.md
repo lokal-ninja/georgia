@@ -1,5 +1,5 @@
 ---
 title: "Chattanooga Vapor Co"
 url: /fort-oglethorpe/chattanooga-vapor-co/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

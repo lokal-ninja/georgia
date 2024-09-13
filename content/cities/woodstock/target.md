@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /woodstock/target/
-shop: Warenhaus
+shop: department store
 ---

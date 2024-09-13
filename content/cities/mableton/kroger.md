@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /mableton/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

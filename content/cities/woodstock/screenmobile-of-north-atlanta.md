@@ -1,5 +1,5 @@
 ---
 title: "Screenmobile of North Atlanta"
 url: /woodstock/screenmobile-of-north-atlanta/
-shop: Jalousien
+shop: window blind
 ---

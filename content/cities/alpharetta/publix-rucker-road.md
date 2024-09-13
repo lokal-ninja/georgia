@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /alpharetta/publix-rucker-road/
-shop: Supermarkt
+shop: supermarket
 ---

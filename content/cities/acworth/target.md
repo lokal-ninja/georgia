@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /acworth/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jimmy Coin Laundry"
 url: /gray/jimmy-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

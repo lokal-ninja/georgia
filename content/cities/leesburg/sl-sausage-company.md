@@ -1,5 +1,5 @@
 ---
 title: "SL Sausage Company"
 url: /leesburg/sl-sausage-company/
-shop: Metzgerei
+shop: butcher
 ---

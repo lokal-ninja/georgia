@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /smyrna/walgreens-south-cobb-drive/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /mineral-bluff/dunkin/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Discount Tires"
 url: /decatur/good-discount-tires/
-shop: Reifen
+shop: tyres
 ---

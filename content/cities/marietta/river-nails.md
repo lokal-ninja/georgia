@@ -1,5 +1,5 @@
 ---
 title: "River Nails"
 url: /marietta/river-nails/
-shop: Kosmetik
+shop: beauty
 ---

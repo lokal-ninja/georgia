@@ -1,5 +1,5 @@
 ---
 title: "Butler Nissan"
 url: /macon/butler-nissan/
-shop: Autohaus
+shop: car
 ---

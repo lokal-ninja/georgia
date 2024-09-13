@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /woodstock/verizon/
-shop: Handy
+shop: mobile phone
 ---

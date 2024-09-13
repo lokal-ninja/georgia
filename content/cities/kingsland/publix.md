@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /kingsland/publix/
-shop: Supermarkt
+shop: supermarket
 ---

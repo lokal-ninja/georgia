@@ -1,5 +1,5 @@
 ---
 title: "Archer Paper Goods"
 url: /athens/archer-paper-goods/
-shop: Schreibwaren
+shop: office supplies
 ---

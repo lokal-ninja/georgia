@@ -1,5 +1,5 @@
 ---
 title: "Astro Bail Bonding"
 url: /atlanta/astro-bail-bonding/
-shop: Leiher
+shop: pawnbroker
 ---

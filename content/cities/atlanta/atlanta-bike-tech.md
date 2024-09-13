@@ -1,5 +1,5 @@
 ---
 title: "Atlanta Bike Tech"
 url: /atlanta/atlanta-bike-tech/
-shop: Fahrrad
+shop: bicycle
 ---

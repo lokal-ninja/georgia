@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bowdon/walgreens/
-shop: Lebensmittel
+shop: convenience
 ---

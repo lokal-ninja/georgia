@@ -1,5 +1,5 @@
 ---
 title: "Rental Storage"
 url: /albany/rental-storage/
-shop: Mieten
+shop: storage rental
 ---

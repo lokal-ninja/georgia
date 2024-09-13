@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /sandersville/iga/
-shop: Supermarkt
+shop: supermarket
 ---

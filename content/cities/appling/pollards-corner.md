@@ -1,5 +1,5 @@
 ---
 title: "Pollard's Corner"
 url: /appling/pollards-corner/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arhaus"
 url: /atlanta/arhaus/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JJ's Barber Shop"
 url: /johns-creek/jjs-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /woodstock/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

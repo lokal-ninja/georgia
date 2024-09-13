@@ -1,5 +1,5 @@
 ---
 title: "Flying J"
 url: /resaca/flying-j/
-shop: Lebensmittel
+shop: convenience
 ---

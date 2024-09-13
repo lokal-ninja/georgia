@@ -1,5 +1,5 @@
 ---
 title: "The Red Zone"
 url: /athens/the-red-zone/
-shop: Andenken
+shop: gift
 ---

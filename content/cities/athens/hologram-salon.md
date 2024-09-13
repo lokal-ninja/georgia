@@ -1,5 +1,5 @@
 ---
 title: "Hologram Salon"
 url: /athens/hologram-salon/
-shop: Friseur
+shop: hairdresser
 ---

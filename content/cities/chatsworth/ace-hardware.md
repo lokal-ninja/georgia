@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /chatsworth/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

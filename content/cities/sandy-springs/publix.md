@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sandy-springs/publix/
-shop: Supermarkt
+shop: supermarket
 ---

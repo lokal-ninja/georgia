@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /athens/dollar-general-lexington-road/
-shop: Kramladen
+shop: variety store
 ---

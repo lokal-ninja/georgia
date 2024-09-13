@@ -1,5 +1,5 @@
 ---
 title: "Snappy Foods"
 url: /kingsland/snappy-foods/
-shop: Lebensmittel
+shop: convenience
 ---

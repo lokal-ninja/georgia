@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /athens/storagemart/
-shop: Mieten
+shop: storage rental
 ---

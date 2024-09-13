@@ -1,5 +1,5 @@
 ---
 title: "Carmichael Funeral Home"
 url: /smyrna/carmichael-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

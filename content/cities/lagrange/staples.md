@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lagrange/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

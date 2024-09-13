@@ -1,5 +1,5 @@
 ---
 title: "Select Shades"
 url: /atlanta/select-shades/
-shop: Optiker
+shop: optician
 ---

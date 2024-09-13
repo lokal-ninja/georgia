@@ -1,5 +1,5 @@
 ---
 title: "Dash Food Mart"
 url: /brunswick/dash-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

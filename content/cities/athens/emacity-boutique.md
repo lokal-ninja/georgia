@@ -1,5 +1,5 @@
 ---
 title: "Emacity Boutique"
 url: /athens/emacity-boutique/
-shop: Kleidung
+shop: clothes
 ---

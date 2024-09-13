@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /chamblee/publix/
-shop: Supermarkt
+shop: supermarket
 ---

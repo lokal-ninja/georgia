@@ -1,5 +1,5 @@
 ---
 title: "Plants + Coffee"
 url: /atlanta/plants-coffee/
-shop: Kaffee
+shop: coffee
 ---

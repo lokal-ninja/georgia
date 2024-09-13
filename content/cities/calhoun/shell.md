@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /calhoun/shell/
-shop: Lebensmittel
+shop: convenience
 ---

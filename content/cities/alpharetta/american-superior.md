@@ -1,5 +1,5 @@
 ---
 title: "American-Superior"
 url: /alpharetta/american-superior/
-shop: Allgemein
+shop: shop
 ---

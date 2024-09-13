@@ -1,5 +1,5 @@
 ---
 title: "Certified Auto Repair"
 url: /forest-park/certified-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

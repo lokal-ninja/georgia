@@ -1,5 +1,5 @@
 ---
 title: "Enzo's Automotive Service"
 url: /marietta/enzos-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

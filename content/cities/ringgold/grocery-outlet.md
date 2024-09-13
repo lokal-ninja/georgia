@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /ringgold/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

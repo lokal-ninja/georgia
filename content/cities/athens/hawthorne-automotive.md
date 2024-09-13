@@ -1,5 +1,5 @@
 ---
 title: "Hawthorne Automotive"
 url: /athens/hawthorne-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

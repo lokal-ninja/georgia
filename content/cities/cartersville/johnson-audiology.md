@@ -1,5 +1,5 @@
 ---
 title: "Johnson Audiology"
 url: /cartersville/johnson-audiology/
-shop: Hörgeräte
+shop: hearing aids
 ---

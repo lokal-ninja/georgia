@@ -1,5 +1,5 @@
 ---
 title: "Southern Off-Road Specialists (SORS)"
 url: /cumming/southern-off-road-specialists-sors/
-shop: Autowerkstatt
+shop: car repair
 ---

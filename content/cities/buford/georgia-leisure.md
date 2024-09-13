@@ -1,5 +1,5 @@
 ---
 title: "Georgia Leisure"
 url: /buford/georgia-leisure/
-shop: Pool
+shop: swimming pool
 ---

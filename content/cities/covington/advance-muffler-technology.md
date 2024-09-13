@@ -1,5 +1,5 @@
 ---
 title: "Advance Muffler Technology"
 url: /covington/advance-muffler-technology/
-shop: Autowerkstatt
+shop: car repair
 ---

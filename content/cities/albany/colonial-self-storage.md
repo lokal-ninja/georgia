@@ -1,5 +1,5 @@
 ---
 title: "Colonial Self Storage"
 url: /albany/colonial-self-storage/
-shop: Mieten
+shop: storage rental
 ---

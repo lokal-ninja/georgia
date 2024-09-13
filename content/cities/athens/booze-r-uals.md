@@ -1,5 +1,5 @@
 ---
 title: "Booze R Uals"
 url: /athens/booze-r-uals/
-shop: Spirituosen
+shop: alcohol
 ---

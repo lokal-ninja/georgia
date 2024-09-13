@@ -1,5 +1,5 @@
 ---
 title: "Trammell Service Center"
 url: /dahlonega/trammell-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

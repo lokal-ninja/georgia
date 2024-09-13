@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /dacula/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

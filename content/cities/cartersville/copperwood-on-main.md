@@ -1,5 +1,5 @@
 ---
 title: "Copperwood on Main"
 url: /cartersville/copperwood-on-main/
-shop: Möbel
+shop: furniture
 ---

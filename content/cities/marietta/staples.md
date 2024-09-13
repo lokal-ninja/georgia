@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /marietta/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

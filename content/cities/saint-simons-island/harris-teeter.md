@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /saint-simons-island/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

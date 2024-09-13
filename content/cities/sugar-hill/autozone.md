@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sugar-hill/autozone/
-shop: Autoteile
+shop: car parts
 ---

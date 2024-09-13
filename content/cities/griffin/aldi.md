@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /griffin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

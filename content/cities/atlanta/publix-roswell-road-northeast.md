@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /atlanta/publix-roswell-road-northeast/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Full Line Auto Care"
 url: /buford/full-line-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

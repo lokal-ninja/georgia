@@ -1,5 +1,5 @@
 ---
 title: "Cracker Barrel"
 url: /calhoun/cracker-barrel/
-shop: Andenken
+shop: gift
 ---

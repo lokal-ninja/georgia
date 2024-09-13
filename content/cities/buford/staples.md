@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /buford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

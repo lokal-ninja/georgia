@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /canton/publix-holly-springs-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

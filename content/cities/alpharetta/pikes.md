@@ -1,5 +1,5 @@
 ---
 title: "Pike's"
 url: /alpharetta/pikes/
-shop: Garten-Center
+shop: garden centre
 ---

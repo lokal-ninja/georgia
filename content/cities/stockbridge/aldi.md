@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /stockbridge/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

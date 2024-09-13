@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /athens/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

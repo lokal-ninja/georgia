@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /brookhaven/publix-town-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

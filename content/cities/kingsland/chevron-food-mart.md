@@ -1,5 +1,5 @@
 ---
 title: "Chevron Food Mart"
 url: /kingsland/chevron-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

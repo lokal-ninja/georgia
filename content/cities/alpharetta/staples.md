@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /alpharetta/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

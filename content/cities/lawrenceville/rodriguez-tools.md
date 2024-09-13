@@ -1,5 +1,5 @@
 ---
 title: "Rodriguez Tools"
 url: /lawrenceville/rodriguez-tools/
-shop: Eisenwaren
+shop: hardware
 ---

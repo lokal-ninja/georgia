@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /duluth/publix-pleasant-hill-road/
-shop: Supermarkt
+shop: supermarket
 ---

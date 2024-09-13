@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /marietta/the-ups-store-johnson-ferry-road-northeast/
-shop: Kopieren
+shop: copyshop
 ---

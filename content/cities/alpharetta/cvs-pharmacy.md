@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /alpharetta/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

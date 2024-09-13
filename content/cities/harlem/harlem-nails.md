@@ -1,5 +1,5 @@
 ---
 title: "Harlem Nails"
 url: /harlem/harlem-nails/
-shop: Kosmetik
+shop: beauty
 ---

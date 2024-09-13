@@ -1,5 +1,5 @@
 ---
 title: "A Cut in Time"
 url: /tifton/a-cut-in-time/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /dunwoody/publix-ashwood-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

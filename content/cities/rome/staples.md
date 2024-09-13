@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rome/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

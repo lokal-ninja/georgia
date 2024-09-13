@@ -1,5 +1,5 @@
 ---
 title: "Pike Nurseries"
 url: /atlanta/pike-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

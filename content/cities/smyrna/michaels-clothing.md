@@ -1,5 +1,5 @@
 ---
 title: "Michael's Clothing"
 url: /smyrna/michaels-clothing/
-shop: Kleidung
+shop: clothes
 ---

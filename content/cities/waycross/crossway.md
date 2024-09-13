@@ -1,5 +1,5 @@
 ---
 title: "Crossway"
 url: /waycross/crossway/
-shop: Supermarkt
+shop: supermarket
 ---

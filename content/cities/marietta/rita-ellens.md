@@ -1,5 +1,5 @@
 ---
 title: "Rita Ellen's"
 url: /marietta/rita-ellens/
-shop: Kleidung
+shop: clothes
 ---

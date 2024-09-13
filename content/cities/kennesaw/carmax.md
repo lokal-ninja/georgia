@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /kennesaw/carmax/
-shop: Autohaus
+shop: car
 ---

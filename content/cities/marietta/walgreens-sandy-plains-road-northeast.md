@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /marietta/walgreens-sandy-plains-road-northeast/
-shop: Drogerie
+shop: chemist
 ---

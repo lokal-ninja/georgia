@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /suwanee/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

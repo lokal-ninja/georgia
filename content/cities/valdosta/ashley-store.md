@@ -1,5 +1,5 @@
 ---
 title: "Ashley Store"
 url: /valdosta/ashley-store/
-shop: Möbel
+shop: furniture
 ---

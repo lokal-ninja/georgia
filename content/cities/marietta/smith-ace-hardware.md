@@ -1,5 +1,5 @@
 ---
 title: "Smith Ace Hardware"
 url: /marietta/smith-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

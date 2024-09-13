@@ -1,5 +1,5 @@
 ---
 title: "Revitalize"
 url: /columbus/revitalize/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

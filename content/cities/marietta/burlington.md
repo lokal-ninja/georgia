@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /marietta/burlington/
-shop: Warenhaus
+shop: department store
 ---

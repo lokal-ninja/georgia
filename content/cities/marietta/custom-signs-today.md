@@ -1,5 +1,5 @@
 ---
 title: "Custom Signs Today"
 url: /marietta/custom-signs-today/
-shop: Beschriftungen
+shop: lettering
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Preserve Self Storage"
 url: /pooler/preserve-self-storage-quacco-road/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lock-Doc"
 url: /cartersville/lock-doc/
-shop: Schlüsseldienst
+shop: locksmith
 ---

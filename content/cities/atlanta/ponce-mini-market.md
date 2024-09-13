@@ -1,5 +1,5 @@
 ---
 title: "Ponce Mini Market"
 url: /atlanta/ponce-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

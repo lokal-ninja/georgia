@@ -1,5 +1,5 @@
 ---
 title: "Captain Kleen Speed Lube"
 url: /kennesaw/captain-kleen-speed-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

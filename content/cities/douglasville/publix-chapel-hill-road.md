@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /douglasville/publix-chapel-hill-road/
-shop: Supermarkt
+shop: supermarket
 ---

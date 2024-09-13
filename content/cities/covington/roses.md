@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /covington/roses/
-shop: Kramladen
+shop: variety store
 ---

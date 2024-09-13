@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /alpharetta/kroger-douglas-road/
-shop: Supermarkt
+shop: supermarket
 ---

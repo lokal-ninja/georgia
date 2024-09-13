@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /kennesaw/starbucks/
-shop: Kaffee
+shop: coffee
 ---

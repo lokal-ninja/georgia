@@ -1,5 +1,5 @@
 ---
 title: "Triple C Market"
 url: /crandall/triple-c-market/
-shop: Lebensmittel
+shop: convenience
 ---

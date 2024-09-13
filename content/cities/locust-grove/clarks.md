@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /locust-grove/clarks/
-shop: Schuhe
+shop: shoes
 ---

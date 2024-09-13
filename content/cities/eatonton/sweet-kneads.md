@@ -1,5 +1,5 @@
 ---
 title: "Sweet Kneads"
 url: /eatonton/sweet-kneads/
-shop: Bäckerei
+shop: bakery
 ---

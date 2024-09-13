@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /buford/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

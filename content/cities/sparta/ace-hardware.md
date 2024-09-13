@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /sparta/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

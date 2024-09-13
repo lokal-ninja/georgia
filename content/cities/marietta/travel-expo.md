@@ -1,5 +1,5 @@
 ---
 title: "Travel Expo"
 url: /marietta/travel-expo/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /elberton/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

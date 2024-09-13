@@ -1,5 +1,5 @@
 ---
 title: "BrandsMart USA"
 url: /stockbridge/brandsmart-usa/
-shop: Elektronik
+shop: electronics
 ---

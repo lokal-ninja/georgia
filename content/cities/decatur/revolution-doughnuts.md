@@ -1,5 +1,5 @@
 ---
 title: "Revolution Doughnuts"
 url: /decatur/revolution-doughnuts/
-shop: Konditorei
+shop: pastry
 ---

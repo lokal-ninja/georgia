@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /atlanta/target-caroline-street-northeast/
-shop: Warenhaus
+shop: department store
 ---

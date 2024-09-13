@@ -1,5 +1,5 @@
 ---
 title: "The Bazaar"
 url: /atlanta/the-bazaar/
-shop: Allgemein
+shop: shop
 ---

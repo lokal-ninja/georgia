@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /covington/publix/
-shop: Supermarkt
+shop: supermarket
 ---

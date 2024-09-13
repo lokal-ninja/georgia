@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /carrollton/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

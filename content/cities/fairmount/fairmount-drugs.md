@@ -1,5 +1,5 @@
 ---
 title: "Fairmount Drugs"
 url: /fairmount/fairmount-drugs/
-shop: Drogerie
+shop: chemist
 ---

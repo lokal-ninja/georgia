@@ -1,5 +1,5 @@
 ---
 title: "Tokyo Valentino"
 url: /duluth/tokyo-valentino/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodness Grocery"
 url: /smyrna/goodness-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

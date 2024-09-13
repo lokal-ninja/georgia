@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /lithonia/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

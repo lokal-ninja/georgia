@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /marietta/kroger-powder-springs-road-southwest/
-shop: Supermarkt
+shop: supermarket
 ---

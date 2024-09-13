@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /athens/dollar-general-highway-330/
-shop: Kramladen
+shop: variety store
 ---

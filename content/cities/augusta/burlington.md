@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /augusta/burlington/
-shop: Warenhaus
+shop: department store
 ---

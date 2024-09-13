@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /villa-rica/dollar-general-rockmart-road/
-shop: Kramladen
+shop: variety store
 ---

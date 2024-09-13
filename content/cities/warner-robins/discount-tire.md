@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /warner-robins/discount-tire/
-shop: Reifen
+shop: tyres
 ---

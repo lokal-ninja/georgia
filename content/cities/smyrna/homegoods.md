@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /smyrna/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

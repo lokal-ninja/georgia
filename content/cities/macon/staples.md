@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /macon/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

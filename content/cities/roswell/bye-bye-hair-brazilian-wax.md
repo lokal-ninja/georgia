@@ -1,5 +1,5 @@
 ---
 title: "Bye Bye Hair Brazilian Wax"
 url: /roswell/bye-bye-hair-brazilian-wax/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lithonia/burlington/
-shop: Warenhaus
+shop: department store
 ---

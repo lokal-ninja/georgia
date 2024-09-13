@@ -1,5 +1,5 @@
 ---
 title: "Crossroads Furniture"
 url: /tallapoosa/crossroads-furniture/
-shop: Möbel
+shop: furniture
 ---

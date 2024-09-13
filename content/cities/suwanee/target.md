@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /suwanee/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Glass Service Inc"
 url: /statesboro/auto-glass-service-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jones Medical Equipment"
 url: /brunswick/jones-medical-equipment/
-shop: Sanitätshaus
+shop: medical supply
 ---

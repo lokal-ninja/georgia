@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /east-ellijay/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

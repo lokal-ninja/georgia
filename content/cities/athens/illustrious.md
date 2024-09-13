@@ -1,5 +1,5 @@
 ---
 title: "Illustrious"
 url: /athens/illustrious/
-shop: Friseur
+shop: hairdresser
 ---

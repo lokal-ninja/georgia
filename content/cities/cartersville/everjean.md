@@ -1,5 +1,5 @@
 ---
 title: "everjean"
 url: /cartersville/everjean/
-shop: Kleidung
+shop: clothes
 ---

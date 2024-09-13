@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /roswell/kroger-east-crossville-road/
-shop: Supermarkt
+shop: supermarket
 ---

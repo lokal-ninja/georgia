@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /dalton/ford/
-shop: Autohaus
+shop: car
 ---

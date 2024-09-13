@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /kingsland/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

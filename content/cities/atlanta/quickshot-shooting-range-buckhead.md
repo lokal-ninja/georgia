@@ -1,5 +1,5 @@
 ---
 title: "Quickshot Shooting Range - Buckhead"
 url: /atlanta/quickshot-shooting-range-buckhead/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Loganville"
 url: /loganville/ifixscreens-loganville/
-shop: Handy
+shop: mobile phone
 ---

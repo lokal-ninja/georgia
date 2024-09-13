@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /fort-oglethorpe/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paris on Ponce"
 url: /atlanta/paris-on-ponce/
-shop: Kleidung
+shop: clothes
 ---

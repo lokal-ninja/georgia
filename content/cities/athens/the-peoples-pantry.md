@@ -1,5 +1,5 @@
 ---
 title: "The People's Pantry"
 url: /athens/the-peoples-pantry/
-shop: Bioladen
+shop: health food
 ---

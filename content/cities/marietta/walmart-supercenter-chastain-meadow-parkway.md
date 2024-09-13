@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /marietta/walmart-supercenter-chastain-meadow-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

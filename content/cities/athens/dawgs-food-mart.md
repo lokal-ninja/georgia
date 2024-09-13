@@ -1,5 +1,5 @@
 ---
 title: "Dawg's Food Mart"
 url: /athens/dawgs-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

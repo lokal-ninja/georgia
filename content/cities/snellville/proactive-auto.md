@@ -1,5 +1,5 @@
 ---
 title: "ProActive Auto"
 url: /snellville/proactive-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

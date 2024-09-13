@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /statesboro/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /roswell/carmax/
-shop: Autohaus
+shop: car
 ---

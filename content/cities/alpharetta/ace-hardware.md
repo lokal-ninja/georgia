@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /alpharetta/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

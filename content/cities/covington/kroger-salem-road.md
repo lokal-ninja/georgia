@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /covington/kroger-salem-road/
-shop: Supermarkt
+shop: supermarket
 ---

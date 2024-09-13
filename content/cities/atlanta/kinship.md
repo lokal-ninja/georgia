@@ -1,5 +1,5 @@
 ---
 title: "Kinship"
 url: /atlanta/kinship/
-shop: Feinkost
+shop: deli
 ---

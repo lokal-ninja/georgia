@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /athens/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

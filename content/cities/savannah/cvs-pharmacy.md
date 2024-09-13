@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /savannah/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

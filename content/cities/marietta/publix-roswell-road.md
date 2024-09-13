@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /marietta/publix-roswell-road/
-shop: Supermarkt
+shop: supermarket
 ---

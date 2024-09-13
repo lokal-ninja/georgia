@@ -1,5 +1,5 @@
 ---
 title: "KJ's Market IGA - Harlem"
 url: /harlem/kjs-market-iga-harlem/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naked South Boutique"
 url: /braselton/naked-south-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Popshelf"
 url: /cumming/popshelf/
-shop: Raumausstattung
+shop: interior decoration
 ---

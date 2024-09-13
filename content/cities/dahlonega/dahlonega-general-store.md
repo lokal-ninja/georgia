@@ -1,5 +1,5 @@
 ---
 title: "Dahlonega General Store"
 url: /dahlonega/dahlonega-general-store/
-shop: Andenken
+shop: gift
 ---

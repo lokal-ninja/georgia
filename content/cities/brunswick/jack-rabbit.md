@@ -1,5 +1,5 @@
 ---
 title: "Jack Rabbit"
 url: /brunswick/jack-rabbit/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gidey Injera"
 url: /clarkston/gidey-injera/
-shop: Supermarkt
+shop: supermarket
 ---

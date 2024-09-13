@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /doraville/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /marietta/rainbow-south-marietta-parkway-southeast/
-shop: Kleidung
+shop: clothes
 ---

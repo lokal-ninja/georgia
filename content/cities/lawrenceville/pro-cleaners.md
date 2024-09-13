@@ -1,5 +1,5 @@
 ---
 title: "Pro Cleaners"
 url: /lawrenceville/pro-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

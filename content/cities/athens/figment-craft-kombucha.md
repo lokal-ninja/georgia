@@ -1,5 +1,5 @@
 ---
 title: "Figment Craft Kombucha"
 url: /athens/figment-craft-kombucha/
-shop: Getränke
+shop: beverages
 ---

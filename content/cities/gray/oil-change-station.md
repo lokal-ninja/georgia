@@ -1,5 +1,5 @@
 ---
 title: "Oil Change Station"
 url: /gray/oil-change-station/
-shop: Autoteile
+shop: car parts
 ---

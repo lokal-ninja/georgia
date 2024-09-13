@@ -1,5 +1,5 @@
 ---
 title: "Shirtworks Screenprinters"
 url: /athens/shirtworks-screenprinters/
-shop: Kleidung
+shop: clothes
 ---

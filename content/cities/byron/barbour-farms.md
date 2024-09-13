@@ -1,5 +1,5 @@
 ---
 title: "Barbour Farms"
 url: /byron/barbour-farms/
-shop: Dorfladen
+shop: general
 ---

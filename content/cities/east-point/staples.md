@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /east-point/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

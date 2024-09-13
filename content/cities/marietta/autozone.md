@@ -1,5 +1,5 @@
 ---
 title: "Autozone"
 url: /marietta/autozone/
-shop: Autoteile
+shop: car parts
 ---

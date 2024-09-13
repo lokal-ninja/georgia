@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /newnan/publix-lower-fayetteville-road/
-shop: Supermarkt
+shop: supermarket
 ---

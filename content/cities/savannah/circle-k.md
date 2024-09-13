@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /savannah/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

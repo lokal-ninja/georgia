@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /marietta/kroger-lower-roswell-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "University Tire"
 url: /loganville/university-tire/
-shop: Reifen
+shop: tyres
 ---

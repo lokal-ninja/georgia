@@ -1,5 +1,5 @@
 ---
 title: "Express Nails"
 url: /athens/express-nails/
-shop: Kosmetik
+shop: beauty
 ---

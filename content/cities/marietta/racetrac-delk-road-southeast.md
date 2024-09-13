@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /marietta/racetrac-delk-road-southeast/
-shop: Lebensmittel
+shop: convenience
 ---

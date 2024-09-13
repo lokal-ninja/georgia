@@ -1,5 +1,5 @@
 ---
 title: "Bucktown Grocery"
 url: /bowdon/bucktown-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

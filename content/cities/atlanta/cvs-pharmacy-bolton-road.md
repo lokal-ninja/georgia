@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /atlanta/cvs-pharmacy-bolton-road/
-shop: Drogerie
+shop: chemist
 ---

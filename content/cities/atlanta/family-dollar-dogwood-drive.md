@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /atlanta/family-dollar-dogwood-drive/
-shop: Kramladen
+shop: variety store
 ---

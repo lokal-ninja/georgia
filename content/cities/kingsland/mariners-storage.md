@@ -1,5 +1,5 @@
 ---
 title: "Mariners Storage"
 url: /kingsland/mariners-storage/
-shop: Mieten
+shop: storage rental
 ---

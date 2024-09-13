@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /jasper/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

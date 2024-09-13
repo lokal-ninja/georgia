@@ -1,5 +1,5 @@
 ---
 title: "Athens Kustomz"
 url: /athens/athens-kustomz/
-shop: Autowerkstatt
+shop: car repair
 ---

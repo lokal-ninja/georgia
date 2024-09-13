@@ -1,5 +1,5 @@
 ---
 title: "The Food Mart"
 url: /covington/the-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

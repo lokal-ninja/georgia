@@ -1,5 +1,5 @@
 ---
 title: "Cracker Barrel"
 url: /kennesaw/cracker-barrel/
-shop: Andenken
+shop: gift
 ---

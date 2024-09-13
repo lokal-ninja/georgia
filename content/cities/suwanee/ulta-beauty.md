@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /suwanee/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

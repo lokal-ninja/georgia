@@ -1,5 +1,5 @@
 ---
 title: "Lollidrops Sweet Shoppe"
 url: /jasper/lollidrops-sweet-shoppe/
-shop: Eisprodukte
+shop: ice cream
 ---

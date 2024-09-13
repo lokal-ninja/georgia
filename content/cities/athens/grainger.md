@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /athens/grainger/
-shop: Baustoffe
+shop: trade
 ---

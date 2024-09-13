@@ -1,5 +1,5 @@
 ---
 title: "Westwood Sheds"
 url: /athens/westwood-sheds/
-shop: Allgemein
+shop: shop
 ---

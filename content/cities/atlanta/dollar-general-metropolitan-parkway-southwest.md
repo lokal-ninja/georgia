@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /atlanta/dollar-general-metropolitan-parkway-southwest/
-shop: Kramladen
+shop: variety store
 ---

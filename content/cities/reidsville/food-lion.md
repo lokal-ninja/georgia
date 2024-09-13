@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /reidsville/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

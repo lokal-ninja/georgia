@@ -1,5 +1,5 @@
 ---
 title: "Hornbuckle Wholesale Florist"
 url: /omega/hornbuckle-wholesale-florist/
-shop: Blumen
+shop: florist
 ---

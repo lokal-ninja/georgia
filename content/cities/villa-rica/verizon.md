@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /villa-rica/verizon/
-shop: Handy
+shop: mobile phone
 ---

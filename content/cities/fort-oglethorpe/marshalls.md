@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /fort-oglethorpe/marshalls/
-shop: Warenhaus
+shop: department store
 ---

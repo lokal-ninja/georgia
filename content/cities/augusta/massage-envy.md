@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /augusta/massage-envy/
-shop: Massage
+shop: massage
 ---

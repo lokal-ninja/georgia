@@ -1,5 +1,5 @@
 ---
 title: "Tame Style Bar"
 url: /athens/tame-style-bar/
-shop: Friseur
+shop: hairdresser
 ---

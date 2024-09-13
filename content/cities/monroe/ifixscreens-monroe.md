@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Monroe"
 url: /monroe/ifixscreens-monroe/
-shop: Handy
+shop: mobile phone
 ---

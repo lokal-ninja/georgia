@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /suwanee/autozone/
-shop: Autoteile
+shop: car parts
 ---

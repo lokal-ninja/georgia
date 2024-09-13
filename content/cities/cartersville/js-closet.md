@@ -1,5 +1,5 @@
 ---
 title: "J's Closet"
 url: /cartersville/js-closet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /alpharetta/publix-haynes-bridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

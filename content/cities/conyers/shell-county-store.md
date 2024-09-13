@@ -1,5 +1,5 @@
 ---
 title: "Shell County Store"
 url: /conyers/shell-county-store/
-shop: Gasflaschen
+shop: gas
 ---

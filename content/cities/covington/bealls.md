@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /covington/bealls/
-shop: Warenhaus
+shop: department store
 ---

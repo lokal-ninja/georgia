@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /saint-marys/dollar-general-kings-bay-road/
-shop: Kramladen
+shop: variety store
 ---

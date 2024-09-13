@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /senoia/publix/
-shop: Supermarkt
+shop: supermarket
 ---

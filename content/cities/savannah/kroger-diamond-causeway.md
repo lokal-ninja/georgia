@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /savannah/kroger-diamond-causeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beverage Mart"
 url: /acworth/beverage-mart/
-shop: Spirituosen
+shop: alcohol
 ---

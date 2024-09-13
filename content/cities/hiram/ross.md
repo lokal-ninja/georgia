@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /hiram/ross/
-shop: Warenhaus
+shop: department store
 ---

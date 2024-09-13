@@ -1,5 +1,5 @@
 ---
 title: "Food Depot"
 url: /villa-rica/food-depot/
-shop: Supermarkt
+shop: supermarket
 ---

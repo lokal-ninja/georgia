@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /atlanta/costco-peachtree-dunwoody-road/
-shop: Großhandel
+shop: wholesale
 ---

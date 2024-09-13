@@ -1,5 +1,5 @@
 ---
 title: "Steel Collectibles"
 url: /kennesaw/steel-collectibles/
-shop: Sammler
+shop: collector
 ---

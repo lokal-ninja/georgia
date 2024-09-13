@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /atlanta/kroger-chamblee-tucker-road/
-shop: Supermarkt
+shop: supermarket
 ---

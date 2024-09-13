@@ -1,5 +1,5 @@
 ---
 title: "Diesel Dynamics"
 url: /ringgold/diesel-dynamics/
-shop: Autowerkstatt
+shop: car repair
 ---

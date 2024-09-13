@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /newnan/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

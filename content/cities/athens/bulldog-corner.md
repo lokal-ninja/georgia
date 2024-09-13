@@ -1,5 +1,5 @@
 ---
 title: "Bulldog Corner"
 url: /athens/bulldog-corner/
-shop: Lebensmittel
+shop: convenience
 ---

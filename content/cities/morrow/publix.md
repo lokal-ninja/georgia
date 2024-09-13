@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /morrow/publix/
-shop: Supermarkt
+shop: supermarket
 ---

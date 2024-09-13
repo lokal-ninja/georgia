@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /alpharetta/kroger-state-bridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fine Food Mart"
 url: /brunswick/fine-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dog City Bakery"
 url: /marietta/dog-city-bakery/
-shop: Tiere
+shop: pet
 ---

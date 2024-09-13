@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /acworth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

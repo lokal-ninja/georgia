@@ -1,5 +1,5 @@
 ---
 title: "Cottage Hair Salon"
 url: /athens/cottage-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

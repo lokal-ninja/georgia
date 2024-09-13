@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /grayson/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

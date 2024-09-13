@@ -1,5 +1,5 @@
 ---
 title: "Travelpro Luggage Outlet"
 url: /locust-grove/travelpro-luggage-outlet/
-shop: Taschen & Koffer
+shop: bag
 ---

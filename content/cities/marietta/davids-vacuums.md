@@ -1,5 +1,5 @@
 ---
 title: "David's Vacuums"
 url: /marietta/davids-vacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

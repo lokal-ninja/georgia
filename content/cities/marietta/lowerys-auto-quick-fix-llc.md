@@ -1,5 +1,5 @@
 ---
 title: "Lowery's Auto Quick Fix LLC"
 url: /marietta/lowerys-auto-quick-fix-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

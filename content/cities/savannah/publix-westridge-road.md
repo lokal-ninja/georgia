@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /savannah/publix-westridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

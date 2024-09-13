@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /marietta/lidl-whitlock-avenue-southwest/
-shop: Supermarkt
+shop: supermarket
 ---

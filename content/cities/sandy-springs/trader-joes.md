@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /sandy-springs/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

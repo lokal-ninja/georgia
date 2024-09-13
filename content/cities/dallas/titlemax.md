@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /dallas/titlemax/
-shop: Leiher
+shop: pawnbroker
 ---

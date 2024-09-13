@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /athens/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

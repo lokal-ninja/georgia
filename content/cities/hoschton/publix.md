@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hoschton/publix/
-shop: Supermarkt
+shop: supermarket
 ---

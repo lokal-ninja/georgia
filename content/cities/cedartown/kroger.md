@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cedartown/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

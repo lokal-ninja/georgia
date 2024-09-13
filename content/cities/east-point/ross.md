@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /east-point/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /locust-grove/carters/
-shop: Kleidung
+shop: clothes
 ---

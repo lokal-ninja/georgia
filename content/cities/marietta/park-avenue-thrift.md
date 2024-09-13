@@ -1,5 +1,5 @@
 ---
 title: "Park Avenue Thrift"
 url: /marietta/park-avenue-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

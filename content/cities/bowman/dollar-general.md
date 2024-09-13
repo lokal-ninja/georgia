@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /bowman/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

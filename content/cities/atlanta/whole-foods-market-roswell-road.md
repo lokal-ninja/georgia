@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /atlanta/whole-foods-market-roswell-road/
-shop: Supermarkt
+shop: supermarket
 ---

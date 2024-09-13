@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mcdonough/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

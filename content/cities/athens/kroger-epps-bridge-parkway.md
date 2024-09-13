@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /athens/kroger-epps-bridge-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

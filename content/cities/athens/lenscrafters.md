@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /athens/lenscrafters/
-shop: Optiker
+shop: optician
 ---

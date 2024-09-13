@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /tucker/kroger-lawrenceville-highway/
-shop: Supermarkt
+shop: supermarket
 ---

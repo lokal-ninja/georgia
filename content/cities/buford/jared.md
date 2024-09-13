@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /buford/jared/
-shop: Schmuck
+shop: jewelry
 ---

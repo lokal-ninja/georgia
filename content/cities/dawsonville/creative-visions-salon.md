@@ -1,5 +1,5 @@
 ---
 title: "Creative Visions Salon"
 url: /dawsonville/creative-visions-salon/
-shop: Kosmetik
+shop: beauty
 ---

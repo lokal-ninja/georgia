@@ -1,5 +1,5 @@
 ---
 title: "Jake's Fireworks"
 url: /athens/jakes-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

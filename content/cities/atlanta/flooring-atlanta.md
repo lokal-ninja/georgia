@@ -1,5 +1,5 @@
 ---
 title: "Flooring Atlanta"
 url: /atlanta/flooring-atlanta/
-shop: Fußböden
+shop: flooring
 ---

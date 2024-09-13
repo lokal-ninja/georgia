@@ -1,5 +1,5 @@
 ---
 title: "Walls of Books"
 url: /athens/walls-of-books/
-shop: Bücher
+shop: books
 ---

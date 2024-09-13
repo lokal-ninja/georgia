@@ -1,5 +1,5 @@
 ---
 title: "Food Depot"
 url: /smyrna/food-depot/
-shop: Supermarkt
+shop: supermarket
 ---

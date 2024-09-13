@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /brunswick/dollar-general-palisade-drive/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /brunswick/winn-dixie-new-jesup-highway/
-shop: Supermarkt
+shop: supermarket
 ---

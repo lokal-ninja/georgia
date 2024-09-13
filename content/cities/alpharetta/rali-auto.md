@@ -1,5 +1,5 @@
 ---
 title: "Rali Auto"
 url: /alpharetta/rali-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

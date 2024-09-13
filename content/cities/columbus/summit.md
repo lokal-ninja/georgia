@@ -1,5 +1,5 @@
 ---
 title: "Summit"
 url: /columbus/summit/
-shop: Lebensmittel
+shop: convenience
 ---

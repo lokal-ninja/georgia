@@ -1,5 +1,5 @@
 ---
 title: "Metro Wheels"
 url: /marietta/metro-wheels/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /macon/kohls/
-shop: Warenhaus
+shop: department store
 ---

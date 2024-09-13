@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /decatur/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

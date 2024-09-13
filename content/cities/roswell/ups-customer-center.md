@@ -1,5 +1,5 @@
 ---
 title: "UPS Customer Center"
 url: /roswell/ups-customer-center/
-shop: Kopieren
+shop: copyshop
 ---

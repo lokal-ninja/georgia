@@ -1,5 +1,5 @@
 ---
 title: "Alcovy Liquor"
 url: /covington/alcovy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

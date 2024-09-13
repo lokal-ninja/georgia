@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /brunswick/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

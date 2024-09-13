@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /flowery-branch/mattress-firm/
-shop: Betten
+shop: bed
 ---

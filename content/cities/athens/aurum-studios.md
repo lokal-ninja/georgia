@@ -1,5 +1,5 @@
 ---
 title: "Aurum Studios"
 url: /athens/aurum-studios/
-shop: Schmuck
+shop: jewelry
 ---

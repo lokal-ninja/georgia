@@ -1,5 +1,5 @@
 ---
 title: "Normal Hardware"
 url: /athens/normal-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

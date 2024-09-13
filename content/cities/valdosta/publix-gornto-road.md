@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /valdosta/publix-gornto-road/
-shop: Supermarkt
+shop: supermarket
 ---

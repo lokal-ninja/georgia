@@ -1,5 +1,5 @@
 ---
 title: "Dawsonville Hardware"
 url: /dawsonville/dawsonville-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

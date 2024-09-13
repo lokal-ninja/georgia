@@ -1,5 +1,5 @@
 ---
 title: "Fringe"
 url: /athens/fringe/
-shop: Kleidung
+shop: clothes
 ---

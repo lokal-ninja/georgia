@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /fort-oglethorpe/big-lots/
-shop: Warenhaus
+shop: department store
 ---

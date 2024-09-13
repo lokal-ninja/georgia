@@ -1,5 +1,5 @@
 ---
 title: "Cummings"
 url: /savannah/cummings/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bait Bucket"
 url: /jackson/bait-bucket/
-shop: Angeln
+shop: fishing
 ---

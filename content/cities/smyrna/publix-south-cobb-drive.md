@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /smyrna/publix-south-cobb-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /mableton/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

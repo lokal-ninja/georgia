@@ -1,5 +1,5 @@
 ---
 title: "Athens Antique Village"
 url: /athens/athens-antique-village/
-shop: Antiquitäten
+shop: antiques
 ---

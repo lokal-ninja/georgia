@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /fort-oglethorpe/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /cartersville/belk/
-shop: Warenhaus
+shop: department store
 ---

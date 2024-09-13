@@ -1,5 +1,5 @@
 ---
 title: "Restaurant Equipment"
 url: /athens/restaurant-equipment/
-shop: Mieten
+shop: storage rental
 ---

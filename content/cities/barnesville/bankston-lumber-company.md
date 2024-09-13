@@ -1,5 +1,5 @@
 ---
 title: "Bankston Lumber Company"
 url: /barnesville/bankston-lumber-company/
-shop: Baustoffe
+shop: trade
 ---

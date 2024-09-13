@@ -1,5 +1,5 @@
 ---
 title: "JP Nails"
 url: /fort-oglethorpe/jp-nails/
-shop: Kosmetik
+shop: beauty
 ---

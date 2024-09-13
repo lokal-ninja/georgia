@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Feed"
 url: /cumming/hollywood-feed/
-shop: Tiere
+shop: pet
 ---

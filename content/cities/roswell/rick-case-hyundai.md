@@ -1,5 +1,5 @@
 ---
 title: "Rick Case Hyundai"
 url: /roswell/rick-case-hyundai/
-shop: Autohaus
+shop: car
 ---

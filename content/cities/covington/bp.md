@@ -1,5 +1,5 @@
 ---
 title: "Bp"
 url: /covington/bp/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hair Masters"
 url: /statesboro/the-hair-masters/
-shop: Kosmetik
+shop: beauty
 ---

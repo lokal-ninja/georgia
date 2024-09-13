@@ -1,5 +1,5 @@
 ---
 title: "The Groom Room Barbershop"
 url: /villa-rica/the-groom-room-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

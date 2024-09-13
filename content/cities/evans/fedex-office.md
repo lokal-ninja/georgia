@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /evans/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Fashion Cleaners"
 url: /kennesaw/new-fashion-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

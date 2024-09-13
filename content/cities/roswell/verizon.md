@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /roswell/verizon/
-shop: Handy
+shop: mobile phone
 ---

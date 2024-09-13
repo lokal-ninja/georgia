@@ -1,5 +1,5 @@
 ---
 title: "Royal 7"
 url: /forsyth/royal-7/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Off-Road Mafia"
 url: /ball-ground/off-road-mafia/
-shop: Autowerkstatt
+shop: car repair
 ---

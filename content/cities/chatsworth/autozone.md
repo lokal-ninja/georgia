@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chatsworth/autozone/
-shop: Autoteile
+shop: car parts
 ---

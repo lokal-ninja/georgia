@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tifton/publix/
-shop: Supermarkt
+shop: supermarket
 ---

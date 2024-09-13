@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fort-oglethorpe/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

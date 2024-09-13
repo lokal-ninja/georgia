@@ -1,5 +1,5 @@
 ---
 title: "Tucker Express"
 url: /tucker/tucker-express/
-shop: Lebensmittel
+shop: convenience
 ---

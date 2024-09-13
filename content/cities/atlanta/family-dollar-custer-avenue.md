@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /atlanta/family-dollar-custer-avenue/
-shop: Kramladen
+shop: variety store
 ---

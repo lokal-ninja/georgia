@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /macon/ross/
-shop: Warenhaus
+shop: department store
 ---

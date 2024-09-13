@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /union-city/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

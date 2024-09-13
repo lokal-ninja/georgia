@@ -1,5 +1,5 @@
 ---
 title: "Alon's Bakery and Market"
 url: /atlanta/alons-bakery-and-market/
-shop: Bäckerei
+shop: bakery
 ---

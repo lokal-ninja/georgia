@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /roswell/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

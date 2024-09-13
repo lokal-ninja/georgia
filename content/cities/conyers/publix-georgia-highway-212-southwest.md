@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /conyers/publix-georgia-highway-212-southwest/
-shop: Supermarkt
+shop: supermarket
 ---

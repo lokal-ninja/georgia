@@ -1,5 +1,5 @@
 ---
 title: "Pine Straw King"
 url: /marietta/pine-straw-king/
-shop: Allgemein
+shop: shop
 ---

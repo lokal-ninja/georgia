@@ -1,5 +1,5 @@
 ---
 title: "Red Clover"
 url: /savannah/red-clover/
-shop: Taschen & Koffer
+shop: bag
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tam's Auto Repair"
 url: /clarkston/tams-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /marietta/hilti/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /riverdale/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

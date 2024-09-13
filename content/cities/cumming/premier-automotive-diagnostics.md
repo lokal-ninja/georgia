@@ -1,5 +1,5 @@
 ---
 title: "Premier Automotive Diagnostics"
 url: /cumming/premier-automotive-diagnostics/
-shop: Autowerkstatt
+shop: car repair
 ---

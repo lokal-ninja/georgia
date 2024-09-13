@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /brunswick/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

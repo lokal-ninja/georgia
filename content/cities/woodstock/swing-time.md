@@ -1,5 +1,5 @@
 ---
 title: "Swing Time"
 url: /woodstock/swing-time/
-shop: Allgemein
+shop: shop
 ---

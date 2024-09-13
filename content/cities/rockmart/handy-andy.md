@@ -1,5 +1,5 @@
 ---
 title: "Handy Andy"
 url: /rockmart/handy-andy/
-shop: Lebensmittel
+shop: convenience
 ---

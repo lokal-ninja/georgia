@@ -1,5 +1,5 @@
 ---
 title: "Dollar Deal"
 url: /fort-oglethorpe/dollar-deal/
-shop: Kramladen
+shop: variety store
 ---
