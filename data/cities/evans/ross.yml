@@ -1,11 +1,11 @@
 id: 586450524
-type: way
+type: node
 latitude: 33.52524
 longitude: -82.11708
 postcode: "30809"
 city: Evans
-street: "Washington Road"
-housenumber: 4215
-phone: "+1 706-868-5709"
-opening_hours: "Mo-Th 09:00-21:30; Fr-Sa 09:00-22:30; Su 09:30-21:30"
+street: Washington Road
+housenumber: "4215"
+phone: +1 706-868-5709
+opening_hours: Mo-Th 09:00-21:30; Fr-Sa 09:00-22:30; Su 09:30-21:30
 website: ""

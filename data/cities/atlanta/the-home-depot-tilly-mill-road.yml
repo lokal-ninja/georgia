@@ -1,11 +1,11 @@
 id: 1119063542
-type: way
+type: node
 latitude: 33.92054
 longitude: -84.27941
 postcode: "30360"
 city: Atlanta
-street: "Tilly Mill Road"
-housenumber: 4343
-phone: "+1 770-452-8858"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/Tilly-Mill/GA/Atlanta/30360/115"
+street: Tilly Mill Road
+housenumber: "4343"
+phone: +1 770-452-8858
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/Tilly-Mill/GA/Atlanta/30360/115

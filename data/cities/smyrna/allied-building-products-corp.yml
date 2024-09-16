@@ -1,11 +1,11 @@
 id: 329892424
-type: way
+type: node
 latitude: 33.8368
 longitude: -84.4767
 postcode: "30080"
 city: Smyrna
-street: "South Atlanta Road"
-housenumber: 4768
-phone: "+1 (404) 355-4666"
+street: South Atlanta Road
+housenumber: "4768"
+phone: +1 (404) 355-4666
 opening_hours: ""
-website: "http://www.alliedbuilding.com/"
+website: http://www.alliedbuilding.com/

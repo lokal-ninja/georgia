@@ -1,11 +1,11 @@
 id: 208468464
-type: way
+type: node
 latitude: 32.07937
 longitude: -81.095
 postcode: "31401"
 city: Savannah
-street: "West Broughton Street"
-housenumber: 219
+street: West Broughton Street
+housenumber: "219"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://www.urbanoutfitters.com/stores/savannah"
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://www.urbanoutfitters.com/stores/savannah

@@ -1,11 +1,11 @@
 id: 1102785438
-type: way
+type: node
 latitude: 32.27687
 longitude: -81.23209
 postcode: "31326"
 city: Rincon
-street: "West Fort Howard Road"
-housenumber: 101
-phone: "+1 912-826-4800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Rincon-GA-31326_1200"
+street: West Fort Howard Road
+housenumber: "101"
+phone: +1 912-826-4800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Rincon-GA-31326_1200

@@ -1,11 +1,11 @@
 id: 277831255
-type: way
+type: node
 latitude: 33.96584
 longitude: -84.49266
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 2075
-phone: "+1 (770) 325-9696"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://local.firestonecompleteautocare.com/georgia/marietta/2075-roswell-rd/"
+street: Roswell Road
+housenumber: "2075"
+phone: +1 (770) 325-9696
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
+website: https://local.firestonecompleteautocare.com/georgia/marietta/2075-roswell-rd/

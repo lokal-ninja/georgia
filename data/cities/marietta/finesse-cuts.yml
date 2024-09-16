@@ -4,8 +4,8 @@ latitude: 33.96891
 longitude: -84.48829
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 2100
-phone: "+1 (770) 485-1065"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-21:00; Su 11:00-19:30"
+street: Roswell Road
+housenumber: "2100"
+phone: +1 (770) 485-1065
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-21:00; Su 11:00-19:30
 website: ""

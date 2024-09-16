@@ -1,11 +1,11 @@
 id: 387033762
-type: way
+type: node
 latitude: 34.17133
 longitude: -84.41513
 postcode: "30115"
 city: Canton
-street: "Hickory Flat Highway"
-housenumber: 6760
+street: Hickory Flat Highway
+housenumber: "6760"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/canton/6760-hickory-flat-hwy.html"
+website: https://www.autozone.com/locations/ga/canton/6760-hickory-flat-hwy.html

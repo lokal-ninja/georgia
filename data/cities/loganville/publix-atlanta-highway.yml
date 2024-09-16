@@ -1,11 +1,11 @@
 id: 261104633
-type: way
+type: node
 latitude: 33.83927
 longitude: -83.90873
-postcode: "30052-2341"
+postcode: 30052-2341
 city: Loganville
-street: "Atlanta Highway"
-housenumber: 4325
-phone: "+1 770-466-5150"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/603"
+street: Atlanta Highway
+housenumber: "4325"
+phone: +1 770-466-5150
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/603

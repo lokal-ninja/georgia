@@ -1,11 +1,11 @@
 id: 245388691
-type: way
+type: node
 latitude: 33.95163
 longitude: -84.55159
 postcode: "30064"
 city: Marietta
-street: "South Marietta Parkway Southwest"
-housenumber: 23
-phone: "+1 (770) 420-8932"
-opening_hours: "Mo-Su 07:00-23:59"
-website: "https://www.walgreens.com/locator/walgreens-23+s+marietta+pkwy+sw-marietta-ga-30064/id=1646"
+street: South Marietta Parkway Southwest
+housenumber: "23"
+phone: +1 (770) 420-8932
+opening_hours: Mo-Su 07:00-23:59
+website: https://www.walgreens.com/locator/walgreens-23+s+marietta+pkwy+sw-marietta-ga-30064/id=1646

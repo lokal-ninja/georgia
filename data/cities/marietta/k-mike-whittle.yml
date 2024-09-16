@@ -1,11 +1,11 @@
 id: 245388651
-type: way
+type: node
 latitude: 33.95548
 longitude: -84.54993
 postcode: "30060"
 city: Marietta
-street: "Church Street"
-housenumber: 156
-phone: "+1 (770) 499-1700"
+street: Church Street
+housenumber: "156"
+phone: +1 (770) 499-1700
 opening_hours: ""
-website: "http://www.kmikewhittledesigns.com/"
+website: http://www.kmikewhittledesigns.com/

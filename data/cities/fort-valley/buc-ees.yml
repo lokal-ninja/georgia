@@ -1,11 +1,11 @@
 id: 1079824631
-type: way
+type: node
 latitude: 32.58478
 longitude: -83.74076
 postcode: "31030"
 city: Fort Valley
-street: "Richard B. Russell Parkway"
-housenumber: 7001
+street: Richard B. Russell Parkway
+housenumber: "7001"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

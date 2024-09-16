@@ -1,11 +1,11 @@
 id: 486837869
-type: way
+type: node
 latitude: 32.92812
 longitude: -83.71244
 postcode: "31210"
 city: Macon
-street: "Gateway Drive"
-housenumber: 167
+street: Gateway Drive
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

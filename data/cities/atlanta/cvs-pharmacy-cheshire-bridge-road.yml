@@ -1,11 +1,11 @@
 id: 268601188
-type: way
+type: node
 latitude: 33.81922
 longitude: -84.35215
 postcode: "30324"
 city: Atlanta
-street: "Cheshire Bridge Road"
-housenumber: 2350
+street: Cheshire Bridge Road
+housenumber: "2350"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/atlanta-ga-pharmacies/2350-cheshire-bridge-road-atlanta-ga-30324/storeid=2186"
+website: https://www.cvs.com/store-locator/atlanta-ga-pharmacies/2350-cheshire-bridge-road-atlanta-ga-30324/storeid=2186

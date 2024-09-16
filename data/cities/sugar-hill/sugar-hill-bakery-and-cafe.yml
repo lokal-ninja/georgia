@@ -1,11 +1,11 @@
 id: 387210821
-type: way
+type: node
 latitude: 34.10655
 longitude: -84.03339
 postcode: "30518"
 city: Sugar Hill
-street: "West Broad Street"
-housenumber: 4969
+street: West Broad Street
+housenumber: "4969"
 phone: ""
 opening_hours: ""
-website: "http://www.sugarhillbakeryandcafe.com/"
+website: http://www.sugarhillbakeryandcafe.com/

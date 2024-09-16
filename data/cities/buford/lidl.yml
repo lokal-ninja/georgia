@@ -1,11 +1,11 @@
 id: 1054237165
-type: way
+type: node
 latitude: 34.0352
 longitude: -83.95281
 postcode: "30519"
 city: Buford
-street: "Braselton Highway"
-housenumber: 1945
-phone: "+1 844-747-5435"
+street: Braselton Highway
+housenumber: "1945"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

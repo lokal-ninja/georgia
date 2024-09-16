@@ -1,11 +1,11 @@
 id: 936399499
-type: way
+type: node
 latitude: 33.84159
 longitude: -84.50312
 postcode: "30082"
 city: Smyrna
-street: "East-West Connector"
-housenumber: 4290
-phone: "+1 (770) 436-9946"
-opening_hours: "24/7"
+street: East-West Connector
+housenumber: "4290"
+phone: +1 (770) 436-9946
+opening_hours: 24/7
 website: ""

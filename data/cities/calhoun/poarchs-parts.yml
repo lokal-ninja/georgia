@@ -1,11 +1,11 @@
 id: 1306698187
-type: way
+type: node
 latitude: 34.52706
 longitude: -84.90144
 postcode: "30701"
 city: Calhoun
-street: "Newtown Creek Loop Northeast"
-housenumber: 703
+street: Newtown Creek Loop Northeast
+housenumber: "703"
 phone: "+17066255334"
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

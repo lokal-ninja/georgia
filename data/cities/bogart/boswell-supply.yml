@@ -1,11 +1,11 @@
 id: 1023403459
-type: way
+type: node
 latitude: 33.9312
 longitude: -83.53117
 postcode: ""
 city: Bogart
-street: "Mars Hill Road"
-housenumber: 4691
+street: Mars Hill Road
+housenumber: "4691"
 phone: ""
 opening_hours: ""
-website: "https://boswellecs.com/contact-us/athens-location/"
+website: https://boswellecs.com/contact-us/athens-location/

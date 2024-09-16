@@ -1,11 +1,11 @@
 id: 97225683
-type: way
+type: node
 latitude: 33.94905
 longitude: -84.13413
 postcode: "30096"
 city: Duluth
-street: "Shackleford Road"
-housenumber: 3755
-phone: "+1 770-564-2607"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/duluth/ga/duluth/30096/105"
+street: Shackleford Road
+housenumber: "3755"
+phone: +1 770-564-2607
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/duluth/ga/duluth/30096/105

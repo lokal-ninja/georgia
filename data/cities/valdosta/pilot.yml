@@ -1,11 +1,11 @@
 id: 236502830
-type: way
+type: node
 latitude: 30.75443
 longitude: -83.27299
 postcode: "31601"
 city: Valdosta
-street: "Madison Highway"
-housenumber: 3460
+street: Madison Highway
+housenumber: "3460"
 phone: ""
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/ga/valdosta/3460-madison-hwy"
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/ga/valdosta/3460-madison-hwy

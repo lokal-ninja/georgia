@@ -1,11 +1,11 @@
 id: 840758739
-type: way
+type: node
 latitude: 33.99164
 longitude: -85.25321
 postcode: "30125"
 city: Cedartown
-street: "South Main Street"
-housenumber: 1508
-phone: "+1 (678) 899-0891"
+street: South Main Street
+housenumber: "1508"
+phone: +1 (678) 899-0891
 opening_hours: ""
 website: ""

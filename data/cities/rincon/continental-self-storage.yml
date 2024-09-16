@@ -1,11 +1,11 @@
 id: 1149795998
-type: way
+type: node
 latitude: 32.28165
 longitude: -81.23432
 postcode: "31326"
 city: Rincon
-street: "South Columbia Avenue"
-housenumber: 315
-phone: "+1-912-826-4668"
+street: South Columbia Avenue
+housenumber: "315"
+phone: +1-912-826-4668
 opening_hours: ""
-website: "https://www.thecontinentalselfstorage.com/our-locations/rincon"
+website: https://www.thecontinentalselfstorage.com/our-locations/rincon

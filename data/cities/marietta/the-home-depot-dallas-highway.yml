@@ -1,11 +1,11 @@
 id: 336022199
-type: way
+type: node
 latitude: 33.94732
 longitude: -84.62075
 postcode: "30064"
 city: Marietta
-street: "Dallas Highway"
-housenumber: 2350
-phone: "+1 770-792-6858"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/West-Cobb/GA/Marietta/30064/153"
+street: Dallas Highway
+housenumber: "2350"
+phone: +1 770-792-6858
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/West-Cobb/GA/Marietta/30064/153

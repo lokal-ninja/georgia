@@ -1,11 +1,11 @@
 id: 388309126
-type: way
+type: node
 latitude: 34.07189
 longitude: -84.05542
 postcode: "30024"
 city: Suwanee
-street: "Buford Highway"
-housenumber: 190
+street: Buford Highway
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

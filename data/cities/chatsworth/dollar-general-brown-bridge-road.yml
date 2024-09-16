@@ -1,11 +1,11 @@
 id: 1123945037
-type: way
+type: node
 latitude: 34.70385
 longitude: -84.8207
 postcode: "30705"
 city: Chatsworth
-street: "Brown Bridge Road"
-housenumber: 33
-phone: "+1-470-766-0282"
+street: Brown Bridge Road
+housenumber: "33"
+phone: +1-470-766-0282
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/chatsworth/20401"
+website: https://www.dollargeneral.com/store-directory/ga/chatsworth/20401

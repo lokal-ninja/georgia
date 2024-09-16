@@ -4,8 +4,9 @@ latitude: 34.0387
 longitude: -84.53065
 postcode: "30066"
 city: Marietta
-street: "Canton Road"
-housenumber: 3595
-phone: "+1 770-924-7930"
-opening_hours: "Su-Sa 06:00-24:00 open Store || Su 11:00-18:00; Mo-Fr 08:00-20:00; Sa 09:00-18:00 open Pharmacy"
-website: "https://www.kroger.com/stores/grocery/ga/marietta/chastain/011/00365"
+street: Canton Road
+housenumber: "3595"
+phone: +1 770-924-7930
+opening_hours: Su-Sa 06:00-24:00 open "Store" || Su 11:00-18:00; Mo-Fr 08:00-20:00;
+    Sa 09:00-18:00 open "Pharmacy"
+website: https://www.kroger.com/stores/grocery/ga/marietta/chastain/011/00365

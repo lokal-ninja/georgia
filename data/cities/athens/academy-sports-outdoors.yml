@@ -1,11 +1,11 @@
 id: 725953720
-type: way
+type: node
 latitude: 33.93707
 longitude: -83.45254
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 3505
-phone: "+1-706-354-5620"
-opening_hours: "Mo-Sa 08:00-22:00, Su 09:00-21:30"
-website: "https://www.academy.com/storelocator/georgia/athens/store-0192"
+street: Atlanta Highway
+housenumber: "3505"
+phone: +1-706-354-5620
+opening_hours: Mo-Sa 08:00-22:00, Su 09:00-21:30
+website: https://www.academy.com/storelocator/georgia/athens/store-0192

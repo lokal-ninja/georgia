@@ -1,11 +1,11 @@
 id: 1242484420
-type: way
+type: node
 latitude: 32.5482
 longitude: -83.69142
 postcode: "31047"
 city: Kathleen
-street: "Lake Joy Road"
-housenumber: 671
+street: Lake Joy Road
+housenumber: "671"
 phone: ""
 opening_hours: ""
 website: ""

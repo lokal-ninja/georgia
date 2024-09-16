@@ -1,11 +1,11 @@
 id: 381378337
-type: way
+type: node
 latitude: 34.68938
 longitude: -84.02177
 postcode: "30572"
 city: Suches
-street: "Wolf Pen Gap Road"
-housenumber: 41
-phone: "+1 (706) 747-2271"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-19:00"
+street: Wolf Pen Gap Road
+housenumber: "41"
+phone: +1 (706) 747-2271
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-19:00
 website: ""

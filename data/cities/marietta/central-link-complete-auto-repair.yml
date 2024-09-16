@@ -1,11 +1,11 @@
 id: 334743785
-type: way
+type: node
 latitude: 33.93844
 longitude: -84.55403
 postcode: "30064"
 city: Marietta
-street: "Powder Springs Street Southwest"
-housenumber: 598
-phone: "+1 (770) 425-3939"
+street: Powder Springs Street Southwest
+housenumber: "598"
+phone: +1 (770) 425-3939
 opening_hours: ""
-website: "http://www.centrallinkautorepairs.com/"
+website: http://www.centrallinkautorepairs.com/

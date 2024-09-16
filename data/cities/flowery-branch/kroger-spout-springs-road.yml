@@ -1,11 +1,11 @@
 id: 664748627
-type: way
+type: node
 latitude: 34.10776
 longitude: -83.87606
 postcode: "30542"
 city: Flowery Branch
-street: "Spout Springs Road"
-housenumber: 7380
-phone: "+1 770-965-5637"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/flowery-branch/clearwater-crossing/011/00416"
+street: Spout Springs Road
+housenumber: "7380"
+phone: +1 770-965-5637
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/flowery-branch/clearwater-crossing/011/00416

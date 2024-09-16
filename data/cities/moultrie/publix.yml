@@ -1,11 +1,11 @@
 id: 831967039
-type: way
+type: node
 latitude: 31.18699
 longitude: -83.75931
 postcode: "31788"
 city: Moultrie
-street: "Veterans Parkway North"
-housenumber: 378
-phone: "+1 229-217-4812"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1540"
+street: Veterans Parkway North
+housenumber: "378"
+phone: +1 229-217-4812
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1540

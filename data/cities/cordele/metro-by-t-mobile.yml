@@ -1,11 +1,11 @@
 id: 1106585781
-type: way
+type: node
 latitude: 31.96298
 longitude: -83.76415
 postcode: "31015"
 city: Cordele
-street: "East 16th Avenue"
-housenumber: 1115
+street: East 16th Avenue
+housenumber: "1115"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-cordele-ga-10230821/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-cordele-ga-10230821/

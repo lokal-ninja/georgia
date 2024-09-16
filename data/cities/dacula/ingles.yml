@@ -1,11 +1,11 @@
 id: 544988658
-type: way
+type: node
 latitude: 34.03296
 longitude: -83.9096
 postcode: "30019"
 city: Dacula
-street: "Dacula Road"
-housenumber: 1221
+street: Dacula Road
+housenumber: "1221"
 phone: ""
 opening_hours: ""
 website: ""

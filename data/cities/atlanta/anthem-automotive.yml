@@ -1,11 +1,11 @@
 id: 292390582
-type: way
+type: node
 latitude: 33.81639
 longitude: -84.36638
 postcode: "30324"
 city: Atlanta
-street: "Piedmont Road Northeast"
-housenumber: 2163
-phone: "+1-404-793-7503"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "www.ANTHEMAUTO.com"
+street: Piedmont Road Northeast
+housenumber: "2163"
+phone: +1-404-793-7503
+opening_hours: Mo-Fr 07:00-18:00
+website: www.ANTHEMAUTO.com

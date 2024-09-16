@@ -1,11 +1,11 @@
 id: 429774375
-type: way
+type: node
 latitude: 34.55866
 longitude: -84.93541
 postcode: "30701"
 city: Calhoun
-street: "US 41"
-housenumber: 2111
+street: US 41
+housenumber: "2111"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

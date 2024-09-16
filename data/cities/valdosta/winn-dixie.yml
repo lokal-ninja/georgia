@@ -1,11 +1,11 @@
 id: 330988076
-type: way
+type: node
 latitude: 30.8752
 longitude: -83.2944
 postcode: "31602"
 city: Valdosta
-street: "North Ashley Street"
-housenumber: 3200
-phone: "+1 229-242-0917"
+street: North Ashley Street
+housenumber: "3200"
+phone: +1 229-242-0917
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/valdosta/ga?search=140"
+website: https://www.winndixie.com/storedetails/valdosta/ga?search=140

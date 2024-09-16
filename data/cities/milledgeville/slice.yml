@@ -1,11 +1,11 @@
 id: 653864299
-type: way
+type: node
 latitude: 33.07554
 longitude: -83.2248
 postcode: ""
 city: Milledgeville
-street: "East Baldwin Street"
-housenumber: 121
+street: East Baldwin Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

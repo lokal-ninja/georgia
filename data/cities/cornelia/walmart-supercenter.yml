@@ -1,11 +1,11 @@
 id: 390243054
-type: way
+type: node
 latitude: 34.53675
 longitude: -83.5327
 postcode: "30531"
 city: Cornelia
-street: "Furniture Drive"
-housenumber: 250
-phone: "+1 706-778-0353"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1403/cornelia-ga/whats-new"
+street: Furniture Drive
+housenumber: "250"
+phone: +1 706-778-0353
+opening_hours: 24/7
+website: https://www.walmart.com/store/1403/cornelia-ga/whats-new

@@ -1,11 +1,11 @@
 id: 307637466
-type: way
+type: node
 latitude: 33.72641
 longitude: -84.73445
 postcode: "30135"
 city: Douglasville
-street: "Chapel Hill Road"
-housenumber: 2940
-phone: "+1 770-942-3326"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/douglasville-store0276.html"
+street: Chapel Hill Road
+housenumber: "2940"
+phone: +1 770-942-3326
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/douglasville-store0276.html

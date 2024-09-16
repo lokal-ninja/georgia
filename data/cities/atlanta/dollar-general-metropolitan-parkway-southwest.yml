@@ -1,11 +1,11 @@
 id: 993285361
-type: way
+type: node
 latitude: 33.68186
 longitude: -84.40735
 postcode: "30315"
 city: Atlanta
-street: "Metropolitan Parkway Southwest"
-housenumber: 2690
+street: Metropolitan Parkway Southwest
+housenumber: "2690"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/atlanta/19011"
+website: https://www.dollargeneral.com/store-directory/ga/atlanta/19011

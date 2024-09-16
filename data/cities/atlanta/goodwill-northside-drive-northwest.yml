@@ -1,11 +1,11 @@
 id: 269542742
-type: way
+type: node
 latitude: 33.79497
 longitude: -84.40817
 postcode: "30318"
 city: Atlanta
-street: "Northside Drive Northwest"
-housenumber: 1460
+street: Northside Drive Northwest
+housenumber: "1460"
 phone: ""
 opening_hours: ""
 website: ""

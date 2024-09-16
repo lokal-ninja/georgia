@@ -1,11 +1,11 @@
 id: 474785070
-type: way
+type: node
 latitude: 32.61773
 longitude: -83.68204
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 2835
+street: Watson Boulevard
+housenumber: "2835"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2835+watson+blvd-warner+robins-ga-31093/id=11348"
+website: https://www.walgreens.com/locator/walgreens-2835+watson+blvd-warner+robins-ga-31093/id=11348

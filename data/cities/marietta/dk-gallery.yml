@@ -1,11 +1,11 @@
 id: 245388700
-type: way
+type: node
 latitude: 33.95258
 longitude: -84.55034
 postcode: "30060"
 city: Marietta
-street: "West Park Square"
-housenumber: 25
-phone: "+1 (770) 427-5377"
-opening_hours: "Tu-Sa 11:00-17:00; Fr[1] 11:00-21:00"
-website: "http://dkgallery.us/"
+street: West Park Square
+housenumber: "25"
+phone: +1 (770) 427-5377
+opening_hours: Tu-Sa 11:00-17:00; Fr[1] 11:00-21:00
+website: http://dkgallery.us/

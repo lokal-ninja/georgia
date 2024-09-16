@@ -1,11 +1,11 @@
 id: 794603289
-type: way
+type: node
 latitude: 33.74519
 longitude: -85.28909
 postcode: "30176"
 city: Tallapoosa
-street: "Spring Street"
-housenumber: 107
-phone: "+1 (770) 574-2914"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.cvs.com/store-locator/tallapoosa-ga-pharmacies/107-spring-st-tallapoosa-ga-30176/storeid=4576"
+street: Spring Street
+housenumber: "107"
+phone: +1 (770) 574-2914
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.cvs.com/store-locator/tallapoosa-ga-pharmacies/107-spring-st-tallapoosa-ga-30176/storeid=4576

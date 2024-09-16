@@ -1,11 +1,11 @@
 id: 474482819
-type: way
+type: node
 latitude: 31.14686
 longitude: -83.42726
 postcode: "31620"
 city: Adel
-street: "North Hutchinson Avenue"
-housenumber: 1003
+street: North Hutchinson Avenue
+housenumber: "1003"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"
-website: "https://www.hilliardsfurnishings.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00
+website: https://www.hilliardsfurnishings.com/

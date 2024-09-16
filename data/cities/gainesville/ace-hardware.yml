@@ -1,11 +1,11 @@
 id: 1039503153
-type: way
+type: node
 latitude: 34.31663
 longitude: -83.79625
 postcode: "30501"
 city: Gainesville
-street: "Jesse Jewell Parkway Northeast"
-housenumber: 1963
-phone: "+1 470-768-6118"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-18:30; Su 10:00-17:00"
+street: Jesse Jewell Parkway Northeast
+housenumber: "1963"
+phone: +1 470-768-6118
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-18:30; Su 10:00-17:00
 website: ""

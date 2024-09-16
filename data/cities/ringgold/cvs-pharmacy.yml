@@ -1,11 +1,11 @@
 id: 689754744
-type: way
+type: node
 latitude: 34.91858
 longitude: -85.12321
 postcode: ""
 city: Ringgold
-street: "Nashville Street"
-housenumber: 6945
+street: Nashville Street
+housenumber: "6945"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ringgold-ga-pharmacies/6945-nashville-street-ringgold-ga-30736/storeid=7745"
+website: https://www.cvs.com/store-locator/ringgold-ga-pharmacies/6945-nashville-street-ringgold-ga-30736/storeid=7745

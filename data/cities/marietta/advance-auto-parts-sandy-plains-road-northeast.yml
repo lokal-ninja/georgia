@@ -1,11 +1,11 @@
 id: 326827865
-type: way
+type: node
 latitude: 34.01239
 longitude: -84.49557
 postcode: "30066"
 city: Marietta
-street: "Sandy Plains Road Northeast"
-housenumber: 2520
-phone: "+1 (770) 971-4664"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-website: "https://stores.advanceautoparts.com/ga/marietta/2520-sandy-plains-rd"
+street: Sandy Plains Road Northeast
+housenumber: "2520"
+phone: +1 (770) 971-4664
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:30
+website: https://stores.advanceautoparts.com/ga/marietta/2520-sandy-plains-rd

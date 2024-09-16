@@ -1,11 +1,11 @@
 id: 532438326
-type: way
+type: node
 latitude: 32.62044
 longitude: -83.66683
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 2620
-phone: "+1 478-923-4594"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Warner-Robins/GA/Warner-Robins/31093/163"
+street: Watson Boulevard
+housenumber: "2620"
+phone: +1 478-923-4594
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Warner-Robins/GA/Warner-Robins/31093/163

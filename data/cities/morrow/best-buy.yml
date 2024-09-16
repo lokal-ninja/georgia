@@ -1,11 +1,11 @@
 id: 847329064
-type: way
+type: node
 latitude: 33.5658
 longitude: -84.32323
 postcode: "30260"
 city: Morrow
-street: "Mount Zion Road"
-housenumber: 1980
-phone: "+1 770-472-8958"
+street: Mount Zion Road
+housenumber: "1980"
+phone: +1 770-472-8958
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/morrow/1980-mount-zion-rd-505.html"
+website: https://stores.bestbuy.com/ga/morrow/1980-mount-zion-rd-505.html

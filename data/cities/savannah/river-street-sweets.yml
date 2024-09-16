@@ -1,11 +1,11 @@
 id: 208324757
-type: way
+type: node
 latitude: 32.08144
 longitude: -81.09056
 postcode: "31401"
 city: Savannah
-street: "East River Street"
-housenumber: 13
+street: East River Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.riverstreetsweets.com/"
+website: https://www.riverstreetsweets.com/

@@ -1,11 +1,11 @@
 id: 289248701
-type: way
+type: node
 latitude: 33.39795
 longitude: -84.59748
 postcode: "30269"
 city: Peachtree City
-street: "Highway 54"
-housenumber: 2703
-phone: "+1 678-364-1025"
+street: Highway 54
+housenumber: "2703"
+phone: +1 678-364-1025
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/peachtree-city/2703-hwy-54-1049.html"
+website: https://stores.bestbuy.com/ga/peachtree-city/2703-hwy-54-1049.html

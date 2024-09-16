@@ -1,11 +1,11 @@
 id: 278131855
-type: way
+type: node
 latitude: 33.74453
 longitude: -84.36134
 postcode: "30316"
 city: Atlanta
-street: "Old Flat Shoals Road Southeast"
-housenumber: 815
+street: Old Flat Shoals Road Southeast
+housenumber: "815"
 phone: ""
 opening_hours: ""
 website: ""

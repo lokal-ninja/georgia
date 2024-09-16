@@ -1,11 +1,11 @@
 id: 944304594
-type: way
+type: node
 latitude: 32.065
 longitude: -81.16081
 postcode: "31405"
 city: Savannah
-street: "Park of Commerce Boulevard"
-housenumber: 1
+street: Park of Commerce Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 753311458
-type: way
+type: node
 latitude: 30.83795
 longitude: -83.94706
-postcode: "31792-5398"
+postcode: 31792-5398
 city: Thomasville
-street: "US Highway 19 South"
-housenumber: 13775
-phone: "+1 229-226-9800"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1498"
+street: US Highway 19 South
+housenumber: "13775"
+phone: +1 229-226-9800
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1498

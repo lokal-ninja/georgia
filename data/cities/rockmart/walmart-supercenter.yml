@@ -1,11 +1,11 @@
 id: 982068224
-type: way
+type: node
 latitude: 34.01353
 longitude: -85.02958
 postcode: "30153"
 city: Rockmart
-street: "Nathan Dean Bypass"
-housenumber: 1801
-phone: "+1 678-757-8766"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4409/rockmart-ga/whats-new"
+street: Nathan Dean Bypass
+housenumber: "1801"
+phone: +1 678-757-8766
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4409/rockmart-ga/whats-new

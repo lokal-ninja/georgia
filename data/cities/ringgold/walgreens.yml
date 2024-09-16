@@ -1,11 +1,11 @@
 id: 539464082
-type: way
+type: node
 latitude: 34.91629
 longitude: -85.12303
 postcode: ""
 city: Ringgold
-street: "Alabama Highway"
-housenumber: 5075
+street: Alabama Highway
+housenumber: "5075"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5075+alabama+hwy-ringgold-ga-30736/id=10247"
+website: https://www.walgreens.com/locator/walgreens-5075+alabama+hwy-ringgold-ga-30736/id=10247

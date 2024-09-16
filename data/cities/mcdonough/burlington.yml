@@ -1,11 +1,11 @@
 id: 948846169
-type: way
+type: node
 latitude: 33.42048
 longitude: -84.18618
 postcode: "30253"
 city: McDonough
-street: "Highway 20"
-housenumber: 1541
-phone: "+1 770-957-4986"
-opening_hours: "Mo-Th 08:00-23:30; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ga/mcdonough/1054"
+street: Highway 20
+housenumber: "1541"
+phone: +1 770-957-4986
+opening_hours: Mo-Th 08:00-23:30; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ga/mcdonough/1054

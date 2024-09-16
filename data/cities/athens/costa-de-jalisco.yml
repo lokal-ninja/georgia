@@ -1,11 +1,11 @@
 id: 293545921
-type: way
+type: node
 latitude: 33.96141
 longitude: -83.38377
 postcode: "30601"
 city: Athens
-street: "Barber Street"
-housenumber: 140
+street: Barber Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 606001715
-type: way
+type: node
 latitude: 31.6213
 longitude: -84.22382
-postcode: "31707-1673"
+postcode: 31707-1673
 city: Albany
-street: "Dawson Road"
-housenumber: 2715
-phone: "+1 229-431-2880"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/450"
+street: Dawson Road
+housenumber: "2715"
+phone: +1 229-431-2880
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/450

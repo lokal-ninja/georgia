@@ -1,11 +1,11 @@
 id: 236148333
-type: way
+type: node
 latitude: 33.88377
 longitude: -84.21888
 postcode: "30084"
 city: Tucker
-street: "Tucker Norcross Road"
-housenumber: 3201
-phone: "+1 770-225-6010"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3071/tucker-ga/whats-new"
+street: Tucker Norcross Road
+housenumber: "3201"
+phone: +1 770-225-6010
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3071/tucker-ga/whats-new

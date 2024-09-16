@@ -1,11 +1,11 @@
 id: 683427167
-type: way
+type: node
 latitude: 34.90657
 longitude: -85.1325
 postcode: ""
 city: Ringgold
-street: "Popular Springs Road"
-housenumber: 106
+street: Popular Springs Road
+housenumber: "106"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

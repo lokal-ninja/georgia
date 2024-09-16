@@ -1,11 +1,11 @@
 id: 311053052
-type: way
+type: node
 latitude: 33.95371
 longitude: -83.39765
 postcode: "30606"
 city: Athens
-street: "Glenhaven Avenue"
-housenumber: 390
-phone: "+1-706-548-4246"
-opening_hours: "24/7 on call"
-website: "https://www.winfreymutualfuneralhome.com/"
+street: Glenhaven Avenue
+housenumber: "390"
+phone: +1-706-548-4246
+opening_hours: 24/7 "on call"
+website: https://www.winfreymutualfuneralhome.com/

@@ -1,11 +1,11 @@
 id: 1057817880
-type: way
+type: node
 latitude: 30.90278
 longitude: -84.55028
 postcode: "39819"
 city: Bainbridge
-street: "East Shotwell Street"
-housenumber: 1602
-phone: "+1 229 246 1611"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.napaonline.com/en/ga/bainbridge/store/25055"
+street: East Shotwell Street
+housenumber: "1602"
+phone: +1 229 246 1611
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.napaonline.com/en/ga/bainbridge/store/25055

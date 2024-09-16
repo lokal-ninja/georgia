@@ -1,11 +1,11 @@
 id: 264240282
-type: way
+type: node
 latitude: 33.90962
 longitude: -84.49407
 postcode: "30060"
 city: Marietta
-street: "Cobb Parkway South"
-housenumber: 1764
-phone: "+1 (770) 952-0151"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.midas.com/atlanta/store.aspx?shopnum=3293&dmanum=52"
+street: Cobb Parkway South
+housenumber: "1764"
+phone: +1 (770) 952-0151
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.midas.com/atlanta/store.aspx?shopnum=3293&dmanum=52

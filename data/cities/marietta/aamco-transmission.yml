@@ -1,11 +1,11 @@
 id: 264241451
-type: way
+type: node
 latitude: 33.91109
 longitude: -84.49604
 postcode: "30060"
 city: Marietta
-street: "Cobb Parkway South"
-housenumber: 1702
-phone: "+1 (678) 383-4715"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-14:00"
-website: "https://www.aamcomarietta-cobbparkway.com/"
+street: Cobb Parkway South
+housenumber: "1702"
+phone: +1 (678) 383-4715
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-14:00
+website: https://www.aamcomarietta-cobbparkway.com/

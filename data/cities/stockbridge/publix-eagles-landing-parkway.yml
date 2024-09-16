@@ -1,11 +1,11 @@
 id: 777831183
-type: way
+type: node
 latitude: 33.51092
 longitude: -84.22011
-postcode: "30281-6398"
+postcode: 30281-6398
 city: Stockbridge
-street: "Eagles Landing Parkway"
-housenumber: 909
-phone: "+1 770-389-6130"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/547"
+street: Eagles Landing Parkway
+housenumber: "909"
+phone: +1 770-389-6130
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/547

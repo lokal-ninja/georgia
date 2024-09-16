@@ -1,11 +1,11 @@
 id: 540234154
-type: way
+type: node
 latitude: 34.33752
 longitude: -84.37562
 postcode: "30107"
 city: Ball Ground
-street: "Gilmer Ferry Road"
-housenumber: 335
+street: Gilmer Ferry Road
+housenumber: "335"
 phone: ""
 opening_hours: ""
-website: "https://www.lebven.com/"
+website: https://www.lebven.com/

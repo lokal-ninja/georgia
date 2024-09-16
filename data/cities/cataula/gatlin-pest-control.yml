@@ -1,11 +1,11 @@
 id: 696548858
-type: way
+type: node
 latitude: 32.64459
 longitude: -84.88113
 postcode: "31804"
 city: Cataula
-street: "US Highway 27"
-housenumber: 3155
+street: US Highway 27
+housenumber: "3155"
 phone: "+17063227004"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.gatlinpestcontrolharrisco.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.gatlinpestcontrolharrisco.com/

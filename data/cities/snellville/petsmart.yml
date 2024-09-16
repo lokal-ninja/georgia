@@ -1,11 +1,11 @@
 id: 388755074
-type: way
+type: node
 latitude: 33.87368
 longitude: -84.01489
 postcode: "30078"
 city: Snellville
-street: "Scenic Highway"
-housenumber: 1929
-phone: "+1 770-225-0382"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/snellville-store2348.html"
+street: Scenic Highway
+housenumber: "1929"
+phone: +1 770-225-0382
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/snellville-store2348.html

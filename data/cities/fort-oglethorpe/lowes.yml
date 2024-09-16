@@ -1,11 +1,11 @@
 id: 261777141
-type: way
+type: node
 latitude: 34.94691
 longitude: -85.22821
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 2215
-phone: "+1 706-866-0948"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "stores.lowes.com/lowes/cgi/site?site=0485"
+street: Battlefield Parkway
+housenumber: "2215"
+phone: +1 706-866-0948
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: stores.lowes.com/lowes/cgi/site?site=0485

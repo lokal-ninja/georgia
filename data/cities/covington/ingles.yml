@@ -1,11 +1,11 @@
 id: 1121089975
-type: way
+type: node
 latitude: 33.59719
 longitude: -83.83182
 postcode: "30014"
 city: Covington
-street: "US Highway 278"
-housenumber: 9176
-phone: "770-787-8129"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.ingles-markets.com/"
+street: US Highway 278
+housenumber: "9176"
+phone: 770-787-8129
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.ingles-markets.com/

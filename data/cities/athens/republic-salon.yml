@@ -4,8 +4,8 @@ latitude: 33.95752
 longitude: -83.37404
 postcode: "30601"
 city: Athens
-street: "East Broad Street"
-housenumber: 312
-phone: "(706) 208-5222"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"
-website: "http://republicsalon.com/"
+street: East Broad Street
+housenumber: "312"
+phone: (706) 208-5222
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00
+website: http://republicsalon.com/

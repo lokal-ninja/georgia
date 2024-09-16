@@ -1,11 +1,11 @@
 id: 929871315
-type: way
+type: node
 latitude: 31.45913
 longitude: -83.50651
 postcode: "31794"
 city: Tifton
-street: "Love Avenue"
-housenumber: 615
-phone: "+1 229-382-5359"
+street: Love Avenue
+housenumber: "615"
+phone: +1 229-382-5359
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-615+love+ave-tifton-ga-31794/id=10833"
+website: https://www.walgreens.com/locator/walgreens-615+love+ave-tifton-ga-31794/id=10833

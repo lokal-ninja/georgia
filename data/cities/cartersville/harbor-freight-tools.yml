@@ -1,11 +1,11 @@
 id: 1102536494
-type: way
+type: node
 latitude: 34.20518
 longitude: -84.80024
 postcode: "30121"
 city: Cartersville
-street: "Apex Drive Southeast"
-housenumber: 21
-phone: "+1 470-490-9510"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/21-apex-drive-se-cartersville-30121?number=3105"
+street: Apex Drive Southeast
+housenumber: "21"
+phone: +1 470-490-9510
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/21-apex-drive-se-cartersville-30121?number=3105

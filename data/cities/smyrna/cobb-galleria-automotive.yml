@@ -1,11 +1,11 @@
 id: 264851786
-type: way
+type: node
 latitude: 33.88529
 longitude: -84.47639
 postcode: "30080"
 city: Smyrna
-street: "Cumberland Boulevard Southeast"
-housenumber: 2781
-phone: "+1 (770) 438-1916"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://cobbgalleriaauto.com/"
+street: Cumberland Boulevard Southeast
+housenumber: "2781"
+phone: +1 (770) 438-1916
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://cobbgalleriaauto.com/

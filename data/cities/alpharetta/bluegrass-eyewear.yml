@@ -1,11 +1,11 @@
 id: 392480239
-type: way
+type: node
 latitude: 34.11318
 longitude: -84.23398
 postcode: "30004"
 city: Alpharetta
-street: "Bluegrass Lakes Parkway"
-housenumber: 1525
-phone: "+1 770-847-8788"
+street: Bluegrass Lakes Parkway
+housenumber: "1525"
+phone: +1 770-847-8788
 opening_hours: ""
-website: "https://bluegrasseyewear.com"
+website: https://bluegrasseyewear.com

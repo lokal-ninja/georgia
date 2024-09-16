@@ -1,11 +1,11 @@
 id: 387598786
-type: way
+type: node
 latitude: 33.94843
 longitude: -83.98597
 postcode: ""
 city: Lawrenceville
-street: "South Clayton Street"
-housenumber: 200
+street: South Clayton Street
+housenumber: "200"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

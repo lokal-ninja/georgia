@@ -1,11 +1,11 @@
 id: 77994161
-type: way
+type: node
 latitude: 33.50129
 longitude: -82.0904
 postcode: "30907"
 city: Augusta
-street: "Bobby Jones Expressway"
-housenumber: 499
-phone: "+1 706-650-7662"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/augusta/ga/augusta/30907/119"
+street: Bobby Jones Expressway
+housenumber: "499"
+phone: +1 706-650-7662
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/augusta/ga/augusta/30907/119

@@ -1,11 +1,11 @@
 id: 818257669
-type: way
+type: node
 latitude: 34.11745
 longitude: -84.22208
 postcode: "30004"
 city: Alpharetta
-street: "McFarland Parkway"
-housenumber: 1385
-phone: "+1 (770) 667-9026"
-opening_hours: "24/7"
-website: "https://www.racetrac.com/Locations/Detail/2537"
+street: McFarland Parkway
+housenumber: "1385"
+phone: +1 (770) 667-9026
+opening_hours: 24/7
+website: https://www.racetrac.com/Locations/Detail/2537

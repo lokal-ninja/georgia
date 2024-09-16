@@ -4,8 +4,8 @@ latitude: 34.18938
 longitude: -84.79636
 postcode: "30120"
 city: Cartersville
-street: "N Tennessee St"
-housenumber: 1010
-phone: "770-386-1672"
-opening_hours: "Monday - Sunday: Open 24 Hours"
-website: "https://lock-doc.net"
+street: N Tennessee St
+housenumber: "1010"
+phone: 770-386-1672
+opening_hours: 'Monday - Sunday: Open 24 Hours'
+website: https://lock-doc.net

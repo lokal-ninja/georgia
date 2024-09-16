@@ -1,11 +1,11 @@
 id: 1017702954
-type: way
+type: node
 latitude: 30.90313
 longitude: -84.5544
 postcode: "39819"
 city: Bainbridge
-street: "East Shotwell Street"
-housenumber: 1410
+street: East Shotwell Street
+housenumber: "1410"
 phone: ""
 opening_hours: ""
 website: ""

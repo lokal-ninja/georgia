@@ -1,11 +1,11 @@
 id: 742395726
-type: way
+type: node
 latitude: 31.61771
 longitude: -81.90234
 postcode: "31545"
 city: Jesup
-street: "West Orange Street"
-housenumber: 1516
+street: West Orange Street
+housenumber: "1516"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 967182450
-type: way
+type: node
 latitude: 33.55915
 longitude: -84.4118
 postcode: "30274"
 city: Riverdale
-street: "Lamar Hutcheson Parkway"
-housenumber: 680
-phone: "+1 770-907-6027"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Riverdale-GA/GA/Riverdale/30274/178"
+street: Lamar Hutcheson Parkway
+housenumber: "680"
+phone: +1 770-907-6027
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Riverdale-GA/GA/Riverdale/30274/178

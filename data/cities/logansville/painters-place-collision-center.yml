@@ -1,11 +1,11 @@
 id: 391024595
-type: way
+type: node
 latitude: 33.82808
 longitude: -83.82682
 postcode: ""
 city: Logansville
-street: "Highway 78"
-housenumber: 2329
+street: Highway 78
+housenumber: "2329"
 phone: "6786350524"
 opening_hours: ""
-website: "https://www.facebook.com/paintersplacecollisioncenter"
+website: https://www.facebook.com/paintersplacecollisioncenter

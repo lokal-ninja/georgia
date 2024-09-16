@@ -1,11 +1,11 @@
 id: 298683109
-type: way
+type: node
 latitude: 34.70215
 longitude: -83.73324
 postcode: "30545"
 city: Helen
-street: "North Main Street"
-housenumber: 8800
-phone: "+1 (706) 878-2262"
+street: North Main Street
+housenumber: "8800"
+phone: +1 (706) 878-2262
 opening_hours: ""
 website: ""

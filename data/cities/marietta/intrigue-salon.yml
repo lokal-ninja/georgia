@@ -1,11 +1,12 @@
 id: 106823033
-type: way
+type: node
 latitude: 33.9814
 longitude: -84.42576
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1314
-phone: "+1 (770) 977-3696"
-opening_hours: "Mo 09:00-18:00; Tu 09:00-20:00; We-Th 08:00-20:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://intriguesalon.com/"
+street: Johnson Ferry Road Northeast
+housenumber: "1314"
+phone: +1 (770) 977-3696
+opening_hours: Mo 09:00-18:00; Tu 09:00-20:00; We-Th 08:00-20:00; Fr 09:00-19:00;
+    Sa 09:00-16:00
+website: http://intriguesalon.com/

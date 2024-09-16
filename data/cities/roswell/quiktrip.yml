@@ -1,11 +1,11 @@
 id: 658317369
-type: way
+type: node
 latitude: 34.06132
 longitude: -84.42039
 postcode: "30075"
 city: Roswell
-street: "Woodstock Road"
-housenumber: 4635
+street: Woodstock Road
+housenumber: "4635"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

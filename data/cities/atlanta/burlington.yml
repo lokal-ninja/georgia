@@ -1,11 +1,11 @@
 id: 320114224
-type: way
+type: node
 latitude: 33.88224
 longitude: -84.46262
 postcode: "30339"
 city: Atlanta
-street: "Cobb Parkway South"
-housenumber: 2955
-phone: "+1 943-207-7630"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ga/atlanta/1558"
+street: Cobb Parkway South
+housenumber: "2955"
+phone: +1 943-207-7630
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ga/atlanta/1558

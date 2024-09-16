@@ -1,11 +1,11 @@
 id: 1037232654
-type: way
+type: node
 latitude: 33.03895
 longitude: -83.93805
 postcode: "31029"
 city: Forsyth
-street: "North Lee Street"
-housenumber: 171
+street: North Lee Street
+housenumber: "171"
 phone: ""
 opening_hours: ""
-website: "https://jonespetroleum.com/"
+website: https://jonespetroleum.com/

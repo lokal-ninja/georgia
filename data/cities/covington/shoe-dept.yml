@@ -1,11 +1,11 @@
 id: 707488312
-type: way
+type: node
 latitude: 33.60417
 longitude: -83.85948
 postcode: "30014"
 city: Covington
-street: "Highway 278 Northeast"
-housenumber: 3123
+street: Highway 278 Northeast
+housenumber: "3123"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 271124531
-type: way
+type: node
 latitude: 33.7405
 longitude: -84.34373
 postcode: "30316"
 city: Atlanta
-street: "Glenwood Avenue Southeast"
-housenumber: 1336
+street: Glenwood Avenue Southeast
+housenumber: "1336"
 phone: ""
 opening_hours: ""
 website: ""

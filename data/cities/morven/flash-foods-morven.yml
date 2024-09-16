@@ -1,11 +1,11 @@
 id: 1183305032
-type: way
+type: node
 latitude: 30.9463
 longitude: -83.49873
 postcode: "31638"
 city: Morven
-street: "Adel Highway"
-housenumber: 11596
+street: Adel Highway
+housenumber: "11596"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

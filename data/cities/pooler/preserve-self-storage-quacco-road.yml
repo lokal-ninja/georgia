@@ -1,11 +1,11 @@
 id: 1132280142
-type: way
+type: node
 latitude: 32.05372
 longitude: -81.26947
 postcode: "31322"
 city: Pooler
-street: "Quacco Road"
-housenumber: 1415
+street: Quacco Road
+housenumber: "1415"
 phone: "+19127373787"
 opening_hours: ""
 website: ""

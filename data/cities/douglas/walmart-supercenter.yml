@@ -1,11 +1,11 @@
 id: 1051609597
-type: way
+type: node
 latitude: 31.48437
 longitude: -82.84739
 postcode: "31533"
 city: Douglas
-street: "Bowens Mill Road Southeast"
-housenumber: 1450
-phone: "+1 912-384-4600"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/593/douglas-ga/whats-new"
+street: Bowens Mill Road Southeast
+housenumber: "1450"
+phone: +1 912-384-4600
+opening_hours: 24/7
+website: https://www.walmart.com/store/593/douglas-ga/whats-new

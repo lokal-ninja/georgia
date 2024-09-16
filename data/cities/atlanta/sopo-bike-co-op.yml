@@ -4,8 +4,8 @@ latitude: 33.73772
 longitude: -84.41051
 postcode: "30310"
 city: Atlanta
-street: "Murphy Avenue Southwest"
-housenumber: 680
-phone: "+1 404-425-9989"
-opening_hours: "Sa-Su 12:00-15:00; Th 19:00-21:00"
-website: "https://sopobikes.org"
+street: Murphy Avenue Southwest
+housenumber: "680"
+phone: +1 404-425-9989
+opening_hours: Sa-Su 12:00-15:00; Th 19:00-21:00
+website: https://sopobikes.org

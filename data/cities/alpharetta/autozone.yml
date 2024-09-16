@@ -1,11 +1,11 @@
 id: 352450812
-type: way
+type: node
 latitude: 33.98892
 longitude: -84.2746
 postcode: "30022"
 city: Alpharetta
-street: "Holcomb Bridge Road"
-housenumber: 2957
+street: Holcomb Bridge Road
+housenumber: "2957"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/alpharetta/2957-holcomb-bridge-rd.html"
+website: https://www.autozone.com/locations/ga/alpharetta/2957-holcomb-bridge-rd.html

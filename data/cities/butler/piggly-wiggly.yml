@@ -1,11 +1,11 @@
 id: 617304518
-type: way
+type: node
 latitude: 32.55344
 longitude: -84.23852
 postcode: "31006"
 city: Butler
-street: "South Broad Street"
-housenumber: 53
-phone: "+1 478-862-3341"
+street: South Broad Street
+housenumber: "53"
+phone: +1 478-862-3341
 opening_hours: ""
 website: ""

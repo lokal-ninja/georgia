@@ -1,11 +1,11 @@
 id: 840312306
-type: way
+type: node
 latitude: 32.06604
 longitude: -81.09219
 postcode: "31401"
 city: Savannah
-street: "East Gwinnett Street"
-housenumber: 311
-phone: "+1 912-231-2260"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/ga/savannah/savannah/011/00418"
+street: East Gwinnett Street
+housenumber: "311"
+phone: +1 912-231-2260
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/ga/savannah/savannah/011/00418

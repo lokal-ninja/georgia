@@ -1,11 +1,11 @@
 id: 988347234
-type: way
+type: node
 latitude: 34.88377
 longitude: -84.29603
 postcode: "30513"
 city: Blue Ridge
-street: "High Park Drive"
-housenumber: 97
-phone: "+1 706-946-3020"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: High Park Drive
+housenumber: "97"
+phone: +1 706-946-3020
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

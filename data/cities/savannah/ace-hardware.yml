@@ -1,11 +1,11 @@
 id: 956644660
-type: way
+type: node
 latitude: 32.00127
 longitude: -81.10585
-postcode: "31406-4836"
+postcode: 31406-4836
 city: Savannah
-street: "Mall Boulevard"
-housenumber: 706
-phone: "+1 912-544-6453"
-opening_hours: "Mo-Sa 08:00-18:00; Su 11:00-16:00"
+street: Mall Boulevard
+housenumber: "706"
+phone: +1 912-544-6453
+opening_hours: Mo-Sa 08:00-18:00; Su 11:00-16:00
 website: ""

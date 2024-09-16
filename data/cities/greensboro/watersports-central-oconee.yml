@@ -1,11 +1,11 @@
 id: 1287029879
-type: way
+type: node
 latitude: 33.46304
 longitude: -83.24104
 postcode: "30642"
 city: Greensboro
-street: "Park Trace"
-housenumber: 1011
+street: Park Trace
+housenumber: "1011"
 phone: "+17068174407"
 opening_hours: ""
-website: "https://www.watersportscentral.com/"
+website: https://www.watersportscentral.com/

@@ -1,11 +1,11 @@
 id: 683430215
-type: way
+type: node
 latitude: 34.91387
 longitude: -85.1258
 postcode: "30736"
 city: Ringgold
-street: "Alabama Highway"
-housenumber: 5340
+street: Alabama Highway
+housenumber: "5340"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 492922775
-type: way
+type: node
 latitude: 33.94378
 longitude: -83.44483
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 3130
-phone: "+1 706-715-6238"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5267/athens-ga/whats-new"
+street: Atlanta Highway
+housenumber: "3130"
+phone: +1 706-715-6238
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5267/athens-ga/whats-new

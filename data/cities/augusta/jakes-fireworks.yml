@@ -1,11 +1,11 @@
 id: 956222307
-type: way
+type: node
 latitude: 33.52214
 longitude: -82.03372
 postcode: "30907"
 city: Augusta
-street: "Reynolds Industrial Road"
-housenumber: 2501
-phone: "+1-706-755-6566"
+street: Reynolds Industrial Road
+housenumber: "2501"
+phone: +1-706-755-6566
 opening_hours: ""
-website: "https://www.jakesfireworks.com/stores/ga/augusta"
+website: https://www.jakesfireworks.com/stores/ga/augusta

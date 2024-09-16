@@ -1,11 +1,11 @@
 id: 293545909
-type: way
+type: node
 latitude: 33.96071
 longitude: -83.38381
 postcode: "30601"
 city: Athens
-street: "Prince Avenue"
-housenumber: 394
+street: Prince Avenue
+housenumber: "394"
 phone: ""
 opening_hours: ""
 website: ""

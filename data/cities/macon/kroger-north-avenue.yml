@@ -1,11 +1,11 @@
 id: 186009468
-type: way
+type: node
 latitude: 32.85078
 longitude: -83.6265
 postcode: "31211"
 city: Macon
-street: "North Avenue"
-housenumber: 660
-phone: "+1 478-746-5842"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/ga/macon/baconsfield/011/00328"
+street: North Avenue
+housenumber: "660"
+phone: +1 478-746-5842
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/ga/macon/baconsfield/011/00328

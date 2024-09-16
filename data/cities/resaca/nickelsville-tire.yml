@@ -1,11 +1,11 @@
 id: 429922883
-type: way
+type: node
 latitude: 34.60198
 longitude: -84.86648
 postcode: "30735"
 city: Resaca
-street: "Nicklesville Road Northeast"
-housenumber: 3150
-phone: "+1 (706) 625-2099"
-opening_hours: "Mo-Fr 08:30-17:00"
+street: Nicklesville Road Northeast
+housenumber: "3150"
+phone: +1 (706) 625-2099
+opening_hours: Mo-Fr 08:30-17:00
 website: ""

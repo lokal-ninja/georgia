@@ -1,11 +1,11 @@
 id: 1039324974
-type: way
+type: node
 latitude: 33.57825
 longitude: -84.411
 postcode: ""
 city: Riverdale
-street: "Camp Street"
-housenumber: 632
+street: Camp Street
+housenumber: "632"
 phone: ""
 opening_hours: ""
 website: ""

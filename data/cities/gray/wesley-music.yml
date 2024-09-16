@@ -1,11 +1,11 @@
 id: 1234691624
-type: way
+type: node
 latitude: 33.01015
 longitude: -83.53417
 postcode: "31032"
 city: Gray
-street: "Atlanta Road"
-housenumber: 107
-phone: "+1-478-986-4572"
+street: Atlanta Road
+housenumber: "107"
+phone: +1-478-986-4572
 opening_hours: ""
 website: ""

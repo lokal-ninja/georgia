@@ -1,11 +1,11 @@
 id: 1103026696
-type: way
+type: node
 latitude: 33.73939
 longitude: -84.38745
-postcode: "30312-2896"
+postcode: 30312-2896
 city: Atlanta
-street: "Hank Aaron Drive Southeast"
-housenumber: 572
-phone: "+1 470-945-8956"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1825"
+street: Hank Aaron Drive Southeast
+housenumber: "572"
+phone: +1 470-945-8956
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1825

@@ -1,11 +1,11 @@
 id: 1096072520
-type: way
+type: node
 latitude: 33.97657
 longitude: -83.98082
 postcode: "30046"
 city: Lawrenceville
-street: "John Conner Court"
-housenumber: 553
+street: John Conner Court
+housenumber: "553"
 phone: ""
 opening_hours: ""
 website: ""

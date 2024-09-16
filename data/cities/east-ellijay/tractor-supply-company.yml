@@ -1,11 +1,11 @@
 id: 377377152
-type: way
+type: node
 latitude: 34.67711
 longitude: -84.47543
 postcode: "30540"
 city: East Ellijay
-street: "1st Avenue"
-housenumber: 709
-phone: "+1 (706) 635-7946"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00; Jul 4 08:00-18:00"
+street: 1st Avenue
+housenumber: "709"
+phone: +1 (706) 635-7946
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00; Jul 4 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 300104864
-type: way
+type: node
 latitude: 33.91144
 longitude: -84.48734
 postcode: "30067"
 city: Marietta
-street: "Waterfall Village Drive Southeast"
-housenumber: 1717
-phone: "+1 (770) 952-0070"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 10:00-17:00"
-website: "https://www.sedonafallsapartments.com/"
+street: Waterfall Village Drive Southeast
+housenumber: "1717"
+phone: +1 (770) 952-0070
+opening_hours: Mo-Fr 09:00-18:00;Sa 10:00-17:00
+website: https://www.sedonafallsapartments.com/

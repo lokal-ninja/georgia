@@ -1,11 +1,11 @@
 id: 121666738
-type: way
+type: node
 latitude: 32.02458
 longitude: -81.10803
-postcode: "31405-6913"
+postcode: 31405-6913
 city: Savannah
-street: "Abercorn Street"
-housenumber: 5500
-phone: "+1 912-353-1260"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/522"
+street: Abercorn Street
+housenumber: "5500"
+phone: +1 912-353-1260
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/522

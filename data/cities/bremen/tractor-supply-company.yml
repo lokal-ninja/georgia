@@ -4,8 +4,8 @@ latitude: 33.69368
 longitude: -85.14946
 postcode: "30110"
 city: Bremen
-street: "Davis Boulevard"
-housenumber: 202
-phone: "+1 770-537-5017"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Davis Boulevard
+housenumber: "202"
+phone: +1 770-537-5017
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

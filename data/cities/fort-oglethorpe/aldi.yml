@@ -1,11 +1,11 @@
 id: 689531902
-type: way
+type: node
 latitude: 34.94812
 longitude: -85.23232
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 1999
-phone: "+1 833-470-7094"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/ft.-oglethorpe/1999-battlefield-pkwy"
+street: Battlefield Parkway
+housenumber: "1999"
+phone: +1 833-470-7094
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/ft.-oglethorpe/1999-battlefield-pkwy

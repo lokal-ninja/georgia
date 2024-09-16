@@ -1,11 +1,11 @@
 id: 1203013669
-type: way
+type: node
 latitude: 32.54644
 longitude: -84.87517
 postcode: "31909"
 city: Columbus
-street: "Ray Wright Way"
-housenumber: 6901
-phone: "+1 706-358-0289"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1868-midland-commons"
+street: Ray Wright Way
+housenumber: "6901"
+phone: +1 706-358-0289
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1868-midland-commons

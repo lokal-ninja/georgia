@@ -1,11 +1,11 @@
 id: 787550464
-type: way
+type: node
 latitude: 33.96967
 longitude: -84.03606
 postcode: "30043"
 city: Lawrenceville
-street: "Riverside Parkway"
-housenumber: 2003
+street: Riverside Parkway
+housenumber: "2003"
 phone: ""
 opening_hours: ""
 website: ""

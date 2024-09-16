@@ -1,11 +1,11 @@
 id: 388284336
-type: way
+type: node
 latitude: 33.90969
 longitude: -84.22073
 postcode: "30043"
 city: Norcross
-street: "Dawson Boulevard"
-housenumber: 6460
-phone: "770-242-6666"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: Dawson Boulevard
+housenumber: "6460"
+phone: 770-242-6666
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 245388666
-type: way
+type: node
 latitude: 33.94805
 longitude: -84.54992
 postcode: "30064"
 city: Marietta
-street: "South Marietta Parkway Southwest"
-housenumber: 277
+street: South Marietta Parkway Southwest
+housenumber: "277"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://www.douceurdefrance.com/"
+opening_hours: Mo-Sa 07:00-18:00; Su 09:00-16:00
+website: https://www.douceurdefrance.com/

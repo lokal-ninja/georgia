@@ -4,8 +4,8 @@ latitude: 32.08073
 longitude: -81.09511
 postcode: ""
 city: Savannah
-street: "Jefferson Street"
-housenumber: 33
-phone: "+1 912-234-1001"
-opening_hours: "Mo-Sa 09:30-21:00;Su 10:00-21:00"
-website: "https://www.facebook.com/twinkletimecitymarket"
+street: Jefferson Street
+housenumber: "33"
+phone: +1 912-234-1001
+opening_hours: Mo-Sa 09:30-21:00;Su 10:00-21:00
+website: https://www.facebook.com/twinkletimecitymarket

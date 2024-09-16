@@ -1,11 +1,11 @@
 id: 389223330
-type: way
+type: node
 latitude: 34.28461
 longitude: -83.84758
 postcode: "30501"
 city: Gainesville
-street: "Browns Bridge Road"
-housenumber: 1786
+street: Browns Bridge Road
+housenumber: "1786"
 phone: ""
 opening_hours: ""
 website: ""

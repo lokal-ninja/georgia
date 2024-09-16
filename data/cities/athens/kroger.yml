@@ -4,8 +4,8 @@ latitude: 33.92155
 longitude: -83.3437
 postcode: "30605"
 city: Athens
-street: "College Station Road"
-housenumber: 2301
-phone: "+1 706-353-8543"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/athens/college-station/011/00255"
+street: College Station Road
+housenumber: "2301"
+phone: +1 706-353-8543
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/athens/college-station/011/00255

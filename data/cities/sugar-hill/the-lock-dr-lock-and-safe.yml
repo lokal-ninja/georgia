@@ -1,11 +1,11 @@
 id: 387378870
-type: way
+type: node
 latitude: 34.07499
 longitude: -84.06373
 postcode: "30518"
 city: Sugar Hill
-street: "Peachtree Industrial Boulevard"
-housenumber: 95
+street: Peachtree Industrial Boulevard
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

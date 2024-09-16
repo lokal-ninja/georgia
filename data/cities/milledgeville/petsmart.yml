@@ -1,11 +1,11 @@
 id: 481960957
-type: way
+type: node
 latitude: 33.10645
 longitude: -83.25441
 postcode: "31061"
 city: Milledgeville
-street: "North Columbia Street"
-housenumber: 1850
-phone: "+1 478-387-7402"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/milledgeville-store3122.html"
+street: North Columbia Street
+housenumber: "1850"
+phone: +1 478-387-7402
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/milledgeville-store3122.html

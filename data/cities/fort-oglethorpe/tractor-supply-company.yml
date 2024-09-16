@@ -1,11 +1,11 @@
 id: 693440159
-type: way
+type: node
 latitude: 34.95078
 longitude: -85.23413
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 1785
-phone: "+1 706-861-4536"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Battlefield Parkway
+housenumber: "1785"
+phone: +1 706-861-4536
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

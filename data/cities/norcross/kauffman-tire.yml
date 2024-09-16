@@ -1,11 +1,11 @@
 id: 388231416
-type: way
+type: node
 latitude: 33.95411
 longitude: -84.22028
 postcode: "30071"
 city: Norcross
-street: "Peachtree Industrial Boulevard"
-housenumber: 5570
+street: Peachtree Industrial Boulevard
+housenumber: "5570"
 phone: ""
 opening_hours: ""
 website: ""

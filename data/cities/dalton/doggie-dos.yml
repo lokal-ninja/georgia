@@ -1,11 +1,11 @@
 id: 989007767
-type: way
+type: node
 latitude: 34.78098
 longitude: -84.96665
 postcode: "30720"
 city: Dalton
-street: "North Hamilton Street"
-housenumber: 601
-phone: "+1-762-231-9243"
+street: North Hamilton Street
+housenumber: "601"
+phone: +1-762-231-9243
 opening_hours: ""
 website: ""

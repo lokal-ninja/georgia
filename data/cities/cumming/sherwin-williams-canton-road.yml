@@ -1,11 +1,11 @@
 id: 999650673
-type: way
+type: node
 latitude: 34.20874
 longitude: -84.14284
 postcode: "30040"
 city: Cumming
-street: "Canton Road"
-housenumber: 123
+street: Canton Road
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
 website: ""

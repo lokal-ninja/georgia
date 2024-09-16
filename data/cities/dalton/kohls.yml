@@ -1,11 +1,11 @@
 id: 833741678
-type: way
+type: node
 latitude: 34.78702
 longitude: -84.99758
 postcode: "30720"
 city: Dalton
-street: "Shugart Road"
-housenumber: 835
-phone: "+1 706-272-0015"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ga/dalton-1439.shtml"
+street: Shugart Road
+housenumber: "835"
+phone: +1 706-272-0015
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ga/dalton-1439.shtml

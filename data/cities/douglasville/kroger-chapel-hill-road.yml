@@ -1,11 +1,11 @@
 id: 306968388
-type: way
+type: node
 latitude: 33.69935
 longitude: -84.71912
 postcode: "30135"
 city: Douglasville
-street: "Chapel Hill Road"
-housenumber: 3875
-phone: "+1 770-947-7144"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/douglasville/douglasville/011/00485"
+street: Chapel Hill Road
+housenumber: "3875"
+phone: +1 770-947-7144
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/douglasville/douglasville/011/00485

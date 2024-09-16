@@ -1,11 +1,11 @@
 id: 261099877
-type: way
+type: node
 latitude: 33.84785
 longitude: -83.90941
 postcode: "30052"
 city: Loganville
-street: "Atlanta Highway"
-housenumber: 4040
-phone: "+1 770-466-1333"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ga/loganville/775/"
+street: Atlanta Highway
+housenumber: "4040"
+phone: +1 770-466-1333
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ga/loganville/775/

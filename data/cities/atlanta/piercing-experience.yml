@@ -4,8 +4,8 @@ latitude: 33.76491
 longitude: -84.33337
 postcode: "30307"
 city: Atlanta
-street: "McLendon Avenue Northeast"
-housenumber: 1654
-phone: "+1 404 378 9100"
-opening_hours: "Su 12:00-18:00; Mo 11:00-20:00; We,Th 11:00-20:00; Fr-Sa 12:00-21:00"
-website: "https://piercingexp.com/"
+street: McLendon Avenue Northeast
+housenumber: "1654"
+phone: +1 404 378 9100
+opening_hours: Su 12:00-18:00; Mo 11:00-20:00; We,Th 11:00-20:00; Fr-Sa 12:00-21:00
+website: https://piercingexp.com/

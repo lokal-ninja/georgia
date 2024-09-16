@@ -1,11 +1,11 @@
 id: 415163568
-type: way
+type: node
 latitude: 33.71794
 longitude: -84.21748
 postcode: "30035"
 city: Decatur
-street: "Wesley Chapel Road"
-housenumber: 2385
-phone: "+1 770-987-0633"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/decatur/wesley-corners/011/00375"
+street: Wesley Chapel Road
+housenumber: "2385"
+phone: +1 770-987-0633
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/decatur/wesley-corners/011/00375

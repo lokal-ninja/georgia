@@ -1,11 +1,11 @@
 id: 613141179
-type: way
+type: node
 latitude: 34.46547
 longitude: -84.47579
 postcode: "30143"
 city: Jasper
-street: "Philadelphia Road"
-housenumber: 2070
-phone: "+1 (706) 692-6605"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.jasperpaintandbody.net/"
+street: Philadelphia Road
+housenumber: "2070"
+phone: +1 (706) 692-6605
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.jasperpaintandbody.net/

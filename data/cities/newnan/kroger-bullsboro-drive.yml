@@ -1,11 +1,11 @@
 id: 900513214
-type: way
+type: node
 latitude: 33.38502
 longitude: -84.78828
 postcode: "30263"
 city: Newnan
-street: "Bullsboro Drive"
-housenumber: 48
-phone: "+1 770-251-5188"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/newnan/merchants-crossing/011/00363"
+street: Bullsboro Drive
+housenumber: "48"
+phone: +1 770-251-5188
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/newnan/merchants-crossing/011/00363

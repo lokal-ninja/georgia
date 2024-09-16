@@ -1,11 +1,11 @@
 id: 605959237
-type: way
+type: node
 latitude: 34.34911
 longitude: -84.05
 postcode: "30534"
 city: Dawsonville
-street: "Marketplace Boulevard"
-housenumber: 253
+street: Marketplace Boulevard
+housenumber: "253"
 phone: ""
 opening_hours: ""
 website: ""

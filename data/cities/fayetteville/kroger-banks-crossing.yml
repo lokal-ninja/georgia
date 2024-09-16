@@ -1,11 +1,11 @@
 id: 305446816
-type: way
+type: node
 latitude: 33.46949
 longitude: -84.44917
 postcode: "30214"
 city: Fayetteville
-street: "Banks Crossing"
-housenumber: 134
-phone: "+1 770-461-7602"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/fayetteville/banks-crossing/011/00315"
+street: Banks Crossing
+housenumber: "134"
+phone: +1 770-461-7602
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/fayetteville/banks-crossing/011/00315

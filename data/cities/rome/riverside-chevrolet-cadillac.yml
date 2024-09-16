@@ -4,8 +4,8 @@ latitude: 34.22259
 longitude: -85.15207
 postcode: "30161"
 city: Rome
-street: "US 411"
-housenumber: 100
+street: US 411
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

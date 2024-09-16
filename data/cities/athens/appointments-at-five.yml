@@ -1,11 +1,11 @@
 id: 303361633
-type: way
+type: node
 latitude: 33.93704
 longitude: -83.38802
 postcode: "30606"
 city: Athens
-street: "South Lumpkin Street"
-housenumber: 1738
+street: South Lumpkin Street
+housenumber: "1738"
 phone: ""
 opening_hours: ""
 website: ""

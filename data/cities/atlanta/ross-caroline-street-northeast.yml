@@ -1,11 +1,11 @@
 id: 270466786
-type: way
+type: node
 latitude: 33.75813
 longitude: -84.34707
 postcode: "30307"
 city: Atlanta
-street: "Caroline Street Northeast"
-housenumber: 1255
-phone: "+1 404-527-3769"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00"
+street: Caroline Street Northeast
+housenumber: "1255"
+phone: +1 404-527-3769
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00
 website: ""

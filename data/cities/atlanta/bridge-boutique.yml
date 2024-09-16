@@ -4,8 +4,8 @@ latitude: 33.77554
 longitude: -84.3531
 postcode: "30306"
 city: Atlanta
-street: "St Charles Avenue Northeast"
-housenumber: 1054
+street: St Charles Avenue Northeast
+housenumber: "1054"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "http://bridgeboutique.com/"
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: http://bridgeboutique.com/

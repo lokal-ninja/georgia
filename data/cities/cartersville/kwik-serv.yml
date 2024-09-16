@@ -1,11 +1,11 @@
 id: 647441239
-type: way
+type: node
 latitude: 34.16939
 longitude: -84.78585
 postcode: "30120"
 city: Cartersville
-street: "East Church Street"
-housenumber: 496
-phone: "+1 (770) 387-2653"
-opening_hours: "24/7"
+street: East Church Street
+housenumber: "496"
+phone: +1 (770) 387-2653
+opening_hours: 24/7
 website: ""

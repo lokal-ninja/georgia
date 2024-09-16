@@ -1,11 +1,11 @@
 id: 303239207
-type: way
+type: node
 latitude: 33.93856
 longitude: -83.48704
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 4365
-phone: "+1 706-548-3666"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/bogart-ga-sams-club/8194"
+street: Atlanta Highway
+housenumber: "4365"
+phone: +1 706-548-3666
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/bogart-ga-sams-club/8194

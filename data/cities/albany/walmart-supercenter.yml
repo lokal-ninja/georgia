@@ -1,11 +1,11 @@
 id: 541564061
-type: way
+type: node
 latitude: 31.5791
 longitude: -84.08756
 postcode: "31705"
 city: Albany
-street: "Cordele Road"
-housenumber: 262
-phone: "+1 229-352-9332"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5797/albany-ga/whats-new"
+street: Cordele Road
+housenumber: "262"
+phone: +1 229-352-9332
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5797/albany-ga/whats-new

@@ -1,11 +1,11 @@
 id: 219429368
-type: way
+type: node
 latitude: 34.34958
 longitude: -83.32045
 postcode: "30521"
 city: Carnesville
-street: "Old Federal Road"
-housenumber: 10200
+street: Old Federal Road
+housenumber: "10200"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

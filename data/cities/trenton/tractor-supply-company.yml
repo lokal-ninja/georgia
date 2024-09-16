@@ -1,11 +1,11 @@
 id: 760771161
-type: way
+type: node
 latitude: 34.87056
 longitude: -85.51724
 postcode: "30752"
 city: Trenton
-street: "Highway 136 West"
-housenumber: 5121
-phone: "+1 706-657-5090"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 136 West
+housenumber: "5121"
+phone: +1 706-657-5090
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

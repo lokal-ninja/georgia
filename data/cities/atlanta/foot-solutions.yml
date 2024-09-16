@@ -4,8 +4,8 @@ latitude: 33.90432
 longitude: -84.46453
 postcode: "30339"
 city: Atlanta
-street: "Interstate North Parkway Southeast"
-housenumber: 104
-phone: "+1 (770) 955-0099"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://footsolutions.com/medical/"
+street: Interstate North Parkway Southeast
+housenumber: "104"
+phone: +1 (770) 955-0099
+opening_hours: Mo-Fr 10:00-16:00
+website: https://footsolutions.com/medical/

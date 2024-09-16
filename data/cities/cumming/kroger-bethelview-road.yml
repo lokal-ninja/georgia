@@ -1,11 +1,11 @@
 id: 984800019
-type: way
+type: node
 latitude: 34.17017
 longitude: -84.18596
 postcode: "30040"
 city: Cumming
-street: "Bethelview Road"
-housenumber: 5550
-phone: "+1 678-456-4052"
-opening_hours: "06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/cumming/kroger-castleberry/011/00627"
+street: Bethelview Road
+housenumber: "5550"
+phone: +1 678-456-4052
+opening_hours: 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/cumming/kroger-castleberry/011/00627

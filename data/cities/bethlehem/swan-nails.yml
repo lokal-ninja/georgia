@@ -1,11 +1,11 @@
 id: 806072374
-type: way
+type: node
 latitude: 33.94558
 longitude: -83.74971
 postcode: "30620"
 city: Bethlehem
-street: "Exchange Boulevard"
-housenumber: 306
-phone: "+1-770-867-4648"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
+street: Exchange Boulevard
+housenumber: "306"
+phone: +1-770-867-4648
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
 website: ""

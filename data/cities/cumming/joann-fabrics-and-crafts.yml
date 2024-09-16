@@ -1,11 +1,11 @@
 id: 387405628
-type: way
+type: node
 latitude: 34.18531
 longitude: -84.14405
 postcode: "30040"
 city: Cumming
 street: ""
-housenumber: 
-phone: "+1 770-888-2576"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ga/cumming/2414/"
+housenumber: ""
+phone: +1 770-888-2576
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.joann.com/ga/cumming/2414/

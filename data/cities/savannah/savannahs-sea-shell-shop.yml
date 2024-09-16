@@ -4,8 +4,8 @@ latitude: 32.08066
 longitude: -81.08741
 postcode: ""
 city: Savannah
-street: "Lincoln Street"
-housenumber: 2
-phone: "+1 912-238-5250"
-opening_hours: "Mo-We 11:00-20:00;Th-Su 10:00-22:00"
-website: "https://www.facebook.com/SavannahShellShop"
+street: Lincoln Street
+housenumber: "2"
+phone: +1 912-238-5250
+opening_hours: Mo-We 11:00-20:00;Th-Su 10:00-22:00
+website: https://www.facebook.com/SavannahShellShop

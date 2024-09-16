@@ -1,11 +1,11 @@
 id: 485752797
-type: way
+type: node
 latitude: 33.08013
 longitude: -83.22702
 postcode: ""
 city: Milledgeville
-street: "South Wayne Street"
-housenumber: 135
-phone: "+1 478-452-0321"
+street: South Wayne Street
+housenumber: "135"
+phone: +1 478-452-0321
 opening_hours: ""
 website: ""

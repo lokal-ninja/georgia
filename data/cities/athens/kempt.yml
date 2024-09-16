@@ -4,8 +4,8 @@ latitude: 33.9579
 longitude: -83.37711
 postcode: "30601"
 city: Athens
-street: "North Lumpkin Street"
-housenumber: 175
+street: North Lumpkin Street
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://www.kemptathens.com/"
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
+website: https://www.kemptathens.com/

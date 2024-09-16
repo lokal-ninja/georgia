@@ -1,11 +1,11 @@
 id: 304523827
-type: way
+type: node
 latitude: 33.89708
 longitude: -84.451
 postcode: "30339"
 city: Atlanta
-street: "Interstate North Parkway Southeast"
-housenumber: 500
-phone: "800-263-0137"
+street: Interstate North Parkway Southeast
+housenumber: "500"
+phone: 800-263-0137
 opening_hours: ""
-website: "https://www.atlantabmw.com/"
+website: https://www.atlantabmw.com/

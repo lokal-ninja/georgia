@@ -1,11 +1,11 @@
 id: 281425199
-type: way
+type: node
 latitude: 33.62488
 longitude: -84.46953
 postcode: "30337"
 city: Atlanta
-street: "Sullivan Road"
-housenumber: 2411
+street: Sullivan Road
+housenumber: "2411"
 phone: ""
 opening_hours: ""
 website: ""

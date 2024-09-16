@@ -1,11 +1,11 @@
 id: 446904866
-type: way
+type: node
 latitude: 34.20207
 longitude: -84.78769
 postcode: "30121"
 city: Cartersville
-street: "Market Place Boulevard"
-housenumber: 101
-phone: "+1-770-382-0182"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/615/cartersville-ga/whats-new"
+street: Market Place Boulevard
+housenumber: "101"
+phone: +1-770-382-0182
+opening_hours: 24/7
+website: https://www.walmart.com/store/615/cartersville-ga/whats-new

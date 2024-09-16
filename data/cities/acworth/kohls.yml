@@ -1,11 +1,11 @@
 id: 992878990
-type: way
+type: node
 latitude: 34.03719
 longitude: -84.68271
 postcode: "30101"
 city: Acworth
-street: "Cobb Parkway Northwest"
-housenumber: 3354
-phone: "+1 678-574-5370"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ga/acworth-441.shtml"
+street: Cobb Parkway Northwest
+housenumber: "3354"
+phone: +1 678-574-5370
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ga/acworth-441.shtml

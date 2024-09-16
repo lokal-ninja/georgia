@@ -1,11 +1,11 @@
 id: 581380547
-type: way
+type: node
 latitude: 32.0783
 longitude: -82.11082
 postcode: "30453"
 city: Reidsville
-street: "South Main Street"
-housenumber: 246
+street: South Main Street
+housenumber: "246"
 phone: ""
 opening_hours: ""
-website: "https://www.foodlion.com/"
+website: https://www.foodlion.com/

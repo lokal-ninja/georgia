@@ -1,11 +1,11 @@
 id: 369142402
-type: way
+type: node
 latitude: 34.04222
 longitude: -84.32242
 postcode: ""
 city: Roswell
-street: "Old Roswell Road"
-housenumber: 1305
+street: Old Roswell Road
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

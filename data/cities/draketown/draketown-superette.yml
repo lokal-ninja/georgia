@@ -1,11 +1,11 @@
 id: 794181404
-type: way
+type: node
 latitude: 33.82817
 longitude: -85.04068
 postcode: ""
 city: Draketown
-street: "GA 120"
-housenumber: 8885
+street: GA 120
+housenumber: "8885"
 phone: ""
 opening_hours: ""
 website: ""

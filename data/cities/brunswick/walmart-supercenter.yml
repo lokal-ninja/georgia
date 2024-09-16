@@ -1,11 +1,11 @@
 id: 546471785
-type: way
+type: node
 latitude: 31.21288
 longitude: -81.48686
 postcode: "31525"
 city: Brunswick
-street: "Altama Connector"
-housenumber: 150
-phone: "+1 912-261-1616"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/639/brunswick-ga/whats-new"
+street: Altama Connector
+housenumber: "150"
+phone: +1 912-261-1616
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/639/brunswick-ga/whats-new

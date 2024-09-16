@@ -1,11 +1,11 @@
 id: 390852361
-type: way
+type: node
 latitude: 32.42943
 longitude: -81.76035
 postcode: "30458"
 city: Statesboro
-street: "Henry Blvd"
-housenumber: 325
+street: Henry Blvd
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

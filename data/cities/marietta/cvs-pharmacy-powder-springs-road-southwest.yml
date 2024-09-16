@@ -1,11 +1,11 @@
 id: 295037136
-type: way
+type: node
 latitude: 33.9212
 longitude: -84.57823
 postcode: "30064"
 city: Marietta
-street: "Powder Springs Road Southwest"
-housenumber: 1295
+street: Powder Springs Road Southwest
+housenumber: "1295"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/marietta-ga-pharmacies/1295-powder-springs-rd-marietta-ga-30064/storeid=3687"
+website: https://www.cvs.com/store-locator/marietta-ga-pharmacies/1295-powder-springs-rd-marietta-ga-30064/storeid=3687

@@ -1,11 +1,11 @@
 id: 956959280
-type: way
+type: node
 latitude: 34.46711
 longitude: -84.46291
 postcode: "30143"
 city: Jasper
-street: "Bill Wigington Parkway"
-housenumber: 115
-phone: "+1 706-692-1200"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/jasper/burgess-crossing/011/00620"
+street: Bill Wigington Parkway
+housenumber: "115"
+phone: +1 706-692-1200
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/jasper/burgess-crossing/011/00620

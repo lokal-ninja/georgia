@@ -1,11 +1,11 @@
 id: 314060388
-type: way
+type: node
 latitude: 33.95726
 longitude: -83.3285
 postcode: "30605"
 city: Athens
-street: "Winterville Road"
-housenumber: 1981
+street: Winterville Road
+housenumber: "1981"
 phone: ""
 opening_hours: ""
 website: ""

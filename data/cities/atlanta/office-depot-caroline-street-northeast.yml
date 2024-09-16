@@ -1,11 +1,11 @@
 id: 270491966
-type: way
+type: node
 latitude: 33.75577
 longitude: -84.34868
 postcode: "30307"
 city: Atlanta
-street: "Caroline Street Northeast"
-housenumber: 1205
-phone: "+1 404-222-9611"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ga/atlanta/office-depot-2296"
+street: Caroline Street Northeast
+housenumber: "1205"
+phone: +1 404-222-9611
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ga/atlanta/office-depot-2296

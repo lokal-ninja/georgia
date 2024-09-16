@@ -1,11 +1,11 @@
 id: 696227069
-type: way
+type: node
 latitude: 33.69887
 longitude: -84.17104
 postcode: "30038"
 city: Lithonia
-street: "Fairington Road"
-housenumber: 5375
-phone: "+1 678-518-7560"
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-lithonia/2232"
+street: Fairington Road
+housenumber: "5375"
+phone: +1 678-518-7560
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.lowes.com/store/ga-lithonia/2232

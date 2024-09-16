@@ -1,11 +1,11 @@
 id: 1015338230
-type: way
+type: node
 latitude: 33.91342
 longitude: -84.83995
-postcode: "30132-5549"
+postcode: 30132-5549
 city: Dallas
-street: "Seaboard Drive"
-housenumber: 780
-phone: "+1 770-575-0736"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: Seaboard Drive
+housenumber: "780"
+phone: +1 770-575-0736
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

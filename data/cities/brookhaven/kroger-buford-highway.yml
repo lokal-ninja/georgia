@@ -1,11 +1,11 @@
 id: 902853107
-type: way
+type: node
 latitude: 33.85538
 longitude: -84.31298
 postcode: "30329"
 city: Brookhaven
-street: "Buford Highway"
-housenumber: 3855
-phone: "+1 404-633-6220"
-opening_hours: "06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/clairmont/011/00218"
+street: Buford Highway
+housenumber: "3855"
+phone: +1 404-633-6220
+opening_hours: 06:00-01:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/clairmont/011/00218

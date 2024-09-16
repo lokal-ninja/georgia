@@ -1,11 +1,11 @@
 id: 691508243
-type: way
+type: node
 latitude: 34.19911
 longitude: -85.17264
 postcode: "30147"
 city: Lindale
-street: "Maple Road"
-housenumber: 3116
-phone: "+1 706-232-3722"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su 08:00-17:00"
+street: Maple Road
+housenumber: "3116"
+phone: +1 706-232-3722
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 943667492
-type: way
+type: node
 latitude: 33.84995
 longitude: -84.24316
 postcode: "30084"
 city: Tucker
-street: "Lavista Road"
-housenumber: 4310
-phone: "+1 470-260-2368"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ga/tucker/tucker/"
+street: Lavista Road
+housenumber: "4310"
+phone: +1 470-260-2368
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ga/tucker/tucker/

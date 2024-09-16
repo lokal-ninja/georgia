@@ -1,11 +1,11 @@
 id: 307975225
-type: way
+type: node
 latitude: 33.71424
 longitude: -84.76658
-postcode: "30135-2308"
+postcode: 30135-2308
 city: Douglasville
-street: "Highway 5"
-housenumber: 3316
-phone: "+1 770-920-3460"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/485"
+street: Highway 5
+housenumber: "3316"
+phone: +1 770-920-3460
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/485

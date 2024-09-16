@@ -1,11 +1,11 @@
 id: 77588887
-type: way
+type: node
 latitude: 33.54543
 longitude: -82.14318
 postcode: "30809"
 city: Evans
-street: "Washington Road"
-housenumber: 4469
-phone: "+1 706-854-9892"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3570/evans-ga/whats-new"
+street: Washington Road
+housenumber: "4469"
+phone: +1 706-854-9892
+opening_hours: 24/7
+website: https://www.walmart.com/store/3570/evans-ga/whats-new

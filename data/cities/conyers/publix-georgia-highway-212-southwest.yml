@@ -1,11 +1,11 @@
 id: 1234586144
-type: way
+type: node
 latitude: 33.61763
 longitude: -84.08137
-postcode: "30094-3349"
+postcode: 30094-3349
 city: Conyers
-street: "Georgia Highway 212 Southwest"
-housenumber: 2880
-phone: "+1 770-918-2512"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1071"
+street: Georgia Highway 212 Southwest
+housenumber: "2880"
+phone: +1 770-918-2512
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1071

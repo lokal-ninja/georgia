@@ -1,11 +1,11 @@
 id: 722920592
-type: way
+type: node
 latitude: 32.62073
 longitude: -83.68789
 postcode: "31028"
 city: Centerville
-street: "Watson Boulevard"
-housenumber: 2940
-phone: "+1 478-953-7999"
+street: Watson Boulevard
+housenumber: "2940"
+phone: +1 478-953-7999
 opening_hours: ""
 website: ""

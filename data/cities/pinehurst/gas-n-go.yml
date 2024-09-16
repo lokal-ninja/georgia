@@ -1,11 +1,11 @@
 id: 385357773
-type: way
+type: node
 latitude: 32.19056
 longitude: -83.74951
 postcode: "31070"
 city: Pinehurst
-street: "Pinehurst Hawkinsville Road"
-housenumber: 824
+street: Pinehurst Hawkinsville Road
+housenumber: "824"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

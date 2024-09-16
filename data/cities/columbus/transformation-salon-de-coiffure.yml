@@ -4,8 +4,8 @@ latitude: 32.48756
 longitude: -84.93195
 postcode: "31907"
 city: columbus
-street: "Macon Road"
-housenumber: 3604
-phone: "1-706-992-5051"
-opening_hours: "Tu,We 09:00-17:00"
+street: Macon Road
+housenumber: "3604"
+phone: 1-706-992-5051
+opening_hours: Tu,We 09:00-17:00
 website: ""

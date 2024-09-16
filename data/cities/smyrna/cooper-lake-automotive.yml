@@ -1,11 +1,11 @@
 id: 1003919063
-type: way
+type: node
 latitude: 33.8383
 longitude: -84.49399
 postcode: "30080"
 city: Smyrna
-street: "South Cobb Drive"
-housenumber: 4739
-phone: "+1 844 940 0391"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://cooperlakeautomotive.com/"
+street: South Cobb Drive
+housenumber: "4739"
+phone: +1 844 940 0391
+opening_hours: Mo-Fr 08:00-17:00
+website: https://cooperlakeautomotive.com/

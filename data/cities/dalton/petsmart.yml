@@ -1,11 +1,11 @@
 id: 834354542
-type: way
+type: node
 latitude: 34.7607
 longitude: -84.99358
 postcode: "30720"
 city: Dalton
-street: "West Walnut Avenue"
-housenumber: 1310
-phone: "+1 706-459-3687"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/dalton-store3144.html"
+street: West Walnut Avenue
+housenumber: "1310"
+phone: +1 706-459-3687
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/dalton-store3144.html

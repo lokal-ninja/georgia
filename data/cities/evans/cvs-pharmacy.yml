@@ -1,11 +1,11 @@
 id: 77863753
-type: way
+type: node
 latitude: 33.53406
 longitude: -82.13103
 postcode: "30809"
 city: Evans
-street: "Hereford Farm Road"
-housenumber: 4385
-phone: "+1-706-210-0015"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/evans-ga-pharmacies/4385-hereford-farm-road-evans-ga-30809/storeid=2407"
+street: Hereford Farm Road
+housenumber: "4385"
+phone: +1-706-210-0015
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/evans-ga-pharmacies/4385-hereford-farm-road-evans-ga-30809/storeid=2407

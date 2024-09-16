@@ -1,11 +1,11 @@
 id: 312216479
-type: way
+type: node
 latitude: 33.80796
 longitude: -84.17029
 postcode: "30083"
 city: Stone Mountain
-street: "East Mountain Street"
-housenumber: 5347
-phone: "(770) 498-0600"
+street: East Mountain Street
+housenumber: "5347"
+phone: (770) 498-0600
 opening_hours: ""
 website: ""

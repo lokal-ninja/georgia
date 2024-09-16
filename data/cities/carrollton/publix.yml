@@ -1,11 +1,11 @@
 id: 591689646
-type: way
+type: node
 latitude: 33.56113
 longitude: -85.07549
-postcode: "30117-4449"
+postcode: 30117-4449
 city: Carrollton
-street: "South Park Street"
-housenumber: 1109
-phone: "+1 770-214-3140"
-opening_hours: "Mo-Su 07:00-07:00"
-website: "https://www.publix.com/locations/608"
+street: South Park Street
+housenumber: "1109"
+phone: +1 770-214-3140
+opening_hours: Mo-Su 07:00-07:00
+website: https://www.publix.com/locations/608

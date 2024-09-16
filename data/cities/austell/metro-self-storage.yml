@@ -1,11 +1,11 @@
 id: 1010582281
-type: way
+type: node
 latitude: 33.86352
 longitude: -84.59103
 postcode: "30106"
 city: Austell
-street: "Hurt Road Southwest"
-housenumber: 1280
+street: Hurt Road Southwest
+housenumber: "1280"
 phone: ""
 opening_hours: ""
 website: ""

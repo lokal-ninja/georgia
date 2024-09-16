@@ -1,11 +1,11 @@
 id: 941972582
-type: way
+type: node
 latitude: 33.78171
 longitude: -84.53584
 postcode: "30126"
 city: Mableton
-street: "Mableton Parkway Southeast"
-housenumber: 7039
+street: Mableton Parkway Southeast
+housenumber: "7039"
 phone: ""
 opening_hours: ""
-website: "https://www.racetrac.com"
+website: https://www.racetrac.com

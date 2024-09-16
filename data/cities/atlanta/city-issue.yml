@@ -4,8 +4,8 @@ latitude: 33.76335
 longitude: -84.35832
 postcode: "30307"
 city: Atlanta
-street: "Elizabeth Street Northeast"
-housenumber: 325
-phone: "+1 (678) 999-9075"
-opening_hours: "Su 12:00-17:00; We-Sa 11:00-19:00"
-website: "https://cityissue.com/"
+street: Elizabeth Street Northeast
+housenumber: "325"
+phone: +1 (678) 999-9075
+opening_hours: Su 12:00-17:00; We-Sa 11:00-19:00
+website: https://cityissue.com/

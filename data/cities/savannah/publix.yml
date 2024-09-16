@@ -4,8 +4,8 @@ latitude: 32.04174
 longitude: -81.00696
 postcode: "31410"
 city: Savannah
-street: "US 80"
-housenumber: 4717
-phone: "+1 912-897-8111"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/521"
+street: US 80
+housenumber: "4717"
+phone: +1 912-897-8111
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/521

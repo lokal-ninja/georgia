@@ -1,11 +1,11 @@
 id: 750113218
-type: way
+type: node
 latitude: 34.4664
 longitude: -85.27003
 postcode: "30747"
 city: Summerville
-street: "Gore Subligna Road"
-housenumber: 49
-phone: "+1 (706) 822-0270"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/summerville/18333"
+street: Gore Subligna Road
+housenumber: "49"
+phone: +1 (706) 822-0270
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/summerville/18333

@@ -1,11 +1,11 @@
 id: 1158733169
-type: way
+type: node
 latitude: 33.60516
 longitude: -83.83139
 postcode: "30014"
 city: Covington
-street: "Wheat Street Northeast"
-housenumber: 10105
+street: Wheat Street Northeast
+housenumber: "10105"
 phone: ""
 opening_hours: ""
 website: ""

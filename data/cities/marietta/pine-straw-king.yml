@@ -1,11 +1,11 @@
 id: 625374318
-type: way
+type: node
 latitude: 34.03288
 longitude: -84.52858
 postcode: "30066"
 city: Marietta
-street: "Canton Road Northeast"
-housenumber: 3359
-phone: "+1-770-792-0090"
-opening_hours: "Mo-Fr 07:30-15:30; Sa 07:30-12:45"
-website: "http://www.pinestrawking.com/"
+street: Canton Road Northeast
+housenumber: "3359"
+phone: +1-770-792-0090
+opening_hours: Mo-Fr 07:30-15:30; Sa 07:30-12:45
+website: http://www.pinestrawking.com/

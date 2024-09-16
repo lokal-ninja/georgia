@@ -1,11 +1,11 @@
 id: 533742726
-type: way
+type: node
 latitude: 32.68818
 longitude: -83.34617
 postcode: "31044"
 city: Jeffersonville
-street: "Magnolia Street"
-housenumber: 59
-phone: "+1 478-945-3119"
+street: Magnolia Street
+housenumber: "59"
+phone: +1 478-945-3119
 opening_hours: ""
 website: ""

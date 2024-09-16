@@ -1,11 +1,11 @@
 id: 560240382
-type: way
+type: node
 latitude: 31.02664
 longitude: -84.87916
 postcode: "39845"
 city: Donalsonville
-street: "South Tennille Avenue"
-housenumber: 1405
-phone: "+1 229-524-1380"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: South Tennille Avenue
+housenumber: "1405"
+phone: +1 229-524-1380
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

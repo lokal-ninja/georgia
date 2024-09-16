@@ -1,11 +1,11 @@
 id: 558955699
-type: way
+type: node
 latitude: 31.96455
 longitude: -83.76273
 postcode: "31015"
 city: Cordele
-street: "East 16th Avenue"
-housenumber: 1215
-phone: "+1 229-273-9270"
-opening_hours: "We-Mo 06:00-23:00; Tu 07:00-23:00"
-website: "https://www.walmart.com/store/1006/cordele-ga/whats-new"
+street: East 16th Avenue
+housenumber: "1215"
+phone: +1 229-273-9270
+opening_hours: We-Mo 06:00-23:00; Tu 07:00-23:00
+website: https://www.walmart.com/store/1006/cordele-ga/whats-new

@@ -1,11 +1,11 @@
 id: 1022020110
-type: way
+type: node
 latitude: 33.86951
 longitude: -84.5303
 postcode: "30082"
 city: Smyrna
-street: "Lake Drive Southeast"
-housenumber: 3470
-phone: "+1 770 434 5579"
+street: Lake Drive Southeast
+housenumber: "3470"
+phone: +1 770 434 5579
 opening_hours: ""
-website: "https://www.allprotransmission.com/"
+website: https://www.allprotransmission.com/

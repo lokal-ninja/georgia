@@ -1,11 +1,11 @@
 id: 603498526
-type: way
+type: node
 latitude: 31.04004
 longitude: -84.87808
 postcode: "39845"
 city: Donalsonville
-street: "East 3rd Street"
-housenumber: 309
+street: East 3rd Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

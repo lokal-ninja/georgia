@@ -1,11 +1,11 @@
 id: 357032669
-type: way
+type: node
 latitude: 33.94219
 longitude: -84.70413
-postcode: "30127-4491"
+postcode: 30127-4491
 city: Powder Springs
-street: "Dallas Highway"
-housenumber: 5100
-phone: "+1 770-419-6000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/496"
+street: Dallas Highway
+housenumber: "5100"
+phone: +1 770-419-6000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/496

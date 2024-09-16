@@ -1,11 +1,11 @@
 id: 535100729
-type: way
+type: node
 latitude: 32.66508
 longitude: -83.7398
 postcode: "31008"
 city: Byron
-street: "Cane River Drive"
-housenumber: 144
-phone: "+1-478-258-4677"
-opening_hours: "Fr 15:00-22:00; Sa 11:00-22:00"
-website: "https://gbuncorked.com/"
+street: Cane River Drive
+housenumber: "144"
+phone: +1-478-258-4677
+opening_hours: Fr 15:00-22:00; Sa 11:00-22:00
+website: https://gbuncorked.com/

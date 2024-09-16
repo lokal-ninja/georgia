@@ -1,11 +1,11 @@
 id: 550176566
-type: way
+type: node
 latitude: 31.13616
 longitude: -83.43298
 postcode: "31620"
 city: Adel
-street: "West 4th Street"
-housenumber: 714
-phone: "+1 229-896-5055"
+street: West 4th Street
+housenumber: "714"
+phone: +1 229-896-5055
 opening_hours: ""
 website: ""

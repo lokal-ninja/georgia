@@ -1,11 +1,11 @@
 id: 389337969
-type: way
+type: node
 latitude: 34.05716
 longitude: -84.32738
 postcode: "30076"
 city: Roswell
-street: "Alpharetta Highway"
-housenumber: 11345
-phone: "+1-678-944-9261"
+street: Alpharetta Highway
+housenumber: "11345"
+phone: +1-678-944-9261
 opening_hours: ""
-website: "https://autorepairroswell.com"
+website: https://autorepairroswell.com

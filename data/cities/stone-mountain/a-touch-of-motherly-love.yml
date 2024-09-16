@@ -1,11 +1,11 @@
 id: 312679230
-type: way
+type: node
 latitude: 33.81119
 longitude: -84.17138
 postcode: "30083"
 city: Stone Mountain
-street: "Main Street"
-housenumber: 1054
+street: Main Street
+housenumber: "1054"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 958086781
-type: way
+type: node
 latitude: 32.52475
 longitude: -84.94914
 postcode: "31909"
 city: Columbus
-street: "Sowega Drive"
-housenumber: 2891
-phone: "+1 706-322-9240"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/columbus/ga/columbus/31909/136"
+street: Sowega Drive
+housenumber: "2891"
+phone: +1 706-322-9240
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/columbus/ga/columbus/31909/136

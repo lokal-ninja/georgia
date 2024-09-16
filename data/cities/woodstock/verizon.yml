@@ -1,11 +1,11 @@
 id: 536798238
-type: way
+type: node
 latitude: 34.08522
 longitude: -84.54265
 postcode: "30189"
 city: Woodstock
-street: "Lauren Lane"
-housenumber: 121
-phone: "+1-770-928-2998"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.verizonwireless.com/stores/georgia/woodstock/woodstock-286180/#/storeDetails"
+street: Lauren Lane
+housenumber: "121"
+phone: +1-770-928-2998
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.verizonwireless.com/stores/georgia/woodstock/woodstock-286180/#/storeDetails

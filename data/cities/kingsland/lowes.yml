@@ -1,11 +1,11 @@
 id: 572566626
-type: way
+type: node
 latitude: 30.78443
 longitude: -81.64586
 postcode: "31548"
 city: Kingsland
-street: "East Boone Avenue"
-housenumber: 1410
-phone: "+1 912-673-1610"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-kingsland/2489"
+street: East Boone Avenue
+housenumber: "1410"
+phone: +1 912-673-1610
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-kingsland/2489

@@ -1,11 +1,11 @@
 id: 1062210928
-type: way
+type: node
 latitude: 33.83048
 longitude: -84.35639
 postcode: "30324"
 city: Atlanta
-street: "Lenox Road"
-housenumber: 2770
+street: Lenox Road
+housenumber: "2770"
 phone: ""
 opening_hours: ""
 website: ""

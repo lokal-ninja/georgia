@@ -1,11 +1,11 @@
 id: 1063109712
-type: way
+type: node
 latitude: 33.87036
 longitude: -84.5286
 postcode: "30080"
 city: Smyrna
-street: "South Cobb Drive"
-housenumber: 3418
+street: South Cobb Drive
+housenumber: "3418"
 phone: ""
 opening_hours: ""
 website: ""

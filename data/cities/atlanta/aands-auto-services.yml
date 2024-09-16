@@ -1,11 +1,11 @@
 id: 225634692
-type: way
+type: node
 latitude: 33.86163
 longitude: -84.30694
 postcode: "30345"
 city: Atlanta
-street: "Buford Highway Northeast"
-housenumber: 4065
+street: Buford Highway Northeast
+housenumber: "4065"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 314196006
-type: way
+type: node
 latitude: 33.9845
 longitude: -84.42679
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 4267
-phone: "+1 (770) 565-7110"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Roswell Road
+housenumber: "4267"
+phone: +1 (770) 565-7110
+opening_hours: Mo-Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 387811201
-type: way
+type: node
 latitude: 34.18012
 longitude: -84.12924
 postcode: "30041"
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 1000
-phone: "+1 770-888-8135"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/cumming/ga/cumming/30041/134"
+street: Market Place Boulevard
+housenumber: "1000"
+phone: +1 770-888-8135
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/cumming/ga/cumming/30041/134

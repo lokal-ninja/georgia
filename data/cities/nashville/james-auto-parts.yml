@@ -1,11 +1,11 @@
 id: 366052581
-type: way
+type: node
 latitude: 31.20204
 longitude: -83.25056
 postcode: "31639"
 city: Nashville
-street: "South Davis Street"
-housenumber: 510
-phone: "+1 (229) 686-2041"
-opening_hours: "Mo-Fr 07:30-18:00; Su 08:00-14:00"
-website: "http://www.napaonline.com/ga/nashville/james_auto_ga"
+street: South Davis Street
+housenumber: "510"
+phone: +1 (229) 686-2041
+opening_hours: Mo-Fr 07:30-18:00; Su 08:00-14:00
+website: http://www.napaonline.com/ga/nashville/james_auto_ga

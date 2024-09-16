@@ -1,11 +1,11 @@
 id: 261777140
-type: way
+type: node
 latitude: 34.94814
 longitude: -85.22885
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 2055
-phone: "+1 706-858-0398"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/ft-oglethorpe/ga/fort-oglethorpe/30742/1769"
+street: Battlefield Parkway
+housenumber: "2055"
+phone: +1 706-858-0398
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/ft-oglethorpe/ga/fort-oglethorpe/30742/1769

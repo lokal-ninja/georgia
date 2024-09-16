@@ -1,11 +1,11 @@
 id: 1121090541
-type: way
+type: node
 latitude: 33.59921
 longitude: -83.83061
 postcode: "30014"
 city: Covington
-street: "US Highway 278"
-housenumber: 9191
-phone: "770-317-7935"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://toms-auto-service.business.site/"
+street: US Highway 278
+housenumber: "9191"
+phone: 770-317-7935
+opening_hours: Mo-Sa 09:00-19:00
+website: https://toms-auto-service.business.site/

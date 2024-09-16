@@ -1,11 +1,11 @@
 id: 429753003
-type: way
+type: node
 latitude: 34.55522
 longitude: -84.9355
 postcode: "30701"
 city: Calhoun
-street: "US 41"
-housenumber: 1449
-phone: "+1 (706) 602-2033"
-opening_hours: "Mo-Su 07:00-17:00"
-website: "http://mymarathonstation.com/StoreHome/192781"
+street: US 41
+housenumber: "1449"
+phone: +1 (706) 602-2033
+opening_hours: Mo-Su 07:00-17:00
+website: http://mymarathonstation.com/StoreHome/192781

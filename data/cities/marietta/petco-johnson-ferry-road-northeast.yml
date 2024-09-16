@@ -1,11 +1,11 @@
 id: 106213167
-type: way
+type: node
 latitude: 33.97802
 longitude: -84.41558
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1100
-phone: "+1 770-321-3449"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petco.com/content/locator/Details.aspx?storeId=1558"
+street: Johnson Ferry Road Northeast
+housenumber: "1100"
+phone: +1 770-321-3449
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petco.com/content/locator/Details.aspx?storeId=1558

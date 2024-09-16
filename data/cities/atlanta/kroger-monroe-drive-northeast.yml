@@ -1,11 +1,11 @@
 id: 226292664
-type: way
+type: node
 latitude: 33.80078
 longitude: -84.37354
 postcode: "30324"
 city: Atlanta
-street: "Monroe Drive Northeast"
-housenumber: 1700
-phone: "+1 404-872-0785"
-opening_hours: "06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/ansley-mall/011/00298"
+street: Monroe Drive Northeast
+housenumber: "1700"
+phone: +1 404-872-0785
+opening_hours: 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/ansley-mall/011/00298

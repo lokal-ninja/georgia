@@ -1,11 +1,11 @@
 id: 243518603
-type: way
+type: node
 latitude: 33.55326
 longitude: -85.07578
 postcode: "30117"
 city: Carrollton
-street: "South Park Street"
-housenumber: 1355
-phone: "+1 770-832-8932"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/carrollton/carrollton-crossing/011/00367"
+street: South Park Street
+housenumber: "1355"
+phone: +1 770-832-8932
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/carrollton/carrollton-crossing/011/00367

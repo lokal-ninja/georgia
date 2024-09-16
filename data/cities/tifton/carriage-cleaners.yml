@@ -1,11 +1,11 @@
 id: 979913715
-type: way
+type: node
 latitude: 31.47311
 longitude: -83.5028
 postcode: "31794"
 city: Tifton
-street: "Tift Avenue North"
-housenumber: 2001
-phone: "+1 229 382 5714"
+street: Tift Avenue North
+housenumber: "2001"
+phone: +1 229 382 5714
 opening_hours: ""
 website: ""

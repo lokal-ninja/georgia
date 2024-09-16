@@ -1,11 +1,11 @@
 id: 312527891
-type: way
+type: node
 latitude: 33.8086
 longitude: -84.17059
 postcode: "30083"
 city: Stone Mountain
-street: "Main Street"
-housenumber: 981
-phone: "(770) 498-2055"
+street: Main Street
+housenumber: "981"
+phone: (770) 498-2055
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 33.72607
 longitude: -84.37693
 postcode: "30315"
 city: Atlanta
-street: "Grant Circle Southeast"
-housenumber: 1039
+street: Grant Circle Southeast
+housenumber: "1039"
 phone: ""
-opening_hours: "Mo by appointment; Tu-Fr 10:00-19:00; Sa 09:00-17:00; Su 12:00-17:00; PH unknown"
-website: "https://www.theyizclusiveexperience.com/"
+opening_hours: Mo "by appointment"; Tu-Fr 10:00-19:00; Sa 09:00-17:00; Su 12:00-17:00;
+    PH unknown
+website: https://www.theyizclusiveexperience.com/

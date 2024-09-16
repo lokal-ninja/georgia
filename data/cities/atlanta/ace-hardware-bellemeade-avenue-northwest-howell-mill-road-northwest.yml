@@ -1,11 +1,11 @@
 id: 269238014
-type: way
+type: node
 latitude: 33.8011
 longitude: -84.41529
 postcode: "30318"
 city: Atlanta
-street: "Bellemeade Avenue Northwest;Howell Mill Road Northwest"
+street: Bellemeade Avenue Northwest;Howell Mill Road Northwest
 housenumber: 815;1709
-phone: "+1 404-351-4240"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:30; Su 10:00-17:30"
+phone: +1 404-351-4240
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:30; Su 10:00-17:30
 website: ""

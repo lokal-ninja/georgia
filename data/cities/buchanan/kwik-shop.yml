@@ -1,11 +1,11 @@
 id: 803155607
-type: way
+type: node
 latitude: 33.8033
 longitude: -85.17557
 postcode: "30113"
 city: Buchanan
-street: "GA 120"
-housenumber: 4683
-phone: "+1 (678) 647-5021"
-opening_hours: "Mo-Su 06:00-23:59"
+street: GA 120
+housenumber: "4683"
+phone: +1 (678) 647-5021
+opening_hours: Mo-Su 06:00-23:59
 website: ""

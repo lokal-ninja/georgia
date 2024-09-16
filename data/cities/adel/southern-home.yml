@@ -1,11 +1,11 @@
 id: 992924263
-type: way
+type: node
 latitude: 31.14541
 longitude: -83.42605
 postcode: "31620"
 city: Adel
-street: "North Hutchinson Avenue"
-housenumber: 808
+street: North Hutchinson Avenue
+housenumber: "808"
 phone: "+12298965507"
 opening_hours: ""
 website: ""

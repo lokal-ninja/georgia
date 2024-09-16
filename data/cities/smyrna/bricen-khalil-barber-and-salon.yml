@@ -4,8 +4,8 @@ latitude: 33.88181
 longitude: -84.50664
 postcode: "30080"
 city: Smyrna
-street: "Spring Road Southeast"
-housenumber: 1529
-phone: "+1 770-989-1301"
-opening_hours: "unknown || Mo-Su,PH by appointment"
+street: Spring Road Southeast
+housenumber: "1529"
+phone: +1 770-989-1301
+opening_hours: unknown || Mo-Su,PH "by appointment"
 website: ""

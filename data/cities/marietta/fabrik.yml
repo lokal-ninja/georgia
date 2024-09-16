@@ -1,11 +1,11 @@
 id: 983705285
-type: way
+type: node
 latitude: 33.9805
 longitude: -84.42776
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1311
+street: Johnson Ferry Road Northeast
+housenumber: "1311"
 phone: "+17705093444"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://fabrikstyle.com/pages/store-locator"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://fabrikstyle.com/pages/store-locator

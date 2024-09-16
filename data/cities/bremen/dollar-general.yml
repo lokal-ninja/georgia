@@ -1,11 +1,11 @@
 id: 683823236
-type: way
+type: node
 latitude: 33.69815
 longitude: -85.14505
-postcode: "30110-2545"
+postcode: 30110-2545
 city: Bremen
-street: "Bremen Mount Zion Road"
-housenumber: 3050
-phone: "+1 470 600-1155"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/bremen/2618"
+street: Bremen Mount Zion Road
+housenumber: "3050"
+phone: +1 470 600-1155
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/bremen/2618

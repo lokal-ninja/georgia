@@ -1,11 +1,11 @@
 id: 1131277319
-type: way
+type: node
 latitude: 33.60366
 longitude: -83.86236
 postcode: "30014"
 city: Covington
-street: "Highway 278 Northwest"
-housenumber: 3144
-phone: "770-787-3400"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+street: Highway 278 Northwest
+housenumber: "3144"
+phone: 770-787-3400
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

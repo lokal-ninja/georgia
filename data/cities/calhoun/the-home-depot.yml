@@ -1,11 +1,11 @@
 id: 927816846
-type: way
+type: node
 latitude: 34.47554
 longitude: -84.9205
 postcode: "30701"
 city: Calhoun
-street: "Curtis Parkway Southeast"
-housenumber: 1280
-phone: "+1 706-629-2509"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/calhoun/ga/calhoun/30701/8924"
+street: Curtis Parkway Southeast
+housenumber: "1280"
+phone: +1 706-629-2509
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/calhoun/ga/calhoun/30701/8924

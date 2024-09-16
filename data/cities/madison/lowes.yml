@@ -1,11 +1,11 @@
 id: 500011356
-type: way
+type: node
 latitude: 33.56262
 longitude: -83.48102
 postcode: "30650"
 city: Madison
-street: "Eatonton Highway"
-housenumber: 1821
-phone: "+1 706-343-0720"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1958"
+street: Eatonton Highway
+housenumber: "1821"
+phone: +1 706-343-0720
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1958

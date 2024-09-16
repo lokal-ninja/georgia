@@ -1,11 +1,11 @@
 id: 1254204696
-type: way
+type: node
 latitude: 33.24961
 longitude: -84.28868
 postcode: "30223"
 city: Griffin
-street: "Highway 16"
-housenumber: 1429
-phone: "+1 770-233-1114"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ga/griffin/officemax-6483"
+street: Highway 16
+housenumber: "1429"
+phone: +1 770-233-1114
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ga/griffin/officemax-6483

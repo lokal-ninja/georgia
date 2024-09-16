@@ -1,11 +1,11 @@
 id: 929866145
-type: way
+type: node
 latitude: 32.61655
 longitude: -83.67995
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 2823
-phone: "+1 478-953-9300"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
+street: Watson Boulevard
+housenumber: "2823"
+phone: +1 478-953-9300
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 586456216
-type: way
+type: node
 latitude: 33.54131
 longitude: -82.13216
 postcode: "30809"
 city: Evans
-street: "Washington Road"
-housenumber: 4355
-phone: "+1 706-868-4515"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/evans/evans-crossing/011/00414"
+street: Washington Road
+housenumber: "4355"
+phone: +1 706-868-4515
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/evans/evans-crossing/011/00414

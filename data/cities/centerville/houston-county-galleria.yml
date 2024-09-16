@@ -1,11 +1,11 @@
 id: 721776643
-type: way
+type: node
 latitude: 32.62063
 longitude: -83.68633
 postcode: "31028"
 city: Centerville
-street: "Watson Boulevard"
-housenumber: 2922
-phone: "+1 478-953-4462"
+street: Watson Boulevard
+housenumber: "2922"
+phone: +1 478-953-4462
 opening_hours: ""
-website: "https://www.houstoncountygalleria.com/"
+website: https://www.houstoncountygalleria.com/

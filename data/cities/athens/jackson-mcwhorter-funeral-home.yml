@@ -1,11 +1,11 @@
 id: 311052510
-type: way
+type: node
 latitude: 33.95346
 longitude: -83.39289
 postcode: "30606"
 city: Athens
-street: "West Broad Street"
-housenumber: 1253
+street: West Broad Street
+housenumber: "1253"
 phone: ""
-opening_hours: "24/7 on call"
-website: "https://jacksonmcwhorterfuneralhome.com/"
+opening_hours: 24/7 "on call"
+website: https://jacksonmcwhorterfuneralhome.com/

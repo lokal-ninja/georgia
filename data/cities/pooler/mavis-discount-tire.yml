@@ -1,11 +1,11 @@
 id: 942546935
-type: way
+type: node
 latitude: 32.09621
 longitude: -81.27211
 postcode: "31322"
 city: Pooler
-street: "Pooler Parkway"
-housenumber: 1511
+street: Pooler Parkway
+housenumber: "1511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 281146153
-type: way
+type: node
 latitude: 34.68965
 longitude: -83.71111
 postcode: "30545"
 city: Helen
-street: "South Main Street"
-housenumber: 7082
-phone: "+1-706-892-1207"
-opening_hours: "Mo-Sa 10:00-17:00; Su 13:00-17:00"
-website: "https://jumpingoat.com/"
+street: South Main Street
+housenumber: "7082"
+phone: +1-706-892-1207
+opening_hours: Mo-Sa 10:00-17:00; Su 13:00-17:00
+website: https://jumpingoat.com/

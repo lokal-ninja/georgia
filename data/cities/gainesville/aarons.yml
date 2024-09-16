@@ -1,11 +1,11 @@
 id: 388866970
-type: way
+type: node
 latitude: 34.29756
 longitude: -83.86172
 postcode: "30504"
 city: Gainesville
-street: "McEver Road"
-housenumber: 926
+street: McEver Road
+housenumber: "926"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/ga/gainesville/926-mcever-rd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/ga/gainesville/926-mcever-rd

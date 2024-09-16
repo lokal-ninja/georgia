@@ -1,11 +1,11 @@
 id: 683436187
-type: way
+type: node
 latitude: 34.91712
 longitude: -85.11267
 postcode: ""
 city: Ringgold
-street: "Nashville Street"
-housenumber: 7579
+street: Nashville Street
+housenumber: "7579"
 phone: ""
 opening_hours: ""
 website: ""

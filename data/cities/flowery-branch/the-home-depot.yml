@@ -1,11 +1,11 @@
 id: 387816977
-type: way
+type: node
 latitude: 34.18269
 longitude: -83.90916
 postcode: "30452"
 city: Flowery Branch
-street: "Sprout Spring Road"
-housenumber: 5851
-phone: "+1 770-965-7877"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/flowery-branch/ga/flowery-branch/30542/1856"
+street: Sprout Spring Road
+housenumber: "5851"
+phone: +1 770-965-7877
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/flowery-branch/ga/flowery-branch/30542/1856

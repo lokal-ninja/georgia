@@ -1,11 +1,11 @@
 id: 556480183
-type: way
+type: node
 latitude: 34.06984
 longitude: -84.27862
 postcode: "30009"
 city: Alpharetta
-street: "Old Milton Parkway"
-housenumber: 2800
-phone: "+1 678-534-3138"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/avalon"
+street: Old Milton Parkway
+housenumber: "2800"
+phone: +1 678-534-3138
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/avalon

@@ -1,11 +1,11 @@
 id: 958427359
-type: way
+type: node
 latitude: 32.5604
 longitude: -84.93714
 postcode: "31909"
 city: Columbus
-street: "Veterans Parkway"
-housenumber: 7830
+street: Veterans Parkway
+housenumber: "7830"
 phone: "+17066605245"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://billclayton.benchmark.us/"
+opening_hours: Mo-Fr 08:30-17:30
+website: https://billclayton.benchmark.us/

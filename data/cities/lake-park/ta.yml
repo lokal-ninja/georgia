@@ -1,11 +1,11 @@
 id: 226930454
-type: way
+type: node
 latitude: 30.64387
 longitude: -83.18757
 postcode: "31636"
 city: Lake Park
-street: "Bellville Road"
-housenumber: 6901
-phone: "+1 (229) 559-5113"
-opening_hours: "24/7"
+street: Bellville Road
+housenumber: "6901"
+phone: +1 (229) 559-5113
+opening_hours: 24/7
 website: ""

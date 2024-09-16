@@ -1,11 +1,11 @@
 id: 707510712
-type: way
+type: node
 latitude: 33.62496
 longitude: -83.84823
 postcode: "30014"
 city: Covington
-street: "Bob Williams Parkway"
-housenumber: 11159
-phone: "800-483-1634"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Bob Williams Parkway
+housenumber: "11159"
+phone: 800-483-1634
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

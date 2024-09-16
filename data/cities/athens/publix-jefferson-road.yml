@@ -4,8 +4,8 @@ latitude: 33.99203
 longitude: -83.43858
 postcode: "30606"
 city: Athens
-street: "Jefferson Road"
-housenumber: 5345
-phone: "+1 762-400-8555"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1838"
+street: Jefferson Road
+housenumber: "5345"
+phone: +1 762-400-8555
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1838

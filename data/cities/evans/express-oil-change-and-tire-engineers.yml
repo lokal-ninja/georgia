@@ -1,11 +1,11 @@
 id: 586456206
-type: way
+type: node
 latitude: 33.53949
 longitude: -82.13186
 postcode: "30809"
 city: Evans
-street: "Washington Road"
-housenumber: 4342
-phone: "+1-706-863-7111"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/evans/ga/6075/"
+street: Washington Road
+housenumber: "4342"
+phone: +1-706-863-7111
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/evans/ga/6075/

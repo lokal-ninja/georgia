@@ -1,11 +1,11 @@
 id: 303675821
-type: way
+type: node
 latitude: 33.95218
 longitude: -84.55101
 postcode: "30064"
 city: Marietta
-street: "Whitlock Avenue"
-housenumber: 17
-phone: "+1 (770) 428-2667"
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-17:00"
-website: "https://parkwestvintage.com/"
+street: Whitlock Avenue
+housenumber: "17"
+phone: +1 (770) 428-2667
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-17:00
+website: https://parkwestvintage.com/

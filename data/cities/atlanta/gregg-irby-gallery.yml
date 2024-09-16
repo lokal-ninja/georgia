@@ -4,8 +4,8 @@ latitude: 33.81932
 longitude: -84.38672
 postcode: "30305"
 city: Atlanta
-street: "Peachtree Street Northeast"
-housenumber: 2345
-phone: "+1 404 549 8303"
+street: Peachtree Street Northeast
+housenumber: "2345"
+phone: +1 404 549 8303
 opening_hours: ""
-website: "https://www.greggirbygallery.com"
+website: https://www.greggirbygallery.com

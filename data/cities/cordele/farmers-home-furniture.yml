@@ -1,11 +1,11 @@
 id: 1201523750
-type: way
+type: node
 latitude: 31.96343
 longitude: -83.76704
 postcode: "31010"
 city: Cordele
-street: "16th Avenue East"
-housenumber: 1006
-phone: "+1-229-273-0505"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.farmershomefurniture.com/stores/cordelega.inc"
+street: 16th Avenue East
+housenumber: "1006"
+phone: +1-229-273-0505
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.farmershomefurniture.com/stores/cordelega.inc

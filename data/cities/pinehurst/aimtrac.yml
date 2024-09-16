@@ -1,11 +1,11 @@
 id: 414265127
-type: way
+type: node
 latitude: 32.19861
 longitude: -83.76182
 postcode: "31070"
 city: Pinehurst
-street: "Pine Avenue"
-housenumber: 766
-phone: "+1 (229) 645-3331"
+street: Pine Avenue
+housenumber: "766"
+phone: +1 (229) 645-3331
 opening_hours: ""
-website: "https://aimtracco.com/about-us/locations/pinehurst-ga"
+website: https://aimtracco.com/about-us/locations/pinehurst-ga

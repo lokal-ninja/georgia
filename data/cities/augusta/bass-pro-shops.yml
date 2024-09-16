@@ -1,11 +1,11 @@
 id: 827626035
-type: way
+type: node
 latitude: 33.52647
 longitude: -82.01847
 postcode: "30909"
 city: Augusta
-street: "Cabela Drive"
-housenumber: 833
-phone: "+1 762-444-6500"
+street: Cabela Drive
+housenumber: "833"
+phone: +1 762-444-6500
 opening_hours: ""
-website: "https://stores.cabelas.com/us/ga/augusta/833-cabela-drive.html"
+website: https://stores.cabelas.com/us/ga/augusta/833-cabela-drive.html

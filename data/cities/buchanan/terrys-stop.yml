@@ -1,11 +1,11 @@
 id: 981951637
-type: way
+type: node
 latitude: 33.83114
 longitude: -85.20768
 postcode: "30113"
 city: Buchanan
-street: "Mormon Church Road"
-housenumber: 25
+street: Mormon Church Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 700356167
-type: way
+type: node
 latitude: 33.79594
 longitude: -83.70836
 postcode: "30655"
 city: Monroe
-street: "East Spring Street"
-housenumber: 424
-phone: "+1-770-207-5601"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.fishofwalton.org/thrift-stores"
+street: East Spring Street
+housenumber: "424"
+phone: +1-770-207-5601
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.fishofwalton.org/thrift-stores

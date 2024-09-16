@@ -1,11 +1,11 @@
 id: 986974979
-type: way
+type: node
 latitude: 34.71333
 longitude: -84.46335
 postcode: "30540"
 city: Ellijay
-street: "Harper Road"
-housenumber: 109
-phone: "+1 (706) 635-2100"
+street: Harper Road
+housenumber: "109"
+phone: +1 (706) 635-2100
 opening_hours: ""
 website: ""

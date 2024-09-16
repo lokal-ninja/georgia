@@ -1,11 +1,11 @@
 id: 1179826605
-type: way
+type: node
 latitude: 31.88375
 longitude: -85.09772
 postcode: "39834"
 city: Georgetown
-street: "U.S. Highway 82"
-housenumber: 1092
-phone: "+1 706-786-6140"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/georgetown/8381"
+street: U.S. Highway 82
+housenumber: "1092"
+phone: +1 706-786-6140
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/georgetown/8381

@@ -1,11 +1,11 @@
 id: 563887505
-type: way
+type: node
 latitude: 33.40926
 longitude: -84.67894
 postcode: "30265"
 city: Newnan
-street: "Highway 34 East"
-housenumber: 3150
-phone: "+1 770-254-3030"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/newnan/thomas-crossroads/011/00420"
+street: Highway 34 East
+housenumber: "3150"
+phone: +1 770-254-3030
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/newnan/thomas-crossroads/011/00420

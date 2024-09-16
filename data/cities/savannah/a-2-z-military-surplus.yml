@@ -1,11 +1,11 @@
 id: 638265215
-type: way
+type: node
 latitude: 32.02831
 longitude: -81.11949
 postcode: ""
 city: savannah
-street: "Montgomery Street"
-housenumber: 5511
-phone: "+1-912-495-5845"
+street: Montgomery Street
+housenumber: "5511"
+phone: +1-912-495-5845
 opening_hours: ""
 website: ""

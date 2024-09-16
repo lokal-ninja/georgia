@@ -1,11 +1,11 @@
 id: 927816825
-type: way
+type: node
 latitude: 34.47989
 longitude: -84.94604
 postcode: "30701"
 city: Calhoun
-street: "West Belmont Drive"
-housenumber: 450
-phone: "+1 706-625-4274"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1215/calhoun-ga/whats-new"
+street: West Belmont Drive
+housenumber: "450"
+phone: +1 706-625-4274
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1215/calhoun-ga/whats-new

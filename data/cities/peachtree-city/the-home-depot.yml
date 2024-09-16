@@ -1,11 +1,11 @@
 id: 289248715
-type: way
+type: node
 latitude: 33.3998
 longitude: -84.59891
 postcode: "30269"
 city: Peachtree City
-street: "Highway 54 West"
-housenumber: 2715
-phone: "+1 678-364-0163"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Peachtree-City/GA/Peachtree-City/30269/164"
+street: Highway 54 West
+housenumber: "2715"
+phone: +1 678-364-0163
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Peachtree-City/GA/Peachtree-City/30269/164

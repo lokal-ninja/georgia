@@ -1,11 +1,11 @@
 id: 970165367
-type: way
+type: node
 latitude: 32.91474
 longitude: -83.70627
 postcode: "31210"
 city: Macon
-street: "Riverside Drive"
-housenumber: 4500
+street: Riverside Drive
+housenumber: "4500"
 phone: ""
 opening_hours: ""
-website: "https://www.butlernissan.com/"
+website: https://www.butlernissan.com/

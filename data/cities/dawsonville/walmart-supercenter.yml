@@ -1,11 +1,11 @@
 id: 389927588
-type: way
+type: node
 latitude: 34.35581
 longitude: -84.04225
 postcode: "30534"
 city: Dawsonville
-street: "Power Center Drive"
-housenumber: 98
-phone: "+1 706-265-8787"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3874/dawsonville-ga/whats-new"
+street: Power Center Drive
+housenumber: "98"
+phone: +1 706-265-8787
+opening_hours: 24/7
+website: https://www.walmart.com/store/3874/dawsonville-ga/whats-new

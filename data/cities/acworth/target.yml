@@ -1,11 +1,11 @@
 id: 992878929
-type: way
+type: node
 latitude: 34.03964
 longitude: -84.68512
-postcode: "30101-8304"
+postcode: 30101-8304
 city: Acworth
-street: "Cobb Parkway Northwest"
-housenumber: 3378
-phone: "+1 678-202-0996"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/acworth/2091"
+street: Cobb Parkway Northwest
+housenumber: "3378"
+phone: +1 678-202-0996
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/acworth/2091

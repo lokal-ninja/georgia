@@ -1,11 +1,11 @@
 id: 487350842
-type: way
+type: node
 latitude: 32.80378
 longitude: -83.7332
 postcode: "31206"
 city: Macon
-street: "Eisenhower Parkway"
-housenumber: 5171
+street: Eisenhower Parkway
+housenumber: "5171"
 phone: ""
 opening_hours: ""
 website: ""

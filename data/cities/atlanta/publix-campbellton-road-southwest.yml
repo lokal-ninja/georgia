@@ -1,11 +1,11 @@
 id: 1015865446
-type: way
+type: node
 latitude: 33.70182
 longitude: -84.57897
 postcode: "30331"
 city: Atlanta
-street: "Campbellton Road Southwest"
-housenumber: 5829
-phone: "+1 404-346-4170"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1718"
+street: Campbellton Road Southwest
+housenumber: "5829"
+phone: +1 404-346-4170
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1718

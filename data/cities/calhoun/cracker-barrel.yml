@@ -1,11 +1,11 @@
 id: 534930064
-type: way
+type: node
 latitude: 34.47053
 longitude: -84.91623
 postcode: "30701"
 city: Calhoun
-street: "Cracker Barrel Drive"
-housenumber: 100
-phone: "+1 (706) 624-1661"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
+street: Cracker Barrel Drive
+housenumber: "100"
+phone: +1 (706) 624-1661
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
 website: ""

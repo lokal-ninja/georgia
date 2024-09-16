@@ -1,11 +1,11 @@
 id: 389603032
-type: way
+type: node
 latitude: 34.23454
 longitude: -83.85883
 postcode: "30504"
 city: Gainesville
-street: "Frontage Road"
-housenumber: 2814
+street: Frontage Road
+housenumber: "2814"
 phone: ""
 opening_hours: ""
 website: ""

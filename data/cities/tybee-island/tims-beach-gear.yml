@@ -4,8 +4,8 @@ latitude: 31.99724
 longitude: -80.84899
 postcode: "31328"
 city: Tybee Island
-street: "2nd Avenue"
-housenumber: 1315
+street: 2nd Avenue
+housenumber: "1315"
 phone: ""
 opening_hours: ""
-website: "https://www.timsbeachgear.com/"
+website: https://www.timsbeachgear.com/

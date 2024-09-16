@@ -1,11 +1,11 @@
 id: 683636046
-type: way
+type: node
 latitude: 34.79275
 longitude: -84.99688
 postcode: ""
 city: Dalton
-street: "Shugart Road"
-housenumber: 925
+street: Shugart Road
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

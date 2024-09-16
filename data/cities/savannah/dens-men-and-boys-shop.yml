@@ -1,11 +1,11 @@
 id: 399688937
-type: way
+type: node
 latitude: 32.07881
 longitude: -81.09
 postcode: "31401"
 city: Savannah
-street: "East Broughton Street"
-housenumber: 128
+street: East Broughton Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

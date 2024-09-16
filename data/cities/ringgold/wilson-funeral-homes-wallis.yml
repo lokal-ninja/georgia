@@ -1,11 +1,11 @@
 id: 700413382
-type: way
+type: node
 latitude: 34.91438
 longitude: -85.13251
 postcode: "30736"
 city: Ringgold
-street: "Boynton Drive"
-housenumber: 443
+street: Boynton Drive
+housenumber: "443"
 phone: ""
 opening_hours: ""
 website: ""

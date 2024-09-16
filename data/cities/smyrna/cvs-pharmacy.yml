@@ -1,11 +1,11 @@
 id: 297682412
-type: way
+type: node
 latitude: 33.86667
 longitude: -84.5405
 postcode: "30082"
 city: Smyrna
-street: "Concord Road Southeast"
-housenumber: 485
+street: Concord Road Southeast
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

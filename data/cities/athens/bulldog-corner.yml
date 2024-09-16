@@ -1,11 +1,11 @@
 id: 296008730
-type: way
+type: node
 latitude: 33.95094
 longitude: -83.38133
 postcode: "30605"
 city: Athens
-street: "Baxter Street"
-housenumber: 320
+street: Baxter Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

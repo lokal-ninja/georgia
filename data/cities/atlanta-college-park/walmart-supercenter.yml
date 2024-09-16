@@ -1,11 +1,11 @@
 id: 298455040
-type: way
+type: node
 latitude: 33.58756
 longitude: -84.4715
 postcode: "30349"
 city: Atlanta;College Park
-street: "Old National Highway"
-housenumber: 6149
-phone: "+1 770-994-9440"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/3401/college-park-ga/whats-new"
+street: Old National Highway
+housenumber: "6149"
+phone: +1 770-994-9440
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/3401/college-park-ga/whats-new

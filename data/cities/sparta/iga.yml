@@ -1,11 +1,11 @@
 id: 1021830109
-type: way
+type: node
 latitude: 33.27474
 longitude: -82.97431
 postcode: "31087"
 city: Sparta
-street: "Adams Street"
-housenumber: 603
-phone: "+1 706-356-8443"
+street: Adams Street
+housenumber: "603"
+phone: +1 706-356-8443
 opening_hours: ""
 website: ""

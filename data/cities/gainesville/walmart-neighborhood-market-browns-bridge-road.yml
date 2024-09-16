@@ -1,11 +1,11 @@
 id: 389744158
-type: way
+type: node
 latitude: 34.2803
 longitude: -83.87589
 postcode: "30504"
 city: Gainesville
-street: "Browns Bridge Road"
-housenumber: 2892
-phone: "+1 678-971-6367"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2731/gainesville-ga/whats-new"
+street: Browns Bridge Road
+housenumber: "2892"
+phone: +1 678-971-6367
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2731/gainesville-ga/whats-new

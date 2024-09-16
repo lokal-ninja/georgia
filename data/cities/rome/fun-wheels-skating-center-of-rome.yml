@@ -1,11 +1,11 @@
 id: 308110796
-type: way
+type: node
 latitude: 34.29673
 longitude: -85.1119
 postcode: "30161"
 city: Rome
-street: "Calhoun Road Northeast"
-housenumber: 2606
-phone: "+1-706-291-7681"
+street: Calhoun Road Northeast
+housenumber: "2606"
+phone: +1-706-291-7681
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.7224
 longitude: -84.34766
 postcode: "30316"
 city: Atlanta
-street: "Moreland Avenue Southeast"
-housenumber: 1160
-phone: "+1 404-624-8110"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/ripplewater-village/011/00488"
+street: Moreland Avenue Southeast
+housenumber: "1160"
+phone: +1 404-624-8110
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/ripplewater-village/011/00488

@@ -1,11 +1,11 @@
 id: 293604813
-type: way
+type: node
 latitude: 33.94832
 longitude: -84.62715
 postcode: "30064"
 city: Marietta
-street: "Dallas Highway Southwest"
-housenumber: 2650
-phone: "+1 770-794-4778"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-marietta/0545"
+street: Dallas Highway Southwest
+housenumber: "2650"
+phone: +1 770-794-4778
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-marietta/0545

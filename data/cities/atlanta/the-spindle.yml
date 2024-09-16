@@ -4,8 +4,8 @@ latitude: 33.7568
 longitude: -84.36605
 postcode: "30312"
 city: Atlanta
-street: "Auburn Avenue Northeast"
-housenumber: 659
-phone: "+1-470-243-7849"
-opening_hours: "Tu-Sa 12:00-18:00"
-website: "https://www.thespindleatl.com/"
+street: Auburn Avenue Northeast
+housenumber: "659"
+phone: +1-470-243-7849
+opening_hours: Tu-Sa 12:00-18:00
+website: https://www.thespindleatl.com/

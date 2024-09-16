@@ -1,11 +1,11 @@
 id: 423050405
-type: way
+type: node
 latitude: 34.11889
 longitude: -84.74346
 postcode: "30121"
 city: Cartersville
-street: "Old Allatoona Road Southeast"
-housenumber: 150
-phone: "+1 (770) 382-4141"
+street: Old Allatoona Road Southeast
+housenumber: "150"
+phone: +1 (770) 382-4141
 opening_hours: ""
 website: ""

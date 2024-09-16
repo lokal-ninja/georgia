@@ -1,11 +1,11 @@
 id: 929019056
-type: way
+type: node
 latitude: 32.00752
 longitude: -81.11675
 postcode: "31406"
 city: Savannah
-street: "Abercorn Street"
-housenumber: 7505
+street: Abercorn Street
+housenumber: "7505"
 phone: ""
 opening_hours: ""
 website: ""

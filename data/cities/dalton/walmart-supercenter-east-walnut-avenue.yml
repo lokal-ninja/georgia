@@ -1,11 +1,11 @@
 id: 989005056
-type: way
+type: node
 latitude: 34.76736
 longitude: -84.9291
 postcode: "30721"
 city: Dalton
-street: "East Walnut Avenue"
-housenumber: 2545
-phone: "+1 706-279-1905"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/669/dalton-ga/whats-new"
+street: East Walnut Avenue
+housenumber: "2545"
+phone: +1 706-279-1905
+opening_hours: 24/7
+website: https://www.walmart.com/store/669/dalton-ga/whats-new

@@ -1,11 +1,11 @@
 id: 270861605
-type: way
+type: node
 latitude: 33.75625
 longitude: -84.34751
 postcode: "30307"
 city: Atlanta
-street: "Hardee Street Northeast"
-housenumber: 1228
-phone: "+1 404-880-4109"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/edgewood/011/00461"
+street: Hardee Street Northeast
+housenumber: "1228"
+phone: +1 404-880-4109
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/edgewood/011/00461

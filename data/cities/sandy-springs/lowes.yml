@@ -1,11 +1,11 @@
 id: 145876054
-type: way
+type: node
 latitude: 33.91638
 longitude: -84.37662
 postcode: "30328"
 city: Sandy Springs
-street: "Roswell Road"
-housenumber: 5925
-phone: "+1 404-497-8920"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: Roswell Road
+housenumber: "5925"
+phone: +1 404-497-8920
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/

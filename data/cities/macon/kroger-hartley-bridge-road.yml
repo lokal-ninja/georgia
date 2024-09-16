@@ -1,11 +1,11 @@
 id: 928746066
-type: way
+type: node
 latitude: 32.7446
 longitude: -83.71333
 postcode: "31216"
 city: Macon
-street: "Hartley Bridge Road"
-housenumber: 4321
-phone: "+1 478-788-1015"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/ga/macon/bridge-pointe/011/00400"
+street: Hartley Bridge Road
+housenumber: "4321"
+phone: +1 478-788-1015
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/ga/macon/bridge-pointe/011/00400

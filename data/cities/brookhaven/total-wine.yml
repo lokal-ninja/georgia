@@ -1,11 +1,11 @@
 id: 1063690294
-type: way
+type: node
 latitude: 33.85921
 longitude: -84.34227
 postcode: "30319"
 city: Brookhaven
-street: "Peachtree Road Northeast"
-housenumber: 3954
-phone: "+1 404-816-7249"
-opening_hours: "Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 12:30-22:00"
-website: "https://www.totalwine.com/store-info/804"
+street: Peachtree Road Northeast
+housenumber: "3954"
+phone: +1 404-816-7249
+opening_hours: Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 12:30-22:00
+website: https://www.totalwine.com/store-info/804

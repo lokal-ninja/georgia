@@ -1,11 +1,11 @@
 id: 1164902849
-type: way
+type: node
 latitude: 33.45308
 longitude: -84.32862
 postcode: "30250"
 city: Lovejoy
-street: "Tara Boulevard"
-housenumber: 11075
-phone: "+1 770-477-9749"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/lovejoy/ga/lovejoy/30250/6848"
+street: Tara Boulevard
+housenumber: "11075"
+phone: +1 770-477-9749
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/lovejoy/ga/lovejoy/30250/6848

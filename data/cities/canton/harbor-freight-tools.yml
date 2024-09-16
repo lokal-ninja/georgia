@@ -4,8 +4,8 @@ latitude: 34.22388
 longitude: -84.50343
 postcode: "30114"
 city: Canton
-street: "Marietta Highway"
-housenumber: 1750
-phone: "+1 678-493-5280"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://shop.harborfreight.com/storelocator/location/map"
+street: Marietta Highway
+housenumber: "1750"
+phone: +1 678-493-5280
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://shop.harborfreight.com/storelocator/location/map

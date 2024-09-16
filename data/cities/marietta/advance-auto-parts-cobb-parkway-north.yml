@@ -1,11 +1,11 @@
 id: 267600107
-type: way
+type: node
 latitude: 33.95337
 longitude: -84.5225
 postcode: "30062"
 city: Marietta
-street: "Cobb Parkway North"
-housenumber: 111
-phone: "+1 (770) 919-2480"
-opening_hours: "Mo-Th 07:30-21:00; Fr-Sa 07:30-22:00; Su 09:00-21:00"
-website: "https://stores.advanceautoparts.com/ga/marietta/111-cobb-pkwy-n"
+street: Cobb Parkway North
+housenumber: "111"
+phone: +1 (770) 919-2480
+opening_hours: Mo-Th 07:30-21:00; Fr-Sa 07:30-22:00; Su 09:00-21:00
+website: https://stores.advanceautoparts.com/ga/marietta/111-cobb-pkwy-n

@@ -1,11 +1,11 @@
 id: 243876140
-type: way
+type: node
 latitude: 33.47516
 longitude: -85.29085
 postcode: "30108"
 city: Bowdon
-street: "GA 100"
-housenumber: 2875
+street: GA 100
+housenumber: "2875"
 phone: ""
 opening_hours: ""
 website: ""

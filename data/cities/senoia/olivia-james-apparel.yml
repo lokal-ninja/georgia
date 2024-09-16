@@ -1,11 +1,11 @@
 id: 448003918
-type: way
+type: node
 latitude: 33.30149
 longitude: -84.55446
 postcode: "30276"
 city: Senoia
-street: "Main Street"
-housenumber: 60
+street: Main Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

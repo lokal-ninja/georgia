@@ -1,11 +1,11 @@
 id: 243714051
-type: way
+type: node
 latitude: 34.01031
 longitude: -84.57087
 postcode: "30144"
 city: Kennesaw
-street: "Cobb Place Boulevard Northwest"
-housenumber: 860
-phone: "+1 770-424-5226"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/kennesaw-store0282.html"
+street: Cobb Place Boulevard Northwest
+housenumber: "860"
+phone: +1 770-424-5226
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/kennesaw-store0282.html

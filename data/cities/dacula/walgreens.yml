@@ -1,11 +1,11 @@
 id: 544841507
-type: way
+type: node
 latitude: 34.00116
 longitude: -83.90967
 postcode: "30019"
 city: Dacula
-street: "Dacula Road"
-housenumber: 575
+street: Dacula Road
+housenumber: "575"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-575+dacula+rd-dacula-ga-30019/id=12147"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-575+dacula+rd-dacula-ga-30019/id=12147

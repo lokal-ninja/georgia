@@ -1,11 +1,11 @@
 id: 310894464
-type: way
+type: node
 latitude: 33.96868
 longitude: -83.38066
 postcode: "30601"
 city: Athens
-street: "Cleveland Avenue"
-housenumber: 140
+street: Cleveland Avenue
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

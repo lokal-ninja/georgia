@@ -1,11 +1,11 @@
 id: 586143978
-type: way
+type: node
 latitude: 32.08878
 longitude: -82.11829
 postcode: "30453"
 city: Reidsville
-street: "North Main Street"
-housenumber: 114
+street: North Main Street
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ga/reidsville/6966/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/ga/reidsville/6966/

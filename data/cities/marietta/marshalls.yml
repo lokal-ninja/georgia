@@ -4,8 +4,8 @@ latitude: 33.97074
 longitude: -84.49001
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 2203
-phone: "+1 (770) 971-2604"
-opening_hours: "Mo-Sa 09:30-21:30; Su 11:00-20:00"
-website: "https://www.marshalls.com/"
+street: Roswell Road
+housenumber: "2203"
+phone: +1 (770) 971-2604
+opening_hours: Mo-Sa 09:30-21:30; Su 11:00-20:00
+website: https://www.marshalls.com/

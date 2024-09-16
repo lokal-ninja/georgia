@@ -1,11 +1,11 @@
 id: 700429824
-type: way
+type: node
 latitude: 34.90673
 longitude: -85.07863
 postcode: ""
 city: Ringgold
-street: "US 41"
-housenumber: 10142
+street: US 41
+housenumber: "10142"
 phone: ""
 opening_hours: ""
 website: ""

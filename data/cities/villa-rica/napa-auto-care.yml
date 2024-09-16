@@ -1,11 +1,11 @@
 id: 1010441533
-type: way
+type: node
 latitude: 33.71605
 longitude: -84.93569
 postcode: "30180"
 city: Villa Rica
-street: "South Carroll Road"
-housenumber: 875
-phone: "+1-770-456-4140"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.napaonline.com/en/autocare/?facilityId=307714&sdref=modal"
+street: South Carroll Road
+housenumber: "875"
+phone: +1-770-456-4140
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.napaonline.com/en/autocare/?facilityId=307714&sdref=modal

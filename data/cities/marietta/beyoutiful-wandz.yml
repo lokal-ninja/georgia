@@ -1,11 +1,11 @@
 id: 245388667
-type: way
+type: node
 latitude: 33.9508
 longitude: -84.55061
 postcode: "30060"
 city: Marietta
-street: "Powder Springs Street Southeast"
-housenumber: 50
+street: Powder Springs Street Southeast
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.beyoutifulwandz.com/"
+website: https://www.beyoutifulwandz.com/

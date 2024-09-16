@@ -1,11 +1,11 @@
 id: 927289646
-type: way
+type: node
 latitude: 33.54109
 longitude: -82.12687
 postcode: "30809"
 city: Evans
-street: "Evans to Locks Road"
-housenumber: 4407
-phone: "(706) 855-2024"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-17:00"
-website: "https://www.chainreactionga.com/"
+street: Evans to Locks Road
+housenumber: "4407"
+phone: (706) 855-2024
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-17:00
+website: https://www.chainreactionga.com/

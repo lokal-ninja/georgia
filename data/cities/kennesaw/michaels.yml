@@ -1,11 +1,11 @@
 id: 243714049
-type: way
+type: node
 latitude: 34.01173
 longitude: -84.57199
 postcode: "30144"
 city: Kennesaw
-street: "Cobb Place Boulevard Northwest"
-housenumber: 860
-phone: "+1 770-218-1348"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/GA/Kennesaw/9188"
+street: Cobb Place Boulevard Northwest
+housenumber: "860"
+phone: +1 770-218-1348
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/GA/Kennesaw/9188

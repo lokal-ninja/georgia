@@ -1,11 +1,11 @@
 id: 271023871
-type: way
+type: node
 latitude: 33.74114
 longitude: -84.4149
 postcode: "30310"
 city: Atlanta
-street: "Oak Street Southwest"
-housenumber: 835
+street: Oak Street Southwest
+housenumber: "835"
 phone: ""
 opening_hours: ""
 website: ""

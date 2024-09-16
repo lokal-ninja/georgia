@@ -1,11 +1,11 @@
 id: 677844460
-type: way
+type: node
 latitude: 33.51062
 longitude: -82.02745
 postcode: "30904"
 city: Augusta
-street: "Washington Road"
-housenumber: 2745
+street: Washington Road
+housenumber: "2745"
 phone: "+17067334090"
 opening_hours: ""
-website: "https://friedmans.com/"
+website: https://friedmans.com/

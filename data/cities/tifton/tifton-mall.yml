@@ -1,11 +1,11 @@
 id: 610071701
-type: way
+type: node
 latitude: 31.46207
 longitude: -83.52874
 postcode: "31794"
 city: Tifton
-street: "Virginia Avenue North"
-housenumber: 458
+street: Virginia Avenue North
+housenumber: "458"
 phone: ""
 opening_hours: ""
 website: ""

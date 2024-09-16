@@ -1,11 +1,11 @@
 id: 413946232
-type: way
+type: node
 latitude: 34.98685
 longitude: -84.36218
 postcode: "30555"
 city: McCaysville
-street: "Hughes Street"
-housenumber: 20
-phone: "+1 (800) 408-7238"
+street: Hughes Street
+housenumber: "20"
+phone: +1 (800) 408-7238
 opening_hours: ""
-website: "https://www.rollingthunderriverco.com/"
+website: https://www.rollingthunderriverco.com/

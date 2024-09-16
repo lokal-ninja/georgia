@@ -1,11 +1,11 @@
 id: 552445609
-type: way
+type: node
 latitude: 33.45615
 longitude: -83.24417
-postcode: "30642-6434"
+postcode: 30642-6434
 city: Greensboro
-street: "Lake Oconee Parkway"
-housenumber: 6350
-phone: "+1 706-454-7140"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/853"
+street: Lake Oconee Parkway
+housenumber: "6350"
+phone: +1 706-454-7140
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/853

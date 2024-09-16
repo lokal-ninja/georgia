@@ -4,8 +4,8 @@ latitude: 33.76182
 longitude: -84.38784
 postcode: "30303"
 city: Atlanta
-street: "Peachtree Street Northeast"
-housenumber: 270
+street: Peachtree Street Northeast
+housenumber: "270"
 phone: ""
-opening_hours: "06:00-17:00"
-website: "https://www.cornerbakerycafe.com/location/southern-building"
+opening_hours: 06:00-17:00
+website: https://www.cornerbakerycafe.com/location/southern-building

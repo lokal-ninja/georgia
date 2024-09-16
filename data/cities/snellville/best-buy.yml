@@ -1,11 +1,11 @@
 id: 1309108163
-type: way
+type: node
 latitude: 33.88246
 longitude: -84.01306
 postcode: "30078"
 city: Snellville
-street: "Scenic Highway North"
-housenumber: 1679
-phone: "+1 770-810-2087"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ga/snellville/1679-scenic-hwy-n-776.html"
+street: Scenic Highway North
+housenumber: "1679"
+phone: +1 770-810-2087
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/ga/snellville/1679-scenic-hwy-n-776.html

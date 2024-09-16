@@ -1,11 +1,11 @@
 id: 999117521
-type: way
+type: node
 latitude: 33.8726
 longitude: -84.01542
 postcode: ""
 city: Snellville
-street: "Ronald Reagan Parkway"
-housenumber: 2330
+street: Ronald Reagan Parkway
+housenumber: "2330"
 phone: ""
 opening_hours: ""
 website: ""

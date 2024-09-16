@@ -1,11 +1,11 @@
 id: 1193408822
-type: way
+type: node
 latitude: 34.73511
 longitude: -84.42928
 postcode: "30540"
 city: Ellijay
-street: "Old Northcutt Road"
-housenumber: 1211
-phone: "+1 (706) 273-1873"
-opening_hours: "Mo,Th 12:00-18:00; Fr-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.whitepath-distillery.com/"
+street: Old Northcutt Road
+housenumber: "1211"
+phone: +1 (706) 273-1873
+opening_hours: Mo,Th 12:00-18:00; Fr-Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.whitepath-distillery.com/

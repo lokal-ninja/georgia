@@ -1,11 +1,11 @@
 id: 1131277312
-type: way
+type: node
 latitude: 33.60328
 longitude: -83.86231
 postcode: "30014"
 city: Covington
-street: "Highway 278 Northwest"
-housenumber: 3158
-phone: "770-461-3374"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://cutzandstyleslounge.business.site/?utm_source=gmb&utm_medium=referral"
+street: Highway 278 Northwest
+housenumber: "3158"
+phone: 770-461-3374
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://cutzandstyleslounge.business.site/?utm_source=gmb&utm_medium=referral

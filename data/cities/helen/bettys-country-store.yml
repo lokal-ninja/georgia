@@ -1,11 +1,11 @@
 id: 300823601
-type: way
+type: node
 latitude: 34.7017
 longitude: -83.73448
 postcode: "30545"
 city: Helen
-street: "Yonah Street"
-housenumber: 18
-phone: "+1 (706) 878-2617"
+street: Yonah Street
+housenumber: "18"
+phone: +1 (706) 878-2617
 opening_hours: ""
-website: "https://bettysinhelen.com/"
+website: https://bettysinhelen.com/

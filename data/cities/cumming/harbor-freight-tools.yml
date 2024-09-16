@@ -1,11 +1,11 @@
 id: 1055166870
-type: way
+type: node
 latitude: 34.18907
 longitude: -84.13839
 postcode: "30040"
 city: Cumming
-street: "Tri County Plaza"
-housenumber: 601
-phone: "+1 470-239-1100"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/601-tri-county-plz-cumming-30040?number=3251"
+street: Tri County Plaza
+housenumber: "601"
+phone: +1 470-239-1100
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/601-tri-county-plz-cumming-30040?number=3251

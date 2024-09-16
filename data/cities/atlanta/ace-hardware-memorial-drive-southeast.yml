@@ -1,11 +1,11 @@
 id: 739667246
-type: way
+type: node
 latitude: 33.74661
 longitude: -84.37131
-postcode: "30312-2218"
+postcode: 30312-2218
 city: Atlanta
-street: "Memorial Drive Southeast"
-housenumber: 519
-phone: "+1 678-973-0711"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-18:00; Su 10:00-18:00"
+street: Memorial Drive Southeast
+housenumber: "519"
+phone: +1 678-973-0711
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-18:00; Su 10:00-18:00
 website: ""

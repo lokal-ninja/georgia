@@ -1,11 +1,11 @@
 id: 984149005
-type: way
+type: node
 latitude: 34.25987
 longitude: -85.1674
 postcode: "30161"
 city: Rome
-street: "Turner McCall Boulevard Southwest"
-housenumber: 836
-phone: "+1 855-476-1040"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/rome/836-turner-mccall-blvd-sw"
+street: Turner McCall Boulevard Southwest
+housenumber: "836"
+phone: +1 855-476-1040
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/rome/836-turner-mccall-blvd-sw

@@ -1,11 +1,11 @@
 id: 436516161
-type: way
+type: node
 latitude: 31.19037
 longitude: -83.76097
 postcode: "31788"
 city: Moultrie
-street: "Veterans Parkway North"
-housenumber: 450
-phone: "+1 229-985-6618"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/moultrie/ga/moultrie/31788/1770"
+street: Veterans Parkway North
+housenumber: "450"
+phone: +1 229-985-6618
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/moultrie/ga/moultrie/31788/1770

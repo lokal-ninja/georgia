@@ -1,11 +1,11 @@
 id: 683619243
-type: way
+type: node
 latitude: 34.88861
 longitude: -85.07546
 postcode: ""
 city: Ringgold
-street: "Armstrong Road"
-housenumber: 29
+street: Armstrong Road
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

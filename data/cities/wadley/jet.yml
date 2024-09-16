@@ -1,11 +1,11 @@
 id: 1006241845
-type: way
+type: node
 latitude: 32.86814
 longitude: -82.39589
 postcode: "30477"
 city: Wadley
-street: "US 1"
-housenumber: 10550
+street: US 1
+housenumber: "10550"
 phone: ""
 opening_hours: ""
 website: ""

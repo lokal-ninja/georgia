@@ -1,11 +1,11 @@
 id: 292455732
-type: way
+type: node
 latitude: 34.01397
 longitude: -84.49467
 postcode: "30066"
 city: Marietta
-street: "Sandy Plains Road Northeast"
-housenumber: 2580
-phone: "+1 (770) 565-5681"
-opening_hours: "08:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-2580+sandy+plains+rd-marietta-ga-30066/id=2455"
+street: Sandy Plains Road Northeast
+housenumber: "2580"
+phone: +1 (770) 565-5681
+opening_hours: 08:00-21:00
+website: https://www.walgreens.com/locator/walgreens-2580+sandy+plains+rd-marietta-ga-30066/id=2455

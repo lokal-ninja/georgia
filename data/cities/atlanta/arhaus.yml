@@ -4,8 +4,8 @@ latitude: 33.85257
 longitude: -84.36295
 postcode: "30326"
 city: Atlanta
-street: "Peachtree Road Northeast"
-housenumber: 3500
-phone: "+1 (404) 869-0003"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:30"
-website: "https://www.arhaus.com/store/atlanta"
+street: Peachtree Road Northeast
+housenumber: "3500"
+phone: +1 (404) 869-0003
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:30
+website: https://www.arhaus.com/store/atlanta

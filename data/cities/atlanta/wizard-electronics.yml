@@ -1,11 +1,11 @@
 id: 269640025
-type: way
+type: node
 latitude: 33.79597
 longitude: -84.40633
 postcode: ""
 city: Atlanta
-street: "Deering Road Northwest"
-housenumber: 554
+street: Deering Road Northwest
+housenumber: "554"
 phone: ""
 opening_hours: ""
 website: ""

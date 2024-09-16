@@ -1,11 +1,11 @@
 id: 1215696407
-type: way
+type: node
 latitude: 33.52296
 longitude: -82.14222
 postcode: "30809"
 city: Evans
-street: "North Belair Road"
-housenumber: 318
-phone: "+1 706-868-5279"
-opening_hours: "24/7"
+street: North Belair Road
+housenumber: "318"
+phone: +1 706-868-5279
+opening_hours: 24/7
 website: ""

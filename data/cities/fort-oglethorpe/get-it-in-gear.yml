@@ -1,11 +1,11 @@
 id: 988905379
-type: way
+type: node
 latitude: 34.95701
 longitude: -85.25912
-postcode: "30742-3753"
+postcode: 30742-3753
 city: Fort Oglethorpe
-street: "Lafayette Road"
-housenumber: 2224
-phone: "+1 706 419 8841"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su off"
-website: "https://www.getitingeartransmission.com/"
+street: Lafayette Road
+housenumber: "2224"
+phone: +1 706 419 8841
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su off
+website: https://www.getitingeartransmission.com/

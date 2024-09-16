@@ -1,11 +1,11 @@
 id: 237170640
-type: way
+type: node
 latitude: 33.919
 longitude: -83.44584
 postcode: "30606"
 city: Athens
-street: "Epps Bridge Parkway"
-housenumber: 1911
-phone: "+1 706-549-1423"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1400/athens-ga/whats-new"
+street: Epps Bridge Parkway
+housenumber: "1911"
+phone: +1 706-549-1423
+opening_hours: 24/7
+website: https://www.walmart.com/store/1400/athens-ga/whats-new

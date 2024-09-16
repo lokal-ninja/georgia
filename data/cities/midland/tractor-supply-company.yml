@@ -1,11 +1,11 @@
 id: 536109261
-type: way
+type: node
 latitude: 32.54287
 longitude: -84.87239
 postcode: "31820"
 city: Midland
-street: "Flat Rock Road"
-housenumber: 6713
-phone: "+1 706-568-6165"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Flat Rock Road
+housenumber: "6713"
+phone: +1 706-568-6165
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

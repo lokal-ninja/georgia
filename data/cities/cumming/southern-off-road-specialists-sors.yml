@@ -1,11 +1,11 @@
 id: 387444302
-type: way
+type: node
 latitude: 34.20018
 longitude: -84.13511
 postcode: "30040"
 city: Cumming
-street: "Atlanta Highway"
-housenumber: 415
-phone: "+! (770) 346-7777"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://southernoffroad.net/"
+street: Atlanta Highway
+housenumber: "415"
+phone: +! (770) 346-7777
+opening_hours: Mo-Fr 08:30-18:00
+website: https://southernoffroad.net/

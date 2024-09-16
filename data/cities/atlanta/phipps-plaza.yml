@@ -1,11 +1,11 @@
 id: 107533617
-type: way
+type: node
 latitude: 33.8532
 longitude: -84.36352
 postcode: "30326"
 city: Atlanta
-street: "Peachtree Road Northeast"
-housenumber: 3500
-phone: "(404) 262-0992"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:30"
+street: Peachtree Road Northeast
+housenumber: "3500"
+phone: (404) 262-0992
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:30
 website: ""

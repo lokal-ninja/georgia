@@ -1,11 +1,11 @@
 id: 536113467
-type: way
+type: node
 latitude: 32.53774
 longitude: -84.8696
 postcode: "31820"
 city: Midland
-street: "Beaver Run Road"
-housenumber: 6950
+street: Beaver Run Road
+housenumber: "6950"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6950+beaver+run+rd-midland-ga-31820/id=18178"
+website: https://www.walgreens.com/locator/walgreens-6950+beaver+run+rd-midland-ga-31820/id=18178

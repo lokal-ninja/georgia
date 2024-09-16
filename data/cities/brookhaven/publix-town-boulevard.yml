@@ -4,8 +4,8 @@ latitude: 33.87014
 longitude: -84.33429
 postcode: "30319"
 city: Brookhaven
-street: "Town Boulevard"
-housenumber: 104
-phone: "+1 404-233-7475"
-opening_hours: "07:00-22:00"
-website: "https://www.publix.com/locations/1363"
+street: Town Boulevard
+housenumber: "104"
+phone: +1 404-233-7475
+opening_hours: 07:00-22:00
+website: https://www.publix.com/locations/1363

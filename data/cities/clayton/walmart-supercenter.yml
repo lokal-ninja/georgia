@@ -1,11 +1,11 @@
 id: 290473729
-type: way
+type: node
 latitude: 34.86052
 longitude: -83.40457
 postcode: "30525"
 city: Clayton
-street: "Highway 441 South"
-housenumber: 1455
-phone: "+1 706-782-3039"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2753/clayton-ga/whats-new"
+street: Highway 441 South
+housenumber: "1455"
+phone: +1 706-782-3039
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2753/clayton-ga/whats-new

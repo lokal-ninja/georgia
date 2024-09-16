@@ -1,11 +1,11 @@
 id: 661446282
-type: way
+type: node
 latitude: 31.18502
 longitude: -81.38061
 postcode: "31522"
 city: Saint Simons Island
-street: "Market Street"
-housenumber: 30
+street: Market Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/saint-simons-island-ga-pharmacies/30-market-st-saint-simons-island-ga-31522/storeid=4337"
+website: https://www.cvs.com/store-locator/saint-simons-island-ga-pharmacies/30-market-st-saint-simons-island-ga-31522/storeid=4337

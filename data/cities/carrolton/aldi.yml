@@ -1,11 +1,11 @@
 id: 745112053
-type: way
+type: node
 latitude: 33.55026
 longitude: -85.07472
 postcode: "30116"
 city: Carrolton
-street: "South Highway 27"
-housenumber: 1495
-phone: "+1 844-476-1023"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/carrollton/1495-highway-27-south"
+street: South Highway 27
+housenumber: "1495"
+phone: +1 844-476-1023
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/carrollton/1495-highway-27-south

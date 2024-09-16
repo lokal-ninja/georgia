@@ -1,11 +1,11 @@
 id: 678021286
-type: way
+type: node
 latitude: 33.4089
 longitude: -82.13533
 postcode: "30905"
 city: Fort Eisenhower
-street: "3rd Avenue"
-housenumber: 38200
+street: 3rd Avenue
+housenumber: "38200"
 phone: ""
 opening_hours: ""
 website: ""

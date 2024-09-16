@@ -1,11 +1,11 @@
 id: 388038816
-type: way
+type: node
 latitude: 34.17483
 longitude: -84.15885
 postcode: "30040"
 city: Cumming
-street: "Valley Circle Road"
-housenumber: 1321
-phone: "+1 770-889-3400"
+street: Valley Circle Road
+housenumber: "1321"
+phone: +1 770-889-3400
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 443255415
-type: way
+type: node
 latitude: 33.93534
 longitude: -84.37812
 postcode: "30328"
 city: Sandy Springs
-street: "Roswell Road"
-housenumber: 6615
-phone: "+1 404-843-4340"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "http://www.publix.com/locations/468-abernathy-square-sc"
+street: Roswell Road
+housenumber: "6615"
+phone: +1 404-843-4340
+opening_hours: Mo-Su 07:00-23:00
+website: http://www.publix.com/locations/468-abernathy-square-sc

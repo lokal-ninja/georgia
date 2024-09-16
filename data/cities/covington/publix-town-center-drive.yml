@@ -1,11 +1,11 @@
 id: 1184461276
-type: way
+type: node
 latitude: 33.62441
 longitude: -83.83911
 postcode: "30014"
 city: Covington
-street: "Town Center Drive"
-housenumber: 12701
-phone: "+1 770-385-5705"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1811"
+street: Town Center Drive
+housenumber: "12701"
+phone: +1 770-385-5705
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1811

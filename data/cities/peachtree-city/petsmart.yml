@@ -1,11 +1,11 @@
 id: 289248700
-type: way
+type: node
 latitude: 33.39879
 longitude: -84.59738
 postcode: "30269"
 city: Peachtree City
-street: "West Highway 54"
-housenumber: 2701
-phone: "+1 770-631-5729"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/peachtree-city-store1757.html"
+street: West Highway 54
+housenumber: "2701"
+phone: +1 770-631-5729
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/peachtree-city-store1757.html

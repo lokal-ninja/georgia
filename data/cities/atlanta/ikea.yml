@@ -1,11 +1,11 @@
 id: 234732963
-type: way
+type: node
 latitude: 33.78882
 longitude: -84.40644
 postcode: "30363"
 city: Atlanta
 street: ""
-housenumber: 441
-phone: "(888) 888-4532"
+housenumber: "441"
+phone: (888) 888-4532
 opening_hours: ""
-website: "https://www.ikea.com/us/en/store/atlanta"
+website: https://www.ikea.com/us/en/store/atlanta

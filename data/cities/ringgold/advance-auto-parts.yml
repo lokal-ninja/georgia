@@ -1,11 +1,11 @@
 id: 541092097
-type: way
+type: node
 latitude: 34.91746
 longitude: -85.12446
 postcode: "30736"
 city: Ringgold
-street: "Alabama Highway"
-housenumber: 5072
-phone: "(706) 965-8520"
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-21:00"
-website: "https://stores.advanceautoparts.com/ga/ringgold/5072-alabama-hwy"
+street: Alabama Highway
+housenumber: "5072"
+phone: (706) 965-8520
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-21:00
+website: https://stores.advanceautoparts.com/ga/ringgold/5072-alabama-hwy

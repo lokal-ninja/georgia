@@ -1,11 +1,11 @@
 id: 814357417
-type: way
+type: node
 latitude: 34.67938
 longitude: -84.48503
 postcode: "30540"
 city: Ellijay
-street: "Maddox Drive"
-housenumber: 580
-phone: "+1 (706) 403-1680"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ga/ellijay/3583"
+street: Maddox Drive
+housenumber: "580"
+phone: +1 (706) 403-1680
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ga/ellijay/3583

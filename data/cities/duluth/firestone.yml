@@ -1,11 +1,11 @@
 id: 394690231
-type: way
+type: node
 latitude: 34.0036
 longitude: -84.17078
 postcode: "30096"
 city: Duluth
-street: "Peachtree Industrial Boulevard"
-housenumber: 3525
+street: Peachtree Industrial Boulevard
+housenumber: "3525"
 phone: ""
 opening_hours: ""
 website: ""

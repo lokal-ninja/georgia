@@ -1,11 +1,11 @@
 id: 1133163954
-type: way
+type: node
 latitude: 32.56425
 longitude: -84.94438
 postcode: "31909"
 city: Columbus
-street: "Williams Road"
-housenumber: 3290
+street: Williams Road
+housenumber: "3290"
 phone: "+17063238070"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://kimsbootsandshoes.com/"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://kimsbootsandshoes.com/

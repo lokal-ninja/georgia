@@ -1,11 +1,11 @@
 id: 281629305
-type: way
+type: node
 latitude: 33.9535
 longitude: -84.23214
 postcode: "30092"
 city: Peachtree Corners
-street: "Peachtree Parkway"
-housenumber: 6050
-phone: "+1 770-613-0077"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ga/peachtree-corners/1002/"
+street: Peachtree Parkway
+housenumber: "6050"
+phone: +1 770-613-0077
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ga/peachtree-corners/1002/

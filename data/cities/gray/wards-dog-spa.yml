@@ -1,11 +1,11 @@
 id: 1233079455
-type: way
+type: node
 latitude: 33.00169
 longitude: -83.5482
 postcode: "31032"
 city: Gray
-street: "Bill Conn Pkwy"
-housenumber: 102
-phone: "+1-478-986-4114"
+street: Bill Conn Pkwy
+housenumber: "102"
+phone: +1-478-986-4114
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1139053433
-type: way
+type: node
 latitude: 33.77812
 longitude: -84.27818
 postcode: "30030"
 city: Decatur
-street: "East Ponce de Leon Avenue"
-housenumber: 2720
-phone: "+1 404-378-9225"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1724"
+street: East Ponce de Leon Avenue
+housenumber: "2720"
+phone: +1 404-378-9225
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1724

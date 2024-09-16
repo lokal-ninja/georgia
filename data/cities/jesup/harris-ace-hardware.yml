@@ -1,11 +1,11 @@
 id: 741939067
-type: way
+type: node
 latitude: 31.60809
 longitude: -81.88621
 postcode: "31545"
 city: Jesup
-street: "West Cherry Street"
-housenumber: 386
-phone: "+1 912-427-3767"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
+street: West Cherry Street
+housenumber: "386"
+phone: +1 912-427-3767
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
 website: ""

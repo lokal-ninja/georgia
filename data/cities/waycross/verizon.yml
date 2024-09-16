@@ -1,11 +1,11 @@
 id: 1001232563
-type: way
+type: node
 latitude: 31.19883
 longitude: -82.32613
 postcode: "31503"
 city: Waycross
-street: "Memorial Drive"
-housenumber: 2244
-phone: "+1-912-285-1090"
+street: Memorial Drive
+housenumber: "2244"
+phone: +1-912-285-1090
 opening_hours: ""
-website: "https://www.verizon.com/stores/details/georgia/waycross/waycross-326368"
+website: https://www.verizon.com/stores/details/georgia/waycross/waycross-326368

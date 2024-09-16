@@ -1,11 +1,11 @@
 id: 1308320501
-type: way
+type: node
 latitude: 33.91611
 longitude: -83.45277
 postcode: "30606"
 city: Athens
-street: "Oconee Connector"
-housenumber: 1791
-phone: "+1 706-354-2139"
+street: Oconee Connector
+housenumber: "1791"
+phone: +1 706-354-2139
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/athens/1791-oconee-connector-511.html"
+website: https://stores.bestbuy.com/ga/athens/1791-oconee-connector-511.html

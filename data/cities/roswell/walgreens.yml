@@ -1,11 +1,11 @@
 id: 389348435
-type: way
+type: node
 latitude: 34.0597
 longitude: -84.38294
 postcode: "30075"
 city: Roswell
-street: "West Crossville Road"
-housenumber: 695
+street: West Crossville Road
+housenumber: "695"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-695+w+crossville+rd-roswell-ga-30075/id=5605"
+website: https://www.walgreens.com/locator/walgreens-695+w+crossville+rd-roswell-ga-30075/id=5605

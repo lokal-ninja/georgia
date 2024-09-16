@@ -1,11 +1,11 @@
 id: 457403910
-type: way
+type: node
 latitude: 33.90874
 longitude: -84.28469
 postcode: "30360"
 city: Atlanta
-street: "The Nalley Way"
-housenumber: 2550
+street: The Nalley Way
+housenumber: "2550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 584818278
-type: way
+type: node
 latitude: 33.50667
 longitude: -82.09265
 postcode: "30907"
 city: Augusta
-street: "Bobby Jones Expressway"
-housenumber: 227
-phone: "+1 844-476-1021"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/augusta/227-bobby-jones-expressway"
+street: Bobby Jones Expressway
+housenumber: "227"
+phone: +1 844-476-1021
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/augusta/227-bobby-jones-expressway

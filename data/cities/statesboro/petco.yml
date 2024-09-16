@@ -1,11 +1,11 @@
 id: 390847012
-type: way
+type: node
 latitude: 32.42975
 longitude: -81.76103
 postcode: "30458"
 city: Statesboro
-street: "Henry Boulevard"
-housenumber: 359
-phone: "+1 912-764-1936"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ga/statesboro/pet-supplies-statesboro-ga-1894.html"
+street: Henry Boulevard
+housenumber: "359"
+phone: +1 912-764-1936
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ga/statesboro/pet-supplies-statesboro-ga-1894.html

@@ -1,11 +1,11 @@
 id: 586137044
-type: way
+type: node
 latitude: 33.50936
 longitude: -82.10768
 postcode: "30907"
 city: Martinez
-street: "Columbia Road"
-housenumber: 4115
-phone: "+1 706-228-7257"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/martinez/merchants-village/011/00294"
+street: Columbia Road
+housenumber: "4115"
+phone: +1 706-228-7257
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/martinez/merchants-village/011/00294

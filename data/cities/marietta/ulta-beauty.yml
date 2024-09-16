@@ -1,11 +1,11 @@
 id: 983705284
-type: way
+type: node
 latitude: 33.98033
 longitude: -84.42826
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1311
-phone: "+1 770-578-3352"
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Su 11:00-19:00"
-website: "https://www.ulta.com/stores/marietta-ga-487"
+street: Johnson Ferry Road Northeast
+housenumber: "1311"
+phone: +1 770-578-3352
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Su 11:00-19:00
+website: https://www.ulta.com/stores/marietta-ga-487

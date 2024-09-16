@@ -1,11 +1,11 @@
 id: 1025762308
-type: way
+type: node
 latitude: 34.05084
 longitude: -84.32594
 postcode: "30076"
 city: Roswell
-street: "Old Ellis Road"
-housenumber: 1150
-phone: "+1-678-862-1700"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.extraspace.com/storage/facilities/us/georgia/roswell/7860/"
+street: Old Ellis Road
+housenumber: "1150"
+phone: +1-678-862-1700
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.extraspace.com/storage/facilities/us/georgia/roswell/7860/

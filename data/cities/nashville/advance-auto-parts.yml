@@ -1,11 +1,11 @@
 id: 366052577
-type: way
+type: node
 latitude: 31.20071
 longitude: -83.25045
 postcode: "31639"
 city: Nashville
-street: "South Davis Street"
-housenumber: 520
-phone: "+1 (229) 686-6806"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/ga/nashville/520-s-davis-st"
+street: South Davis Street
+housenumber: "520"
+phone: +1 (229) 686-6806
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/ga/nashville/520-s-davis-st

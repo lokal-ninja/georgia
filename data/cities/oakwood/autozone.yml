@@ -1,11 +1,11 @@
 id: 388417761
-type: way
+type: node
 latitude: 34.22242
 longitude: -83.8622
 postcode: "30507"
 city: Oakwood
-street: "Mundy Mill Road"
-housenumber: 3434
+street: Mundy Mill Road
+housenumber: "3434"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/gainesville/3434-mundy-mill-rd.html"
+website: https://www.autozone.com/locations/ga/gainesville/3434-mundy-mill-rd.html

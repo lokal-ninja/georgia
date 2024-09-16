@@ -1,11 +1,11 @@
 id: 274054200
-type: way
+type: node
 latitude: 33.69714
 longitude: -84.41136
 postcode: "30315"
 city: Atlanta
-street: "Lakewood Avenue Southwest"
-housenumber: 2836
+street: Lakewood Avenue Southwest
+housenumber: "2836"
 phone: ""
 opening_hours: ""
 website: ""

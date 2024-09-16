@@ -1,11 +1,11 @@
 id: 1234911116
-type: way
+type: node
 latitude: 31.74546
 longitude: -83.26008
 postcode: ""
 city: Fitzgerald
-street: "Dewey McGlamry Road"
-housenumber: 363
+street: Dewey McGlamry Road
+housenumber: "363"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/fitzgerald/15233"
+website: https://www.dollargeneral.com/store-directory/ga/fitzgerald/15233

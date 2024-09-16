@@ -1,11 +1,11 @@
 id: 330986440
-type: way
+type: node
 latitude: 30.88086
 longitude: -83.28846
 postcode: "31602"
 city: Valdosta
-street: "Inner Perimeter Road"
-housenumber: 3275
-phone: "+1 229-253-0312"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2615/valdosta-ga/whats-new"
+street: Inner Perimeter Road
+housenumber: "3275"
+phone: +1 229-253-0312
+opening_hours: 24/7
+website: https://www.walmart.com/store/2615/valdosta-ga/whats-new

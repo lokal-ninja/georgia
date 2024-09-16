@@ -1,11 +1,11 @@
 id: 991497311
-type: way
+type: node
 latitude: 34.16602
 longitude: -84.79334
 postcode: "30120"
 city: Cartersville
-street: "South Tennessee Street"
-housenumber: 20
-phone: "+1 (404) 424-7620"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.frameartcartersville.com/"
+street: South Tennessee Street
+housenumber: "20"
+phone: +1 (404) 424-7620
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.frameartcartersville.com/

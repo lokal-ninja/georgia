@@ -1,11 +1,11 @@
 id: 387339494
-type: way
+type: node
 latitude: 34.15921
 longitude: -84.11197
 postcode: "30041"
 city: Cumming
-street: "Buford Highway"
-housenumber: 1880
+street: Buford Highway
+housenumber: "1880"
 phone: ""
 opening_hours: ""
 website: ""

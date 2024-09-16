@@ -1,11 +1,11 @@
 id: 1253458379
-type: way
+type: node
 latitude: 33.6544
 longitude: -83.9983
 postcode: "30013"
 city: Conyers
-street: "Dogwood Drive Southeast"
-housenumber: 1390
-phone: "+1 470-474-1591"
+street: Dogwood Drive Southeast
+housenumber: "1390"
+phone: +1 470-474-1591
 opening_hours: ""
-website: "https://stores.partycity.com/us/ga/conyers/party-store-pc221.html"
+website: https://stores.partycity.com/us/ga/conyers/party-store-pc221.html

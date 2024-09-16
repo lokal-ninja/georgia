@@ -1,11 +1,11 @@
 id: 1160972034
-type: way
+type: node
 latitude: 32.54573
 longitude: -83.72861
-postcode: "31030-6192"
+postcode: 31030-6192
 city: Fort Valley
-street: "Smyrna Church Road"
-housenumber: 25
+street: Smyrna Church Road
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/fort-valley/22496.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/fort-valley/22496.html

@@ -1,11 +1,11 @@
 id: 426900636
-type: way
+type: node
 latitude: 34.5308
 longitude: -84.93648
 postcode: "30701"
 city: Calhoun
-street: "US 41"
-housenumber: 1310
-phone: "+1 (706) 625-5006"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/calhoun/1310-n-hwy-41/2723518"
+street: US 41
+housenumber: "1310"
+phone: +1 (706) 625-5006
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/calhoun/1310-n-hwy-41/2723518

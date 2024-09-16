@@ -1,11 +1,11 @@
 id: 822686808
-type: way
+type: node
 latitude: 33.94174
 longitude: -83.32915
 postcode: "30605"
 city: Athens
-street: "Lexington Road"
-housenumber: 2950
+street: Lexington Road
+housenumber: "2950"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ga/athens/autoparts-1443.html"
+website: https://locations.oreillyauto.com/ga/athens/autoparts-1443.html

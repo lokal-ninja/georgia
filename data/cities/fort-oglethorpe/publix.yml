@@ -1,11 +1,11 @@
 id: 697914363
-type: way
+type: node
 latitude: 34.93796
 longitude: -85.20437
 postcode: "30736"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 3775
-phone: "+1 706-858-6568"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1641"
+street: Battlefield Parkway
+housenumber: "3775"
+phone: +1 706-858-6568
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1641

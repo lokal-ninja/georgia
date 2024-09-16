@@ -1,11 +1,11 @@
 id: 986218265
-type: way
+type: node
 latitude: 32.83594
 longitude: -83.62826
 postcode: "31201"
 city: Macon
-street: "Cherry Street"
-housenumber: 522
+street: Cherry Street
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 422737070
-type: way
+type: node
 latitude: 33.89626
 longitude: -84.28299
 postcode: "30340"
 city: Doraville
-street: "Buford Highway Northeast"
-housenumber: 5252
-phone: "+1-770-455-8552"
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://parisbaguette.com"
+street: Buford Highway Northeast
+housenumber: "5252"
+phone: +1-770-455-8552
+opening_hours: Su-Sa 08:00-22:00
+website: https://parisbaguette.com

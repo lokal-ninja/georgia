@@ -1,11 +1,11 @@
 id: 178405703
-type: way
+type: node
 latitude: 34.53642
 longitude: -83.97692
 postcode: "30533"
 city: Dahlonega
-street: "East Main Street"
-housenumber: 566
-phone: "+1-706-864-7641"
+street: East Main Street
+housenumber: "566"
+phone: +1-706-864-7641
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-566+e+main+st-dahlonega-ga-30533/id=18205"
+website: https://www.walgreens.com/locator/walgreens-566+e+main+st-dahlonega-ga-30533/id=18205

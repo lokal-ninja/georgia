@@ -1,11 +1,11 @@
 id: 470209619
-type: way
+type: node
 latitude: 31.62031
 longitude: -84.20743
 postcode: "31707"
 city: Albany
-street: "Nottingham Way"
-housenumber: 2813
-phone: "+1 229-420-1517"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ga/albany-1234.shtml"
+street: Nottingham Way
+housenumber: "2813"
+phone: +1 229-420-1517
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ga/albany-1234.shtml

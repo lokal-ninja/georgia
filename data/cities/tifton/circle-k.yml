@@ -1,11 +1,11 @@
 id: 316471353
-type: way
+type: node
 latitude: 31.45036
 longitude: -83.5331
 postcode: "31794"
 city: Tifton
-street: "US 82"
-housenumber: 1203
-phone: "+1-229-386-8313"
-opening_hours: "24/7"
-website: "https://www.flashfoods.com/"
+street: US 82
+housenumber: "1203"
+phone: +1-229-386-8313
+opening_hours: 24/7
+website: https://www.flashfoods.com/

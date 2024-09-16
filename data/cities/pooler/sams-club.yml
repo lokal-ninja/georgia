@@ -1,11 +1,11 @@
 id: 168769879
-type: way
+type: node
 latitude: 32.13864
 longitude: -81.24386
 postcode: "31322"
 city: Pooler
-street: "Mill Creek Circle"
-housenumber: 15
-phone: "+1 912-748-3767"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/"
+street: Mill Creek Circle
+housenumber: "15"
+phone: +1 912-748-3767
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/

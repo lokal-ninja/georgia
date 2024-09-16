@@ -1,11 +1,11 @@
 id: 1304346111
-type: way
+type: node
 latitude: 33.90016
 longitude: -84.30281
 postcode: "30341"
 city: Chamblee
-street: "Peachtree Boulevard"
-housenumber: 5534
-phone: "+1 770-810-9572"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1777"
+street: Peachtree Boulevard
+housenumber: "5534"
+phone: +1 770-810-9572
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1777

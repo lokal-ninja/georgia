@@ -1,11 +1,11 @@
 id: 311138897
-type: way
+type: node
 latitude: 34.31509
 longitude: -84.54932
 postcode: "30183"
 city: Waleska
-street: "Reinhardt College Parkway"
-housenumber: 6882
-phone: "+1 (404) 602-9635"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/waleska/10225"
+street: Reinhardt College Parkway
+housenumber: "6882"
+phone: +1 (404) 602-9635
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/waleska/10225

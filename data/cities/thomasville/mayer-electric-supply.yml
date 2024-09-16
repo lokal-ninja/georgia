@@ -1,11 +1,11 @@
 id: 961101946
-type: way
+type: node
 latitude: 30.83526
 longitude: -83.96257
 postcode: ""
 city: Thomasville
-street: "Smith Avenue"
-housenumber: 1002
+street: Smith Avenue
+housenumber: "1002"
 phone: ""
 opening_hours: ""
 website: ""

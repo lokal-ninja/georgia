@@ -1,11 +1,11 @@
 id: 280742081
-type: way
+type: node
 latitude: 32.54828
 longitude: -84.94542
 postcode: "31909"
 city: Columbus
-street: "Whittlesey Boulevard"
-housenumber: 5555
-phone: "+1 706-653-0208"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:00"
+street: Whittlesey Boulevard
+housenumber: "5555"
+phone: +1 706-653-0208
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:00
 website: ""

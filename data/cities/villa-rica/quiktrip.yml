@@ -1,11 +1,11 @@
 id: 685705509
-type: way
+type: node
 latitude: 33.71807
 longitude: -84.93739
 postcode: "30180"
 city: Villa Rica
-street: "State Highway 61"
-housenumber: 650
-phone: "+1-770-459-0226"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/ga/villa-rica/650-hwy-61"
+street: State Highway 61
+housenumber: "650"
+phone: +1-770-459-0226
+opening_hours: 24/7
+website: https://locations.quiktrip.com/ga/villa-rica/650-hwy-61

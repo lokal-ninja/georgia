@@ -1,11 +1,11 @@
 id: 534217261
-type: way
+type: node
 latitude: 32.61589
 longitude: -83.71206
 postcode: "31008"
 city: Byron
-street: "Watson Boulevard"
-housenumber: 6010
-phone: "+1 478-953-3344"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_byron-ga-31008_787/"
+street: Watson Boulevard
+housenumber: "6010"
+phone: +1 478-953-3344
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_byron-ga-31008_787/

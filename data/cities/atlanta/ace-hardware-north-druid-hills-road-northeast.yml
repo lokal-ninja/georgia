@@ -1,11 +1,11 @@
 id: 41338718
-type: way
+type: node
 latitude: 33.81334
 longitude: -84.31082
-postcode: "30329-3909"
+postcode: 30329-3909
 city: Atlanta
-street: "North Druid Hills Road Northeast"
-housenumber: 2983
-phone: "+1 404-325-8000"
-opening_hours: "09:00-18:00"
+street: North Druid Hills Road Northeast
+housenumber: "2983"
+phone: +1 404-325-8000
+opening_hours: 09:00-18:00
 website: ""

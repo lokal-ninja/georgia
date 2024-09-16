@@ -1,11 +1,11 @@
 id: 282792195
-type: way
+type: node
 latitude: 33.04133
 longitude: -83.93915
 postcode: "31029"
 city: Forsyth
-street: "Cabiness Road"
-housenumber: 270
-phone: "+1 (478) 994-0020"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10003961-270-n-lee-st/en_US"
+street: Cabiness Road
+housenumber: "270"
+phone: +1 (478) 994-0020
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10003961-270-n-lee-st/en_US

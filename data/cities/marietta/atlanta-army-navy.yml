@@ -1,11 +1,11 @@
 id: 335840821
-type: way
+type: node
 latitude: 33.97806
 longitude: -84.54493
 postcode: "30062"
 city: Marietta
-street: "Hayes Industrial Drive Northeast"
-housenumber: 1125
+street: Hayes Industrial Drive Northeast
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

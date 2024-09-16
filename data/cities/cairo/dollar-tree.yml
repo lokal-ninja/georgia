@@ -1,11 +1,11 @@
 id: 755287340
-type: way
+type: node
 latitude: 30.88298
 longitude: -84.2016
 postcode: "39828"
 city: Cairo
-street: "US-84 E"
-housenumber: 496
-phone: "+1-229-307-5359"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollartree.com/locations/ga/cairo/3079/"
+street: US-84 E
+housenumber: "496"
+phone: +1-229-307-5359
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollartree.com/locations/ga/cairo/3079/

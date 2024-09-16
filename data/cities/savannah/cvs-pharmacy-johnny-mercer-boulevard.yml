@@ -1,11 +1,11 @@
 id: 449398696
-type: way
+type: node
 latitude: 32.016
 longitude: -80.98713
 postcode: "31410"
 city: Savannah
-street: "Johnny Mercer Boulevard"
-housenumber: 150
-phone: "+1-912-897-3220"
-opening_hours: "Mo-Sa 08:00-21:00, Su 09:00-22:00"
-website: "https://www.cvs.com/store-locator/savannah-ga-pharmacies/150-johnny-mercer-blvd-savannah-ga-31410/storeid=4230"
+street: Johnny Mercer Boulevard
+housenumber: "150"
+phone: +1-912-897-3220
+opening_hours: Mo-Sa 08:00-21:00, Su 09:00-22:00
+website: https://www.cvs.com/store-locator/savannah-ga-pharmacies/150-johnny-mercer-blvd-savannah-ga-31410/storeid=4230

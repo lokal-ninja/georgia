@@ -1,11 +1,11 @@
 id: 1013898845
-type: way
+type: node
 latitude: 33.81855
 longitude: -84.58167
 postcode: "30126"
 city: Mableton
-street: "Veterans Memorial Highway Southwest"
-housenumber: 925
+street: Veterans Memorial Highway Southwest
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 365756424
-type: way
+type: node
 latitude: 30.74532
 longitude: -83.27581
 postcode: "31601"
 city: Valdosta
-street: "Madison Highway"
-housenumber: 3701
-phone: "+1 (229) 244-3984"
+street: Madison Highway
+housenumber: "3701"
+phone: +1 (229) 244-3984
 opening_hours: ""
 website: ""

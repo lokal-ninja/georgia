@@ -1,11 +1,11 @@
 id: 1037785113
-type: way
+type: node
 latitude: 32.55054
 longitude: -83.69217
 postcode: "31088"
 city: Warner Robins
-street: "Lake Joy Road"
-housenumber: 701
+street: Lake Joy Road
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

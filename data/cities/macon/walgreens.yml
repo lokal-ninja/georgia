@@ -1,11 +1,11 @@
 id: 928311469
-type: way
+type: node
 latitude: 32.88067
 longitude: -83.76364
 postcode: "31210"
 city: Macon
-street: "Zebulon Road"
-housenumber: 6035
-phone: "+1-478-757-2027"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-6035+zebulon+rd-macon-ga-31210/id=10634"
+street: Zebulon Road
+housenumber: "6035"
+phone: +1-478-757-2027
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-6035+zebulon+rd-macon-ga-31210/id=10634

@@ -1,11 +1,11 @@
 id: 323351428
-type: way
+type: node
 latitude: 33.95214
 longitude: -84.54879
 postcode: "30060"
 city: Marietta
-street: "Roswell Street"
-housenumber: 
-phone: "+1 (770) 421-0733"
-opening_hours: "Mo-We 11:00-18:00; Fr 11:00-16:00"
-website: "https://moniqueshairstudio.com/"
+street: Roswell Street
+housenumber: ""
+phone: +1 (770) 421-0733
+opening_hours: Mo-We 11:00-18:00; Fr 11:00-16:00
+website: https://moniqueshairstudio.com/

@@ -1,11 +1,11 @@
 id: 1010558462
-type: way
+type: node
 latitude: 33.83665
 longitude: -84.57823
 postcode: "30126"
 city: Mableton
-street: "Floyd Road Southwest"
-housenumber: 4844
-phone: "+1 844-747-5435"
+street: Floyd Road Southwest
+housenumber: "4844"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326985767
-type: way
+type: node
 latitude: 33.89366
 longitude: -84.47594
 postcode: "30080"
 city: Smyrna
-street: "Cobb Parkway South"
-housenumber: 2449
+street: Cobb Parkway South
+housenumber: "2449"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-20:00
 website: ""

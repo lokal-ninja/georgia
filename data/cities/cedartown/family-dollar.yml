@@ -1,11 +1,11 @@
 id: 840400067
-type: way
+type: node
 latitude: 34.00727
 longitude: -85.25442
 postcode: "30125"
 city: Cedartown
-street: "South Main Street"
-housenumber: 727
-phone: "+1 (770) 748-7003"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.familydollar.com/locations/ga/cedartown/20276/"
+street: South Main Street
+housenumber: "727"
+phone: +1 (770) 748-7003
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.familydollar.com/locations/ga/cedartown/20276/

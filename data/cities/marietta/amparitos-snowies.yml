@@ -1,11 +1,11 @@
 id: 1008717978
-type: way
+type: node
 latitude: 33.90253
 longitude: -84.54419
 postcode: "30060"
 city: Marietta
-street: "Pat Mell Road Southeast"
-housenumber: 371
+street: Pat Mell Road Southeast
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 992903433
-type: way
+type: node
 latitude: 34.06297
 longitude: -84.72148
 postcode: "30101"
 city: Acworth
-street: "Calibre Crossing"
-housenumber: 4405
+street: Calibre Crossing
+housenumber: "4405"
 phone: ""
 opening_hours: ""
 website: ""

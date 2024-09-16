@@ -1,11 +1,11 @@
 id: 993545479
-type: way
+type: node
 latitude: 33.28075
 longitude: -84.29022
 postcode: "30223"
 city: Griffin
-street: "Lucky Street"
-housenumber: 1515
-phone: "+1 770-227-4490"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Lucky Street
+housenumber: "1515"
+phone: +1 770-227-4490
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

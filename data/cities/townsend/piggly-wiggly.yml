@@ -1,11 +1,11 @@
 id: 567918866
-type: way
+type: node
 latitude: 31.53206
 longitude: -81.42853
 postcode: "31331"
 city: Townsend
-street: "US Highway 17"
-housenumber: 15759
-phone: "+1 912-832-5071"
+street: US Highway 17
+housenumber: "15759"
+phone: +1 912-832-5071
 opening_hours: ""
-website: "https://www.pigglywiggly.com"
+website: https://www.pigglywiggly.com

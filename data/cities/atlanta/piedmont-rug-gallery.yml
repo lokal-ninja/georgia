@@ -1,11 +1,11 @@
 id: 268632961
-type: way
+type: node
 latitude: 33.8266
 longitude: -84.36749
 postcode: "30324"
 city: Atlanta
-street: "Piedmont Road Northeast"
-housenumber: 2628
+street: Piedmont Road Northeast
+housenumber: "2628"
 phone: ""
 opening_hours: ""
 website: ""

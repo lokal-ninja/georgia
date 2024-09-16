@@ -1,11 +1,11 @@
 id: 354097832
-type: way
+type: node
 latitude: 34.87573
 longitude: -84.32435
 postcode: "30513"
 city: Blue Ridge
-street: "Blueridge Drive"
-housenumber: 10012
-phone: "+1 706-258-3555"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/blue-ridge/ga/blue-ridge/30513/1771"
+street: Blueridge Drive
+housenumber: "10012"
+phone: +1 706-258-3555
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/blue-ridge/ga/blue-ridge/30513/1771

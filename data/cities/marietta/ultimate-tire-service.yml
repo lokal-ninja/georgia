@@ -1,11 +1,11 @@
 id: 311615045
-type: way
+type: node
 latitude: 34.03064
 longitude: -84.5274
 postcode: "30060"
 city: Marietta
-street: "Canton Road"
-housenumber: 3266
-phone: "678-581-5224"
-opening_hours: "Mo-Sa 08:30-17:30"
+street: Canton Road
+housenumber: "3266"
+phone: 678-581-5224
+opening_hours: Mo-Sa 08:30-17:30
 website: ""

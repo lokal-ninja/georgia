@@ -1,11 +1,11 @@
 id: 440334229
-type: way
+type: node
 latitude: 34.11692
 longitude: -82.87103
 postcode: "30635"
 city: Elberton
-street: "Highland Park"
-housenumber: 204
-phone: "706-283-5981"
+street: Highland Park
+housenumber: "204"
+phone: 706-283-5981
 opening_hours: ""
-website: "http://rgtires.com"
+website: http://rgtires.com

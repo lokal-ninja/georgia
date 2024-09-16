@@ -1,11 +1,11 @@
 id: 927816827
-type: way
+type: node
 latitude: 34.48158
 longitude: -84.94309
 postcode: "30701"
 city: Calhoun
-street: "West Belmont Drive"
-housenumber: 389
-phone: "+1 706-979-6768"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/389-w-belmont-dr-calhoun-30701?number=3328"
+street: West Belmont Drive
+housenumber: "389"
+phone: +1 706-979-6768
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/389-w-belmont-dr-calhoun-30701?number=3328

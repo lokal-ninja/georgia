@@ -4,8 +4,8 @@ latitude: 34.06256
 longitude: -84.42038
 postcode: "30075"
 city: Roswell
-street: "Woodstock Road"
-housenumber: 4648
-phone: "+1 (678) 352-1042"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00"
-website: "https://local.fedex.com/ga/roswell/office-2237/"
+street: Woodstock Road
+housenumber: "4648"
+phone: +1 (678) 352-1042
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00
+website: https://local.fedex.com/ga/roswell/office-2237/

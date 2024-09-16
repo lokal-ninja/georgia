@@ -1,11 +1,11 @@
 id: 272194123
-type: way
+type: node
 latitude: 33.71989
 longitude: -84.34907
 postcode: "30316"
 city: Atlanta
-street: "Eastland Road Southeast"
-housenumber: 1208
+street: Eastland Road Southeast
+housenumber: "1208"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/atlanta/1208-moreland-rd-se.html"
+website: https://www.autozone.com/locations/ga/atlanta/1208-moreland-rd-se.html

@@ -1,11 +1,11 @@
 id: 734740876
-type: way
+type: node
 latitude: 34.26153
 longitude: -85.17823
-postcode: "30165-2735"
+postcode: 30165-2735
 city: Rome
-street: "Turner McCall Boulevard Northeast"
-housenumber: 435
-phone: "+1 706-291-3380"
-opening_hours: "Mo-Su 06:00-06:00"
-website: "https://www.publix.com/locations/1403"
+street: Turner McCall Boulevard Northeast
+housenumber: "435"
+phone: +1 706-291-3380
+opening_hours: Mo-Su 06:00-06:00
+website: https://www.publix.com/locations/1403

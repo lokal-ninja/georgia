@@ -1,11 +1,11 @@
 id: 842305250
-type: way
+type: node
 latitude: 34.00131
 longitude: -84.28342
 postcode: "30022"
 city: Alpharetta
-street: "Holcomb Bridge Road"
-housenumber: 2610
+street: Holcomb Bridge Road
+housenumber: "2610"
 phone: ""
 opening_hours: ""
 website: ""

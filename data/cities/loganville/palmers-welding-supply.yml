@@ -1,11 +1,11 @@
 id: 392475856
-type: way
+type: node
 latitude: 33.85242
 longitude: -83.92827
 postcode: "30052"
 city: Loganville
-street: "Athens Highway"
-housenumber: 420
-phone: "+1-770-466-8526"
+street: Athens Highway
+housenumber: "420"
+phone: +1-770-466-8526
 opening_hours: ""
-website: "https://www.palmersweldingsupply.com/"
+website: https://www.palmersweldingsupply.com/

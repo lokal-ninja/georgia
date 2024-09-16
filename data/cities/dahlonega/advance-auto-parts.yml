@@ -1,11 +1,11 @@
 id: 178363561
-type: way
+type: node
 latitude: 34.53257
 longitude: -83.97625
 postcode: "30533"
 city: Dahlonega
-street: "Pinetree Way"
-housenumber: 50
-phone: "+1-706-482-0006"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-website: "https://stores.advanceautoparts.com/ga/dahlonega/50-pinetree-way"
+street: Pinetree Way
+housenumber: "50"
+phone: +1-706-482-0006
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:30
+website: https://stores.advanceautoparts.com/ga/dahlonega/50-pinetree-way

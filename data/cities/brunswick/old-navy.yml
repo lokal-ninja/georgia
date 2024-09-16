@@ -1,11 +1,11 @@
 id: 662087484
-type: way
+type: node
 latitude: 31.20046
 longitude: -81.4802
 postcode: ""
 city: Brunswick
-street: "Golden Isles Parkway"
-housenumber: 200
+street: Golden Isles Parkway
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

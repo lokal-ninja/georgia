@@ -1,11 +1,11 @@
 id: 321045107
-type: way
+type: node
 latitude: 33.8418
 longitude: -84.30992
 postcode: "30329"
 city: Atlanta
-street: "Clairmont Road"
-housenumber: 2885
+street: Clairmont Road
+housenumber: "2885"
 phone: ""
 opening_hours: ""
 website: ""

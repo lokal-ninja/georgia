@@ -1,11 +1,11 @@
 id: 974201240
-type: way
+type: node
 latitude: 33.67253
 longitude: -84.44319
 postcode: "30344"
 city: Atlanta
-street: "Main Street"
-housenumber: 3047
+street: Main Street
+housenumber: "3047"
 phone: ""
 opening_hours: ""
 website: ""

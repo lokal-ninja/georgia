@@ -1,11 +1,11 @@
 id: 146142206
-type: way
+type: node
 latitude: 33.96062
 longitude: -84.36412
 postcode: "30350"
 city: Atlanta
-street: "Roswell Road"
-housenumber: 7525
-phone: "+1 678-443-8980"
-opening_hours: "Su-Sa 07:00-23:00"
-website: "https://www.publix.com/locations/646-trowbridge-crossing"
+street: Roswell Road
+housenumber: "7525"
+phone: +1 678-443-8980
+opening_hours: Su-Sa 07:00-23:00
+website: https://www.publix.com/locations/646-trowbridge-crossing

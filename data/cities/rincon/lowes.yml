@@ -1,11 +1,11 @@
 id: 1102785429
-type: way
+type: node
 latitude: 32.27396
 longitude: -81.2309
 postcode: "31326"
 city: Rincon
-street: "Highway 21 South"
-housenumber: 5150
-phone: "+1 912-826-6700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-rincon/2813"
+street: Highway 21 South
+housenumber: "5150"
+phone: +1 912-826-6700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-rincon/2813

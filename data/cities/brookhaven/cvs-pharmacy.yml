@@ -1,11 +1,11 @@
 id: 602742736
-type: way
+type: node
 latitude: 33.86494
 longitude: -84.30902
 postcode: "30319"
 city: Brookhaven
-street: "Clairmont Road Northeast"
-housenumber: 3615
+street: Clairmont Road Northeast
+housenumber: "3615"
 phone: ""
 opening_hours: ""
 website: ""

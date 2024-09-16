@@ -1,11 +1,11 @@
 id: 389894015
-type: way
+type: node
 latitude: 34.06892
 longitude: -83.90909
 postcode: "30019"
 city: Dacula
-street: "Braselton Highway"
-housenumber: 3565
-phone: "+1 844-476-1027"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/dacula/3565-braselton-highway"
+street: Braselton Highway
+housenumber: "3565"
+phone: +1 844-476-1027
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/dacula/3565-braselton-highway

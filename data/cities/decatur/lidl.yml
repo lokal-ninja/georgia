@@ -1,11 +1,11 @@
 id: 1219425164
-type: way
+type: node
 latitude: 33.72482
 longitude: -84.17073
 postcode: "30035"
 city: Decatur
-street: "Covington Highway"
-housenumber: 6038
-phone: "+1 844-747-5435"
+street: Covington Highway
+housenumber: "6038"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

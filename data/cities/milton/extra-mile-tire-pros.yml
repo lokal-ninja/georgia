@@ -1,11 +1,11 @@
 id: 584747550
-type: way
+type: node
 latitude: 34.11918
 longitude: -84.27138
 postcode: "30004"
 city: Milton
-street: "Bethany Bend"
-housenumber: 2875
+street: Bethany Bend
+housenumber: "2875"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

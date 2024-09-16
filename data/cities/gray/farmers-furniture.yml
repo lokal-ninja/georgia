@@ -4,8 +4,8 @@ latitude: 33.00181
 longitude: -83.54722
 postcode: "31032"
 city: Gray
-street: "Bill Conn Parkway"
-housenumber: 106
+street: Bill Conn Parkway
+housenumber: "106"
 phone: "+14789367931"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.farmershomefurniture.com/stores/grayga.inc"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.farmershomefurniture.com/stores/grayga.inc

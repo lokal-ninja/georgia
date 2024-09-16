@@ -1,11 +1,11 @@
 id: 690097889
-type: way
+type: node
 latitude: 34.96795
 longitude: -85.19538
-postcode: "30736-8566"
+postcode: 30736-8566
 city: Fort Oglethorpe
-street: "Cobb Parkway"
-housenumber: 100
-phone: "+1 706-891-2579"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/fort-oglethorpe-ringgold-ga-1083.html"
+street: Cobb Parkway
+housenumber: "100"
+phone: +1 706-891-2579
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/fort-oglethorpe-ringgold-ga-1083.html

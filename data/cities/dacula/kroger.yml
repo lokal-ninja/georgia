@@ -4,8 +4,8 @@ latitude: 34.00122
 longitude: -83.90582
 postcode: "30019"
 city: Dacula
-street: "Dacula Road"
-housenumber: 505
-phone: "+1 678-407-8740"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.kroger.com/stores/grocery/ga/dacula/dacula/011/00635"
+street: Dacula Road
+housenumber: "505"
+phone: +1 678-407-8740
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.kroger.com/stores/grocery/ga/dacula/dacula/011/00635

@@ -4,8 +4,8 @@ latitude: 34.21728
 longitude: -84.79318
 postcode: "30121"
 city: Cartersville
-street: "US 411"
-housenumber: 1575
-phone: "+1 (770) 334-2695"
-opening_hours: "Mo-Fr 08:30-17:00; Sa by appointment"
-website: "https://bandrautomotiverepair.com/"
+street: US 411
+housenumber: "1575"
+phone: +1 (770) 334-2695
+opening_hours: Mo-Fr 08:30-17:00; Sa "by appointment"
+website: https://bandrautomotiverepair.com/

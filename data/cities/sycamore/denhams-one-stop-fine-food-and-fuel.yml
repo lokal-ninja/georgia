@@ -1,11 +1,11 @@
 id: 401651943
-type: way
+type: node
 latitude: 31.67063
 longitude: -83.63523
 postcode: "31790"
 city: Sycamore
-street: "US 41"
-housenumber: 2731
+street: US 41
+housenumber: "2731"
 phone: ""
 opening_hours: ""
 website: ""

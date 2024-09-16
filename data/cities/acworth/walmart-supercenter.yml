@@ -1,11 +1,11 @@
 id: 293630029
-type: way
+type: node
 latitude: 34.04881
 longitude: -84.69905
 postcode: "30101"
 city: Acworth
-street: "Cobb Parkway Northwest"
-housenumber: 3826
-phone: "+1 770-966-1226"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3748/acworth-ga/whats-new"
+street: Cobb Parkway Northwest
+housenumber: "3826"
+phone: +1 770-966-1226
+opening_hours: 24/7
+website: https://www.walmart.com/store/3748/acworth-ga/whats-new

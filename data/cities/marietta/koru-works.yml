@@ -1,11 +1,11 @@
 id: 294277611
-type: way
+type: node
 latitude: 33.94999
 longitude: -84.5395
 postcode: "30060"
 city: Marietta
-street: "Roswell Street"
-housenumber: 436
-phone: "+1 (678) 290-8851"
+street: Roswell Street
+housenumber: "436"
+phone: +1 (678) 290-8851
 opening_hours: ""
-website: "http://www.koruworks.com/"
+website: http://www.koruworks.com/

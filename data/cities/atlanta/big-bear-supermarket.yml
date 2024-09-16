@@ -1,11 +1,11 @@
 id: 271306342
-type: way
+type: node
 latitude: 33.73633
 longitude: -84.41861
 postcode: "30310"
 city: Atlanta
-street: "Gordon Place Southwest"
-housenumber: 662
+street: Gordon Place Southwest
+housenumber: "662"
 phone: ""
 opening_hours: ""
 website: ""

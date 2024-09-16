@@ -1,11 +1,11 @@
 id: 447954200
-type: way
+type: node
 latitude: 33.97837
 longitude: -83.38072
 postcode: "30607"
 city: Athens
-street: "Sandy Creek Drive"
-housenumber: 210
+street: Sandy Creek Drive
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 693445534
-type: way
+type: node
 latitude: 34.95461
 longitude: -85.24996
 postcode: ""
 city: Fort Oglethorpe
-street: "Van Cleve Street"
-housenumber: 296
+street: Van Cleve Street
+housenumber: "296"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ga/fortoglethorpe/autoparts-957.html"
+website: https://locations.oreillyauto.com/ga/fortoglethorpe/autoparts-957.html

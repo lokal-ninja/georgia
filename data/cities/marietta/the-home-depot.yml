@@ -1,11 +1,11 @@
 id: 107316719
-type: way
+type: node
 latitude: 33.97989
 longitude: -84.43557
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 4101
-phone: "+1 770-977-9700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/merchants-walk/ga/marietta/30062/111"
+street: Roswell Road
+housenumber: "4101"
+phone: +1 770-977-9700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/merchants-walk/ga/marietta/30062/111

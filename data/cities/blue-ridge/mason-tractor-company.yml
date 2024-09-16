@@ -1,11 +1,11 @@
 id: 381026115
-type: way
+type: node
 latitude: 34.83539
 longitude: -84.34189
 postcode: "30513"
 city: Blue Ridge
-street: "Appalachian Highway"
-housenumber: 1050
-phone: "+1 (706) 632-3777"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://masontractor.stihldealer.net/"
+street: Appalachian Highway
+housenumber: "1050"
+phone: +1 (706) 632-3777
+opening_hours: Mo-Fr 08:00-17:00
+website: https://masontractor.stihldealer.net/

@@ -4,8 +4,8 @@ latitude: 33.94048
 longitude: -83.45567
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 3620
-phone: "+1 706-208-3700"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/451"
+street: Atlanta Highway
+housenumber: "3620"
+phone: +1 706-208-3700
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/451

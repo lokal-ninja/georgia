@@ -1,11 +1,11 @@
 id: 377215662
-type: way
+type: node
 latitude: 34.65809
 longitude: -84.49316
 postcode: "30540"
 city: East Ellijay
-street: "Howard Simmons Road"
-housenumber: 601
-phone: "+1 (706) 635-2500"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.cvs.com/store-locator/east-ellijay-ga-pharmacies/601-howard-simmons-rd-east-ellijay-ga-30540/storeid=7736"
+street: Howard Simmons Road
+housenumber: "601"
+phone: +1 (706) 635-2500
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.cvs.com/store-locator/east-ellijay-ga-pharmacies/601-howard-simmons-rd-east-ellijay-ga-30540/storeid=7736

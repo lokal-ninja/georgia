@@ -1,11 +1,11 @@
 id: 941138599
-type: way
+type: node
 latitude: 33.81091
 longitude: -84.04208
 postcode: "30039"
 city: Snellville
-street: "Centerville Highway"
-housenumber: 3340
-phone: "+1 844-476-1032"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/ga/snellville/3340-centerville-hwy"
+street: Centerville Highway
+housenumber: "3340"
+phone: +1 844-476-1032
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/ga/snellville/3340-centerville-hwy

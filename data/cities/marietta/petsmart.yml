@@ -1,11 +1,11 @@
 id: 390553398
-type: way
+type: node
 latitude: 33.9788
 longitude: -84.42531
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1285
-phone: "+1 770-971-3010"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "http://stores.petsmart.com/286"
+street: Johnson Ferry Road Northeast
+housenumber: "1285"
+phone: +1 770-971-3010
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: http://stores.petsmart.com/286

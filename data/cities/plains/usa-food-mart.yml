@@ -1,11 +1,11 @@
 id: 366691192
-type: way
+type: node
 latitude: 32.03484
 longitude: -84.39179
 postcode: ""
 city: Plains
-street: "Church Street"
-housenumber: 204
-phone: "229-824-5929"
+street: Church Street
+housenumber: "204"
+phone: 229-824-5929
 opening_hours: ""
 website: ""

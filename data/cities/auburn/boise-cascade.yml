@@ -1,11 +1,11 @@
 id: 985205862
-type: way
+type: node
 latitude: 34.01409
 longitude: -83.82983
 postcode: "30011"
 city: Auburn
-street: "Mount Moriah Road"
-housenumber: 8
+street: Mount Moriah Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

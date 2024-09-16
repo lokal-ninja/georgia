@@ -1,11 +1,11 @@
 id: 555328085
-type: way
+type: node
 latitude: 32.08338
 longitude: -82.12125
 postcode: "30453"
 city: Reidsville
-street: "Hill Street"
-housenumber: 101
-phone: "+1-912-557-4317"
-opening_hours: "Mo-Sa 08:00-17:00"
+street: Hill Street
+housenumber: "101"
+phone: +1-912-557-4317
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

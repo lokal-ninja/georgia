@@ -1,11 +1,11 @@
 id: 1234604578
-type: way
+type: node
 latitude: 33.00907
 longitude: -83.5342
 postcode: "31032"
 city: Gray
-street: "Railroad Street"
-housenumber: 107
-phone: "+1-478-986-3115"
+street: Railroad Street
+housenumber: "107"
+phone: +1-478-986-3115
 opening_hours: ""
 website: ""

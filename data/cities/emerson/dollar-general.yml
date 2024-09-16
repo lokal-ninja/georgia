@@ -1,11 +1,11 @@
 id: 546701990
-type: way
+type: node
 latitude: 34.12544
 longitude: -84.75601
 postcode: "30137"
 city: Emerson
-street: "GA 293"
-housenumber: 710
-phone: "+1 (470) 490-9164"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/emerson/6124"
+street: GA 293
+housenumber: "710"
+phone: +1 (470) 490-9164
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/emerson/6124

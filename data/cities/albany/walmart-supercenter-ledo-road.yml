@@ -1,11 +1,11 @@
 id: 974117025
-type: way
+type: node
 latitude: 31.6247
 longitude: -84.21461
 postcode: "31707"
 city: Albany
-street: "Ledo Road"
-housenumber: 2825
-phone: "+1 229-889-9655"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/588-albany-ga"
+street: Ledo Road
+housenumber: "2825"
+phone: +1 229-889-9655
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/588-albany-ga

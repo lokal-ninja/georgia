@@ -4,8 +4,8 @@ latitude: 32.55718
 longitude: -83.70302
 postcode: "31088"
 city: Warner Robins
-street: "Autumn Woods Drive"
-housenumber: 308
+street: Autumn Woods Drive
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Sa: 09:00-18:00; Su: 13:00-18:00"
-website: "https://oilanswers.net/"
+opening_hours: 'Mo-Sa: 09:00-18:00; Su: 13:00-18:00'
+website: https://oilanswers.net/

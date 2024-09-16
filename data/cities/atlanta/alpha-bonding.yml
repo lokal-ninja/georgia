@@ -4,8 +4,8 @@ latitude: 33.74662
 longitude: -84.39409
 postcode: "30303"
 city: Atlanta
-street: "Memorial Drive Southwest"
-housenumber: 200
-phone: "+1-404-523-2352"
-opening_hours: "24/7"
-website: "http://alphabonding.biz/"
+street: Memorial Drive Southwest
+housenumber: "200"
+phone: +1-404-523-2352
+opening_hours: 24/7
+website: http://alphabonding.biz/

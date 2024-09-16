@@ -1,11 +1,11 @@
 id: 987602258
-type: way
+type: node
 latitude: 34.8948
 longitude: -84.27167
 postcode: "30513"
 city: Blue Ridge
-street: "APD Highway"
-housenumber: 7535
-phone: "+1 (706) 426-0771"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00"
-website: "https://www.mountainvalleymotors.net"
+street: APD Highway
+housenumber: "7535"
+phone: +1 (706) 426-0771
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00
+website: https://www.mountainvalleymotors.net

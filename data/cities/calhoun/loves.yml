@@ -1,11 +1,11 @@
 id: 1111903065
-type: way
+type: node
 latitude: 34.44327
 longitude: -84.91561
 postcode: "30701"
 city: Calhoun
-street: "Belwood Road Southeast"
-housenumber: 1081
+street: Belwood Road Southeast
+housenumber: "1081"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

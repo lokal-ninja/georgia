@@ -1,11 +1,11 @@
 id: 397976793
-type: way
+type: node
 latitude: 34.26053
 longitude: -83.88892
 postcode: "30566"
 city: Oakwood
-street: "McEver Road"
-housenumber: 3720
+street: McEver Road
+housenumber: "3720"
 phone: ""
 opening_hours: ""
 website: ""

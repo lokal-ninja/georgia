@@ -1,11 +1,11 @@
 id: 433545536
-type: way
+type: node
 latitude: 34.48103
 longitude: -84.58461
 postcode: "30143"
 city: Jasper
-street: "GA-53"
-housenumber: 9272
-phone: "+1-706-692-3626"
+street: GA-53
+housenumber: "9272"
+phone: +1-706-692-3626
 opening_hours: ""
 website: ""

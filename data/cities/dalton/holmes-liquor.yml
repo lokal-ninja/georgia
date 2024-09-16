@@ -1,11 +1,11 @@
 id: 683615459
-type: way
+type: node
 latitude: 34.79558
 longitude: -85.00516
 postcode: ""
 city: Dalton
-street: "Chattanooga Road"
-housenumber: 2205
+street: Chattanooga Road
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

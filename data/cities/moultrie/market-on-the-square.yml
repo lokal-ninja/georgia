@@ -1,11 +1,11 @@
 id: 834309663
-type: way
+type: node
 latitude: 31.18042
 longitude: -83.78842
 postcode: "31768"
 city: Moultrie
-street: "East Central Avenue"
-housenumber: 15
+street: East Central Avenue
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

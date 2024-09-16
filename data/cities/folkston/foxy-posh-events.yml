@@ -1,11 +1,11 @@
 id: 546234254
-type: way
+type: node
 latitude: 30.83033
 longitude: -82.00703
 postcode: "31537"
 city: Folkston
-street: "1st Street"
-housenumber: 
+street: 1st Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

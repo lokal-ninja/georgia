@@ -4,8 +4,8 @@ latitude: 33.9583
 longitude: -83.37598
 postcode: "30601"
 city: Athens
-street: "East Clayton Street"
-housenumber: 186
-phone: "(706) 353-8500"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://ugaredzone.com/"
+street: East Clayton Street
+housenumber: "186"
+phone: (706) 353-8500
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://ugaredzone.com/

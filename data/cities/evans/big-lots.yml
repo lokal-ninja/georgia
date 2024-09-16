@@ -1,11 +1,11 @@
 id: 560431078
-type: way
+type: node
 latitude: 33.5377
 longitude: -82.13123
 postcode: "30809"
 city: Evans
-street: "North Belair Road"
-housenumber: 526
-phone: "(706) 869-7813"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://local.biglots.com/ga/evans/526-n-belair-rd"
+street: North Belair Road
+housenumber: "526"
+phone: (706) 869-7813
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-19:00
+website: https://local.biglots.com/ga/evans/526-n-belair-rd

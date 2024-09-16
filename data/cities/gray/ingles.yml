@@ -1,11 +1,11 @@
 id: 875663146
-type: way
+type: node
 latitude: 33.00407
 longitude: -83.5451
 postcode: "31032"
 city: Gray
-street: "West Clinton Street"
-housenumber: 261
-phone: "+1-478-986-3159"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.ingles-markets.com/storelocate/storeinfo.php?storenum=486"
+street: West Clinton Street
+housenumber: "261"
+phone: +1-478-986-3159
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.ingles-markets.com/storelocate/storeinfo.php?storenum=486

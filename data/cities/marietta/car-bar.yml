@@ -1,11 +1,11 @@
 id: 311563666
-type: way
+type: node
 latitude: 34.04132
 longitude: -84.47895
 postcode: "30066"
 city: Marietta
-street: "Shallowford Road Northeast"
-housenumber: 2510
-phone: "+1 678-369-6955"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.carbarsales.com/"
+street: Shallowford Road Northeast
+housenumber: "2510"
+phone: +1 678-369-6955
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.carbarsales.com/

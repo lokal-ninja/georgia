@@ -1,11 +1,11 @@
 id: 1161337877
-type: way
+type: node
 latitude: 33.60477
 longitude: -83.85676
 postcode: "30014"
 city: Covington
-street: "Elm Street Northeast"
-housenumber: 3197
+street: Elm Street Northeast
+housenumber: "3197"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

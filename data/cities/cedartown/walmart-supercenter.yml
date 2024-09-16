@@ -1,11 +1,11 @@
 id: 982074598
-type: way
+type: node
 latitude: 34.04579
 longitude: -85.24053
 postcode: "30125"
 city: Cedartown
-street: "Rome Highway"
-housenumber: 1585
-phone: "+1 770-748-1636"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/727/cedartown-ga/whats-new"
+street: Rome Highway
+housenumber: "1585"
+phone: +1 770-748-1636
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/727/cedartown-ga/whats-new

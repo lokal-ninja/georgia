@@ -1,11 +1,11 @@
 id: 389190010
-type: way
+type: node
 latitude: 34.05653
 longitude: -84.32778
 postcode: "30076"
 city: Roswell
-street: "Alpharetta Highway"
-housenumber: 11335
-phone: "+1-770-619-4000"
+street: Alpharetta Highway
+housenumber: "11335"
+phone: +1-770-619-4000
 opening_hours: ""
-website: "http://www.alfacollision.com"
+website: http://www.alfacollision.com

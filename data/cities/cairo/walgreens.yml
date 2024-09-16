@@ -1,11 +1,11 @@
 id: 375495875
-type: way
+type: node
 latitude: 30.88354
 longitude: -84.20017
 postcode: "39828"
 city: Cairo
-street: "US-84 E"
-housenumber: 501
+street: US-84 E
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-501+us+highway+84+e-cairo-ga-39828/id=11107"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-501+us+highway+84+e-cairo-ga-39828/id=11107

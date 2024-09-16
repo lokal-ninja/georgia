@@ -4,8 +4,8 @@ latitude: 34.0055
 longitude: -84.17323
 postcode: "30096"
 city: Duluth
-street: "Peachtree Industrial Boulevard"
-housenumber: 3455
-phone: "+1 770-476-7914"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/duluth/peachtree-hill/011/00381"
+street: Peachtree Industrial Boulevard
+housenumber: "3455"
+phone: +1 770-476-7914
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/duluth/peachtree-hill/011/00381

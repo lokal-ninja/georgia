@@ -1,11 +1,11 @@
 id: 243872734
-type: way
+type: node
 latitude: 34.01243
 longitude: -84.57365
 postcode: "30144"
 city: Kennesaw
-street: "Cobb Place Lane Northwest"
-housenumber: 2555
-phone: "+1 (770) 427-9840"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.4wheelparts.com/"
+street: Cobb Place Lane Northwest
+housenumber: "2555"
+phone: +1 (770) 427-9840
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.4wheelparts.com/

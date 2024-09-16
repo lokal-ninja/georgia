@@ -1,11 +1,11 @@
 id: 719455772
-type: way
+type: node
 latitude: 32.61905
 longitude: -83.69601
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 3094
-phone: "+1 478-971-2320"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.kroger.com/stores/grocery/ga/warner-robins/crossroads-market/011/00696"
+street: Watson Boulevard
+housenumber: "3094"
+phone: +1 478-971-2320
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.kroger.com/stores/grocery/ga/warner-robins/crossroads-market/011/00696

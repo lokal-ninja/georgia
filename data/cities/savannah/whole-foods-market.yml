@@ -1,11 +1,11 @@
 id: 567035280
-type: way
+type: node
 latitude: 32.04348
 longitude: -81.07161
 postcode: "31404"
 city: Savannah
-street: "East Victory Drive"
-housenumber: 1821
-phone: "+1 912-358-5829"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/savannah"
+street: East Victory Drive
+housenumber: "1821"
+phone: +1 912-358-5829
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/savannah

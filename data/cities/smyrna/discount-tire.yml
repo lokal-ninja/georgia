@@ -1,11 +1,11 @@
 id: 333326927
-type: way
+type: node
 latitude: 33.88496
 longitude: -84.4744
 postcode: "30080"
 city: Smyrna
-street: "Spring Road Southeast"
-housenumber: 2717
-phone: "+1 (678) 505-4109"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "http://stores.discounttire.com/ga/smyrna/gaa-30/"
+street: Spring Road Southeast
+housenumber: "2717"
+phone: +1 (678) 505-4109
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: http://stores.discounttire.com/ga/smyrna/gaa-30/

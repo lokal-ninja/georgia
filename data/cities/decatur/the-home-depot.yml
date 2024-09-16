@@ -1,11 +1,11 @@
 id: 40977474
-type: way
+type: node
 latitude: 33.81246
 longitude: -84.26967
 postcode: "30033"
 city: Decatur
-street: "Lawrenceville Highway"
-housenumber: 2295
-phone: "+1 404-315-0015"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/wages-drive/ga/decatur/30033/117"
+street: Lawrenceville Highway
+housenumber: "2295"
+phone: +1 404-315-0015
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/wages-drive/ga/decatur/30033/117

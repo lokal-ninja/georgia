@@ -1,11 +1,11 @@
 id: 700536311
-type: way
+type: node
 latitude: 33.89136
 longitude: -84.30196
 postcode: "30341"
 city: Chamblee
-street: "Peachtree Road"
-housenumber: 5356
+street: Peachtree Road
+housenumber: "5356"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 693445550
-type: way
+type: node
 latitude: 34.95459
 longitude: -85.24919
 postcode: ""
 city: Fort Oglethorpe
-street: "Alamar Street"
-housenumber: 300
+street: Alamar Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

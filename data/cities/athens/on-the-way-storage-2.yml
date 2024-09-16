@@ -1,11 +1,11 @@
 id: 1296064300
-type: way
+type: node
 latitude: 33.9532
 longitude: -83.40839
 postcode: "30606"
 city: Athens
-street: "Old West Broad Street"
-housenumber: 1865
+street: Old West Broad Street
+housenumber: "1865"
 phone: ""
 opening_hours: ""
 website: ""

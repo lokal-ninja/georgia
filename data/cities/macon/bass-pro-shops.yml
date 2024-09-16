@@ -1,11 +1,11 @@
 id: 242787286
-type: way
+type: node
 latitude: 32.93355
 longitude: -83.74023
 postcode: "31210"
 city: Macon
-street: "Bass Pro Boulevard"
-housenumber: 5000
+street: Bass Pro Boulevard
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

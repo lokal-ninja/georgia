@@ -1,11 +1,11 @@
 id: 804966060
-type: way
+type: node
 latitude: 33.45263
 longitude: -85.13315
 postcode: "30170"
 city: Roopville
-street: "South Old Highway 27"
-housenumber: 311
-phone: "+1 (770) 854-6215"
+street: South Old Highway 27
+housenumber: "311"
+phone: +1 (770) 854-6215
 opening_hours: ""
 website: ""

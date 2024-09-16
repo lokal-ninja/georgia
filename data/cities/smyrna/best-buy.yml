@@ -1,11 +1,11 @@
 id: 300535426
-type: way
+type: node
 latitude: 33.89125
 longitude: -84.47856
 postcode: "30080"
 city: Smyrna
-street: "Cobb Parkway Southeast"
-housenumber: 2460
-phone: "+1 770-859-9266"
-opening_hours: "Mo-Th 10:00-21:00;Fr-Sa 10:00-22:00;Su 11:00-20:00"
-website: "https://stores.bestbuy.com/ga/smyrna/2460-cobb-pkwy-se-502.html"
+street: Cobb Parkway Southeast
+housenumber: "2460"
+phone: +1 770-859-9266
+opening_hours: Mo-Th 10:00-21:00;Fr-Sa 10:00-22:00;Su 11:00-20:00
+website: https://stores.bestbuy.com/ga/smyrna/2460-cobb-pkwy-se-502.html

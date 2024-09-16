@@ -1,11 +1,11 @@
 id: 264238783
-type: way
+type: node
 latitude: 33.90359
 longitude: -84.49702
 postcode: "30060"
 city: Marietta
-street: "Airport Industrial Park Drive Southeast"
-housenumber: 2007
-phone: "+1-770-956-0207"
+street: Airport Industrial Park Drive Southeast
+housenumber: "2007"
+phone: +1-770-956-0207
 opening_hours: ""
-website: "http://enzosautomotive.com"
+website: http://enzosautomotive.com

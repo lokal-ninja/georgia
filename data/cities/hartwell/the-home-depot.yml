@@ -1,11 +1,11 @@
 id: 524770442
-type: way
+type: node
 latitude: 34.34859
 longitude: -82.90183
 postcode: "30643"
 city: Hartwell
-street: "Anderson Highway"
-housenumber: 1700
-phone: "+1 706-376-1748"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hartwell/ga/hartwell/30643/1748"
+street: Anderson Highway
+housenumber: "1700"
+phone: +1 706-376-1748
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hartwell/ga/hartwell/30643/1748

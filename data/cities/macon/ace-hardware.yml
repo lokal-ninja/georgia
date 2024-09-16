@@ -1,11 +1,11 @@
 id: 970153191
-type: way
+type: node
 latitude: 32.89913
 longitude: -83.68454
-postcode: "31210-2510"
+postcode: 31210-2510
 city: Macon
-street: "Riverside Drive"
-housenumber: 3600
-phone: "+1 478-474-6454"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-18:00"
+street: Riverside Drive
+housenumber: "3600"
+phone: +1 478-474-6454
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-18:00
 website: ""

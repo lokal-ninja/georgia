@@ -4,8 +4,8 @@ latitude: 33.95805
 longitude: -83.37453
 postcode: "30601"
 city: Athens
-street: "East Broad Street"
-housenumber: 295
+street: East Broad Street
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 10:00-16:00
 website: ""

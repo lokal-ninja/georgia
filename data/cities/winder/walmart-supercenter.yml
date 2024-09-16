@@ -1,11 +1,11 @@
 id: 985609244
-type: way
+type: node
 latitude: 33.98949
 longitude: -83.75734
 postcode: "30680"
 city: Winder
-street: "Atlanta Highway Northwest"
-housenumber: 440
-phone: "+1 770-867-8642"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/520/winder-ga/whats-new"
+street: Atlanta Highway Northwest
+housenumber: "440"
+phone: +1 770-867-8642
+opening_hours: 24/7
+website: https://www.walmart.com/store/520/winder-ga/whats-new

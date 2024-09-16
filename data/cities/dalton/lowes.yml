@@ -1,11 +1,11 @@
 id: 989275059
-type: way
+type: node
 latitude: 34.79331
 longitude: -84.95983
 postcode: "30721"
 city: Dalton
-street: "Cleveland Highway"
-housenumber: 1212
-phone: "+1 706-277-2442"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1646"
+street: Cleveland Highway
+housenumber: "1212"
+phone: +1 706-277-2442
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1646

@@ -1,11 +1,11 @@
 id: 1003934120
-type: way
+type: node
 latitude: 33.85599
 longitude: -84.58847
 postcode: "30106"
 city: Austell
-street: "East-West Connector"
-housenumber: 1133
+street: East-West Connector
+housenumber: "1133"
 phone: ""
 opening_hours: ""
 website: ""

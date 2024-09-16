@@ -1,11 +1,11 @@
 id: 326846782
-type: way
+type: node
 latitude: 34.01587
 longitude: -84.49282
 postcode: "30066"
 city: Marietta
-street: "Sandy Plains Road Northeast"
-housenumber: 2714
-phone: "+1 (770) 973-7909"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://marietta.diveshop1.com"
+street: Sandy Plains Road Northeast
+housenumber: "2714"
+phone: +1 (770) 973-7909
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://marietta.diveshop1.com

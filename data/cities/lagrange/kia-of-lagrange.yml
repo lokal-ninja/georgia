@@ -1,11 +1,11 @@
 id: 980691582
-type: way
+type: node
 latitude: 33.04185
 longitude: -85.00281
 postcode: "30241"
 city: LaGrange
-street: "Lafayette Parkway"
-housenumber: 1217
+street: Lafayette Parkway
+housenumber: "1217"
 phone: "+17062985024"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.kiaoflagrange.com"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.kiaoflagrange.com

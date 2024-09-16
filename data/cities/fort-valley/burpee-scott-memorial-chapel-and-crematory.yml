@@ -1,11 +1,11 @@
 id: 534399982
-type: way
+type: node
 latitude: 32.57601
 longitude: -83.71914
 postcode: "31030"
 city: Fort Valley
-street: "US Highway 41 N"
-housenumber: 2932
-phone: "(478) 333-3006"
-opening_hours: "24/7"
-website: "https://www.burpeescottmemorialchapel.com/"
+street: US Highway 41 N
+housenumber: "2932"
+phone: (478) 333-3006
+opening_hours: 24/7
+website: https://www.burpeescottmemorialchapel.com/

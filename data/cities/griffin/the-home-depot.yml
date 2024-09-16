@@ -1,11 +1,11 @@
 id: 512128729
-type: way
+type: node
 latitude: 33.24905
 longitude: -84.2899
 postcode: "30223"
 city: Griffin
-street: "Highway 16 West"
-housenumber: 1435
-phone: "+1 770-233-9411"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/griffin/ga/griffin/30223/138"
+street: Highway 16 West
+housenumber: "1435"
+phone: +1 770-233-9411
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/griffin/ga/griffin/30223/138

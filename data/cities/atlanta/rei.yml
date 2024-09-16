@@ -1,11 +1,11 @@
 id: 226566272
-type: way
+type: node
 latitude: 33.83978
 longitude: -84.32075
 postcode: "30329"
 city: Atlanta
-street: "Northeast Expressway"
-housenumber: 1800
-phone: "+1-404-633-6508"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/atlanta"
+street: Northeast Expressway
+housenumber: "1800"
+phone: +1-404-633-6508
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.rei.com/stores/atlanta

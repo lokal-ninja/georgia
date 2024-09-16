@@ -1,11 +1,11 @@
 id: 293539541
-type: way
+type: node
 latitude: 33.94595
 longitude: -83.40882
 postcode: "30606"
 city: Athens
-street: "Alps Road"
-housenumber: 197
+street: Alps Road
+housenumber: "197"
 phone: ""
 opening_hours: ""
 website: ""

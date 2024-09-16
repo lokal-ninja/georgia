@@ -1,11 +1,11 @@
 id: 742075110
-type: way
+type: node
 latitude: 31.61657
 longitude: -81.87197
 postcode: "31545"
 city: Jesup
-street: "North 1st Street"
-housenumber: 1100
-phone: "+1 912-530-6335"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2630-jesup-ga"
+street: North 1st Street
+housenumber: "1100"
+phone: +1 912-530-6335
+opening_hours: 24/7
+website: https://www.walmart.com/store/2630-jesup-ga

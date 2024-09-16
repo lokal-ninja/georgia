@@ -1,11 +1,11 @@
 id: 1121887297
-type: way
+type: node
 latitude: 33.93954
 longitude: -84.51426
 postcode: "30060"
 city: Marietta
-street: "Cobb Parkway South"
-housenumber: 543
-phone: "+1 (770) 428-3727"
-opening_hours: "Su-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00"
+street: Cobb Parkway South
+housenumber: "543"
+phone: +1 (770) 428-3727
+opening_hours: Su-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
 website: ""

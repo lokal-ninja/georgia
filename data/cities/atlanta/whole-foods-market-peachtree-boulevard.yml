@@ -4,8 +4,8 @@ latitude: 33.88506
 longitude: -84.3143
 postcode: "30341"
 city: Atlanta
-street: "Peachtree Boulevard"
-housenumber: 5001
-phone: "+1 470-552-0750"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/chamblee"
+street: Peachtree Boulevard
+housenumber: "5001"
+phone: +1 470-552-0750
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/chamblee

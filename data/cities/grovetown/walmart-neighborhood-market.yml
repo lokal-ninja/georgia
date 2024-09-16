@@ -1,11 +1,11 @@
 id: 589298089
-type: way
+type: node
 latitude: 33.45573
 longitude: -82.20836
 postcode: "30813"
 city: Grovetown
-street: "Wrightsboro Road"
-housenumber: 5303
-phone: "+1 762-383-6528"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/7339/grovetown-ga/whats-new"
+street: Wrightsboro Road
+housenumber: "5303"
+phone: +1 762-383-6528
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/7339/grovetown-ga/whats-new

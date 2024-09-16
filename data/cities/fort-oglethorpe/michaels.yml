@@ -1,11 +1,11 @@
 id: 689531895
-type: way
+type: node
 latitude: 34.94852
 longitude: -85.23157
-postcode: "30742-4025"
+postcode: 30742-4025
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 2025
-phone: "+1 706-866-6863"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ga/fort-oglethorpe/1164"
+street: Battlefield Parkway
+housenumber: "2025"
+phone: +1 706-866-6863
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ga/fort-oglethorpe/1164

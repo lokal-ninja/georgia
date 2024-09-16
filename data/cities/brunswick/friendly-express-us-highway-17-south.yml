@@ -1,11 +1,11 @@
 id: 677528705
-type: way
+type: node
 latitude: 31.14173
 longitude: -81.58568
 postcode: "31523"
 city: Brunswick
-street: "US Highway 17 South"
-housenumber: 3224
+street: US Highway 17 South
+housenumber: "3224"
 phone: ""
 opening_hours: ""
 website: ""

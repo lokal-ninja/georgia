@@ -1,11 +1,11 @@
 id: 999150888
-type: way
+type: node
 latitude: 33.957
 longitude: -83.99152
 postcode: "30046"
 city: Lawrenceville
-street: "West Pike Street"
-housenumber: 232
-phone: "770-963-2005"
-opening_hours: "Mo-Fr 08:30-16:00"
-website: "https://huffsflowerslawrenceville.com/"
+street: West Pike Street
+housenumber: "232"
+phone: 770-963-2005
+opening_hours: Mo-Fr 08:30-16:00
+website: https://huffsflowerslawrenceville.com/

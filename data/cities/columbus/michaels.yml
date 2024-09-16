@@ -1,11 +1,11 @@
 id: 251038828
-type: way
+type: node
 latitude: 32.53475
 longitude: -84.96976
 postcode: "31904"
 city: Columbus
-street: "Bradley Park Drive"
-housenumber: 1591
-phone: "+1 706-321-1080"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ga/columbus/9929/"
+street: Bradley Park Drive
+housenumber: "1591"
+phone: +1 706-321-1080
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ga/columbus/9929/

@@ -4,8 +4,8 @@ latitude: 33.75163
 longitude: -84.3987
 postcode: "30313"
 city: Atlanta
-street: "Nelson Street Southwest"
-housenumber: 329
+street: Nelson Street Southwest
+housenumber: "329"
 phone: ""
 opening_hours: ""
-website: "https://brooklyntea.com/pages/atlanta-tearoom"
+website: https://brooklyntea.com/pages/atlanta-tearoom

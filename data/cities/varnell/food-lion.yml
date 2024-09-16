@@ -1,11 +1,11 @@
 id: 761600168
-type: way
+type: node
 latitude: 34.89657
 longitude: -84.94822
 postcode: ""
 city: Varnell
-street: "Cleveland Road"
-housenumber: 3925
+street: Cleveland Road
+housenumber: "3925"
 phone: ""
 opening_hours: ""
 website: ""

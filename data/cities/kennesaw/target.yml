@@ -1,11 +1,11 @@
 id: 243872731
-type: way
+type: node
 latitude: 34.01003
 longitude: -84.57362
-postcode: "30144-6860"
+postcode: 30144-6860
 city: Kennesaw
-street: "Ernest W. Barrett Parkway Northwest"
-housenumber: 740
-phone: "+1 770-425-6895"
-opening_hours: "08:00-20:00"
-website: "https://www.target.com/sl/cobb/981"
+street: Ernest W. Barrett Parkway Northwest
+housenumber: "740"
+phone: +1 770-425-6895
+opening_hours: 08:00-20:00
+website: https://www.target.com/sl/cobb/981

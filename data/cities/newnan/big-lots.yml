@@ -1,11 +1,11 @@
 id: 298466116
-type: way
+type: node
 latitude: 33.39144
 longitude: -84.77362
 postcode: "30263"
 city: Newnan
-street: "Bullsboro Drive"
-housenumber: 216
-phone: "+1 770-251-9188"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ga/newnan/216-bullsboro-dr"
+street: Bullsboro Drive
+housenumber: "216"
+phone: +1 770-251-9188
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ga/newnan/216-bullsboro-dr

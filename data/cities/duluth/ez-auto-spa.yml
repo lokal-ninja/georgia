@@ -4,8 +4,8 @@ latitude: 33.96221
 longitude: -84.13165
 postcode: "30096"
 city: Duluth
-street: "Satellite Boulevard"
-housenumber: 3492
-phone: "+1-762-227-1677"
-opening_hours: "Monday - Friday: 8:30 AM - 5:00 PM"
-website: "https://ezautospa.com/locations/ez-auto-duluth/"
+street: Satellite Boulevard
+housenumber: "3492"
+phone: +1-762-227-1677
+opening_hours: 'Monday - Friday: 8:30 AM - 5:00 PM'
+website: https://ezautospa.com/locations/ez-auto-duluth/

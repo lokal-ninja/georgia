@@ -1,11 +1,11 @@
 id: 368477071
-type: way
+type: node
 latitude: 34.1187
 longitude: -84.52746
 postcode: "30188"
 city: Woodstock
-street: "Ridgewalk Parkway"
-housenumber: 915
+street: Ridgewalk Parkway
+housenumber: "915"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

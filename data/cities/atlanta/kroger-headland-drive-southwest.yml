@@ -4,8 +4,8 @@ latitude: 33.68687
 longitude: -84.48789
 postcode: "30311"
 city: Atlanta
-street: "Headland Drive Southwest"
-housenumber: 3030
-phone: "+1 404-344-5383"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/greenbriar-crossing/011/00462"
+street: Headland Drive Southwest
+housenumber: "3030"
+phone: +1 404-344-5383
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/greenbriar-crossing/011/00462

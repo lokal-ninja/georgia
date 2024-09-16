@@ -1,11 +1,11 @@
 id: 1222390926
-type: way
+type: node
 latitude: 31.15918
 longitude: -81.38756
 postcode: "31522"
 city: Saint Simons Island
-street: "Demere Road"
-housenumber: 2014
-phone: "+1 912 771 8258"
-opening_hours: "24/7"
+street: Demere Road
+housenumber: "2014"
+phone: +1 912 771 8258
+opening_hours: 24/7
 website: ""

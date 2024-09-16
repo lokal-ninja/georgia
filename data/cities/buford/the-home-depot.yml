@@ -1,11 +1,11 @@
 id: 376338938
-type: way
+type: node
 latitude: 34.09084
 longitude: -84.00105
 postcode: "30518"
 city: Buford
-street: "Highway 20"
-housenumber: 4120
-phone: "+1 770-831-5005"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Buford/GA/Buford/30518/147"
+street: Highway 20
+housenumber: "4120"
+phone: +1 770-831-5005
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Buford/GA/Buford/30518/147

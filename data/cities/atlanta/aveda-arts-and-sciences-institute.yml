@@ -4,8 +4,8 @@ latitude: 33.80033
 longitude: -84.39213
 postcode: "30309"
 city: Atlanta
-street: "Peachtree Street NE"
-housenumber: 1745
-phone: "+1-404-649-7119"
+street: Peachtree Street NE
+housenumber: "1745"
+phone: +1-404-649-7119
 opening_hours: ""
-website: "https://avedaarts.edu/locations/atlanta/"
+website: https://avedaarts.edu/locations/atlanta/

@@ -1,11 +1,11 @@
 id: 666949839
-type: way
+type: node
 latitude: 34.10485
 longitude: -84.26929
 postcode: "30004"
 city: Milton
-street: "Highway 9 North"
-housenumber: 13097
-phone: "+1 678-624-0164"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ga/milton-1264.shtml"
+street: Highway 9 North
+housenumber: "13097"
+phone: +1 678-624-0164
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ga/milton-1264.shtml

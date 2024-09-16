@@ -4,8 +4,8 @@ latitude: 33.95856
 longitude: -83.38024
 postcode: "30601"
 city: Athens
-street: "West Washington Street"
-housenumber: 294
+street: West Washington Street
+housenumber: "294"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.epiphanyathens.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.epiphanyathens.com/

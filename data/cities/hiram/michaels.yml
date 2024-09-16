@@ -1,11 +1,11 @@
 id: 553155076
-type: way
+type: node
 latitude: 33.88649
 longitude: -84.74688
-postcode: "30141-2764"
+postcode: 30141-2764
 city: Hiram
-street: "Jimmy Lee Smith Parkway"
-housenumber: 4794
-phone: "+1 770-222-2175"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ga/hiram/3853"
+street: Jimmy Lee Smith Parkway
+housenumber: "4794"
+phone: +1 770-222-2175
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ga/hiram/3853

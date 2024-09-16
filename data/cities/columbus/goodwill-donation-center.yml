@@ -4,8 +4,8 @@ latitude: 32.55699
 longitude: -84.90484
 postcode: "31909"
 city: Columbus
-street: "Schomburg Road"
-housenumber: 7600
+street: Schomburg Road
+housenumber: "7600"
 phone: "+17063244366"
-opening_hours: "Mo-Sa 09:00-20:00, Su 10:00-18:00"
-website: "https://www.goodwillsr.org/donate-stuff"
+opening_hours: Mo-Sa 09:00-20:00, Su 10:00-18:00
+website: https://www.goodwillsr.org/donate-stuff

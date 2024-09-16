@@ -1,11 +1,11 @@
 id: 220365248
-type: way
+type: node
 latitude: 33.81545
 longitude: -84.36623
 postcode: "30324"
 city: Atlanta
-street: "Piedmont Road Northeast"
-housenumber: 2161
+street: Piedmont Road Northeast
+housenumber: "2161"
 phone: ""
-opening_hours: "Mo-Sa 08:00-23:45; Su 12:30-20:30"
-website: "http://towerbeerwineandspirits.com"
+opening_hours: Mo-Sa 08:00-23:45; Su 12:30-20:30
+website: http://towerbeerwineandspirits.com

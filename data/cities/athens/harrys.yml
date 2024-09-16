@@ -1,11 +1,11 @@
 id: 592848883
-type: way
+type: node
 latitude: 33.92647
 longitude: -83.33433
 postcode: "30605"
 city: Athens
-street: "Cedar Shoals Drive"
-housenumber: 1195
+street: Cedar Shoals Drive
+housenumber: "1195"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 678017919
-type: way
+type: node
 latitude: 33.41606
 longitude: -82.31875
 postcode: "30814"
 city: Harlem
-street: "West Milledgeville Road"
-housenumber: 305
-phone: "+1 706-556-9802"
+street: West Milledgeville Road
+housenumber: "305"
+phone: +1 706-556-9802
 opening_hours: ""
-website: "https://www.kjsmarket.com/stores/kjs-market-iga-harlem-5154"
+website: https://www.kjsmarket.com/stores/kjs-market-iga-harlem-5154

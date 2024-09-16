@@ -1,11 +1,11 @@
 id: 90091829
-type: way
+type: node
 latitude: 33.83565
 longitude: -84.07975
 postcode: "30047"
 city: Lilburn
-street: "Stone Mountain Highway"
-housenumber: 4295
-phone: "+1 770-972-7554"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ga/lilburn/office-depot-591"
+street: Stone Mountain Highway
+housenumber: "4295"
+phone: +1 770-972-7554
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ga/lilburn/office-depot-591

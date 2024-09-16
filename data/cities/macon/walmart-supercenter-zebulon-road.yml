@@ -1,11 +1,11 @@
 id: 928311468
-type: way
+type: node
 latitude: 32.88236
 longitude: -83.76086
 postcode: "31210"
 city: Macon
-street: "Zebulon Road"
-housenumber: 5955
-phone: "+1 478-471-9150"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2890/macon-ga/whats-new"
+street: Zebulon Road
+housenumber: "5955"
+phone: +1 478-471-9150
+opening_hours: 24/7
+website: https://www.walmart.com/store/2890/macon-ga/whats-new

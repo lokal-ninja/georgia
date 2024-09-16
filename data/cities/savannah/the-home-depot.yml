@@ -1,11 +1,11 @@
 id: 427712097
-type: way
+type: node
 latitude: 32.04259
 longitude: -81.06869
 postcode: "31404"
 city: Savannah
-street: "East Victory Drive"
-housenumber: 1901
-phone: "+1 912-352-3562"
-opening_hours: "Mo-Th 06:00-22:00; Fr 06:00-22:00; Sa 06:00-22:00; Su 08:00-22:00"
-website: "https://www.homedepot.com/l/East-Savannah/GA/Savannah/31404/170"
+street: East Victory Drive
+housenumber: "1901"
+phone: +1 912-352-3562
+opening_hours: Mo-Th 06:00-22:00; Fr 06:00-22:00; Sa 06:00-22:00; Su 08:00-22:00
+website: https://www.homedepot.com/l/East-Savannah/GA/Savannah/31404/170

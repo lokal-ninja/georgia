@@ -1,11 +1,11 @@
 id: 845565662
-type: way
+type: node
 latitude: 34.05025
 longitude: -84.22289
 postcode: "30022"
 city: Alpharetta
-street: "State Bridge Road"
-housenumber: 10945
-phone: "+1 770-619-2072"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/alpharetta/saddlebrook/011/00390"
+street: State Bridge Road
+housenumber: "10945"
+phone: +1 770-619-2072
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/alpharetta/saddlebrook/011/00390

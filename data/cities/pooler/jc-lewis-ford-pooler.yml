@@ -1,11 +1,11 @@
 id: 1068940538
-type: way
+type: node
 latitude: 32.08263
 longitude: -81.27344
 postcode: "31322"
 city: Pooler
-street: "Memorial Boulevard"
-housenumber: 501
+street: Memorial Boulevard
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://www.jclewisfordpooler.com/"
+website: https://www.jclewisfordpooler.com/

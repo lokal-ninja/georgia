@@ -1,11 +1,11 @@
 id: 370221733
-type: way
+type: node
 latitude: 30.88219
 longitude: -83.26656
 postcode: ""
 city: Valdosta
-street: "Inner Perimeter Road"
-housenumber: 3820
+street: Inner Perimeter Road
+housenumber: "3820"
 phone: ""
 opening_hours: ""
 website: ""

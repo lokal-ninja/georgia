@@ -1,11 +1,11 @@
 id: 391118149
-type: way
+type: node
 latitude: 33.33066
 longitude: -84.78254
 postcode: ""
 city: Newnan
-street: "Pine Road"
-housenumber: 575
+street: Pine Road
+housenumber: "575"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/newnan/6822"
+website: https://www.dollargeneral.com/store-directory/ga/newnan/6822

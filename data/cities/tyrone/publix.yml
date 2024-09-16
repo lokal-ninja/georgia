@@ -1,11 +1,11 @@
 id: 367590592
-type: way
+type: node
 latitude: 33.48785
 longitude: -84.58689
-postcode: "30290-1663"
+postcode: 30290-1663
 city: Tyrone
-street: "Highway 74 North"
-housenumber: 1512
-phone: "+1 770-774-2780"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/892"
+street: Highway 74 North
+housenumber: "1512"
+phone: +1 770-774-2780
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/892

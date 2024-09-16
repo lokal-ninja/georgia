@@ -1,11 +1,11 @@
 id: 775656629
-type: way
+type: node
 latitude: 33.87367
 longitude: -84.38025
 postcode: "30342"
 city: Atlanta
-street: "Roswell Road Northeast"
-housenumber: 4365
-phone: "+1 404-255-2411"
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:30-18:30; Su 09:00-18:00"
+street: Roswell Road Northeast
+housenumber: "4365"
+phone: +1 404-255-2411
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:30-18:30; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 269196157
-type: way
+type: node
 latitude: 33.81221
 longitude: -84.39114
 postcode: "30309"
 city: Atlanta
-street: "Peachtree Road"
-housenumber: 2099
+street: Peachtree Road
+housenumber: "2099"
 phone: ""
 opening_hours: ""
 website: ""

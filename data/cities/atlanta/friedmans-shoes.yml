@@ -4,8 +4,8 @@ latitude: 33.75194
 longitude: -84.39461
 postcode: "30303"
 city: Atlanta
-street: "Mitchell Street Southwest"
-housenumber: 209
-phone: "+1-404-524-1311"
-opening_hours: "Mo-Sa 10:30-17:30"
-website: "https://largefeet.com/"
+street: Mitchell Street Southwest
+housenumber: "209"
+phone: +1-404-524-1311
+opening_hours: Mo-Sa 10:30-17:30
+website: https://largefeet.com/

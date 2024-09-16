@@ -1,11 +1,11 @@
 id: 218549890
-type: way
+type: node
 latitude: 33.75476
 longitude: -84.36649
 postcode: "30312"
 city: Atlanta
-street: "Edgewood Avenue Northeast"
-housenumber: 666
+street: Edgewood Avenue Northeast
+housenumber: "666"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 387811414
-type: way
+type: node
 latitude: 34.16601
 longitude: -84.16211
 postcode: "30041"
 city: Cumming
-street: "Pendley Road"
-housenumber: 2195
+street: Pendley Road
+housenumber: "2195"
 phone: ""
 opening_hours: ""
-website: "https://dirtmonkeyperformance.com/"
+website: https://dirtmonkeyperformance.com/

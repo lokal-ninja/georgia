@@ -1,11 +1,11 @@
 id: 40031445
-type: way
+type: node
 latitude: 33.82419
 longitude: -84.36419
 postcode: "30324"
 city: Atlanta
-street: "Piedmont Road Northeast"
-housenumber: 2539
-phone: "+1 404-720-1081"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/buckhead-south/2171"
+street: Piedmont Road Northeast
+housenumber: "2539"
+phone: +1 404-720-1081
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/buckhead-south/2171

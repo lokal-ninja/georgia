@@ -4,8 +4,8 @@ latitude: 32.07769
 longitude: -81.09281
 postcode: ""
 city: Savannah
-street: "West York Street"
-housenumber: 5
-phone: "+1 912-232-3600"
-opening_hours: "Tu-Sa 11:00-18:00;Su 13:00-16:00"
-website: "http://liquidsandsglassgallery.com"
+street: West York Street
+housenumber: "5"
+phone: +1 912-232-3600
+opening_hours: Tu-Sa 11:00-18:00;Su 13:00-16:00
+website: http://liquidsandsglassgallery.com

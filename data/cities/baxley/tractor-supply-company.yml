@@ -1,11 +1,11 @@
 id: 925919374
-type: way
+type: node
 latitude: 31.77723
 longitude: -82.34195
 postcode: "31513"
 city: Baxley
-street: "East Parker Street"
-housenumber: 375
-phone: "+1 912-366-7876"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Parker Street
+housenumber: "375"
+phone: +1 912-366-7876
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

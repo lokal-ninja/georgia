@@ -1,11 +1,11 @@
 id: 272203249
-type: way
+type: node
 latitude: 33.96991
 longitude: -84.14947
 postcode: "30096"
 city: Duluth
-street: "Pleasant Hill Road"
-housenumber: 2635
-phone: "+1 770-418-0162"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2154/duluth-ga/whats-new"
+street: Pleasant Hill Road
+housenumber: "2635"
+phone: +1 770-418-0162
+opening_hours: 24/7
+website: https://www.walmart.com/store/2154/duluth-ga/whats-new

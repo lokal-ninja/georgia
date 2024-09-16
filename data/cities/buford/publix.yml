@@ -2,10 +2,10 @@ id: 3090780789
 type: node
 latitude: 34.14206
 longitude: -83.95087
-postcode: "30518-5843"
+postcode: 30518-5843
 city: Buford
-street: "Golden Parkway"
-housenumber: 4840
-phone: "+1 770-614-7700"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/706"
+street: Golden Parkway
+housenumber: "4840"
+phone: +1 770-614-7700
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/706

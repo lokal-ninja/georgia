@@ -1,11 +1,11 @@
 id: 529463182
-type: way
+type: node
 latitude: 31.17155
 longitude: -84.7412
 postcode: "39837"
 city: Colquitt
-street: "Crawford Street"
-housenumber: 410
+street: Crawford Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

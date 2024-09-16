@@ -1,11 +1,11 @@
 id: 589979259
-type: way
+type: node
 latitude: 34.44083
 longitude: -85.24853
 postcode: ""
 city: Summerville
-street: "US 27"
-housenumber: 2131
-phone: "+1 (706) 857-1589"
-opening_hours: "Mo-Fr 05:00-15:00; Sa 07:00-13:00"
+street: US 27
+housenumber: "2131"
+phone: +1 (706) 857-1589
+opening_hours: Mo-Fr 05:00-15:00; Sa 07:00-13:00
 website: ""

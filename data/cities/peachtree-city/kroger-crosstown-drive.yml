@@ -1,11 +1,11 @@
 id: 289494291
-type: way
+type: node
 latitude: 33.37768
 longitude: -84.56452
 postcode: "30269"
 city: Peachtree City
-street: "Crosstown Drive"
-housenumber: 564
-phone: "+1 770-486-7580"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/peachtree-city/braelinn-village/011/00388"
+street: Crosstown Drive
+housenumber: "564"
+phone: +1 770-486-7580
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/peachtree-city/braelinn-village/011/00388

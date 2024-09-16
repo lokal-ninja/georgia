@@ -1,11 +1,11 @@
 id: 672118334
-type: way
+type: node
 latitude: 33.40211
 longitude: -84.74229
 postcode: "30265"
 city: Newnan
-street: "Bullsboro Drive"
-housenumber: 1100
-phone: "+1 770-252-1585"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/newnan/ga/newnan/30265/148"
+street: Bullsboro Drive
+housenumber: "1100"
+phone: +1 770-252-1585
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/newnan/ga/newnan/30265/148

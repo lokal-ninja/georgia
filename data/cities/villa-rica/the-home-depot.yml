@@ -1,11 +1,11 @@
 id: 490445906
-type: way
+type: node
 latitude: 33.71995
 longitude: -84.94225
 postcode: "30180"
 city: Villa Rica
-street: "Cooley Way"
-housenumber: 210
-phone: "+1 770-459-0456"
-opening_hours: "Mo-Sa 06:00-22:00; Su 06:00-20:00"
-website: "https://www.homedepot.com/l/Villa-Rica/GA/Villa-Rica/30180/6861"
+street: Cooley Way
+housenumber: "210"
+phone: +1 770-459-0456
+opening_hours: Mo-Sa 06:00-22:00; Su 06:00-20:00
+website: https://www.homedepot.com/l/Villa-Rica/GA/Villa-Rica/30180/6861

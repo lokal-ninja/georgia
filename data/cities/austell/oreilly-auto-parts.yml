@@ -1,11 +1,11 @@
 id: 243606403
-type: way
+type: node
 latitude: 33.80468
 longitude: -84.63643
 postcode: "30168"
 city: Austell
-street: "Veterans Memorial Highway"
-housenumber: 10001
+street: Veterans Memorial Highway
+housenumber: "10001"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ga/austell/autoparts-1351.html"
+website: https://locations.oreillyauto.com/ga/austell/autoparts-1351.html

@@ -1,11 +1,11 @@
 id: 926416312
-type: way
+type: node
 latitude: 34.05784
 longitude: -84.2315
 postcode: "30005"
 city: Alpharetta
-street: "State Bridge Way"
-housenumber: 4435
-phone: "+1 (678) 615-7473"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://raliauto.com/"
+street: State Bridge Way
+housenumber: "4435"
+phone: +1 (678) 615-7473
+opening_hours: Mo-Fr 08:00-17:00
+website: https://raliauto.com/

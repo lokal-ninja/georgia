@@ -1,11 +1,11 @@
 id: 540096092
-type: way
+type: node
 latitude: 34.33839
 longitude: -84.37724
 postcode: "30107"
 city: Ball Ground
-street: "Gilmer Ferry Road"
-housenumber: 265
-phone: "+1 (678) 521-9287"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 11:00-19:00; Su 15:00-17:00"
-website: "https://jodys-books.business.site/"
+street: Gilmer Ferry Road
+housenumber: "265"
+phone: +1 (678) 521-9287
+opening_hours: Mo-Fr 09:00-16:00; Sa 11:00-19:00; Su 15:00-17:00
+website: https://jodys-books.business.site/

@@ -1,11 +1,11 @@
 id: 926201933
-type: way
+type: node
 latitude: 31.98588
 longitude: -81.2193
 postcode: "31419"
 city: Savannah
-street: "King George Boulevard"
-housenumber: 1006
+street: King George Boulevard
+housenumber: "1006"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 586450522
-type: way
+type: node
 latitude: 33.52435
 longitude: -82.11722
 postcode: "30809"
 city: Evans
-street: "Washington Road"
-housenumber: 4209
-phone: "+1 706-869-0737"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://stores.petco.com/ga/evans/pet-supplies-evans-ga-2734.html"
+street: Washington Road
+housenumber: "4209"
+phone: +1 706-869-0737
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://stores.petco.com/ga/evans/pet-supplies-evans-ga-2734.html

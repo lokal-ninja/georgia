@@ -4,8 +4,8 @@ latitude: 33.93264
 longitude: -84.34936
 postcode: "30338"
 city: Atlanta
-street: "MountVernon Highway"
-housenumber: 1155
-phone: "+1 770-396-8898"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ga/atlanta/office-depot-434"
+street: MountVernon Highway
+housenumber: "1155"
+phone: +1 770-396-8898
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ga/atlanta/office-depot-434

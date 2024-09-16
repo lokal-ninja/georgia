@@ -1,11 +1,11 @@
 id: 288589466
-type: way
+type: node
 latitude: 33.91011
 longitude: -84.77922
 postcode: "30157"
 city: Dallas
-street: "Charles Hardy Parkway"
-housenumber: 495
+street: Charles Hardy Parkway
+housenumber: "495"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-ga-pharmacies/495-charles-hardy-pkwy-dallas-ga-30157/storeid=5622"
+website: https://www.cvs.com/store-locator/dallas-ga-pharmacies/495-charles-hardy-pkwy-dallas-ga-30157/storeid=5622

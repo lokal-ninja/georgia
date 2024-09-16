@@ -1,11 +1,11 @@
 id: 186556246
-type: way
+type: node
 latitude: 32.81247
 longitude: -83.68968
 postcode: "31206"
 city: Macon
-street: "Macon Tech Drive"
-housenumber: 3190
-phone: "+1 478-785-0700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-macon/0546"
+street: Macon Tech Drive
+housenumber: "3190"
+phone: +1 478-785-0700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-macon/0546

@@ -1,11 +1,11 @@
 id: 941985875
-type: way
+type: node
 latitude: 33.81901
 longitude: -84.57534
 postcode: "30126"
 city: Mableton
-street: "Veterans Memorial Highway Southwest"
-housenumber: 730
-phone: "770-944-2925"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-website: "https://stores.advanceautoparts.com/ga/mableton/730-veterans-memorial-hwy-sw"
+street: Veterans Memorial Highway Southwest
+housenumber: "730"
+phone: 770-944-2925
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:30
+website: https://stores.advanceautoparts.com/ga/mableton/730-veterans-memorial-hwy-sw

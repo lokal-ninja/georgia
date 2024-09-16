@@ -1,11 +1,11 @@
 id: 697895927
-type: way
+type: node
 latitude: 33.37395
 longitude: -84.80009
 postcode: "30263"
 city: Newnan
-street: "Greenville Street"
-housenumber: 11
-phone: "+1 678 633 5933"
-opening_hours: "Mo-Sa 10:00-18:00; Su 13:00-17:00"
-website: "https://www.newnanmercantile.com/"
+street: Greenville Street
+housenumber: "11"
+phone: +1 678 633 5933
+opening_hours: Mo-Sa 10:00-18:00; Su 13:00-17:00
+website: https://www.newnanmercantile.com/

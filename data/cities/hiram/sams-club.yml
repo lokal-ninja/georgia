@@ -1,11 +1,11 @@
 id: 553155082
-type: way
+type: node
 latitude: 33.88738
 longitude: -84.74989
 postcode: "30141"
 city: Hiram
-street: "Jimmy Lee Smith Parkway"
-housenumber: 4798
-phone: "+1 678-567-5990"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/hiram-ga-sams-club/4802"
+street: Jimmy Lee Smith Parkway
+housenumber: "4798"
+phone: +1 678-567-5990
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/hiram-ga-sams-club/4802

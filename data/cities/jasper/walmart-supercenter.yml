@@ -1,11 +1,11 @@
 id: 311345167
-type: way
+type: node
 latitude: 34.47594
 longitude: -84.45924
 postcode: "30143"
 city: Jasper
-street: "Old Philadelphia Road"
-housenumber: 1100
-phone: "+1 706-301-5696"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5786/jasper-ga/whats-new"
+street: Old Philadelphia Road
+housenumber: "1100"
+phone: +1 706-301-5696
+opening_hours: 24/7
+website: https://www.walmart.com/store/5786/jasper-ga/whats-new

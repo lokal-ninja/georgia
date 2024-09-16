@@ -1,11 +1,11 @@
 id: 1020780327
-type: way
+type: node
 latitude: 33.4587
 longitude: -82.19941
-postcode: "30813-2803"
+postcode: 30813-2803
 city: Grovetown
-street: "Wrightsboro Road"
-housenumber: 5127
-phone: "+1 706-922-9735"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-18:00"
+street: Wrightsboro Road
+housenumber: "5127"
+phone: +1 706-922-9735
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-18:00
 website: ""

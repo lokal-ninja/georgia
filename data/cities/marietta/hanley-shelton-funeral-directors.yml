@@ -1,11 +1,11 @@
 id: 267236681
-type: way
+type: node
 latitude: 33.95329
 longitude: -84.53872
 postcode: "30060"
 city: Marietta
-street: "Lawrence Street Northeast"
-housenumber: 473
-phone: "(770) 428-6333"
+street: Lawrence Street Northeast
+housenumber: "473"
+phone: (770) 428-6333
 opening_hours: ""
-website: "http://www.hanleysheltonfuneraldirectors.com/"
+website: http://www.hanleysheltonfuneraldirectors.com/

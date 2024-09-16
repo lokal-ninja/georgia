@@ -1,11 +1,11 @@
 id: 964700646
-type: way
+type: node
 latitude: 33.54769
 longitude: -84.28618
 postcode: "30281"
 city: Stockbridge
-street: "Mt Zion Parkway"
-housenumber: 4000
-phone: "(770) 389-6100"
+street: Mt Zion Parkway
+housenumber: "4000"
+phone: (770) 389-6100
 opening_hours: ""
 website: ""

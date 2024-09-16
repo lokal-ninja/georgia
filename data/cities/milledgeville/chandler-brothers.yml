@@ -1,11 +1,11 @@
 id: 485753023
-type: way
+type: node
 latitude: 33.08198
 longitude: -83.22719
-postcode: "31061-3435"
+postcode: 31061-3435
 city: Milledgeville
-street: "North Wayne Street"
-housenumber: 115
-phone: "+1 478-452-2613"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+street: North Wayne Street
+housenumber: "115"
+phone: +1 478-452-2613
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

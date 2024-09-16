@@ -1,11 +1,11 @@
 id: 1121092997
-type: way
+type: node
 latitude: 33.61784
 longitude: -83.84272
 postcode: "30014"
 city: Covington
-street: "Alcovy Road"
-housenumber: 10125
+street: Alcovy Road
+housenumber: "10125"
 phone: ""
 opening_hours: ""
 website: ""

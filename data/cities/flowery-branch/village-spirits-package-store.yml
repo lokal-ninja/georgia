@@ -1,11 +1,11 @@
 id: 397969152
-type: way
+type: node
 latitude: 34.19975
 longitude: -83.92238
 postcode: "30542"
 city: Flowery Branch
-street: "McEver Road"
-housenumber: 5462
+street: McEver Road
+housenumber: "5462"
 phone: ""
 opening_hours: ""
 website: ""

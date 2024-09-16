@@ -1,11 +1,11 @@
 id: 371952094
-type: way
+type: node
 latitude: 30.84606
 longitude: -83.32319
 postcode: "31601"
 city: Valdosta
-street: "Gornto Road"
-housenumber: 1741
-phone: "+1 229-242-2409"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/430"
+street: Gornto Road
+housenumber: "1741"
+phone: +1 229-242-2409
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/430

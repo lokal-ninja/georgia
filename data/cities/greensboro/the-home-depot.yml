@@ -1,11 +1,11 @@
 id: 911862281
-type: way
+type: node
 latitude: 33.53954
 longitude: -83.20643
 postcode: "30642"
 city: Greensboro
-street: "Meadow Crest Road"
-housenumber: 2490
-phone: "+1 706-454-1623"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/greensboro-ga/ga/greensboro/30642/8584"
+street: Meadow Crest Road
+housenumber: "2490"
+phone: +1 706-454-1623
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/greensboro-ga/ga/greensboro/30642/8584

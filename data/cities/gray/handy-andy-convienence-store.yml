@@ -1,11 +1,11 @@
 id: 1234451930
-type: way
+type: node
 latitude: 33.00854
 longitude: -83.53779
 postcode: "31032"
 city: Gray
-street: "West Clinton Street"
-housenumber: 148
-phone: "+1-478-986-6213"
-opening_hours: "06:00-22:00"
+street: West Clinton Street
+housenumber: "148"
+phone: +1-478-986-6213
+opening_hours: 06:00-22:00
 website: ""

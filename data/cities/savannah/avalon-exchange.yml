@@ -1,11 +1,11 @@
 id: 208376478
-type: way
+type: node
 latitude: 32.07884
 longitude: -81.09114
 postcode: "31401"
 city: Savannah
-street: "East Broughton Street"
-housenumber: 20
+street: East Broughton Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://avalonexchange.com/"
+website: https://avalonexchange.com/

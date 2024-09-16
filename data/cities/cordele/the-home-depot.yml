@@ -1,11 +1,11 @@
 id: 270522481
-type: way
+type: node
 latitude: 31.95809
 longitude: -83.75235
 postcode: "31015"
 city: Cordele
-street: "Central Avenue Extension"
-housenumber: 2011
-phone: "+1 229-273-4380"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/cordele/ga/cordele/31015/1773"
+street: Central Avenue Extension
+housenumber: "2011"
+phone: +1 229-273-4380
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/cordele/ga/cordele/31015/1773

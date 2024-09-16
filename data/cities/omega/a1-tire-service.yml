@@ -1,11 +1,11 @@
 id: 1218178779
-type: way
+type: node
 latitude: 31.34078
 longitude: -83.59362
 postcode: "31775"
 city: Omega
-street: "Omega Ellenton Road"
-housenumber: 105
+street: Omega Ellenton Road
+housenumber: "105"
 phone: ""
-opening_hours: "Temporarily Closed"
+opening_hours: Temporarily Closed
 website: ""

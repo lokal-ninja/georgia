@@ -4,8 +4,8 @@ latitude: 33.74837
 longitude: -84.39533
 postcode: "30303"
 city: Atlanta
-street: "Peachtree Street Southwest"
-housenumber: 229
-phone: "+1 404 659 2277"
-opening_hours: "07:00-05:00 open"
-website: "http://www.caglebonding.com/"
+street: Peachtree Street Southwest
+housenumber: "229"
+phone: +1 404 659 2277
+opening_hours: 07:00-05:00 open
+website: http://www.caglebonding.com/

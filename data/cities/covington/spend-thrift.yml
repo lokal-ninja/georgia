@@ -1,11 +1,11 @@
 id: 1150753963
-type: way
+type: node
 latitude: 33.60453
 longitude: -83.86516
 postcode: "30014"
 city: Covington
-street: "Emory Street"
-housenumber: 4125
-phone: "678-342-0521"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://places.thebest100hotels.com/en/thrift-store/spend-thrift/"
+street: Emory Street
+housenumber: "4125"
+phone: 678-342-0521
+opening_hours: Mo-Sa 11:00-18:00
+website: https://places.thebest100hotels.com/en/thrift-store/spend-thrift/

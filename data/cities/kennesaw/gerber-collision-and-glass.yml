@@ -1,11 +1,11 @@
 id: 308644693
-type: way
+type: node
 latitude: 34.01127
 longitude: -84.61135
 postcode: "30152"
 city: Kennesaw
-street: "Cobb Parkway"
-housenumber: 2395
+street: Cobb Parkway
+housenumber: "2395"
 phone: ""
 opening_hours: ""
 website: ""

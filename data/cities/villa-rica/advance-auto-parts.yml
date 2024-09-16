@@ -1,11 +1,11 @@
 id: 416806493
-type: way
+type: node
 latitude: 33.73046
 longitude: -84.93425
 postcode: "30180"
 city: Villa Rica
-street: "West Bankhead Highway"
-housenumber: 620
-phone: "+1 (770) 456-2777"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://stores.advanceautoparts.com/ga/villa-rica/620-w-bankhead-hwy"
+street: West Bankhead Highway
+housenumber: "620"
+phone: +1 (770) 456-2777
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://stores.advanceautoparts.com/ga/villa-rica/620-w-bankhead-hwy

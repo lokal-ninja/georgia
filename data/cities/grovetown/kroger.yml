@@ -1,11 +1,11 @@
 id: 681765775
-type: way
+type: node
 latitude: 33.49007
 longitude: -82.20243
 postcode: "30813"
 city: Grovetown
-street: "Lewiston Road"
-housenumber: 435
-phone: "+1 706-619-3430"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/grovetown/augusta-marketplace/011/00644"
+street: Lewiston Road
+housenumber: "435"
+phone: +1 706-619-3430
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/grovetown/augusta-marketplace/011/00644

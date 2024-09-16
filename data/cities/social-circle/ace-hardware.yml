@@ -1,11 +1,11 @@
 id: 699537741
-type: way
+type: node
 latitude: 33.65561
 longitude: -83.7199
 postcode: "30025"
 city: Social Circle
-street: "South Cherokee Road"
-housenumber: 181
-phone: "+1 770-464-3354"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-17:00"
+street: South Cherokee Road
+housenumber: "181"
+phone: +1 770-464-3354
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-17:00
 website: ""

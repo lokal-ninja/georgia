@@ -1,11 +1,11 @@
 id: 1245112926
-type: way
+type: node
 latitude: 32.50658
 longitude: -84.96389
 postcode: "31904"
 city: Columbus
-street: "Columbus-Manchester Expressway"
-housenumber: 1916
+street: Columbus-Manchester Expressway
+housenumber: "1916"
 phone: ""
 opening_hours: ""
 website: ""

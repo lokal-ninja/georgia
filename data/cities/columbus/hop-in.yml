@@ -1,11 +1,11 @@
 id: 958418654
-type: way
+type: node
 latitude: 32.56208
 longitude: -84.93678
 postcode: "31909"
 city: Columbus
-street: "Veterans Parkway"
-housenumber: 7890
+street: Veterans Parkway
+housenumber: "7890"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 208456174
-type: way
+type: node
 latitude: 32.07881
 longitude: -81.09283
 postcode: "31401"
 city: Savannah
-street: "West Broughton Street"
-housenumber: 19
-phone: "912-234-0004"
+street: West Broughton Street
+housenumber: "19"
+phone: 912-234-0004
 opening_hours: ""
-website: "https://www.jparkerltd.com/"
+website: https://www.jparkerltd.com/

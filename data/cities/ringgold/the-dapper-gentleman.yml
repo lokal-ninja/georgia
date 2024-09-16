@@ -1,11 +1,11 @@
 id: 552231272
-type: way
+type: node
 latitude: 34.91584
 longitude: -85.10801
 postcode: ""
 city: Ringgold
-street: "Depot Street"
-housenumber: 118
+street: Depot Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

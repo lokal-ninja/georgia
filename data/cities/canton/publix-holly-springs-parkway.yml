@@ -1,11 +1,11 @@
 id: 372663088
-type: way
+type: node
 latitude: 34.12982
 longitude: -84.49937
 postcode: "30115"
 city: Canton
-street: "Holly Springs Parkway"
-housenumber: 6175
-phone: "+1 770-345-8600"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/711-hickory-flat-village"
+street: Holly Springs Parkway
+housenumber: "6175"
+phone: +1 770-345-8600
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/711-hickory-flat-village

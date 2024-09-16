@@ -1,11 +1,11 @@
 id: 271015344
-type: way
+type: node
 latitude: 33.7478
 longitude: -84.35042
 postcode: "30316"
 city: Atlanta
-street: "Flat Shoals Avenue Southeast"
-housenumber: 226
+street: Flat Shoals Avenue Southeast
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

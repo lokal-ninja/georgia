@@ -1,11 +1,11 @@
 id: 1029080424
-type: way
+type: node
 latitude: 33.75908
 longitude: -84.36341
 postcode: "30307"
 city: Atlanta
-street: "Krog Street Northeast"
-housenumber: 99
+street: Krog Street Northeast
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

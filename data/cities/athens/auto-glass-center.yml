@@ -1,11 +1,11 @@
 id: 822686787
-type: way
+type: node
 latitude: 33.94462
 longitude: -83.34038
 postcode: "30605"
 city: Athens
-street: "Lexington Road"
-housenumber: 2198
+street: Lexington Road
+housenumber: "2198"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293601271
-type: way
+type: node
 latitude: 33.95364
 longitude: -84.65949
 postcode: "30064"
 city: Marietta
-street: "Largent Way"
-housenumber: 3721
-phone: "+1 770-426-8899"
-opening_hours: "Mo-Su 10:30-22:00"
-website: "https://www.dairyqueen.com/us-en/Locator/Detail/2023"
+street: Largent Way
+housenumber: "3721"
+phone: +1 770-426-8899
+opening_hours: Mo-Su 10:30-22:00
+website: https://www.dairyqueen.com/us-en/Locator/Detail/2023

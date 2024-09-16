@@ -1,11 +1,11 @@
 id: 833739406
-type: way
+type: node
 latitude: 34.78837
 longitude: -84.99743
 postcode: "30720"
 city: Dalton
-street: "Shugart Road"
-housenumber: 841
-phone: "+1 706-259-6244"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ga/dalton/pet-supplies-dalton-ga-1555.html"
+street: Shugart Road
+housenumber: "841"
+phone: +1 706-259-6244
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ga/dalton/pet-supplies-dalton-ga-1555.html

@@ -1,11 +1,11 @@
 id: 268641088
-type: way
+type: node
 latitude: 33.82016
 longitude: -84.45183
 postcode: "30318"
 city: Atlanta
-street: "Bolton Road"
-housenumber: 2555
+street: Bolton Road
+housenumber: "2555"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/atlanta-ga-pharmacies/2555-bolton-rd-nw-atlanta-ga-30318/storeid=4661"
+website: https://www.cvs.com/store-locator/atlanta-ga-pharmacies/2555-bolton-rd-nw-atlanta-ga-30318/storeid=4661

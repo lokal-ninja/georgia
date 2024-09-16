@@ -1,11 +1,11 @@
 id: 991495835
-type: way
+type: node
 latitude: 34.18481
 longitude: -84.79524
 postcode: "30120"
 city: Cartersville
-street: "North Tennessee Street"
-housenumber: 912
+street: North Tennessee Street
+housenumber: "912"
 phone: "+17703824951"
 opening_hours: ""
-website: "https://www.taylorope.com/"
+website: https://www.taylorope.com/

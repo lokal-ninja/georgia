@@ -1,11 +1,11 @@
 id: 387339443
-type: way
+type: node
 latitude: 34.19327
 longitude: -84.1303
 postcode: "30041"
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 2145
-phone: "+1 770-292-9834"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ga/cumming/302/"
+street: Market Place Boulevard
+housenumber: "2145"
+phone: +1 770-292-9834
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ga/cumming/302/

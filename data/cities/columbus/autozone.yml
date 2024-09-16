@@ -1,11 +1,11 @@
 id: 536110381
-type: way
+type: node
 latitude: 32.53896
 longitude: -84.87077
 postcode: "31907"
 city: Columbus
-street: "Flat Rock Road"
-housenumber: 6450
+street: Flat Rock Road
+housenumber: "6450"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/columbus/6450-flat-rock-rd.html"
+website: https://www.autozone.com/locations/ga/columbus/6450-flat-rock-rd.html

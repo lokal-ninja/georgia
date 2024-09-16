@@ -1,11 +1,11 @@
 id: 232918847
-type: way
+type: node
 latitude: 33.82161
 longitude: -84.37179
 postcode: "30324"
 city: Atlanta
-street: "Camellia Lane Northeast"
-housenumber: 2410
-phone: "+1-404-869-2875"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.pikenursery.com/pages/lindbergh"
+street: Camellia Lane Northeast
+housenumber: "2410"
+phone: +1-404-869-2875
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.pikenursery.com/pages/lindbergh

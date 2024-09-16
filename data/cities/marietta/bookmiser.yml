@@ -4,8 +4,8 @@ latitude: 33.97762
 longitude: -84.44054
 postcode: "30062"
 city: Marietta
-street: "Roswell Road"
-housenumber: 3822
-phone: "+1 (770) 509-5611"
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-18:00;Su 12:00-17:00"
-website: "https://www.bookmiser.net/"
+street: Roswell Road
+housenumber: "3822"
+phone: +1 (770) 509-5611
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-18:00;Su 12:00-17:00
+website: https://www.bookmiser.net/

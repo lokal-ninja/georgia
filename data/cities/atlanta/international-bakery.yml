@@ -1,11 +1,11 @@
 id: 220383521
-type: way
+type: node
 latitude: 33.81332
 longitude: -84.35362
 postcode: "30324"
 city: Atlanta
-street: "Cheshire Bridge Road"
-housenumber: 2165 #5
+street: Cheshire Bridge Road
+housenumber: '2165 #5'
 phone: ""
 opening_hours: ""
 website: ""

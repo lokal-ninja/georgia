@@ -1,11 +1,11 @@
 id: 1050140230
-type: way
+type: node
 latitude: 34.16531
 longitude: -84.79481
 postcode: "30120"
 city: Cartersville
-street: "East Main Street"
-housenumber: 19
-phone: "+1 (770) 382-0110"
+street: East Main Street
+housenumber: "19"
+phone: +1 (770) 382-0110
 opening_hours: ""
 website: ""

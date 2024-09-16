@@ -1,11 +1,11 @@
 id: 1193781026
-type: way
+type: node
 latitude: 33.92345
 longitude: -83.37885
 postcode: "30605"
 city: Athens
-street: "South Milledge Avenue"
-housenumber: 2030
+street: South Milledge Avenue
+housenumber: "2030"
 phone: ""
 opening_hours: ""
 website: ""

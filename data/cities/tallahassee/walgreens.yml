@@ -1,11 +1,11 @@
 id: 960686063
-type: way
+type: node
 latitude: 30.83531
 longitude: -83.97734
 postcode: "31792"
 city: Tallahassee
-street: "South Broad Street"
-housenumber: 301
+street: South Broad Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-301+s+broad+st-thomasville-ga-31792/id=19880"
+website: https://www.walgreens.com/locator/walgreens-301+s+broad+st-thomasville-ga-31792/id=19880

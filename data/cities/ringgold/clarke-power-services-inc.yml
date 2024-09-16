@@ -1,11 +1,11 @@
 id: 690762468
-type: way
+type: node
 latitude: 34.93085
 longitude: -85.15093
 postcode: ""
 city: Ringgold
-street: "Gateway Business Park Dr"
-housenumber: 124
+street: Gateway Business Park Dr
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

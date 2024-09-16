@@ -1,11 +1,11 @@
 id: 264237834
-type: way
+type: node
 latitude: 33.89474
 longitude: -84.52167
 postcode: "30080"
 city: Smyrna
-street: "Windy Hill Road Southeast"
-housenumber: 1075
+street: Windy Hill Road Southeast
+housenumber: "1075"
 phone: "+16784038005"
-opening_hours: "24/7"
-website: "https://www.24hoursroadassistance.com/"
+opening_hours: 24/7
+website: https://www.24hoursroadassistance.com/

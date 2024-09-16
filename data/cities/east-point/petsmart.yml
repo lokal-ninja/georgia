@@ -1,11 +1,11 @@
 id: 288997193
-type: way
+type: node
 latitude: 33.65783
 longitude: -84.50318
 postcode: "30344"
 city: East Point
-street: "Marketplace Boulevard"
-housenumber: 3665
-phone: "+1 404-344-0773"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/east-point-store1129.html"
+street: Marketplace Boulevard
+housenumber: "3665"
+phone: +1 404-344-0773
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/east-point-store1129.html

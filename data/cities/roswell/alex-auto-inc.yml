@@ -1,11 +1,11 @@
 id: 389337809
-type: way
+type: node
 latitude: 34.05677
 longitude: -84.32743
 postcode: "30076"
 city: Roswell
-street: "Alpharetta Highway"
-housenumber: 11341
-phone: "+1-770-416-8075"
+street: Alpharetta Highway
+housenumber: "11341"
+phone: +1-770-416-8075
 opening_hours: ""
-website: "https://www.alexautoinc.com"
+website: https://www.alexautoinc.com

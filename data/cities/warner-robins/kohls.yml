@@ -1,11 +1,11 @@
 id: 721774553
-type: way
+type: node
 latitude: 32.61895
 longitude: -83.69328
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 3050
-phone: "+1 478-953-5432"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ga/warnerrobins-1164.shtml"
+street: Watson Boulevard
+housenumber: "3050"
+phone: +1 478-953-5432
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ga/warnerrobins-1164.shtml

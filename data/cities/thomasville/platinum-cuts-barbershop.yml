@@ -1,11 +1,11 @@
 id: 962030488
-type: way
+type: node
 latitude: 30.82249
 longitude: -83.99377
 postcode: ""
 city: Thomasville
-street: "West Jackson Street"
-housenumber: 1123
-phone: "236-0152"
+street: West Jackson Street
+housenumber: "1123"
+phone: 236-0152
 opening_hours: ""
 website: ""

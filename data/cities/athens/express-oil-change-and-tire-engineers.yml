@@ -1,11 +1,11 @@
 id: 311671772
-type: way
+type: node
 latitude: 33.94849
 longitude: -83.41303
 postcode: "30606"
 city: Athens
-street: "West Broad Street"
-housenumber: 2315
-phone: "+1-706-369-0055"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/athens/ga/1342/"
+street: West Broad Street
+housenumber: "2315"
+phone: +1-706-369-0055
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/athens/ga/1342/

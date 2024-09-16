@@ -1,11 +1,12 @@
 id: 392509110
-type: way
+type: node
 latitude: 34.11626
 longitude: -83.76104
 postcode: "30517"
 city: Braselton
-street: "Zion Church Road"
-housenumber: 68
+street: Zion Church Road
+housenumber: "68"
 phone: ""
-opening_hours: "Dec-Feb Mo-Fr 08:00-17:00; Dec-Feb Sa 08:00-13:00; Mar-May Mo-Sa 08:00-18:00; Jun-Nov Mo-Fr 08:00-17:00; Jun-Nov Sa 08:00-15:00"
-website: "https://www.oeinursery.com/"
+opening_hours: Dec-Feb Mo-Fr 08:00-17:00; Dec-Feb Sa 08:00-13:00; Mar-May Mo-Sa 08:00-18:00;
+    Jun-Nov Mo-Fr 08:00-17:00; Jun-Nov Sa 08:00-15:00
+website: https://www.oeinursery.com/

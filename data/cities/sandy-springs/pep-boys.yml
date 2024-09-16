@@ -1,11 +1,11 @@
 id: 264250521
-type: way
+type: node
 latitude: 33.9196
 longitude: -84.3807
 postcode: "30328"
 city: Sandy Springs
-street: "Hammond Drive Northeast"
-housenumber: 224
-phone: "+1 404-256-4195"
+street: Hammond Drive Northeast
+housenumber: "224"
+phone: +1 404-256-4195
 opening_hours: ""
-website: "https://www.pepboys.com/"
+website: https://www.pepboys.com/

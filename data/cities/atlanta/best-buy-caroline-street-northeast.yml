@@ -1,11 +1,11 @@
 id: 51309331
-type: way
+type: node
 latitude: 33.75976
 longitude: -84.34857
 postcode: "30307"
 city: Atlanta
-street: "Caroline Street Northeast"
-housenumber: 1210
-phone: "+1 404-827-0137"
+street: Caroline Street Northeast
+housenumber: "1210"
+phone: +1 404-827-0137
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/atlanta/1210-caroline-st-ne-896.html"
+website: https://stores.bestbuy.com/ga/atlanta/1210-caroline-st-ne-896.html

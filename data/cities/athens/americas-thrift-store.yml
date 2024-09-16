@@ -4,8 +4,8 @@ latitude: 33.9421
 longitude: -83.44928
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 3190
-phone: "(706) 543-7030"
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-19:00"
-website: "https://www.americasthrift.com/location/athens/"
+street: Atlanta Highway
+housenumber: "3190"
+phone: (706) 543-7030
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-19:00
+website: https://www.americasthrift.com/location/athens/

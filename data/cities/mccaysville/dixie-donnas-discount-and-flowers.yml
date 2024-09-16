@@ -1,11 +1,11 @@
 id: 956470639
-type: way
+type: node
 latitude: 34.98652
 longitude: -84.37142
 postcode: "30555"
 city: McCaysville
-street: "Blue Ridge Drive"
-housenumber: 141
-phone: "+1 (706) 492-4333"
+street: Blue Ridge Drive
+housenumber: "141"
+phone: +1 (706) 492-4333
 opening_hours: ""
 website: ""

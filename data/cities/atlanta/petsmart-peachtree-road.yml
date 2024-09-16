@@ -4,8 +4,8 @@ latitude: 33.84109
 longitude: -84.37269
 postcode: "30305"
 city: Atlanta
-street: "Peachtree Road"
-housenumber: 3221
-phone: "+1 404-266-0402"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/atlanta-store0287.html"
+street: Peachtree Road
+housenumber: "3221"
+phone: +1 404-266-0402
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/atlanta-store0287.html

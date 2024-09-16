@@ -1,11 +1,11 @@
 id: 327328136
-type: way
+type: node
 latitude: 34.05252
 longitude: -84.59798
 postcode: "30144"
 city: Kennesaw
-street: "Shiloh Road Northwest"
-housenumber: 1655
-phone: "+1 770-421-1245"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Wade-Green/GA/Kennesaw/30144/1777"
+street: Shiloh Road Northwest
+housenumber: "1655"
+phone: +1 770-421-1245
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Wade-Green/GA/Kennesaw/30144/1777

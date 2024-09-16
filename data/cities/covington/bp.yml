@@ -1,11 +1,11 @@
 id: 1075217463
-type: way
+type: node
 latitude: 33.74201
 longitude: -83.85294
 postcode: "30052"
 city: Covington
-street: "GA 138"
-housenumber: 1651
+street: GA 138
+housenumber: "1651"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 340536501
-type: way
+type: node
 latitude: 33.93092
 longitude: -84.38024
 postcode: "30328"
 city: Sandy Springs
-street: "Roswell Road"
-housenumber: 6430
-phone: "+1-404-257-0514"
+street: Roswell Road
+housenumber: "6430"
+phone: +1-404-257-0514
 opening_hours: ""
 website: ""

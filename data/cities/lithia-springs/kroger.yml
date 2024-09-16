@@ -1,11 +1,11 @@
 id: 321396211
-type: way
+type: node
 latitude: 33.78969
 longitude: -84.62057
 postcode: "30122"
 city: Lithia Springs
-street: "Thornton Road"
-housenumber: 630
-phone: "+1 770-732-6995"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/lithia-springs/westfork/011/00376"
+street: Thornton Road
+housenumber: "630"
+phone: +1 770-732-6995
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/lithia-springs/westfork/011/00376

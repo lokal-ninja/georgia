@@ -1,11 +1,11 @@
 id: 389348533
-type: way
+type: node
 latitude: 34.05916
 longitude: -84.37971
 postcode: "30075"
 city: Roswell
-street: "West Crossville Road"
-housenumber: 635
-phone: "+1 770-645-8505"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ga/roswell/733/"
+street: West Crossville Road
+housenumber: "635"
+phone: +1 770-645-8505
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ga/roswell/733/

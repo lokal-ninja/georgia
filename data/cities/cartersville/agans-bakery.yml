@@ -1,11 +1,11 @@
 id: 1050118114
-type: way
+type: node
 latitude: 34.16479
 longitude: -84.79826
 postcode: "30120"
 city: Cartersville
-street: "West Main Street"
-housenumber: 141
-phone: "+1 (770) 382-8882"
-opening_hours: "Tu-Th 07:00-16:00; Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.agansbakery.com/"
+street: West Main Street
+housenumber: "141"
+phone: +1 (770) 382-8882
+opening_hours: Tu-Th 07:00-16:00; Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.agansbakery.com/

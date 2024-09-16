@@ -1,11 +1,11 @@
 id: 636003595
-type: way
+type: node
 latitude: 31.98689
 longitude: -81.08129
 postcode: "31406"
 city: Savannah
-street: "E Montgomery Cross Road"
-housenumber: 1975
-phone: "+1 912-352-3330"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/savannah-ga-sams-club/8202"
+street: E Montgomery Cross Road
+housenumber: "1975"
+phone: +1 912-352-3330
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/savannah-ga-sams-club/8202

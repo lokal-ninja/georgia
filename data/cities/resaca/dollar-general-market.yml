@@ -1,11 +1,11 @@
 id: 745332095
-type: way
+type: node
 latitude: 34.5777
 longitude: -84.94347
 postcode: "30735"
 city: Resaca
-street: "Battlefield Parkway"
-housenumber: 2850
+street: Battlefield Parkway
+housenumber: "2850"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/resaca/13439"
+opening_hours: Mo-Su,PH 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/resaca/13439

@@ -1,11 +1,11 @@
 id: 991498058
-type: way
+type: node
 latitude: 34.16165
 longitude: -84.79386
 postcode: "30120"
 city: Cartersville
-street: "West Avenue"
-housenumber: 4
-phone: "+1 (470) 315-2453"
-opening_hours: "Mo-Su 07:30-16:00"
-website: "https://www.cartersvillebicycle.com/"
+street: West Avenue
+housenumber: "4"
+phone: +1 (470) 315-2453
+opening_hours: Mo-Su 07:30-16:00
+website: https://www.cartersvillebicycle.com/

@@ -1,11 +1,11 @@
 id: 1050105654
-type: way
+type: node
 latitude: 34.165
 longitude: -84.79595
 postcode: "30120"
 city: Cartersville
-street: "West Main Street"
-housenumber: 16
+street: West Main Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.everjean.com/"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.everjean.com/

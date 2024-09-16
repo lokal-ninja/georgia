@@ -1,11 +1,11 @@
 id: 64619705
-type: way
+type: node
 latitude: 33.88159
 longitude: -84.46924
 postcode: "30339"
 city: Atlanta
-street: "Cumberland Mall SE"
-housenumber: 2860
+street: Cumberland Mall SE
+housenumber: "2860"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1036985018
-type: way
+type: node
 latitude: 32.16804
 longitude: -81.38594
 postcode: "31307"
 city: EDEN
-street: "US - 80"
-housenumber: 1352
+street: US - 80
+housenumber: "1352"
 phone: ""
 opening_hours: ""
 website: ""

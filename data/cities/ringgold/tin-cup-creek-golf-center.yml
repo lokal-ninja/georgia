@@ -1,11 +1,11 @@
 id: 554530618
-type: way
+type: node
 latitude: 34.91104
 longitude: -85.11962
 postcode: ""
 city: Ringgold
-street: "Christian Road"
-housenumber: 69
+street: Christian Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

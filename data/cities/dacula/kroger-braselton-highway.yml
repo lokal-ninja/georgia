@@ -1,11 +1,11 @@
 id: 687398815
-type: way
+type: node
 latitude: 34.05141
 longitude: -83.93092
 postcode: "30019"
 city: Dacula
-street: "Braselton Highway"
-housenumber: 2700
-phone: "+1 770-932-4364"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/dacula/mountain-crossing/011/00457"
+street: Braselton Highway
+housenumber: "2700"
+phone: +1 770-932-4364
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/dacula/mountain-crossing/011/00457

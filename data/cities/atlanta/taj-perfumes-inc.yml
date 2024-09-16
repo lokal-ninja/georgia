@@ -4,8 +4,8 @@ latitude: 33.75174
 longitude: -84.39354
 postcode: "30303"
 city: Atlanta
-street: "Broad Street Southwest"
-housenumber: 107
-phone: "+1-404-688-4445"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "http://www.taj-perfumes.com/"
+street: Broad Street Southwest
+housenumber: "107"
+phone: +1-404-688-4445
+opening_hours: Mo-Sa 09:00-18:00
+website: http://www.taj-perfumes.com/

@@ -1,11 +1,11 @@
 id: 351715995
-type: way
+type: node
 latitude: 31.54982
 longitude: -83.54644
 postcode: "31733"
 city: Chula
-street: "US 41"
-housenumber: 3336
-phone: "+1 (229) 382-9999"
-opening_hours: "Mo-Sa 06:00-19:00"
+street: US 41
+housenumber: "3336"
+phone: +1 (229) 382-9999
+opening_hours: Mo-Sa 06:00-19:00
 website: ""

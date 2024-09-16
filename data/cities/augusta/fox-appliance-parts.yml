@@ -1,11 +1,11 @@
 id: 676824120
-type: way
+type: node
 latitude: 33.46654
 longitude: -82.0877
 postcode: "30909"
 city: Augusta
-street: "Wrightsboro Road"
-housenumber: 3503
-phone: "+1-706-737-3400"
+street: Wrightsboro Road
+housenumber: "3503"
+phone: +1-706-737-3400
 opening_hours: ""
-website: "https://www.foxatlanta.com/"
+website: https://www.foxatlanta.com/

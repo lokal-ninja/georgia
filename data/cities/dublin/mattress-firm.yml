@@ -1,11 +1,11 @@
 id: 1118981728
-type: way
+type: node
 latitude: 32.54192
 longitude: -82.94941
 postcode: "31021"
 city: Dublin
-street: "Veterans Boulevard"
-housenumber: 2005
-phone: "+1 478-272-1105"
+street: Veterans Boulevard
+housenumber: "2005"
+phone: +1 478-272-1105
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ga/dublin/067010/"
+website: https://www.mattressfirm.com/en-us/stores/ga/dublin/067010/

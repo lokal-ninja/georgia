@@ -1,11 +1,11 @@
 id: 847283838
-type: way
+type: node
 latitude: 33.46338
 longitude: -84.2178
 postcode: "30253"
 city: McDonough
-street: "Jonesboro Road"
-housenumber: 1861
-phone: "+1 770-914-1124"
+street: Jonesboro Road
+housenumber: "1861"
+phone: +1 770-914-1124
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/mcdonough/1861-jonesboro-rd-668.html"
+website: https://stores.bestbuy.com/ga/mcdonough/1861-jonesboro-rd-668.html

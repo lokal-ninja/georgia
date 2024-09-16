@@ -4,8 +4,8 @@ latitude: 33.93916
 longitude: -83.37067
 postcode: "30602"
 city: Athens
-street: "Carlton Street"
-housenumber: 80
-phone: "(706) 542-1256"
-opening_hours: "Mo-Fr 07:30-21:00"
-website: "https://dining.uga.edu/locations/market-at-east-campus/"
+street: Carlton Street
+housenumber: "80"
+phone: (706) 542-1256
+opening_hours: Mo-Fr 07:30-21:00
+website: https://dining.uga.edu/locations/market-at-east-campus/

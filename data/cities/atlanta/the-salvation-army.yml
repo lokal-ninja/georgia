@@ -1,11 +1,11 @@
 id: 329957939
-type: way
+type: node
 latitude: 33.77281
 longitude: -84.40307
 postcode: "30318"
 city: Atlanta
-street: "Marietta Street Northwest"
-housenumber: 746
+street: Marietta Street Northwest
+housenumber: "746"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384033978
-type: way
+type: node
 latitude: 34.10202
 longitude: -84.0202
 postcode: "30518"
 city: Sugar Hill
-street: "Buford Drive"
-housenumber: 4675
-phone: "(770) 271-2275"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-website: "https://stores.advanceautoparts.com/ga/sugar-hill/4675-nelson-brogdon-blvd"
+street: Buford Drive
+housenumber: "4675"
+phone: (770) 271-2275
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:30
+website: https://stores.advanceautoparts.com/ga/sugar-hill/4675-nelson-brogdon-blvd

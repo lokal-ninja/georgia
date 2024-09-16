@@ -1,11 +1,11 @@
 id: 1234737551
-type: way
+type: node
 latitude: 33.91019
 longitude: -84.26522
 postcode: "30340"
 city: Doraville
-street: "Buford Highway"
-housenumber: 5877
+street: Buford Highway
+housenumber: "5877"
 phone: ""
 opening_hours: ""
-website: "https://www.towerwinespirits.com/doraville"
+website: https://www.towerwinespirits.com/doraville

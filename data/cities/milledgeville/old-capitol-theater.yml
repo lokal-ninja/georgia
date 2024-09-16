@@ -1,11 +1,11 @@
 id: 485752839
-type: way
+type: node
 latitude: 33.08163
 longitude: -83.2285
 postcode: "31061"
 city: Milledgeville
-street: "West Hancock Street"
-housenumber: 135
+street: West Hancock Street
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30"
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

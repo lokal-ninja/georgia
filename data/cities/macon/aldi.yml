@@ -1,11 +1,11 @@
 id: 390595399
-type: way
+type: node
 latitude: 32.82169
 longitude: -83.7105
 postcode: "31206"
 city: Macon
-street: "Log Cabin Drive"
-housenumber: 4501
-phone: "+1 844-476-1010"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/macon/4501-log-cabin-drive"
+street: Log Cabin Drive
+housenumber: "4501"
+phone: +1 844-476-1010
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/macon/4501-log-cabin-drive

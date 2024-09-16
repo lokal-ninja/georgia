@@ -1,11 +1,11 @@
 id: 538690226
-type: way
+type: node
 latitude: 33.00531
 longitude: -83.54425
 postcode: "31032"
 city: Gray
-street: "West Clinton Street"
-housenumber: 243
-phone: "+1 478-986-9200"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-18:00, Su 09:00-18:00"
-website: "https://www.aceofgray.com/"
+street: West Clinton Street
+housenumber: "243"
+phone: +1 478-986-9200
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-18:00, Su 09:00-18:00
+website: https://www.aceofgray.com/

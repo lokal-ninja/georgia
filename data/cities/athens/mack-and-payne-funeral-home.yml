@@ -1,11 +1,11 @@
 id: 304021090
-type: way
+type: node
 latitude: 33.95593
 longitude: -83.34499
 postcode: "30601"
 city: Athens
-street: "Nellie B Avenue"
-housenumber: 625
-phone: "+1-706-543-8213"
-opening_hours: "Mo-Fr 10:00-16:00; Sa-Su by appointment"
-website: "https://www.mackandpaynefuneralhome.org/"
+street: Nellie B Avenue
+housenumber: "625"
+phone: +1-706-543-8213
+opening_hours: Mo-Fr 10:00-16:00; Sa-Su "by appointment"
+website: https://www.mackandpaynefuneralhome.org/

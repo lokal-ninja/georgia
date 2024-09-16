@@ -4,8 +4,8 @@ latitude: 33.92679
 longitude: -84.3468
 postcode: "30346"
 city: Atlanta
-street: "Perimeter Center West"
-housenumber: 128
-phone: "+1 770-481-0043"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ga/atlanta-store0290.html"
+street: Perimeter Center West
+housenumber: "128"
+phone: +1 770-481-0043
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ga/atlanta-store0290.html

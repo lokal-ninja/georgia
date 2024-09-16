@@ -1,11 +1,11 @@
 id: 569432720
-type: way
+type: node
 latitude: 34.42103
 longitude: -84.1181
 postcode: "30534"
 city: Dawsonville
-street: "GA 9"
-housenumber: 40
+street: GA 9
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "http://www.appalachianarmory.com/"
+website: http://www.appalachianarmory.com/

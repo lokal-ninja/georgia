@@ -1,11 +1,11 @@
 id: 986072210
-type: way
+type: node
 latitude: 34.68484
 longitude: -84.49343
 postcode: "30540"
 city: Ellijay
-street: "South Main Street"
-housenumber: 974
+street: South Main Street
+housenumber: "974"
 phone: ""
 opening_hours: ""
 website: ""

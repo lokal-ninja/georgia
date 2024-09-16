@@ -1,11 +1,11 @@
 id: 1121090556
-type: way
+type: node
 latitude: 33.60329
 longitude: -83.84678
 postcode: "30014"
 city: Covington
-street: "Highway 278 Northeast"
-housenumber: 5153
-phone: "678-342-2202"
+street: Highway 278 Northeast
+housenumber: "5153"
+phone: 678-342-2202
 opening_hours: ""
 website: ""

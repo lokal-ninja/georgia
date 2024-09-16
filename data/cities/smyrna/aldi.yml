@@ -1,11 +1,11 @@
 id: 264851850
-type: way
+type: node
 latitude: 33.88406
 longitude: -84.47771
 postcode: "30080"
 city: Smyrna
-street: "Spring Road Southeast"
-housenumber: 2589
-phone: "+1 844-476-1061"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ga/smyrna/2589-spring-rd"
+street: Spring Road Southeast
+housenumber: "2589"
+phone: +1 844-476-1061
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ga/smyrna/2589-spring-rd

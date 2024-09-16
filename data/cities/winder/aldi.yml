@@ -1,11 +1,11 @@
 id: 940883501
-type: way
+type: node
 latitude: 33.99392
 longitude: -83.7332
 postcode: "30680"
 city: Winder
-street: "West May Street"
-housenumber: 160
-phone: "+1 844-476-1024"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/winder/160-w-may-street"
+street: West May Street
+housenumber: "160"
+phone: +1 844-476-1024
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/winder/160-w-may-street

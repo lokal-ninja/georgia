@@ -1,11 +1,11 @@
 id: 999554596
-type: way
+type: node
 latitude: 34.15739
 longitude: -84.23846
-postcode: "30004-2922"
+postcode: 30004-2922
 city: Alpharetta
-street: "Atlanta Highway"
-housenumber: 4947
-phone: "+1 678-666-1310"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 10:00-19:00"
+street: Atlanta Highway
+housenumber: "4947"
+phone: +1 678-666-1310
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 10:00-19:00
 website: ""

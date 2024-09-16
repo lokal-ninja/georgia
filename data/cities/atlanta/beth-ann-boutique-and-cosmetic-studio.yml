@@ -1,11 +1,11 @@
 id: 231822719
-type: way
+type: node
 latitude: 33.84162
 longitude: -84.38045
 postcode: "30305"
 city: Atlanta
-street: "Irby Avenue Northwest"
-housenumber: 47
+street: Irby Avenue Northwest
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

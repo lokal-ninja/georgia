@@ -1,11 +1,11 @@
 id: 875304491
-type: way
+type: node
 latitude: 33.46103
 longitude: -85.125
 postcode: "30170"
 city: Roopville
-street: "Hilltop Lane"
-housenumber: 27
+street: Hilltop Lane
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/roopville/12430"
+website: https://www.dollargeneral.com/store-directory/ga/roopville/12430

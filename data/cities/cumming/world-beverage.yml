@@ -1,11 +1,11 @@
 id: 389924865
-type: way
+type: node
 latitude: 34.31778
 longitude: -84.06156
 postcode: "30028"
 city: Cumming
-street: "GA 400"
-housenumber: 6190
-phone: "+1 (678)513-6284"
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-23:00; Sa 09:00-23:00; Su 12:30-18:00"
-website: "http://worldbeverage400.com/"
+street: GA 400
+housenumber: "6190"
+phone: +1 (678)513-6284
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-23:00; Sa 09:00-23:00; Su 12:30-18:00
+website: http://worldbeverage400.com/

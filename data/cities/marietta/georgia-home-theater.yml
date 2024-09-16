@@ -1,11 +1,11 @@
 id: 275602299
-type: way
+type: node
 latitude: 33.91349
 longitude: -84.49619
 postcode: "30060"
 city: Marietta
-street: "Cobb Parkway South"
-housenumber: 1625
+street: Cobb Parkway South
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 327293122
-type: way
+type: node
 latitude: 34.6018
 longitude: -83.76628
 postcode: "30528"
 city: Cleveland
-street: "North Main Street"
-housenumber: 379
-phone: "+1 (706) 865-2525"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.riteaid.com/store-details?storeNumber=11813"
+street: North Main Street
+housenumber: "379"
+phone: +1 (706) 865-2525
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.riteaid.com/store-details?storeNumber=11813

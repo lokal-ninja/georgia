@@ -1,11 +1,11 @@
 id: 958407891
-type: way
+type: node
 latitude: 32.56049
 longitude: -84.93808
 postcode: "31909"
 city: Columbus
-street: "Veterans Parkway"
-housenumber: 7812
-phone: "(706) 649-2583"
-opening_hours: "Mo-Sa 07:30-21:00, Su 09:00-21:00"
-website: "https://locations.oreillyauto.com/ga/columbus/autoparts-4399.html"
+street: Veterans Parkway
+housenumber: "7812"
+phone: (706) 649-2583
+opening_hours: Mo-Sa 07:30-21:00, Su 09:00-21:00
+website: https://locations.oreillyauto.com/ga/columbus/autoparts-4399.html

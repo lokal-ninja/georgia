@@ -1,11 +1,11 @@
 id: 364039359
-type: way
+type: node
 latitude: 33.68127
 longitude: -84.22825
-postcode: "30034-5209"
+postcode: 30034-5209
 city: Decatur
-street: "Flat Shoals Parkway"
-housenumber: 4900
-phone: "+1 844-476-1056"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ga/decatur/4900-flat-shoals-parkway"
+street: Flat Shoals Parkway
+housenumber: "4900"
+phone: +1 844-476-1056
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ga/decatur/4900-flat-shoals-parkway

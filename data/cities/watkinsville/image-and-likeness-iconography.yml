@@ -1,11 +1,11 @@
 id: 1067452136
-type: way
+type: node
 latitude: 33.89117
 longitude: -83.46703
 postcode: "30677"
 city: Watkinsville
-street: "Old Farm Road"
-housenumber: 1169
-phone: "+1-706-310-1306"
+street: Old Farm Road
+housenumber: "1169"
+phone: +1-706-310-1306
 opening_hours: ""
-website: "https://www.imageandlikeness.com/"
+website: https://www.imageandlikeness.com/

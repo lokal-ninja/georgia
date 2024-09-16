@@ -1,11 +1,11 @@
 id: 311573345
-type: way
+type: node
 latitude: 34.05488
 longitude: -84.51314
 postcode: "30066"
 city: Marietta
-street: "Shallowford Road Northeast"
-housenumber: 1293
-phone: "+1 770-926-7346"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-19:00"
-website: "https://www.cavenders.com/storedetails/?StoreID=310"
+street: Shallowford Road Northeast
+housenumber: "1293"
+phone: +1 770-926-7346
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-19:00
+website: https://www.cavenders.com/storedetails/?StoreID=310

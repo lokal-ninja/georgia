@@ -1,11 +1,11 @@
 id: 459083914
-type: way
+type: node
 latitude: 34.40332
 longitude: -84.4195
 postcode: "30143"
 city: Jasper
-street: "Shelby Lane"
-housenumber: 220
+street: Shelby Lane
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

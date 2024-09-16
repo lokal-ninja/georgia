@@ -1,11 +1,11 @@
 id: 948851397
-type: way
+type: node
 latitude: 33.41389
 longitude: -84.20236
-postcode: "30253-7205"
+postcode: 30253-7205
 city: McDonough
-street: "Highway 20 West"
-housenumber: 2158
-phone: "+1 770-898-6650"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1054"
+street: Highway 20 West
+housenumber: "2158"
+phone: +1 770-898-6650
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1054

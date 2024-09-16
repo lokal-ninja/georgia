@@ -1,11 +1,11 @@
 id: 390622340
-type: way
+type: node
 latitude: 32.43608
 longitude: -81.76088
 postcode: "30458"
 city: Statesboro
-street: "Northside Drive East"
-housenumber: 7
+street: Northside Drive East
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

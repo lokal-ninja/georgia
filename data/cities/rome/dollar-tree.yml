@@ -1,11 +1,11 @@
 id: 983315304
-type: way
+type: node
 latitude: 34.22769
 longitude: -85.16701
 postcode: "30161"
 city: Rome
-street: "Maple Avenue"
-housenumber: 2005
+street: Maple Avenue
+housenumber: "2005"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ga/rome/8280/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ga/rome/8280/

@@ -1,11 +1,11 @@
 id: 1000152891
-type: way
+type: node
 latitude: 33.54292
 longitude: -84.28564
 postcode: "30281"
 city: Stockbridge
-street: "Mount Zion Parkway"
-housenumber: 5005
-phone: "+1 678-289-6326"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ga/stockbridge-437.shtml"
+street: Mount Zion Parkway
+housenumber: "5005"
+phone: +1 678-289-6326
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ga/stockbridge-437.shtml

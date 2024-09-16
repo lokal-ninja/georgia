@@ -1,11 +1,11 @@
 id: 690308760
-type: way
+type: node
 latitude: 34.95543
 longitude: -85.25805
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 503
-phone: "+1 706-858-7974"
-opening_hours: "Mo-Th 09:00-19:00; Fr-Sa 09:00-20:00; Su off"
-website: "https://www.providencethriftstore.com/"
+street: Battlefield Parkway
+housenumber: "503"
+phone: +1 706-858-7974
+opening_hours: Mo-Th 09:00-19:00; Fr-Sa 09:00-20:00; Su off
+website: https://www.providencethriftstore.com/

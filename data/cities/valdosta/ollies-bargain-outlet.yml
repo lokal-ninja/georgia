@@ -1,11 +1,11 @@
 id: 754812898
-type: way
+type: node
 latitude: 30.84062
 longitude: -83.32574
 postcode: "31601"
 city: Valdosta
-street: "Saint Augustine Road"
-housenumber: 1200
+street: Saint Augustine Road
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

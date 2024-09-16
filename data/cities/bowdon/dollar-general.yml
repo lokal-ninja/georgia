@@ -1,11 +1,11 @@
 id: 816296192
-type: way
+type: node
 latitude: 33.53642
 longitude: -85.25256
 postcode: "30108"
 city: Bowdon
-street: "Wedowee Street"
-housenumber: 203
-phone: "+1 (470) 431-0782"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/bowdon/4800"
+street: Wedowee Street
+housenumber: "203"
+phone: +1 (470) 431-0782
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/bowdon/4800

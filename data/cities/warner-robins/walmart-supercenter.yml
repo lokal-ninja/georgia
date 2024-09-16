@@ -1,11 +1,11 @@
 id: 286194691
-type: way
+type: node
 latitude: 32.62171
 longitude: -83.67452
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 2720
-phone: "+1 478-953-7070"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1367/warner-robins-ga/whats-new"
+street: Watson Boulevard
+housenumber: "2720"
+phone: +1 478-953-7070
+opening_hours: 24/7
+website: https://www.walmart.com/store/1367/warner-robins-ga/whats-new

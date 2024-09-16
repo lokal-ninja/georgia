@@ -1,11 +1,11 @@
 id: 275604824
-type: way
+type: node
 latitude: 34.04489
 longitude: -84.33446
 postcode: "30076"
 city: Roswell
-street: "Mansell Road"
-housenumber: 970
-phone: "+1 770-993-0533"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1578/roswell-ga/whats-new"
+street: Mansell Road
+housenumber: "970"
+phone: +1 770-993-0533
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1578/roswell-ga/whats-new

@@ -1,11 +1,11 @@
 id: 387512569
-type: way
+type: node
 latitude: 34.19936
 longitude: -84.14134
 postcode: "30040"
 city: Cumming
-street: "Buford Dam Road"
-housenumber: 88
+street: Buford Dam Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://arcelectricalsupply.com"
+website: https://arcelectricalsupply.com

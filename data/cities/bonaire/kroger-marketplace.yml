@@ -1,11 +1,11 @@
 id: 965807854
-type: way
+type: node
 latitude: 32.5527
 longitude: -83.66026
 postcode: "31005"
 city: Bonaire
-street: "Highway 96"
-housenumber: 774
-phone: "+1 478-988-5730"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/bonaire/nixon-crossing-marketplace/011/00641"
+street: Highway 96
+housenumber: "774"
+phone: +1 478-988-5730
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/bonaire/nixon-crossing-marketplace/011/00641

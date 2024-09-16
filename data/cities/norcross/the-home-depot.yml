@@ -1,11 +1,11 @@
 id: 569147632
-type: way
+type: node
 latitude: 33.86929
 longitude: -84.19085
 postcode: "30093"
 city: Norcross
-street: "Jimmy Carter Boulevard"
-housenumber: 4136
-phone: "+1 770-938-7819"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/tucker/ga/norcross/30093/175"
+street: Jimmy Carter Boulevard
+housenumber: "4136"
+phone: +1 770-938-7819
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/tucker/ga/norcross/30093/175

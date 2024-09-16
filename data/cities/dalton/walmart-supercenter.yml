@@ -1,11 +1,11 @@
 id: 545285854
-type: way
+type: node
 latitude: 34.78725
 longitude: -84.99986
 postcode: "30720"
 city: Dalton
-street: "Shugart Road"
-housenumber: 815
-phone: "+1 706-281-2855"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5173/dalton-ga/whats-new"
+street: Shugart Road
+housenumber: "815"
+phone: +1 706-281-2855
+opening_hours: 24/7
+website: https://www.walmart.com/store/5173/dalton-ga/whats-new

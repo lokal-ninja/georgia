@@ -1,11 +1,11 @@
 id: 400655857
-type: way
+type: node
 latitude: 34.08945
 longitude: -84.48435
 postcode: "30188"
 city: Woodstock
-street: "GA-92"
-housenumber: 12165
-phone: "+1 770-517-1600"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/636"
+street: GA-92
+housenumber: "12165"
+phone: +1 770-517-1600
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/636

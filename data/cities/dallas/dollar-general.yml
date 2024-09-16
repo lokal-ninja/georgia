@@ -1,11 +1,11 @@
 id: 551742829
-type: way
+type: node
 latitude: 33.92356
 longitude: -84.99081
 postcode: "30157"
 city: Dallas
-street: "Gold Mine Road"
-housenumber: 2425
-phone: "+1 (770) 505-9703"
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 07:00-23:00"
-website: "https://www.dollargeneral.com/store-directory/ga/dallas/10288"
+street: Gold Mine Road
+housenumber: "2425"
+phone: +1 (770) 505-9703
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 07:00-23:00
+website: https://www.dollargeneral.com/store-directory/ga/dallas/10288

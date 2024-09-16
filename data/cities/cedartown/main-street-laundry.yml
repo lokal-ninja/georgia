@@ -1,11 +1,11 @@
 id: 840400066
-type: way
+type: node
 latitude: 34.00757
 longitude: -85.25468
 postcode: "30125"
 city: Cedartown
-street: "South Main Street"
-housenumber: 
+street: South Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

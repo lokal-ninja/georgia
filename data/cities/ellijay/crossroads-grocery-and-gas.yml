@@ -1,11 +1,11 @@
 id: 455173247
-type: way
+type: node
 latitude: 34.62507
 longitude: -84.38284
 postcode: "30536"
 city: Ellijay
-street: "GA 52"
-housenumber: 8994
-phone: "+1 (706) 273-3764"
+street: GA 52
+housenumber: "8994"
+phone: +1 (706) 273-3764
 opening_hours: ""
-website: "http://www.cartecaymarket.com/"
+website: http://www.cartecaymarket.com/

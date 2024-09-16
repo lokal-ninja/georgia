@@ -1,11 +1,11 @@
 id: 365222748
-type: way
+type: node
 latitude: 34.038
 longitude: -84.31938
 postcode: "30004"
 city: Alpharetta
-street: "Duke Drive"
-housenumber: 10580
-phone: "+1 678-461-0171"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-alpharetta/0615"
+street: Duke Drive
+housenumber: "10580"
+phone: +1 678-461-0171
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-alpharetta/0615

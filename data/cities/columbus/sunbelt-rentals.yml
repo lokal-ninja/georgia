@@ -1,11 +1,11 @@
 id: 1132884754
-type: way
+type: node
 latitude: 32.56425
 longitude: -84.94405
 postcode: "31909"
 city: Columbus
-street: "Williams Road"
-housenumber: 3250
+street: Williams Road
+housenumber: "3250"
 phone: "+17622071372"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.sunbeltrentals.com/location/ga/columbus/general%20%26%20equipment%20tools/562/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.sunbeltrentals.com/location/ga/columbus/general%20%26%20equipment%20tools/562/

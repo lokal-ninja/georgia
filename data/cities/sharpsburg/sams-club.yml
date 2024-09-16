@@ -1,11 +1,11 @@
 id: 865635158
-type: way
+type: node
 latitude: 33.40128
 longitude: -84.62471
 postcode: "30277"
 city: Sharpsburg
-street: "Fischer Road"
-housenumber: 310
-phone: "+1 770-304-0346"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/sharpsburg-ga-sams-club/4789"
+street: Fischer Road
+housenumber: "310"
+phone: +1 770-304-0346
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/sharpsburg-ga-sams-club/4789

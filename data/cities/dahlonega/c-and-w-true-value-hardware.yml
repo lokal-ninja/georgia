@@ -1,11 +1,11 @@
 id: 875355624
-type: way
+type: node
 latitude: 34.55725
 longitude: -83.99691
 postcode: "30533"
 city: Dahlonega
-street: "Highway 19 N"
-housenumber: 1976
-phone: "+1-706-864-3222"
+street: Highway 19 N
+housenumber: "1976"
+phone: +1-706-864-3222
 opening_hours: ""
-website: "https://www.truevalue.com/"
+website: https://www.truevalue.com/

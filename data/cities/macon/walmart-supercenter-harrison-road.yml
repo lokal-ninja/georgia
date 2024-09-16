@@ -1,11 +1,11 @@
 id: 186556237
-type: way
+type: node
 latitude: 32.80806
 longitude: -83.71804
 postcode: "31206"
 city: Macon
-street: "Harrison Road"
-housenumber: 6020
-phone: "+1 478-781-0086"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1153/macon-ga/whats-new"
+street: Harrison Road
+housenumber: "6020"
+phone: +1 478-781-0086
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1153/macon-ga/whats-new

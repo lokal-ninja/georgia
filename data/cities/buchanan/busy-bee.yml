@@ -1,11 +1,11 @@
 id: 816972326
-type: way
+type: node
 latitude: 33.80753
 longitude: -85.18995
 postcode: "30113"
 city: Buchanan
-street: "US 27 Business"
-housenumber: 3799
+street: US 27 Business
+housenumber: "3799"
 phone: "+16786475057"
 opening_hours: ""
 website: ""

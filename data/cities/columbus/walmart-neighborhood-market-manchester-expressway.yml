@@ -1,11 +1,11 @@
 id: 1103445330
-type: way
+type: node
 latitude: 32.5063
 longitude: -84.978
 postcode: "31904"
 city: Columbus
-street: "Manchester Expressway"
-housenumber: 1042
-phone: "+1 706-330-5452"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4426/columbus-ga/whats-new"
+street: Manchester Expressway
+housenumber: "1042"
+phone: +1 706-330-5452
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4426/columbus-ga/whats-new

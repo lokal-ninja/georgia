@@ -1,11 +1,11 @@
 id: 348385007
-type: way
+type: node
 latitude: 31.12146
 longitude: -83.41721
 postcode: "31620"
 city: Adel
-street: "South Hutchinson Avenue"
-housenumber: 1104
-phone: "+1 (229) 896-2528"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 12:30-17:30"
+street: South Hutchinson Avenue
+housenumber: "1104"
+phone: +1 (229) 896-2528
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 12:30-17:30
 website: ""

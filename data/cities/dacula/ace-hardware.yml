@@ -1,11 +1,11 @@
 id: 389921264
-type: way
+type: node
 latitude: 33.98869
 longitude: -83.89
 postcode: "30019"
 city: Dacula
-street: "Winder Highway"
-housenumber: 2684
-phone: "+1 770-339-0901"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: Winder Highway
+housenumber: "2684"
+phone: +1 770-339-0901
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

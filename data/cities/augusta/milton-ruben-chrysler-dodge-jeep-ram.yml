@@ -1,11 +1,11 @@
 id: 369136047
-type: way
+type: node
 latitude: 33.51571
 longitude: -82.07335
 postcode: "30907"
 city: Augusta
-street: "Washington Road"
-housenumber: 3508
-phone: "+1-888-574-7111"
+street: Washington Road
+housenumber: "3508"
+phone: +1-888-574-7111
 opening_hours: ""
-website: "https://www.miltonrubenchryslerjeep.com/"
+website: https://www.miltonrubenchryslerjeep.com/

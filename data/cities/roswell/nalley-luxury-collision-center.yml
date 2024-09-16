@@ -1,11 +1,11 @@
 id: 389337817
-type: way
+type: node
 latitude: 34.06008
 longitude: -84.32413
 postcode: "30076"
 city: Roswell
-street: "Alpharetta Highway"
-housenumber: 11507
-phone: "+1-770-220-7533"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.nalleycollision.com/locations/roswell-luxury"
+street: Alpharetta Highway
+housenumber: "11507"
+phone: +1-770-220-7533
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.nalleycollision.com/locations/roswell-luxury

@@ -1,11 +1,11 @@
 id: 146816282
-type: way
+type: node
 latitude: 33.96414
 longitude: -84.36507
 postcode: "30350"
 city: Atlanta
-street: "Roswell Road"
-housenumber: 7700
+street: Roswell Road
+housenumber: "7700"
 phone: ""
 opening_hours: ""
 website: ""

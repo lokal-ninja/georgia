@@ -4,8 +4,8 @@ latitude: 33.83511
 longitude: -84.38373
 postcode: "30305"
 city: Atlanta
-street: "Peachtree Road Northwest"
-housenumber: 2900
-phone: "+1 404-848-0330"
-opening_hours: "06:00-23:00"
-website: "https://www.publix.com/"
+street: Peachtree Road Northwest
+housenumber: "2900"
+phone: +1 404-848-0330
+opening_hours: 06:00-23:00
+website: https://www.publix.com/

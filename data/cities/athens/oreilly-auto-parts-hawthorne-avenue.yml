@@ -1,11 +1,11 @@
 id: 822073276
-type: way
+type: node
 latitude: 33.952
 longitude: -83.40992
 postcode: "30606"
 city: Athens
-street: "Hawthorne Avenue"
-housenumber: 230
+street: Hawthorne Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ga/athens/autoparts-5308.html"
+website: https://locations.oreillyauto.com/ga/athens/autoparts-5308.html

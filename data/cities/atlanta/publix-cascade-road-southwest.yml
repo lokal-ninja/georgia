@@ -1,11 +1,11 @@
 id: 1288979718
-type: way
+type: node
 latitude: 33.72481
 longitude: -84.50878
-postcode: "30331-2173"
+postcode: 30331-2173
 city: Atlanta
-street: "Cascade Road Southwest"
-housenumber: 3695
-phone: "+1 404-505-2870"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/503"
+street: Cascade Road Southwest
+housenumber: "3695"
+phone: +1 404-505-2870
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/503

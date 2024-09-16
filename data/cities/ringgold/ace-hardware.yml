@@ -1,11 +1,11 @@
 id: 690615209
-type: way
+type: node
 latitude: 34.90504
 longitude: -85.1333
-postcode: "30736-5994"
+postcode: 30736-5994
 city: Ringgold
-street: "Helpful Place"
-housenumber: 100
-phone: "+1 706-935-2231"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-18:00"
+street: Helpful Place
+housenumber: "100"
+phone: +1 706-935-2231
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-18:00
 website: ""

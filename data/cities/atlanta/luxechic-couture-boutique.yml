@@ -1,11 +1,11 @@
 id: 269639922
-type: way
+type: node
 latitude: 33.79312
 longitude: -84.40306
 postcode: "30318"
 city: Atlanta
-street: "Bishop Street Northwest"
-housenumber: 451
+street: Bishop Street Northwest
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

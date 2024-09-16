@@ -1,11 +1,11 @@
 id: 982267788
-type: way
+type: node
 latitude: 34.18752
 longitude: -85.17427
 postcode: "30147"
 city: Lindale
-street: "Park Avenue"
-housenumber: 85
+street: Park Avenue
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

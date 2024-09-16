@@ -1,11 +1,11 @@
 id: 828294765
-type: way
+type: node
 latitude: 34.01034
 longitude: -85.065
 postcode: "30153"
 city: Rockmart
-street: "Nathan Dean Parkway"
-housenumber: 406
-phone: "+1 (770) 684-7421"
+street: Nathan Dean Parkway
+housenumber: "406"
+phone: +1 (770) 684-7421
 opening_hours: ""
 website: ""

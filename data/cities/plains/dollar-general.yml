@@ -1,11 +1,11 @@
 id: 366691166
-type: way
+type: node
 latitude: 32.03241
 longitude: -84.39419
 postcode: ""
 city: Plains
-street: "South Hudson Street"
-housenumber: 118
-phone: "+1-229-824-5743"
+street: South Hudson Street
+housenumber: "118"
+phone: +1-229-824-5743
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/plains/6884"
+website: https://www.dollargeneral.com/store-directory/ga/plains/6884

@@ -1,11 +1,11 @@
 id: 302796120
-type: way
+type: node
 latitude: 33.92342
 longitude: -84.49258
 postcode: "30067"
 city: Marietta
-street: "Franklin Gateway Southeast"
-housenumber: 1194
-phone: "+1 (770) 955-0039"
+street: Franklin Gateway Southeast
+housenumber: "1194"
+phone: +1 (770) 955-0039
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 391069218
-type: way
+type: node
 latitude: 33.44523
 longitude: -84.69481
 postcode: "30265"
 city: Newnan
-street: "McCullum Sta"
-housenumber: 5
+street: McCullum Sta
+housenumber: "5"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/newnan/5-mccullum-sta/2655338"
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/newnan/5-mccullum-sta/2655338

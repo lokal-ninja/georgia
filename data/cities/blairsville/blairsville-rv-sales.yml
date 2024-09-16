@@ -1,11 +1,11 @@
 id: 988567260
-type: way
+type: node
 latitude: 34.91039
 longitude: -83.87244
 postcode: "30512"
 city: Blairsville
-street: "Hwy 515 E"
-housenumber: 5921
+street: Hwy 515 E
+housenumber: "5921"
 phone: "7063791984"
 opening_hours: ""
-website: "https://blairsvillerv.com/"
+website: https://blairsvillerv.com/

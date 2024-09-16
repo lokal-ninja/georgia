@@ -1,11 +1,11 @@
 id: 353742414
-type: way
+type: node
 latitude: 34.01987
 longitude: -84.31547
 postcode: "30076"
 city: Roswell
-street: "Holcomb Bridge Road"
-housenumber: 1500
-phone: "+1-770-651-0030"
+street: Holcomb Bridge Road
+housenumber: "1500"
+phone: +1-770-651-0030
 opening_hours: ""
-website: "https://taylorconstruction.com/"
+website: https://taylorconstruction.com/

@@ -1,11 +1,11 @@
 id: 532438327
-type: way
+type: node
 latitude: 32.62098
 longitude: -83.67167
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 2704
-phone: "+1 478-953-6700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-warner-robins/0483"
+street: Watson Boulevard
+housenumber: "2704"
+phone: +1 478-953-6700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-warner-robins/0483

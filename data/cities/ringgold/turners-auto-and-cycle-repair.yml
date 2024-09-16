@@ -1,11 +1,11 @@
 id: 700015179
-type: way
+type: node
 latitude: 34.9147
 longitude: -85.10857
 postcode: "30736"
 city: Ringgold
-street: "McLain Street"
-housenumber: 37
+street: McLain Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

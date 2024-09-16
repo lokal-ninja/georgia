@@ -1,11 +1,11 @@
 id: 1183305013
-type: way
+type: node
 latitude: 30.94506
 longitude: -83.49527
 postcode: "31638"
 city: Morven
-street: "Valdosta Highway"
-housenumber: 8545
+street: Valdosta Highway
+housenumber: "8545"
 phone: ""
 opening_hours: ""
 website: ""

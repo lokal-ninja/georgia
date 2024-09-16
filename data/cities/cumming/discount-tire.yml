@@ -1,11 +1,11 @@
 id: 387339525
-type: way
+type: node
 latitude: 34.18753
 longitude: -84.13231
 postcode: "30041"
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 1600
+street: Market Place Boulevard
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

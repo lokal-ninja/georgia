@@ -1,11 +1,11 @@
 id: 1053229881
-type: way
+type: node
 latitude: 33.35804
 longitude: -84.12143
 postcode: "30248"
 city: Locust Grove
-street: "Bill Gardner Parkway"
-housenumber: 4949
-phone: "+1 678-734-3395"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5709/locust-grove-ga/whats-new"
+street: Bill Gardner Parkway
+housenumber: "4949"
+phone: +1 678-734-3395
+opening_hours: 24/7
+website: https://www.walmart.com/store/5709/locust-grove-ga/whats-new

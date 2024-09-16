@@ -1,11 +1,11 @@
 id: 1003934140
-type: way
+type: node
 latitude: 33.85126
 longitude: -84.60446
 postcode: "30106"
 city: Austell
-street: "Austell Road"
-housenumber: 4155
-phone: "+1 470-531-7284"
+street: Austell Road
+housenumber: "4155"
+phone: +1 470-531-7284
 opening_hours: ""
-website: "https://stores.partycity.com/us/ga/austell/party-store-pc139.html"
+website: https://stores.partycity.com/us/ga/austell/party-store-pc139.html

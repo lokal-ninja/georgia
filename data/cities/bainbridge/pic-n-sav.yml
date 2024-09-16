@@ -1,11 +1,11 @@
 id: 1017702953
-type: way
+type: node
 latitude: 30.9046
 longitude: -84.54913
 postcode: "39819"
 city: Bainbridge
-street: "East Shotwell Street"
-housenumber: 1616
-phone: "+1 229 248 0832"
-opening_hours: "07:00-22:00"
-website: "https://www.picnsav.com/stores/pic-n-sav-bainbridge"
+street: East Shotwell Street
+housenumber: "1616"
+phone: +1 229 248 0832
+opening_hours: 07:00-22:00
+website: https://www.picnsav.com/stores/pic-n-sav-bainbridge

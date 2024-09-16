@@ -4,8 +4,8 @@ latitude: 33.9563
 longitude: -83.3837
 postcode: "30601"
 city: Athens
-street: "West Broad Street"
-housenumber: 670
-phone: "+1-706-351-7433"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "http://bensbikesathens.com/"
+street: West Broad Street
+housenumber: "670"
+phone: +1-706-351-7433
+opening_hours: Mo-Sa 11:00-18:00
+website: http://bensbikesathens.com/

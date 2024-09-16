@@ -1,11 +1,11 @@
 id: 508320386
-type: way
+type: node
 latitude: 33.95853
 longitude: -84.78802
-postcode: "30157-7190"
+postcode: 30157-7190
 city: Dallas
-street: "East Paulding Drive"
-housenumber: 51
-phone: "+1 770-505-5838"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1063"
+street: East Paulding Drive
+housenumber: "51"
+phone: +1 770-505-5838
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1063

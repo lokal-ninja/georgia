@@ -1,11 +1,11 @@
 id: 540229946
-type: way
+type: node
 latitude: 34.33902
 longitude: -84.37741
 postcode: "30107"
 city: Ball Ground
-street: "Gilmer Ferry Road"
-housenumber: 230
-phone: "+1 (678) 454-3532"
-opening_hours: "We-Sa 10:00-18:00; Su 12:30-18:00"
-website: "http://www.thev.market/"
+street: Gilmer Ferry Road
+housenumber: "230"
+phone: +1 (678) 454-3532
+opening_hours: We-Sa 10:00-18:00; Su 12:30-18:00
+website: http://www.thev.market/

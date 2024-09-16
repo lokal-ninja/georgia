@@ -1,11 +1,11 @@
 id: 1071424736
-type: way
+type: node
 latitude: 34.43779
 longitude: -85.10774
 postcode: "30701"
 city: Calhoun
-street: "New Rosedale Road Northeast"
-housenumber: 3200
-phone: "+1 (706) 234-7576"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
+street: New Rosedale Road Northeast
+housenumber: "3200"
+phone: +1 (706) 234-7576
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
 website: ""

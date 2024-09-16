@@ -1,11 +1,11 @@
 id: 1161337866
-type: way
+type: node
 latitude: 33.60237
 longitude: -83.85902
 postcode: "30014"
 city: Covington
-street: "Highway 278 Northeast"
-housenumber: 3140
-phone: "678-712-8991"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.livingthecurvylife.com/"
+street: Highway 278 Northeast
+housenumber: "3140"
+phone: 678-712-8991
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.livingthecurvylife.com/

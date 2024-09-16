@@ -1,11 +1,11 @@
 id: 271015346
-type: way
+type: node
 latitude: 33.74706
 longitude: -84.34947
 postcode: "30316"
 city: Atlanta
-street: "Moreland Avenue Southeast"
-housenumber: 229
+street: Moreland Avenue Southeast
+housenumber: "229"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
 website: ""

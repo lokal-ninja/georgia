@@ -4,8 +4,8 @@ latitude: 33.95034
 longitude: -83.384
 postcode: "30605"
 city: Athens
-street: "Baxter Street"
-housenumber: 510
-phone: "+1-706-206-4459"
-opening_hours: "Mo-Fr 9:00-17:00"
+street: Baxter Street
+housenumber: "510"
+phone: +1-706-206-4459
+opening_hours: Mo-Fr 9:00-17:00
 website: ""

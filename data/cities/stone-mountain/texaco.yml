@@ -1,11 +1,11 @@
 id: 102553630
-type: way
+type: node
 latitude: 33.81171
 longitude: -84.17203
 postcode: "30083"
 city: Stone Mountain
-street: "East Ponce de Leon Avenue"
-housenumber: 6201
+street: East Ponce de Leon Avenue
+housenumber: "6201"
 phone: ""
 opening_hours: ""
 website: ""

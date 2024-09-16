@@ -1,11 +1,11 @@
 id: 661759133
-type: way
+type: node
 latitude: 31.20324
 longitude: -81.48038
 postcode: "31525"
 city: Brunswick
-street: "Golden Isles Parkway"
-housenumber: 200
-phone: "+1 912-261-3169"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-brunswick/2643"
+street: Golden Isles Parkway
+housenumber: "200"
+phone: +1 912-261-3169
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-brunswick/2643

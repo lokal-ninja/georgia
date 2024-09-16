@@ -1,11 +1,11 @@
 id: 795826598
-type: way
+type: node
 latitude: 33.8255
 longitude: -85.29141
 postcode: "30113"
 city: Buchanan
-street: "GA 100"
-housenumber: 6537
+street: GA 100
+housenumber: "6537"
 phone: ""
 opening_hours: ""
 website: ""

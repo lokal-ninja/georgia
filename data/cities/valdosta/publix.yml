@@ -1,11 +1,11 @@
 id: 370222991
-type: way
+type: node
 latitude: 30.8807
 longitude: -83.28544
-postcode: "31602-7063"
+postcode: 31602-7063
 city: Valdosta
-street: "Inner Perimeter Road"
-housenumber: 3330
-phone: "+1 229-671-9835"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1435"
+street: Inner Perimeter Road
+housenumber: "3330"
+phone: +1 229-671-9835
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1435

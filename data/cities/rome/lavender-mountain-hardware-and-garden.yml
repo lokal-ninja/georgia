@@ -1,11 +1,11 @@
 id: 858617763
-type: way
+type: node
 latitude: 34.33768
 longitude: -85.1733
 postcode: "30165"
 city: Rome
-street: "Martha Berry Highway"
-housenumber: 4065
+street: Martha Berry Highway
+housenumber: "4065"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.lavendermountainhardware.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.lavendermountainhardware.com/

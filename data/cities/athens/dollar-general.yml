@@ -1,11 +1,11 @@
 id: 293537870
-type: way
+type: node
 latitude: 33.95411
 longitude: -83.39126
 postcode: "30606"
 city: Athens
-street: "West Broad Street"
-housenumber: 1125
+street: West Broad Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/athens/14048"
+website: https://www.dollargeneral.com/store-directory/ga/athens/14048

@@ -1,11 +1,11 @@
 id: 1001233230
-type: way
+type: node
 latitude: 31.20156
 longitude: -82.32854
 postcode: "31501"
 city: Waycross
-street: "Memorial Drive"
-housenumber: 2105
-phone: "+1-912-283-6504"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/ga/waycross/2105-memorial-dr"
+street: Memorial Drive
+housenumber: "2105"
+phone: +1-912-283-6504
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/ga/waycross/2105-memorial-dr

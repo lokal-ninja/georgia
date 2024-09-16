@@ -1,11 +1,11 @@
 id: 417094706
-type: way
+type: node
 latitude: 33.84279
 longitude: -84.98137
 postcode: "30179"
 city: Temple
-street: "Buchanan Highway"
-housenumber: 9747
-phone: "+1 (770) 456-8110"
+street: Buchanan Highway
+housenumber: "9747"
+phone: +1 (770) 456-8110
 opening_hours: ""
 website: ""

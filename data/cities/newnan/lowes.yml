@@ -1,11 +1,11 @@
 id: 298466128
-type: way
+type: node
 latitude: 33.39364
 longitude: -84.74626
 postcode: "30265"
 city: Newnan
-street: "Bullsboro Drive"
-housenumber: 955
-phone: "+1 770-304-1600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-newnan/0033"
+street: Bullsboro Drive
+housenumber: "955"
+phone: +1 770-304-1600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-newnan/0033

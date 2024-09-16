@@ -1,11 +1,11 @@
 id: 957953387
-type: way
+type: node
 latitude: 32.53899
 longitude: -84.87778
 postcode: "31909"
 city: Columbus
-street: "Gateway Road"
-housenumber: 6475
-phone: "+1 706-563-5979"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4200-columbus-ga"
+street: Gateway Road
+housenumber: "6475"
+phone: +1 706-563-5979
+opening_hours: 24/7
+website: https://www.walmart.com/store/4200-columbus-ga

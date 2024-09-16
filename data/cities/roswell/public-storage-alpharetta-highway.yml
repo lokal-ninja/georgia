@@ -1,11 +1,11 @@
 id: 1191448539
-type: way
+type: node
 latitude: 34.05226
 longitude: -84.33351
 postcode: "30076"
 city: Roswell
-street: "Alpharetta Highway"
-housenumber: 11195
-phone: "+1 (678) 942-6372"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.publicstorage.com/self-storage-ga-roswell/659.html"
+street: Alpharetta Highway
+housenumber: "11195"
+phone: +1 (678) 942-6372
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.publicstorage.com/self-storage-ga-roswell/659.html

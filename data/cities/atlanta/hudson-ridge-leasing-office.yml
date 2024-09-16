@@ -1,11 +1,11 @@
 id: 330117389
-type: way
+type: node
 latitude: 33.89902
 longitude: -84.45837
 postcode: "30339"
 city: Atlanta
-street: "Windy Ridge Lane Southeast"
-housenumber: 3505
+street: Windy Ridge Lane Southeast
+housenumber: "3505"
 phone: ""
 opening_hours: ""
 website: ""

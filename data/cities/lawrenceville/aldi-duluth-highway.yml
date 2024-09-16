@@ -1,11 +1,11 @@
 id: 941148156
-type: way
+type: node
 latitude: 33.96833
 longitude: -84.02796
 postcode: "30043"
 city: Lawrenceville
-street: "Duluth Highway"
-housenumber: 996
-phone: "+1 844-476-1060"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/ga/lawrenceville/996-duluth-highway"
+street: Duluth Highway
+housenumber: "996"
+phone: +1 844-476-1060
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/ga/lawrenceville/996-duluth-highway

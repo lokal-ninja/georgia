@@ -1,11 +1,11 @@
 id: 146661722
-type: way
+type: node
 latitude: 34.25483
 longitude: -83.46964
 postcode: "30529"
 city: Commerce
-street: "Steven B Tanger Boulevard"
-housenumber: 230
-phone: "+1 706-335-5883"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Commerce-GA/GA/Commerce/30529/1764"
+street: Steven B Tanger Boulevard
+housenumber: "230"
+phone: +1 706-335-5883
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Commerce-GA/GA/Commerce/30529/1764

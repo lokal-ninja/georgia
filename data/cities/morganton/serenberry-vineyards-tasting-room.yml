@@ -1,11 +1,11 @@
 id: 268292119
-type: way
+type: node
 latitude: 34.85046
 longitude: -84.19493
 postcode: "30560"
 city: Morganton
-street: "Tipton Trail"
-housenumber: 450
-phone: "+1 (706) 623-8463"
-opening_hours: "Th-Sa 11:00-18:00; Su 13:00-17:00"
-website: "http://www.serenberryvineyards.com/"
+street: Tipton Trail
+housenumber: "450"
+phone: +1 (706) 623-8463
+opening_hours: Th-Sa 11:00-18:00; Su 13:00-17:00
+website: http://www.serenberryvineyards.com/

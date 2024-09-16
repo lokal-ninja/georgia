@@ -1,11 +1,11 @@
 id: 501551933
-type: way
+type: node
 latitude: 34.75896
 longitude: -84.21823
 postcode: "30513"
 city: Blue Ridge
-street: "Newport Road"
-housenumber: 103
-phone: "+1 (706) 838-4158"
-opening_hours: "Mo-Su 07:00-17:00"
-website: "https://vansriverwalk.com/"
+street: Newport Road
+housenumber: "103"
+phone: +1 (706) 838-4158
+opening_hours: Mo-Su 07:00-17:00
+website: https://vansriverwalk.com/

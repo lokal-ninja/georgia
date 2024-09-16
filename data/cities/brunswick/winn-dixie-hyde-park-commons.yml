@@ -1,11 +1,11 @@
 id: 558318426
-type: way
+type: node
 latitude: 31.14116
 longitude: -81.58782
 postcode: "31523"
 city: Brunswick
-street: "Hyde Park Commons"
-housenumber: 284
-phone: "+1 912-267-1759"
+street: Hyde Park Commons
+housenumber: "284"
+phone: +1 912-267-1759
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/brunswick/ga?search=68"
+website: https://www.winndixie.com/storedetails/brunswick/ga?search=68

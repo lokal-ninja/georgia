@@ -1,11 +1,11 @@
 id: 290257436
-type: way
+type: node
 latitude: 34.46889
 longitude: -84.46244
 postcode: "30143"
 city: Jasper
-street: "Bill Wigington Parkway"
-housenumber: 205
-phone: "+1 706-301-5615"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/jasper-ga/ga/jasper/30143/8413"
+street: Bill Wigington Parkway
+housenumber: "205"
+phone: +1 706-301-5615
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/jasper-ga/ga/jasper/30143/8413

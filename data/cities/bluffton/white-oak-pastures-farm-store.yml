@@ -1,11 +1,11 @@
 id: 615562815
-type: way
+type: node
 latitude: 31.52059
 longitude: -84.86635
 postcode: "39824"
 city: Bluffton
-street: "Church Street"
-housenumber: 101
+street: Church Street
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-17:00
 website: ""

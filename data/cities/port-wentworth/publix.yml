@@ -1,11 +1,11 @@
 id: 946535928
-type: way
+type: node
 latitude: 32.22122
 longitude: -81.19396
-postcode: "31407-9720"
+postcode: 31407-9720
 city: Port Wentworth
-street: "Ga Highway 21"
-housenumber: 7936
-phone: "+1 912-966-5890"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1256"
+street: Ga Highway 21
+housenumber: "7936"
+phone: +1 912-966-5890
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1256

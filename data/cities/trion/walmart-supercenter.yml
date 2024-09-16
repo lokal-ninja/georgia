@@ -1,11 +1,11 @@
 id: 984574206
-type: way
+type: node
 latitude: 34.52163
 longitude: -85.31765
 postcode: "30753"
 city: Trion
-street: "Highway 27"
-housenumber: 13427
-phone: "+1 706-734-2931"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/756/trion-ga/whats-new"
+street: Highway 27
+housenumber: "13427"
+phone: +1 706-734-2931
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/756/trion-ga/whats-new

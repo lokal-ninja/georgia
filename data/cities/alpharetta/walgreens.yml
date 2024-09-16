@@ -1,11 +1,11 @@
 id: 196942705
-type: way
+type: node
 latitude: 34.07081
 longitude: -84.2981
 postcode: "30009"
 city: Alpharetta
-street: "South Main Street"
-housenumber: 173
+street: South Main Street
+housenumber: "173"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-173+s+main+st-alpharetta-ga-30009/id=6999"
+website: https://www.walgreens.com/locator/walgreens-173+s+main+st-alpharetta-ga-30009/id=6999

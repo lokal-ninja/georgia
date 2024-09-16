@@ -1,11 +1,11 @@
 id: 854263214
-type: way
+type: node
 latitude: 32.59749
 longitude: -84.90835
 postcode: "31820"
 city: Midland
-street: "Veterans Parkway"
-housenumber: 9932
+street: Veterans Parkway
+housenumber: "9932"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/midland/20169"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/midland/20169

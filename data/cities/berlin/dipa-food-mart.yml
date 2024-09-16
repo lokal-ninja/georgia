@@ -1,11 +1,11 @@
 id: 481402443
-type: way
+type: node
 latitude: 31.07355
 longitude: -83.62239
 postcode: "31722"
 city: Berlin
-street: "GA 133"
-housenumber: 5858
-phone: "+1 (229) 324-2610"
-opening_hours: "06:00-22:00"
+street: GA 133
+housenumber: "5858"
+phone: +1 (229) 324-2610
+opening_hours: 06:00-22:00
 website: ""

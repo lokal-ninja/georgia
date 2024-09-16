@@ -1,11 +1,11 @@
 id: 321916059
-type: way
+type: node
 latitude: 33.95246
 longitude: -84.55062
 postcode: "30060"
 city: Marietta
-street: "West Park Square"
-housenumber: 21
-phone: "+1 (678) 581 3777"
-opening_hours: "Su-Th 11:00-15:00; Fr-Sa 11:00-16:00"
-website: "https://www.thevineyardcafe.com/"
+street: West Park Square
+housenumber: "21"
+phone: +1 (678) 581 3777
+opening_hours: Su-Th 11:00-15:00; Fr-Sa 11:00-16:00
+website: https://www.thevineyardcafe.com/

@@ -1,11 +1,11 @@
 id: 693787538
-type: way
+type: node
 latitude: 33.71834
 longitude: -84.94045
 postcode: "30180"
 city: Villa Rica
-street: "Cooley Way"
-housenumber: 105
-phone: "+1-678-922-2073"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Cooley Way
+housenumber: "105"
+phone: +1-678-922-2073
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

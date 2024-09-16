@@ -4,8 +4,8 @@ latitude: 33.95832
 longitude: -83.37994
 postcode: "30601"
 city: Athens
-street: "West Washington Street"
-housenumber: 285
+street: West Washington Street
+housenumber: "285"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 13:00-18:00"
-website: "https://painandwonder.com/"
+opening_hours: Mo-Sa 11:00-20:00; Su 13:00-18:00
+website: https://painandwonder.com/

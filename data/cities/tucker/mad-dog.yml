@@ -1,11 +1,11 @@
 id: 611393994
-type: way
+type: node
 latitude: 33.82859
 longitude: -84.22512
 postcode: "30084"
 city: Tucker
-street: "Camelot Circle"
-housenumber: 1608
+street: Camelot Circle
+housenumber: "1608"
 phone: ""
 opening_hours: ""
 website: ""

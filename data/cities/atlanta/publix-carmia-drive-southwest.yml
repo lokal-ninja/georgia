@@ -1,11 +1,11 @@
 id: 288997170
-type: way
+type: node
 latitude: 33.65669
 longitude: -84.51116
-postcode: "30331-6259"
+postcode: 30331-6259
 city: Atlanta
-street: "Carmia Drive Southwest"
-housenumber: 3730
-phone: "+1 404-346-9253"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1056"
+street: Carmia Drive Southwest
+housenumber: "3730"
+phone: +1 404-346-9253
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1056

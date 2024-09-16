@@ -1,11 +1,11 @@
 id: 807025986
-type: way
+type: node
 latitude: 33.71548
 longitude: -85.14311
 postcode: "30110"
 city: Bremen
-street: "Alabama Avenue"
-housenumber: 511
-phone: "+1 (770) 537-0436"
-opening_hours: "Mo-Su 09:00-19:00"
+street: Alabama Avenue
+housenumber: "511"
+phone: +1 (770) 537-0436
+opening_hours: Mo-Su 09:00-19:00
 website: ""

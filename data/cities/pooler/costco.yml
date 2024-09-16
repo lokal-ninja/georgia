@@ -1,11 +1,11 @@
 id: 1008101649
-type: way
+type: node
 latitude: 32.0802
 longitude: -81.27731
 postcode: "31322"
 city: Pooler
-street: "Mosaic Circle"
-housenumber: 200
-phone: "+1 912-348-4569"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/pooler-ga-1485.html"
+street: Mosaic Circle
+housenumber: "200"
+phone: +1 912-348-4569
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/pooler-ga-1485.html

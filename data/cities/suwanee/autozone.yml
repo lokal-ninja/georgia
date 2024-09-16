@@ -1,11 +1,11 @@
 id: 312069080
-type: way
+type: node
 latitude: 34.05402
 longitude: -84.08771
 postcode: "30024"
 city: Suwanee
-street: "Peachtree Industrial Boulevard"
-housenumber: 971
+street: Peachtree Industrial Boulevard
+housenumber: "971"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ga/suwanee/971-peachtree-industrial-blvd.html"
+website: https://www.autozone.com/locations/ga/suwanee/971-peachtree-industrial-blvd.html

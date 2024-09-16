@@ -1,11 +1,11 @@
 id: 387525897
-type: way
+type: node
 latitude: 34.0879
 longitude: -83.98728
 postcode: "30519"
 city: Buford
-street: "Buford Mill Drive"
-housenumber: 1955
-phone: "+1 770-831-9229"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0662"
+street: Buford Mill Drive
+housenumber: "1955"
+phone: +1 770-831-9229
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0662

@@ -4,8 +4,8 @@ latitude: 33.05072
 longitude: -85.02182
 postcode: "30241"
 city: LaGrange
-street: "Commerce Avenue"
-housenumber: 203
-phone: "+1 706-882-6114"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/lagrange/commerce-square/011/00339"
+street: Commerce Avenue
+housenumber: "203"
+phone: +1 706-882-6114
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/lagrange/commerce-square/011/00339

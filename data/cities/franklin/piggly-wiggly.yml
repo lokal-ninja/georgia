@@ -1,11 +1,11 @@
 id: 1063468709
-type: way
+type: node
 latitude: 33.27889
 longitude: -85.09788
 postcode: "30217"
 city: Franklin
-street: "East Court Square"
-housenumber: 241
-phone: "+1 706-675-0707"
+street: East Court Square
+housenumber: "241"
+phone: +1 706-675-0707
 opening_hours: ""
 website: ""

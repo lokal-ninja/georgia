@@ -1,11 +1,11 @@
 id: 637961605
-type: way
+type: node
 latitude: 30.85258
 longitude: -83.94468
 postcode: "31792"
 city: Thomasville
-street: "Highway 19"
-housenumber: 14894
-phone: "+1 229-558-9696"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ga/thomasville/office-depot-2138"
+street: Highway 19
+housenumber: "14894"
+phone: +1 229-558-9696
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ga/thomasville/office-depot-2138

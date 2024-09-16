@@ -1,11 +1,11 @@
 id: 721774554
-type: way
+type: node
 latitude: 32.61912
 longitude: -83.69248
 postcode: "31093"
 city: Warner Robins
-street: "Watson Boulevard"
-housenumber: 3040
-phone: "+1 (478) 971-4445"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/ga/warner-robins/3040-watson-blvd-1185.html"
+street: Watson Boulevard
+housenumber: "3040"
+phone: +1 (478) 971-4445
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/ga/warner-robins/3040-watson-blvd-1185.html

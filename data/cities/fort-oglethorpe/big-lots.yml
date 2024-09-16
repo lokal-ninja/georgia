@@ -1,11 +1,11 @@
 id: 1002197644
-type: way
+type: node
 latitude: 34.95415
 longitude: -85.25683
 postcode: "30742"
 city: Fort Oglethorpe
-street: "Battlefield Parkway"
-housenumber: 558
-phone: "+1 706-450-6736"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ga/fort-oglethorpe/558-battlefield-pkwy"
+street: Battlefield Parkway
+housenumber: "558"
+phone: +1 706-450-6736
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ga/fort-oglethorpe/558-battlefield-pkwy

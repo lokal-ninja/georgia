@@ -1,11 +1,11 @@
 id: 566477155
-type: way
+type: node
 latitude: 33.85113
 longitude: -83.91937
 postcode: "30052"
 city: Loganville
-street: "Athens Highway"
-housenumber: 195
+street: Athens Highway
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1175739302
-type: way
+type: node
 latitude: 31.22976
 longitude: -81.79133
 postcode: "31566"
 city: Waynesville
-street: "Highway 82"
-housenumber: 25137
+street: Highway 82
+housenumber: "25137"
 phone: ""
 opening_hours: ""
 website: ""

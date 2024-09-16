@@ -1,11 +1,11 @@
 id: 1101909175
-type: way
+type: node
 latitude: 32.5518
 longitude: -82.97504
 postcode: "31021"
 city: Dublin
-street: "Highway 80 West"
-housenumber: 2435
-phone: "+1 478-272-4997"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 80 West
+housenumber: "2435"
+phone: +1 478-272-4997
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

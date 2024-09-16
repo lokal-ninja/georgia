@@ -1,11 +1,11 @@
 id: 676859787
-type: way
+type: node
 latitude: 33.51231
 longitude: -82.03666
 postcode: "30909"
 city: Augusta
-street: "Sherwood Drive"
-housenumber: 122
+street: Sherwood Drive
+housenumber: "122"
 phone: "+17064967009"
 opening_hours: ""
-website: "https://lucyslaundry.com/"
+website: https://lucyslaundry.com/

@@ -1,11 +1,11 @@
 id: 303238530
-type: way
+type: node
 latitude: 33.9394
 longitude: -83.49433
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 4615
+street: Atlanta Highway
+housenumber: "4615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 963794949
-type: way
+type: node
 latitude: 34.46857
 longitude: -84.43035
 postcode: "30143"
 city: Jasper
-street: "North Main Street"
-housenumber: 29
-phone: "+1 (706) 692-6526"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: North Main Street
+housenumber: "29"
+phone: +1 (706) 692-6526
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

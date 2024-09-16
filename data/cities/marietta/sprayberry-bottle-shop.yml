@@ -1,11 +1,11 @@
 id: 326827882
-type: way
+type: node
 latitude: 34.01478
 longitude: -84.49383
 postcode: "30066"
 city: Marietta
-street: "Sandy Plains Road Northeast"
-housenumber: 2692
-phone: "+1 (770) 973-7073"
-opening_hours: "Mo 11:00-19:30; Tu-Th 10:30-21:00; Fr-Sa 10:30-21:30; Su 12:30-17:30"
-website: "https://www.sprayberrybottleshop.com/"
+street: Sandy Plains Road Northeast
+housenumber: "2692"
+phone: +1 (770) 973-7073
+opening_hours: Mo 11:00-19:30; Tu-Th 10:30-21:00; Fr-Sa 10:30-21:30; Su 12:30-17:30
+website: https://www.sprayberrybottleshop.com/

@@ -1,11 +1,11 @@
 id: 381821126
-type: way
+type: node
 latitude: 34.0943
 longitude: -84.00303
 postcode: "30518"
 city: Buford
-street: "Buford Drive"
-housenumber: 4135
+street: Buford Drive
+housenumber: "4135"
 phone: ""
 opening_hours: ""
 website: ""

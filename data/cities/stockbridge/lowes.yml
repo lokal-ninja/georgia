@@ -1,11 +1,11 @@
 id: 949864313
-type: way
+type: node
 latitude: 33.54964
 longitude: -84.28057
 postcode: "30281"
 city: Stockbridge
-street: "Mount Zion Road"
-housenumber: 3505
-phone: "+1 770-506-9665"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ga-stockbridge/0512"
+street: Mount Zion Road
+housenumber: "3505"
+phone: +1 770-506-9665
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ga-stockbridge/0512

@@ -1,11 +1,11 @@
 id: 394409940
-type: way
+type: node
 latitude: 32.43496
 longitude: -81.78312
 postcode: "30458"
 city: Statesboro
-street: "Fair Road"
-housenumber: 437
+street: Fair Road
+housenumber: "437"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/statesboro-ga-pharmacies/441-fair-rd-statesboro-ga-30458/storeid=6861"
+website: https://www.cvs.com/store-locator/statesboro-ga-pharmacies/441-fair-rd-statesboro-ga-30458/storeid=6861

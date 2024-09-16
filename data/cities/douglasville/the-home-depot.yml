@@ -1,11 +1,11 @@
 id: 307816057
-type: way
+type: node
 latitude: 33.72242
 longitude: -84.76707
 postcode: "30135"
 city: Douglasville
-street: "Douglas Boulevard"
-housenumber: 7399
-phone: "+1 770-577-8311"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Douglasville/GA/Douglasville/30135/143"
+street: Douglas Boulevard
+housenumber: "7399"
+phone: +1 770-577-8311
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Douglasville/GA/Douglasville/30135/143

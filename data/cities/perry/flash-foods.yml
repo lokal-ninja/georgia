@@ -1,11 +1,11 @@
 id: 615560289
-type: way
+type: node
 latitude: 32.44628
 longitude: -83.75351
 postcode: "31069"
 city: Perry
-street: "Iffie Road"
-housenumber: 107
+street: Iffie Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

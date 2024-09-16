@@ -1,11 +1,11 @@
 id: 468614867
-type: way
+type: node
 latitude: 33.42122
 longitude: -84.18747
 postcode: "30253"
 city: McDonough
-street: "West Highway 20"
-housenumber: 1525
-phone: "+1 770-892-0213"
+street: West Highway 20
+housenumber: "1525"
+phone: +1 770-892-0213
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/"
+website: https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/

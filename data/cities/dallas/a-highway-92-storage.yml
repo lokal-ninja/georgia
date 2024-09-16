@@ -1,11 +1,11 @@
 id: 1147707827
-type: way
+type: node
 latitude: 33.94458
 longitude: -84.73621
 postcode: "30157"
 city: Dallas
-street: "Hiram Acworth Highway"
-housenumber: 3874
-phone: "+1 (770) 443-7410"
+street: Hiram Acworth Highway
+housenumber: "3874"
+phone: +1 (770) 443-7410
 opening_hours: ""
-website: "https://www.dallasselfstoragefacility.com/"
+website: https://www.dallasselfstoragefacility.com/

@@ -1,11 +1,11 @@
 id: 293217340
-type: way
+type: node
 latitude: 33.92242
 longitude: -83.37926
 postcode: "30605"
 city: Athens
-street: "South Milledge Avenue"
-housenumber: 2036
+street: South Milledge Avenue
+housenumber: "2036"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.interstatebatteriesathens.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.interstatebatteriesathens.com/

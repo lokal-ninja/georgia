@@ -1,11 +1,11 @@
 id: 1050118123
-type: way
+type: node
 latitude: 34.16508
 longitude: -84.79715
 postcode: "30120"
 city: Cartersville
-street: "West Main Street"
-housenumber: 105
-phone: "+1 (770) 334-3062"
-opening_hours: "Mo-Th 08:00-17:30"
-website: "https://www.johnsonaudiology.com/cartersville"
+street: West Main Street
+housenumber: "105"
+phone: +1 (770) 334-3062
+opening_hours: Mo-Th 08:00-17:30
+website: https://www.johnsonaudiology.com/cartersville

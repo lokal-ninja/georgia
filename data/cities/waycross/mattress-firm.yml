@@ -1,11 +1,11 @@
 id: 1001233121
-type: way
+type: node
 latitude: 31.19872
 longitude: -82.32403
 postcode: "31501"
 city: Waycross
-street: "Memorial Drive"
-housenumber: 2255
-phone: "+1 912-283-4117"
+street: Memorial Drive
+housenumber: "2255"
+phone: +1 912-283-4117
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ga/waycross/016049/"
+website: https://www.mattressfirm.com/en-us/stores/ga/waycross/016049/

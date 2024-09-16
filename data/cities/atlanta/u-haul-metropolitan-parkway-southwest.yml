@@ -1,11 +1,11 @@
 id: 272296145
-type: way
+type: node
 latitude: 33.72249
 longitude: -84.4077
 postcode: "30310"
 city: Atlanta
-street: "Metropolitan Parkway Southwest"
-housenumber: 1190
+street: Metropolitan Parkway Southwest
+housenumber: "1190"
 phone: ""
 opening_hours: ""
 website: ""

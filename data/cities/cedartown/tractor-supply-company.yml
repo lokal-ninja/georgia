@@ -1,11 +1,11 @@
 id: 982074252
-type: way
+type: node
 latitude: 34.04705
 longitude: -85.23315
 postcode: "30125"
 city: Cedartown
-street: "Rome Highway"
-housenumber: 1600
-phone: "+1 770-748-7774"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Rome Highway
+housenumber: "1600"
+phone: +1 770-748-7774
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

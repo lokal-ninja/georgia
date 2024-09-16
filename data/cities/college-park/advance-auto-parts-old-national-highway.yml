@@ -1,11 +1,11 @@
 id: 292649494
-type: way
+type: node
 latitude: 33.58939
 longitude: -84.46844
 postcode: "30349"
 city: College Park
-street: "Old National Highway"
-housenumber: 6100
-phone: "(770) 994-6511"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-website: "https://stores.advanceautoparts.com/ga/college-park/6100-old-national-hwy"
+street: Old National Highway
+housenumber: "6100"
+phone: (770) 994-6511
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:30
+website: https://stores.advanceautoparts.com/ga/college-park/6100-old-national-hwy

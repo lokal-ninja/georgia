@@ -1,11 +1,11 @@
 id: 284759814
-type: way
+type: node
 latitude: 33.72818
 longitude: -84.75766
 postcode: "30135"
 city: Douglasville
-street: "Douglas Boulevard"
-housenumber: 6875
-phone: "+1 770-577-0930"
+street: Douglas Boulevard
+housenumber: "6875"
+phone: +1 770-577-0930
 opening_hours: ""
-website: "https://stores.bestbuy.com/ga/douglasville/6875-douglas-blvd-519.html"
+website: https://stores.bestbuy.com/ga/douglasville/6875-douglas-blvd-519.html

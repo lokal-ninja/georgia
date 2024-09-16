@@ -1,11 +1,11 @@
 id: 280019747
-type: way
+type: node
 latitude: 32.54542
 longitude: -84.9522
 postcode: "31909"
 city: Columbus
-street: "Whittlesey Blvd"
-housenumber: 5555
+street: Whittlesey Blvd
+housenumber: "5555"
 phone: ""
 opening_hours: ""
 website: ""

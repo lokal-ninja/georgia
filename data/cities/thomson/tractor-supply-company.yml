@@ -1,11 +1,11 @@
 id: 679069819
-type: way
+type: node
 latitude: 33.48469
 longitude: -82.5033
 postcode: "30824"
 city: Thomson
-street: "Washington Road"
-housenumber: 676
-phone: "+1 706-595-1151"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Washington Road
+housenumber: "676"
+phone: +1 706-595-1151
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

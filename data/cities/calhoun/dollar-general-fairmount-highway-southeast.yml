@@ -1,11 +1,11 @@
 id: 535044358
-type: way
+type: node
 latitude: 34.44799
 longitude: -84.84339
 postcode: "30701"
 city: Calhoun
-street: "Fairmount Highway Southeast"
-housenumber: 6935
-phone: "+1 (706) 625-9005"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Fairmount Highway Southeast
+housenumber: "6935"
+phone: +1 (706) 625-9005
+opening_hours: Mo-Su 07:00-22:00
 website: ""

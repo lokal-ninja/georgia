@@ -1,11 +1,11 @@
 id: 837702026
-type: way
+type: node
 latitude: 33.94086
 longitude: -83.49492
 postcode: "30606"
 city: Athens
-street: "Atlanta Highway"
-housenumber: 4640
+street: Atlanta Highway
+housenumber: "4640"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ga/bogart/3023"
+website: https://www.dollargeneral.com/store-directory/ga/bogart/3023

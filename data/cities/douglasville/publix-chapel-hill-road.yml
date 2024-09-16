@@ -1,11 +1,11 @@
 id: 450128983
-type: way
+type: node
 latitude: 33.68879
 longitude: -84.7153
 postcode: "30135"
 city: Douglasville
-street: "Chapel Hill Road"
-housenumber: 4300
-phone: "+1 770-577-5133"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1139"
+street: Chapel Hill Road
+housenumber: "4300"
+phone: +1 770-577-5133
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1139

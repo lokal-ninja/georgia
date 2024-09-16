@@ -1,11 +1,11 @@
 id: 1039765401
-type: way
+type: node
 latitude: 33.97925
 longitude: -84.42528
 postcode: "30068"
 city: Marietta
-street: "Johnson Ferry Road Northeast"
-housenumber: 1287
-phone: "+1 770-694-7266"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/ga/marietta/dsw-designer-shoe-warehouse-1287-johnson-ferry-rd.html"
+street: Johnson Ferry Road Northeast
+housenumber: "1287"
+phone: +1 770-694-7266
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/ga/marietta/dsw-designer-shoe-warehouse-1287-johnson-ferry-rd.html

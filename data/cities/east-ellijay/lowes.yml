@@ -1,11 +1,11 @@
 id: 1013192012
-type: way
+type: node
 latitude: 34.6605
 longitude: -84.48629
 postcode: "30540"
 city: East Ellijay
-street: "Highland Crossing"
-housenumber: 380
-phone: "+1 706-515-1800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "lowes.com"
+street: Highland Crossing
+housenumber: "380"
+phone: +1 706-515-1800
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: lowes.com

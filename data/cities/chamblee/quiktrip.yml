@@ -1,11 +1,11 @@
 id: 456446707
-type: way
+type: node
 latitude: 33.86147
 longitude: -84.30919
 postcode: "30345"
 city: Chamblee
-street: "Buford Highway Northeast"
-housenumber: 4050
+street: Buford Highway Northeast
+housenumber: "4050"
 phone: ""
 opening_hours: ""
 website: ""

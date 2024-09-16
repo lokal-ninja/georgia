@@ -1,11 +1,11 @@
 id: 830563594
-type: way
+type: node
 latitude: 33.99518
 longitude: -85.0417
 postcode: "30153"
 city: Rockmart
-street: "South Piedmont Avenue"
-housenumber: 221
-phone: "+1 (470) 598-0044"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/rockmart/4163"
+street: South Piedmont Avenue
+housenumber: "221"
+phone: +1 (470) 598-0044
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/rockmart/4163

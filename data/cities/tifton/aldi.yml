@@ -1,11 +1,11 @@
 id: 1266852895
-type: way
+type: node
 latitude: 31.44741
 longitude: -83.54164
 postcode: "31793"
 city: Tifton
-street: "US 82 W"
-housenumber: 
+street: US 82 W
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

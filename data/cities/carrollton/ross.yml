@@ -1,11 +1,11 @@
 id: 1014980776
-type: way
+type: node
 latitude: 33.55453
 longitude: -85.07651
 postcode: "30117"
 city: Carrollton
-street: "South Park Street"
-housenumber: 1311
-phone: "+1 770-214-0371"
-opening_hours: "Mo-Th 08:30-22:30; Fr-Sa 08:00-22:30; Su 08:30-22:00"
+street: South Park Street
+housenumber: "1311"
+phone: +1 770-214-0371
+opening_hours: Mo-Th 08:30-22:30; Fr-Sa 08:00-22:30; Su 08:30-22:00
 website: ""

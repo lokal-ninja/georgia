@@ -1,11 +1,11 @@
 id: 283274803
-type: way
+type: node
 latitude: 33.90555
 longitude: -84.54212
 postcode: "30060"
 city: Marietta
-street: "South Cobb Drive"
-housenumber: 1957
+street: South Cobb Drive
+housenumber: "1957"
 phone: ""
 opening_hours: ""
 website: ""

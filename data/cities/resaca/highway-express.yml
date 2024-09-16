@@ -1,11 +1,11 @@
 id: 1098694665
-type: way
+type: node
 latitude: 34.60055
 longitude: -84.86703
 postcode: "30735"
 city: Resaca
-street: "GA 225"
-housenumber: 4053
+street: GA 225
+housenumber: "4053"
 phone: ""
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/12399848-4053-hwy-225-ne/en_US"
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/12399848-4053-hwy-225-ne/en_US

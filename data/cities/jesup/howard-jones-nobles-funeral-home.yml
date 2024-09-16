@@ -1,11 +1,11 @@
 id: 742755880
-type: way
+type: node
 latitude: 31.60127
 longitude: -81.89494
 postcode: "31545"
 city: Jesup
-street: "South 1st Street"
-housenumber: 777
+street: South 1st Street
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1070762585
-type: way
+type: node
 latitude: 34.01445
 longitude: -84.49146
 postcode: "30062"
 city: Marietta
-street: "East Piedmont Road Northeast"
-housenumber: 2514
+street: East Piedmont Road Northeast
+housenumber: "2514"
 phone: ""
 opening_hours: ""
 website: ""

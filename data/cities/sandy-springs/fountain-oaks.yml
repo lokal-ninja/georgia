@@ -1,11 +1,11 @@
 id: 475133840
-type: way
+type: node
 latitude: 33.89055
 longitude: -84.38389
 postcode: "30342"
 city: Sandy Springs
-street: "Roswell Road"
-housenumber: 
+street: Roswell Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.edens.com/Centers/GA/Atlanta/Fountain-Oaks"
+website: http://www.edens.com/Centers/GA/Atlanta/Fountain-Oaks

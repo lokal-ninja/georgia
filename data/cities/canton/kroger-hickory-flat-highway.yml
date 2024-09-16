@@ -1,11 +1,11 @@
 id: 793088108
-type: way
+type: node
 latitude: 34.17193
 longitude: -84.41658
 postcode: "30115"
 city: Canton
-street: "Hickory Flat Highway"
-housenumber: 6766
-phone: "+1 770-721-7320"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/canton/hickory-flat-commons/011/00680"
+street: Hickory Flat Highway
+housenumber: "6766"
+phone: +1 770-721-7320
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/canton/hickory-flat-commons/011/00680

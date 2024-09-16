@@ -1,11 +1,11 @@
 id: 418475052
-type: way
+type: node
 latitude: 34.19478
 longitude: -84.12847
 postcode: "30040"
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 2295
-phone: "+1 770-887-2429"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/cumming-ga-220"
+street: Market Place Boulevard
+housenumber: "2295"
+phone: +1 770-887-2429
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/cumming-ga-220

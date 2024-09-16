@@ -1,11 +1,11 @@
 id: 1013567698
-type: way
+type: node
 latitude: 33.84303
 longitude: -84.5047
 postcode: "30080"
 city: Smyrna
-street: "South Cobb Drive"
-housenumber: 4480
-phone: "+1 770-434-6225"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/753"
+street: South Cobb Drive
+housenumber: "4480"
+phone: +1 770-434-6225
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/753

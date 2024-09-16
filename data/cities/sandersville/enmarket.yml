@@ -1,11 +1,11 @@
 id: 1078015625
-type: way
+type: node
 latitude: 32.97395
 longitude: -82.80976
 postcode: "31082"
 city: Sandersville
-street: "South Harris Street"
-housenumber: 510
+street: South Harris Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

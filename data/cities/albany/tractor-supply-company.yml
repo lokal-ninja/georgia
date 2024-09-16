@@ -1,11 +1,11 @@
 id: 470247737
-type: way
+type: node
 latitude: 31.62364
 longitude: -84.21082
 postcode: "31707"
 city: Albany
-street: "Ledo Road"
-housenumber: 2761
-phone: "+1 229-420-1487"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Ledo Road
+housenumber: "2761"
+phone: +1 229-420-1487
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

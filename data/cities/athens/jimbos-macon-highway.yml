@@ -1,11 +1,11 @@
 id: 1274283042
-type: way
+type: node
 latitude: 33.92084
 longitude: -83.38535
 postcode: "30606"
 city: Athens
-street: "Macon Highway"
-housenumber: 520
+street: Macon Highway
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 254027371
-type: way
+type: node
 latitude: 34.01064
 longitude: -84.56531
 postcode: "30144"
 city: Kennesaw
-street: "Barrett Parkway"
-housenumber: 465
-phone: "+1 470-375-3477"
-opening_hours: "24/7"
-website: "https://majikmarketusa.com/locations/kennesaw-ga/"
+street: Barrett Parkway
+housenumber: "465"
+phone: +1 470-375-3477
+opening_hours: 24/7
+website: https://majikmarketusa.com/locations/kennesaw-ga/

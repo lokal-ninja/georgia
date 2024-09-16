@@ -1,11 +1,11 @@
 id: 389743865
-type: way
+type: node
 latitude: 33.96196
 longitude: -84.36498
 postcode: "30350"
 city: Atlanta
-street: "Roswell Road"
-housenumber: 7555
+street: Roswell Road
+housenumber: "7555"
 phone: ""
 opening_hours: ""
-website: "https://www.nalleyford.com/"
+website: https://www.nalleyford.com/

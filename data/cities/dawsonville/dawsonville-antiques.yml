@@ -1,11 +1,11 @@
 id: 497036066
-type: way
+type: node
 latitude: 34.42164
 longitude: -84.11859
 postcode: "30534"
 city: Dawsonville
-street: "GA 9"
-housenumber: 11
-phone: "+1 (770) 883-8846"
-opening_hours: "Tu-We 10:00-15:00; Th-Sa 10:00-16:00; Su 11:00-15:00"
-website: "http://www.dawsonvilleantiquesga.com/"
+street: GA 9
+housenumber: "11"
+phone: +1 (770) 883-8846
+opening_hours: Tu-We 10:00-15:00; Th-Sa 10:00-16:00; Su 11:00-15:00
+website: http://www.dawsonvilleantiquesga.com/

@@ -1,11 +1,11 @@
 id: 390263930
-type: way
+type: node
 latitude: 34.25414
 longitude: -84.35717
-postcode: "30115-9337"
+postcode: 30115-9337
 city: Canton
-street: "Cumming Highway"
-housenumber: 8026
-phone: "+1 678-666-1310"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 10:00-19:00"
+street: Cumming Highway
+housenumber: "8026"
+phone: +1 678-666-1310
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 10:00-19:00
 website: ""

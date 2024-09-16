@@ -1,11 +1,11 @@
 id: 270900014
-type: way
+type: node
 latitude: 34.04053
 longitude: -84.34583
 postcode: "30075"
 city: Roswell
-street: "East Crossville Road"
-housenumber: 570
-phone: "+1 770-640-2065"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/roswell/mansell-village/011/00431"
+street: East Crossville Road
+housenumber: "570"
+phone: +1 770-640-2065
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/roswell/mansell-village/011/00431

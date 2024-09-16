@@ -1,11 +1,11 @@
 id: 907824310
-type: way
+type: node
 latitude: 32.28919
 longitude: -83.48031
-postcode: "31036-4633"
+postcode: 31036-4633
 city: Hawkinsville
-street: "Surrey Plaza"
-housenumber: 36
-phone: "+1 478-892-9049"
-opening_hours: "Mo-Sa 07:30-18:00; Su 13:00-17:00"
+street: Surrey Plaza
+housenumber: "36"
+phone: +1 478-892-9049
+opening_hours: Mo-Sa 07:30-18:00; Su 13:00-17:00
 website: ""

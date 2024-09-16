@@ -1,11 +1,11 @@
 id: 697916096
-type: way
+type: node
 latitude: 34.95565
 longitude: -85.25868
-postcode: "30742-3786"
+postcode: 30742-3786
 city: Fort Oglethorpe
-street: "Lafayette Road"
-housenumber: 2309
-phone: "+1 706 866 0770"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://titleworldinc.com/"
+street: Lafayette Road
+housenumber: "2309"
+phone: +1 706 866 0770
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://titleworldinc.com/

@@ -1,11 +1,11 @@
 id: 1218178777
-type: way
+type: node
 latitude: 31.34115
 longitude: -83.59426
 postcode: "31775"
 city: Omega
-street: "Alabama Ave"
-housenumber: 5471
+street: Alabama Ave
+housenumber: "5471"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://www.dollartree.com/locations/ga/omega/8004/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://www.dollartree.com/locations/ga/omega/8004/

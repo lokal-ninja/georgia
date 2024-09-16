@@ -1,11 +1,11 @@
 id: 307637476
-type: way
+type: node
 latitude: 33.7277
 longitude: -84.73355
 postcode: "30135"
 city: Douglasville
-street: "Chapel Hill Road"
-housenumber: 2880
-phone: "+1 770-949-1950"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ga/douglasville/5047"
+street: Chapel Hill Road
+housenumber: "2880"
+phone: +1 770-949-1950
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ga/douglasville/5047

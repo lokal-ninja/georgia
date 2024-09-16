@@ -4,8 +4,8 @@ latitude: 33.95955
 longitude: -83.37431
 postcode: "30601"
 city: Athens
-street: "East Washington Street"
-housenumber: 318
-phone: "+1-706-521-5172"
-opening_hours: "Mo-Sa 10:00-23:30; Su 12:30-22:00"
-website: "https://www.spiritsonwashington.com/"
+street: East Washington Street
+housenumber: "318"
+phone: +1-706-521-5172
+opening_hours: Mo-Sa 10:00-23:30; Su 12:30-22:00
+website: https://www.spiritsonwashington.com/

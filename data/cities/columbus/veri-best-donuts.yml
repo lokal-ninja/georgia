@@ -1,11 +1,11 @@
 id: 248143217
-type: way
+type: node
 latitude: 32.46724
 longitude: -84.9935
 postcode: "31901"
 city: Columbus
-street: "Broadway Avenue"
-housenumber: 1115
-phone: "(706) 221-0047"
+street: Broadway Avenue
+housenumber: "1115"
+phone: (706) 221-0047
 opening_hours: ""
-website: "https://www.facebook.com/VeriBestDonuts/"
+website: https://www.facebook.com/VeriBestDonuts/

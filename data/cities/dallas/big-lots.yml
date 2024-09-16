@@ -4,8 +4,8 @@ latitude: 33.90922
 longitude: -84.8014
 postcode: "30132"
 city: Dallas
-street: "Merchants Square"
-housenumber: 260
-phone: "+1 770-505-8282"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ga/dallas/260-merchants-square"
+street: Merchants Square
+housenumber: "260"
+phone: +1 770-505-8282
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ga/dallas/260-merchants-square

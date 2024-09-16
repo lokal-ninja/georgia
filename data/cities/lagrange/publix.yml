@@ -1,11 +1,11 @@
 id: 649791163
-type: way
+type: node
 latitude: 33.05103
 longitude: -85.02463
-postcode: "30241-2337"
+postcode: 30241-2337
 city: LaGrange
-street: "Commerce Avenue"
-housenumber: 139
-phone: "+1 706-883-1120"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/540"
+street: Commerce Avenue
+housenumber: "139"
+phone: +1 706-883-1120
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/540

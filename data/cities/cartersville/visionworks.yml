@@ -1,11 +1,11 @@
 id: 745521217
-type: way
+type: node
 latitude: 34.17308
 longitude: -84.77951
 postcode: "30121"
 city: Cartersville
-street: "Main Street Market Place"
-housenumber: 50
+street: Main Street Market Place
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

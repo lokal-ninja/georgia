@@ -1,11 +1,11 @@
 id: 280415623
-type: way
+type: node
 latitude: 33.94412
 longitude: -84.53587
 postcode: "30060"
 city: Marietta
-street: "South Fairground Street Southeast"
-housenumber: 350
-phone: "+1 (770) 436-2489"
-opening_hours: "Mo-Th 10:00-20:30; Fr-Sa 10:00-21:00; Su 12:30-18:00"
-website: "https://gemcityws.com/"
+street: South Fairground Street Southeast
+housenumber: "350"
+phone: +1 (770) 436-2489
+opening_hours: Mo-Th 10:00-20:30; Fr-Sa 10:00-21:00; Su 12:30-18:00
+website: https://gemcityws.com/

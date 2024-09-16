@@ -1,11 +1,11 @@
 id: 818257671
-type: way
+type: node
 latitude: 34.11859
 longitude: -84.22404
 postcode: "30004"
 city: Alpharetta
-street: "McFarland Parkway"
-housenumber: 1080
-phone: "+1 (770) 663-0291"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/ga/alpharetta/1080-mcfarland-pkwy"
+street: McFarland Parkway
+housenumber: "1080"
+phone: +1 (770) 663-0291
+opening_hours: 24/7
+website: https://locations.quiktrip.com/ga/alpharetta/1080-mcfarland-pkwy

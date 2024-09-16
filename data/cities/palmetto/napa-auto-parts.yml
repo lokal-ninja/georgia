@@ -1,11 +1,11 @@
 id: 315895000
-type: way
+type: node
 latitude: 33.52865
 longitude: -84.66402
 postcode: "30268"
 city: Palmetto
-street: "Carlton Road"
-housenumber: 402
+street: Carlton Road
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

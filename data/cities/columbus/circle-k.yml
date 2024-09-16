@@ -1,11 +1,11 @@
 id: 696548869
-type: way
+type: node
 latitude: 32.55359
 longitude: -84.94698
-postcode: "31909-2527"
+postcode: 31909-2527
 city: Columbus
-street: "Veterans Parkway"
-housenumber: 7330
+street: Veterans Parkway
+housenumber: "7330"
 phone: "+17062433171"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/columbus/7330-veterans-pkwy/2706712"
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/columbus/7330-veterans-pkwy/2706712

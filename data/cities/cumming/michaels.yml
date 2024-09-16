@@ -1,11 +1,11 @@
 id: 421869394
-type: way
+type: node
 latitude: 34.18208
 longitude: -84.12882
-postcode: "30041-7923"
+postcode: 30041-7923
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 1200
-phone: "+1 678-947-5820"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ga/cumming/2068"
+street: Market Place Boulevard
+housenumber: "1200"
+phone: +1 678-947-5820
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ga/cumming/2068

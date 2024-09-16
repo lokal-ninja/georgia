@@ -1,11 +1,11 @@
 id: 929100765
-type: way
+type: node
 latitude: 32.71125
 longitude: -83.65044
 postcode: "31216"
 city: Macon
-street: "Cochran Field Road"
-housenumber: 7335
-phone: "+1-478-788-9333"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.hornsspeedandpaint.com/"
+street: Cochran Field Road
+housenumber: "7335"
+phone: +1-478-788-9333
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.hornsspeedandpaint.com/

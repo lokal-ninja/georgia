@@ -1,11 +1,11 @@
 id: 750913941
-type: way
+type: node
 latitude: 33.74621
 longitude: -84.35757
 postcode: "30316"
 city: Atlanta
-street: "Memorial Drive Southeast"
-housenumber: 905
-phone: "+1 404-521-3992"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1647"
+street: Memorial Drive Southeast
+housenumber: "905"
+phone: +1 404-521-3992
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1647

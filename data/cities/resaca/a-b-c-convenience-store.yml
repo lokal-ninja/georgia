@@ -1,11 +1,11 @@
 id: 429922884
-type: way
+type: node
 latitude: 34.60156
 longitude: -84.86714
 postcode: "30735"
 city: Resaca
-street: "Chatsworth Highway"
-housenumber: 4095
-phone: "+1 (706) 625-0530"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Chatsworth Highway
+housenumber: "4095"
+phone: +1 (706) 625-0530
+opening_hours: Mo-Su 06:00-22:00
 website: ""

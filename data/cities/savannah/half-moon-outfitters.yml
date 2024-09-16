@@ -1,11 +1,11 @@
 id: 321938652
-type: way
+type: node
 latitude: 32.07844
 longitude: -81.0914
 postcode: "31401"
 city: Savannah
-street: "East Broughton Street"
-housenumber: 15
-phone: "912-201-9393"
+street: East Broughton Street
+housenumber: "15"
+phone: 912-201-9393
 opening_hours: ""
-website: "https://www.halfmoonoutfitters.com/"
+website: https://www.halfmoonoutfitters.com/

@@ -1,11 +1,11 @@
 id: 1110936305
-type: way
+type: node
 latitude: 31.136
 longitude: -81.39538
 postcode: "31522"
 city: Saint Simons Island
-street: "Beachview Dr"
-housenumber: 505
+street: Beachview Dr
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

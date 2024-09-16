@@ -1,11 +1,11 @@
 id: 533894180
-type: way
+type: node
 latitude: 34.03764
 longitude: -84.69056
 postcode: "30101"
 city: Acworth
-street: "Cobb Parkway"
-housenumber: 3451
-phone: "+1 (770) 917-7881"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ga/acworth/3451-cobb-pkwy-nw.html"
+street: Cobb Parkway
+housenumber: "3451"
+phone: +1 (770) 917-7881
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/ga/acworth/3451-cobb-pkwy-nw.html

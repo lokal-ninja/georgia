@@ -1,11 +1,11 @@
 id: 690064167
-type: way
+type: node
 latitude: 34.9078
 longitude: -85.12332
 postcode: "30736"
 city: Ringgold
-street: "Industrial Boulevard"
-housenumber: 360
+street: Industrial Boulevard
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

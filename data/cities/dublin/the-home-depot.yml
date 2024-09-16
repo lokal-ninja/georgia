@@ -1,11 +1,11 @@
 id: 1101908961
-type: way
+type: node
 latitude: 32.54053
 longitude: -82.94133
 postcode: "31021"
 city: Dublin
-street: "Veterans Boulevard"
-housenumber: 1833
-phone: "+1 478-272-4869"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/dublin/ga/dublin/31021/8954"
+street: Veterans Boulevard
+housenumber: "1833"
+phone: +1 478-272-4869
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/dublin/ga/dublin/31021/8954

@@ -1,11 +1,11 @@
 id: 993470110
-type: way
+type: node
 latitude: 34.08688
 longitude: -84.46916
 postcode: "30188"
 city: Woodstock
-street: "Claremore Professional Way"
-housenumber: 610
+street: Claremore Professional Way
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.yelp.com/biz/luckys-beverage-world-woodstock"
+website: https://www.yelp.com/biz/luckys-beverage-world-woodstock

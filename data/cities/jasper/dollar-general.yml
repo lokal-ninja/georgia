@@ -1,11 +1,11 @@
 id: 536492196
-type: way
+type: node
 latitude: 34.39938
 longitude: -84.41615
 postcode: "30143"
 city: Jasper
-street: "Interstate South Drive"
-housenumber: 115
+street: Interstate South Drive
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ga/jasper/13733"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ga/jasper/13733

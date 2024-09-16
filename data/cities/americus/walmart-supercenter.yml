@@ -1,11 +1,11 @@
 id: 352714756
-type: way
+type: node
 latitude: 32.0611
 longitude: -84.20181
 postcode: "31709"
 city: Americus
-street: "East Lamar Street"
-housenumber: 1711
-phone: "+1 229-928-0653"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/758/americus-ga/whats-new"
+street: East Lamar Street
+housenumber: "1711"
+phone: +1 229-928-0653
+opening_hours: 24/7
+website: https://www.walmart.com/store/758/americus-ga/whats-new

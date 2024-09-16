@@ -1,11 +1,11 @@
 id: 418475058
-type: way
+type: node
 latitude: 34.195
 longitude: -84.12827
-postcode: "30041-7933"
+postcode: 30041-7933
 city: Cumming
-street: "Market Place Boulevard"
-housenumber: 2345
-phone: "+1 678-947-9280"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ga/cumming/pet-supplies-cumming-ga-2764.html"
+street: Market Place Boulevard
+housenumber: "2345"
+phone: +1 678-947-9280
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ga/cumming/pet-supplies-cumming-ga-2764.html

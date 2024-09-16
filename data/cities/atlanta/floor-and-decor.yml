@@ -1,11 +1,11 @@
 id: 1272644779
-type: way
+type: node
 latitude: 33.83831
 longitude: -84.32611
 postcode: "30329"
 city: Atlanta
-street: "Northeast Expressway"
-housenumber: 1690
+street: Northeast Expressway
+housenumber: "1690"
 phone: ""
 opening_hours: ""
 website: ""

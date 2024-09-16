@@ -1,11 +1,11 @@
 id: 583602451
-type: way
+type: node
 latitude: 33.63475
 longitude: -84.01727
 postcode: "30013"
 city: Conyers
-street: "Highway 20 Southeast"
-housenumber: 2159
-phone: "+1 770-785-6202"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1411"
+street: Highway 20 Southeast
+housenumber: "2159"
+phone: +1 770-785-6202
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1411

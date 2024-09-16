@@ -1,11 +1,11 @@
 id: 254027372
-type: way
+type: node
 latitude: 34.00781
 longitude: -84.56285
 postcode: "30144"
 city: Kennesaw
-street: "Roberts Court"
-housenumber: 449
-phone: "+1 770-424-1309"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-18:00"
-website: "https://www.homedepot.com/l/kennesaw/ga/kennesaw/30144/106"
+street: Roberts Court
+housenumber: "449"
+phone: +1 770-424-1309
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-18:00
+website: https://www.homedepot.com/l/kennesaw/ga/kennesaw/30144/106

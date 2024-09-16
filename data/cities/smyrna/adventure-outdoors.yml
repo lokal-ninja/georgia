@@ -1,11 +1,11 @@
 id: 283273953
-type: way
+type: node
 latitude: 33.89263
 longitude: -84.53985
 postcode: "30080"
 city: Smyrna
-street: "South Cobb Drive"
-housenumber: 2500
-phone: "+1 (770) 333-9880"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.adventureoutdoors.us/"
+street: South Cobb Drive
+housenumber: "2500"
+phone: +1 (770) 333-9880
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.adventureoutdoors.us/

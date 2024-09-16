@@ -4,8 +4,8 @@ latitude: 33.8042
 longitude: -84.33639
 postcode: "30306"
 city: Atlanta
-street: "Briarcliff Road Northeast"
-housenumber: 1799
-phone: "+1 404-607-1189"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/sage-hill/011/00655"
+street: Briarcliff Road Northeast
+housenumber: "1799"
+phone: +1 404-607-1189
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/sage-hill/011/00655

@@ -1,11 +1,11 @@
 id: 82006710
-type: way
+type: node
 latitude: 33.8753
 longitude: -84.52846
 postcode: "30080"
 city: Smyrna
-street: "Concord Road Southeast"
-housenumber: 881
-phone: "+1 770-435-4567"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 10:30-18:00"
-website: "https://www.acehardware.com/store-details/16741"
+street: Concord Road Southeast
+housenumber: "881"
+phone: +1 770-435-4567
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 10:30-18:00
+website: https://www.acehardware.com/store-details/16741

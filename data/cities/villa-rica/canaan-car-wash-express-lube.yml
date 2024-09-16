@@ -1,11 +1,11 @@
 id: 685705506
-type: way
+type: node
 latitude: 33.71781
 longitude: -84.93618
 postcode: "30180"
 city: Villa Rica
-street: "Commons Way"
-housenumber: 100
-phone: "+1-678-941-3823"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Commons Way
+housenumber: "100"
+phone: +1-678-941-3823
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 899485816
-type: way
+type: node
 latitude: 33.97492
 longitude: -83.36509
 postcode: "30601"
 city: Athens
-street: "North Avenue"
-housenumber: 335
+street: North Avenue
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

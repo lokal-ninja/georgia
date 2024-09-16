@@ -1,11 +1,11 @@
 id: 745521479
-type: way
+type: node
 latitude: 34.17481
 longitude: -84.78207
 postcode: "30120"
 city: Cartersville
-street: "Cherokee Place"
-housenumber: 600
+street: Cherokee Place
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

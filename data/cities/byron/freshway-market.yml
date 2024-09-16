@@ -1,11 +1,11 @@
 id: 955957664
-type: way
+type: node
 latitude: 32.64479
 longitude: -83.76139
 postcode: "31008"
 city: Byron
-street: "GA Highway 49 South"
-housenumber: 233
-phone: "+1 478-956-3301"
+street: GA Highway 49 South
+housenumber: "233"
+phone: +1 478-956-3301
 opening_hours: ""
-website: "https://freshwaymarketbyronga.com/"
+website: https://freshwaymarketbyronga.com/

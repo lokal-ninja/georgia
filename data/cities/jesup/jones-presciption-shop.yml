@@ -1,11 +1,11 @@
 id: 742022837
-type: way
+type: node
 latitude: 31.6018
 longitude: -81.89747
 postcode: "31545"
 city: Jesup
-street: "Peachtree Street"
-housenumber: 101
+street: Peachtree Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

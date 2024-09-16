@@ -1,11 +1,11 @@
 id: 752857488
-type: way
+type: node
 latitude: 33.72576
 longitude: -84.37695
 postcode: "30315"
 city: Atlanta
-street: "Grant Street Southeast"
-housenumber: 1039
+street: Grant Street Southeast
+housenumber: "1039"
 phone: ""
 opening_hours: ""
 website: ""

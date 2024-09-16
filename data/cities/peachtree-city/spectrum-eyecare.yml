@@ -4,8 +4,8 @@ latitude: 33.39734
 longitude: -84.60342
 postcode: "30269"
 city: Peachtree City
-street: "Highway 54"
-housenumber: 2791
-phone: "+1 770 487 0667"
-opening_hours: "Mo,Th,Fr 08:00-17:00; We 09:30-18:00; Sa 08:00-12:30"
-website: "https://speceye.com/"
+street: Highway 54
+housenumber: "2791"
+phone: +1 770 487 0667
+opening_hours: Mo,Th,Fr 08:00-17:00; We 09:30-18:00; Sa 08:00-12:30
+website: https://speceye.com/

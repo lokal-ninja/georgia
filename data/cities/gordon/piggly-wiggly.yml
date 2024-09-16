@@ -1,11 +1,11 @@
 id: 978245267
-type: way
+type: node
 latitude: 32.8834
 longitude: -83.33346
 postcode: "31031"
 city: Gordon
-street: "South Main Street"
-housenumber: 123
-phone: "+1 478-628-2117"
+street: South Main Street
+housenumber: "123"
+phone: +1 478-628-2117
 opening_hours: ""
-website: "http://www.pigglywiggly-ga.com/"
+website: http://www.pigglywiggly-ga.com/

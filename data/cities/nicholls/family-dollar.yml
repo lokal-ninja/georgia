@@ -1,11 +1,11 @@
 id: 1051600719
-type: way
+type: node
 latitude: 31.51721
 longitude: -82.63433
 postcode: ""
 city: Nicholls
-street: "North Liberty Street"
-housenumber: 200
+street: North Liberty Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

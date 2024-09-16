@@ -1,11 +1,11 @@
 id: 741939069
-type: way
+type: node
 latitude: 31.60713
 longitude: -81.88636
 postcode: "31545"
 city: Jesup
-street: "South 1st Street"
-housenumber: 102
+street: South 1st Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-102+s+1st+st-jesup-ga-31545/id=11792"
+website: https://www.walgreens.com/locator/walgreens-102+s+1st+st-jesup-ga-31545/id=11792

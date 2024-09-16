@@ -1,11 +1,11 @@
 id: 741961704
-type: way
+type: node
 latitude: 33.77197
 longitude: -84.36358
 postcode: "30306"
 city: Atlanta
-street: "Ponce de Leon Avenue Northeast"
-housenumber: 725
-phone: "+1 470-351-4230"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ga/atlanta/kroger-atlanta/011/00695"
+street: Ponce de Leon Avenue Northeast
+housenumber: "725"
+phone: +1 470-351-4230
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ga/atlanta/kroger-atlanta/011/00695
