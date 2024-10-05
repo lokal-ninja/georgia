@@ -1,6 +1,6 @@
 ---
 title: Barney
 url: /barney/
-latitude: 31.008
-longitude: -83.514
+latitude: 31.009
+longitude: -83.513
 ---
