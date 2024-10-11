@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /brunswick/dollar-tree-golden-isle-plaza/
+url: /brunswick/dollar-tree-perry-lane-road/
 shop: variety store
 ---
