@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /lithonia/family-dollar-covington-highway/
+url: /lithonia/family-dollar-rockbridge-road/
 shop: variety store
 ---
