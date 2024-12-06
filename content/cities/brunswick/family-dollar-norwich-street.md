@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /brunswick/family-dollar-altama-avenue/
+url: /brunswick/family-dollar-norwich-street/
 shop: variety store
 ---

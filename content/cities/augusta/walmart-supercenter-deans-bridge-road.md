@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /dunwoody/walmart-supercenter/
+url: /augusta/walmart-supercenter-deans-bridge-road/
 shop: supermarket
 ---
