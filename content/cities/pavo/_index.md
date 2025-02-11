@@ -1,6 +1,6 @@
 ---
 title: Pavo
 url: /pavo/
-latitude: 30.96
-longitude: -83.739
+latitude: 30.959
+longitude: -83.738
 ---
