@@ -1,6 +1,6 @@
 ---
 title: Richland
 url: /richland/
-latitude: 32.086
-longitude: -84.674
+latitude: 32.088
+longitude: -84.667
 ---
