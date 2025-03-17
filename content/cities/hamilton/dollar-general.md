@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /hamilton/dollar-general/
-shop: convenience
+shop: variety store
 ---
