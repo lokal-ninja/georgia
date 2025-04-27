@@ -1,6 +1,6 @@
 ---
 title: Hinesville
 url: /hinesville/
-latitude: 31.824
-longitude: -81.601
+latitude: 31.797
+longitude: -81.606
 ---
