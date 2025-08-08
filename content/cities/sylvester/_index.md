@@ -1,6 +1,6 @@
 ---
 title: Sylvester
 url: /sylvester/
-latitude: 31.53
-longitude: -83.837
+latitude: 31.531
+longitude: -83.825
 ---

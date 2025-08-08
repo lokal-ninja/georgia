@@ -1,6 +1,6 @@
 ---
 title: Port Wentworth
 url: /port-wentworth/
-latitude: 32.221
-longitude: -81.194
+latitude: 32.2
+longitude: -81.197
 ---

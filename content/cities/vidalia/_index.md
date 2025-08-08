@@ -1,6 +1,6 @@
 ---
 title: Vidalia
 url: /vidalia/
-latitude: 32.211
-longitude: -82.392
+latitude: 32.202
+longitude: -82.361
 ---
