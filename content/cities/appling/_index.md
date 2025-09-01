@@ -1,6 +1,6 @@
 ---
 title: Appling
 url: /appling/
-latitude: 33.622
-longitude: -82.276
+latitude: 33.662
+longitude: -82.336
 ---
