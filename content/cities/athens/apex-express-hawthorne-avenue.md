@@ -1,5 +1,5 @@
 ---
 title: "Apex Express"
-url: /athens/apex-express-north-avenue/
+url: /athens/apex-express-hawthorne-avenue/
 shop: convenience
 ---
