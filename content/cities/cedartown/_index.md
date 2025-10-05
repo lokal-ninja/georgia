@@ -1,6 +1,6 @@
 ---
 title: Cedartown
 url: /cedartown/
-latitude: 34.025
-longitude: -85.248
+latitude: 34.045
+longitude: -85.24
 ---

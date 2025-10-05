@@ -1,6 +1,6 @@
 ---
 title: Tucker
 url: /tucker/
-latitude: 33.852
-longitude: -84.206
+latitude: 33.847
+longitude: -84.255
 ---
