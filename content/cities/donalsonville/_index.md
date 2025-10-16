@@ -1,6 +1,6 @@
 ---
 title: Donalsonville
 url: /donalsonville/
-latitude: 31.037
-longitude: -84.871
+latitude: 31.042
+longitude: -84.883
 ---
