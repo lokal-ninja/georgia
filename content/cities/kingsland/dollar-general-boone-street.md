@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /kingsland/dollar-general-west-king-avenue/
+url: /kingsland/dollar-general-boone-street/
 shop: variety store
 ---
