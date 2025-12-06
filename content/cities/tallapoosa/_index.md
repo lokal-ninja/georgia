@@ -1,6 +1,6 @@
 ---
 title: Tallapoosa
 url: /tallapoosa/
-latitude: 33.745
-longitude: -85.29
+latitude: 33.744
+longitude: -85.288
 ---
