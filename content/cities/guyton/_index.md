@@ -1,6 +1,6 @@
 ---
 title: Guyton
 url: /guyton/
-latitude: 32.284
-longitude: -81.39
+latitude: 32.331
+longitude: -81.392
 ---
