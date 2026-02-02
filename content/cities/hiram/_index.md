@@ -1,6 +1,6 @@
 ---
 title: Hiram
 url: /hiram/
-latitude: 33.89
-longitude: -84.754
+latitude: 33.889
+longitude: -84.752
 ---

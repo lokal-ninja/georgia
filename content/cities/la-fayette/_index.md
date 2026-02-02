@@ -1,6 +1,6 @@
 ---
 title: La Fayette
 url: /la-fayette/
-latitude: 34.71
-longitude: -85.283
+latitude: 34.724
+longitude: -85.282
 ---
