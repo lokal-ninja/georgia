@@ -1,6 +1,6 @@
 ---
 title: Winterville
 url: /winterville/
-latitude: 33.971
+latitude: 33.974
 longitude: -83.29
 ---
