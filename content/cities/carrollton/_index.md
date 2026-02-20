@@ -1,6 +1,6 @@
 ---
 title: Carrollton
 url: /carrollton/
-latitude: 33.588
-longitude: -85.053
+latitude: 33.556
+longitude: -85.076
 ---
