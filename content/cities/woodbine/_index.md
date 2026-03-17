@@ -1,6 +1,6 @@
 ---
 title: Woodbine
 url: /woodbine/
-latitude: 30.96
-longitude: -81.719
+latitude: 30.948
+longitude: -81.69
 ---
