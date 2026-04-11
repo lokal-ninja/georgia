@@ -1,6 +1,6 @@
 ---
 title: Cartersville
 url: /cartersville/
-latitude: 34.166
-longitude: -84.788
+latitude: 34.171
+longitude: -84.786
 ---
