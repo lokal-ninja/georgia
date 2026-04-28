@@ -1,6 +1,6 @@
 ---
 title: Dillard
 url: /dillard/
-latitude: 34.98
+latitude: 34.978
 longitude: -83.383
 ---
