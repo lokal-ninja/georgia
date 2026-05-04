@@ -1,6 +1,6 @@
 ---
 title: Smyrna
 url: /smyrna/
-latitude: 33.882
-longitude: -84.488
+latitude: 33.862
+longitude: -84.518
 ---
