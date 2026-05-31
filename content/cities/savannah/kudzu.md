@@ -1,5 +1,5 @@
 ---
-title: "KUDZU"
+title: "Kudzu"
 url: /savannah/kudzu/
 shop: antiques
 ---

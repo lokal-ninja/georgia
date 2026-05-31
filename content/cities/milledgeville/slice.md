@@ -1,5 +1,5 @@
 ---
-title: "SLICE"
+title: "Slice"
 url: /milledgeville/slice/
 shop: bakery
 ---
