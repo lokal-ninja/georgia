@@ -1,6 +1,6 @@
 ---
 title: Chatsworth
 url: /chatsworth/
-latitude: 34.774
-longitude: -84.769
+latitude: 34.782
+longitude: -84.771
 ---
