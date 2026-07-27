@@ -1,6 +1,6 @@
 ---
 title: Morganton
 url: /morganton/
-latitude: 34.879
-longitude: -84.247
+latitude: 34.85
+longitude: -84.195
 ---
