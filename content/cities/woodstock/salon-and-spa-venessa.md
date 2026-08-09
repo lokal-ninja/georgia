@@ -1,5 +1,5 @@
 ---
-title: "Salon and Spa Venessa"
+title: "Salon and Spa venéssa"
 url: /woodstock/salon-and-spa-venessa/
-shop: shop
+shop: beauty
 ---
