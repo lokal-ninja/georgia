@@ -1,6 +1,6 @@
 ---
 title: Buford
 url: /buford/
-latitude: 34.005
-longitude: -83.986
+latitude: 34.078
+longitude: -83.922
 ---

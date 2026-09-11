@@ -1,5 +1,5 @@
 ---
-title: "Market with a B"
+title: "Market With A B."
 url: /marietta/market-with-a-b/
-shop: clothes
+shop: gift
 ---

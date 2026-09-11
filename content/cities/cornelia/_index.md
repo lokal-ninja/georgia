@@ -1,6 +1,6 @@
 ---
 title: Cornelia
 url: /cornelia/
-latitude: 34.503
-longitude: -83.531
+latitude: 34.511
+longitude: -83.543
 ---
