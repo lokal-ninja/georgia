@@ -7,5 +7,5 @@ city: Smyrna
 street: Spring Road Southeast
 housenumber: "1529"
 phone: +1 770-989-1301
-opening_hours: unknown || Mo-Su,PH "by appointment"
+opening_hours: '"by appointment"'
 website: ""
