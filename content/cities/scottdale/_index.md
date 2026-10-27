@@ -1,6 +1,6 @@
 ---
 title: Scottdale
 url: /scottdale/
-latitude: 33.794
-longitude: -84.265
+latitude: 33.795
+longitude: -84.264
 ---

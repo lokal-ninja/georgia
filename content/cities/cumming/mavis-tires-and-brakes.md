@@ -1,5 +1,5 @@
 ---
-title: "Mavis Tires & Brakes"
+title: "Mavis Tires and Brakes"
 url: /cumming/mavis-tires-and-brakes/
-shop: car repair
+shop: tyres
 ---
