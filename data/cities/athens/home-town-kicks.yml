@@ -7,5 +7,5 @@ city: Athens
 street: East Clayton Street
 housenumber: "165"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Th 16:00-19:00; Tu,We,Su 12:00-18:00; Fr 12:00-19:00; Sa 11:00-20:00
 website: https://www.hometownkicksga.com/
