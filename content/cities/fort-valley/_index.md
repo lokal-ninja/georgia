@@ -1,6 +1,6 @@
 ---
 title: Fort Valley
 url: /fort-valley/
-latitude: 32.56
-longitude: -83.886
+latitude: 32.576
+longitude: -83.894
 ---

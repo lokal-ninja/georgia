@@ -1,6 +1,6 @@
 ---
 title: Clarkston
 url: /clarkston/
-latitude: 33.81
-longitude: -84.242
+latitude: 33.82
+longitude: -84.229
 ---
