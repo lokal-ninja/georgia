@@ -1,6 +1,6 @@
 ---
 title: Bremen
 url: /bremen/
-latitude: 33.694
-longitude: -85.149
+latitude: 33.724
+longitude: -85.129
 ---

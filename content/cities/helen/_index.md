@@ -1,6 +1,6 @@
 ---
 title: Helen
 url: /helen/
-latitude: 34.699
-longitude: -83.721
+latitude: 34.702
+longitude: -83.731
 ---

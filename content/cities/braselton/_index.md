@@ -1,6 +1,6 @@
 ---
 title: Braselton
 url: /braselton/
-latitude: 34.103
-longitude: -83.812
+latitude: 34.094
+longitude: -83.809
 ---
